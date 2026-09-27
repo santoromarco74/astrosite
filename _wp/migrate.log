@@ -1,0 +1,5 @@
+ERRORE immagine https://lamusicadelsanto.it/wp-content/uploads/2021/01/Nevermind-–-Nirvana.jpg 'ascii' codec can't encode character '\u2013' in position 42: ordinal not in range(128)
+ERRORE immagine https://lamusicadelsanto.it/wp-content/uploads/2021/01/Piece-of-Mind-–-Iron-Maiden.jpg 'ascii' codec can't encode character '\u2013' in position 46: ordinal not in range(128)
+ERRORE immagine https://lamusicadelsanto.it/wp-content/uploads/2022/09/The-Cranberries-2.jpg <urlopen error [Errno 104] Connection reset by peer>
+ERRORE immagine https://lamusicadelsanto.it/wp-content/uploads/2022/12/Depositphotos_129905336_S.jpg <urlopen error [Errno 104] Connection reset by peer>
+articoli 32, pagine 2, immagini ok 221, errori 4

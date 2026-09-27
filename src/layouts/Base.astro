@@ -1,0 +1,77 @@
+---
+import '../styles/global.css';
+import { SITE, SEZIONI, nomeCategoria, dataLunga } from '../lib/site';
+
+interface Props { title?: string; description?: string; image?: string; type?: string; }
+const { title, description = SITE.tagline, image, type = 'website' } = Astro.props;
+const fullTitle = title ? `${title} | ${SITE.name}` : `${SITE.name} — ${SITE.tagline}`;
+const canonical = new URL(Astro.url.pathname, Astro.site);
+const ogImage = image ? new URL(image, Astro.site).href : undefined;
+const path = Astro.url.pathname;
+const anno = new Date().getUTCFullYear() - 2020; // il blog nasce nel 2021
+const romani = ['I','II','III','IV','V','VI','VII','VIII','IX','X','XI','XII','XIII','XIV','XV'][anno - 1] ?? String(anno);
+---
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{fullTitle}</title>
+  <meta name="description" content={description} />
+  <link rel="canonical" href={canonical} />
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <link rel="alternate" type="application/rss+xml" title={SITE.name} href="/rss.xml" />
+  <meta property="og:site_name" content={SITE.name} />
+  <meta property="og:locale" content="it_IT" />
+  <meta property="og:type" content={type} />
+  <meta property="og:title" content={title ?? SITE.name} />
+  <meta property="og:description" content={description} />
+  <meta property="og:url" content={canonical} />
+  {ogImage && <meta property="og:image" content={ogImage} />}
+  <meta name="twitter:card" content={ogImage ? 'summary_large_image' : 'summary'} />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anton&family=Oswald:wght@500;700&family=Playfair+Display:ital,wght@0,900;1,400&family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&display=swap" />
+  <slot name="head" />
+</head>
+<body>
+  <a class="salta" href="#contenuto">Vai al contenuto</a>
+  <div class="fascia-rossa">{SITE.motto}</div>
+  <header class="wrap">
+    <div class="sopratestata">
+      <span class="solo-desktop">Anno {romani}</span>
+      <em>{SITE.tagline}</em>
+      <span class="solo-desktop">Prezzo: un ascolto</span>
+    </div>
+    <a class="testata" href="/" aria-label={`${SITE.name} — homepage`}>
+      <img src="/logo-l.svg" alt="" width="260" height="380" />
+      <span>{SITE.name}</span>
+    </a>
+    <nav class="sottotestata" aria-label="Sezioni">
+      <span class="solo-desktop" id="oggi">{dataLunga(new Date())}</span>
+      <ul class="menu">
+        {SEZIONI.map((s) => <li><a href={`/${s}/`} aria-current={path === `/${s}/` ? 'page' : undefined}>{nomeCategoria(s)}</a></li>)}
+        <li><a href="/chi-sono/" aria-current={path === '/chi-sono/' ? 'page' : undefined}>Chi sono</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main id="contenuto" class="wrap">
+    <slot />
+  </main>
+  <footer class="piede">
+    <div class="wrap">
+      <a class="marchio" href="/"><img src="/logo-l.svg" alt="" width="260" height="380" />{SITE.name}</a>
+      <ul>
+        {SEZIONI.map((s) => <li><a href={`/${s}/`}>{nomeCategoria(s)}</a></li>)}
+        <li><a href="/chi-sono/">Chi sono</a></li>
+        <li><a href="/rss.xml">Feed RSS</a></li>
+        <li><a href="/privacy-policy/">Privacy</a></li>
+      </ul>
+      <small>© {new Date().getFullYear()} {SITE.author} · {SITE.tagline}</small>
+    </div>
+  </footer>
+  <script is:inline>
+    (function(){try{var g=['Domenica','Lunedì','Martedì','Mercoledì','Giovedì','Venerdì','Sabato'],m=['gennaio','febbraio','marzo','aprile','maggio','giugno','luglio','agosto','settembre','ottobre','novembre','dicembre'],d=new Date(),e=document.getElementById('oggi');if(e)e.textContent=g[d.getDay()]+' '+d.getDate()+' '+m[d.getMonth()]+' '+d.getFullYear();}catch(_){}})();
+  </script>
+</body>
+</html>

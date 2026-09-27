@@ -1,0 +1,38 @@
+{
+ "album": {
+  "name": "Album",
+  "description": ""
+ },
+ "attualita": {
+  "name": "Attualità",
+  "description": ""
+ },
+ "biografie": {
+  "name": "Biografie",
+  "description": ""
+ },
+ "classifiche": {
+  "name": "Classifiche",
+  "description": ""
+ },
+ "film": {
+  "name": "Film & Musical",
+  "description": ""
+ },
+ "libri": {
+  "name": "Libri",
+  "description": ""
+ },
+ "lifestyle": {
+  "name": "Lifestyle",
+  "description": ""
+ },
+ "must-have": {
+  "name": "Must Have",
+  "description": ""
+ },
+ "storie": {
+  "name": "Storie",
+  "description": ""
+ }
+}

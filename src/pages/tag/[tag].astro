@@ -1,0 +1,21 @@
+---
+import Base from '../../layouts/Base.astro';
+import Pezzo from '../../components/Pezzo.astro';
+import { getArticoli, nomeTag, type Articolo } from '../../lib/site';
+
+export async function getStaticPaths() {
+  const articoli = await getArticoli();
+  const tags = [...new Set(articoli.flatMap((a) => a.data.tags))];
+  return tags.map((t) => ({ params: { tag: t }, props: { lista: articoli.filter((a) => a.data.tags.includes(t)) } }));
+}
+const { tag } = Astro.params;
+const { lista } = Astro.props as { lista: Articolo[] };
+---
+<Base title={`Tag: ${nomeTag(tag!)}`} description={`Articoli su ${nomeTag(tag!)}`}>
+  <header class="articolo-testa">
+    <span class="rubrica">Tag</span>
+    <h1 class="titolone">{nomeTag(tag!)}</h1>
+    <p class="meta">{lista.length} {lista.length === 1 ? 'articolo' : 'articoli'}</p>
+  </header>
+  <div class="colonne">{lista.map((a) => <Pezzo a={a} />)}</div>
+</Base>

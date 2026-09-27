@@ -1,0 +1,6 @@
+---
+interface Props { src: string; alt?: string; credit?: string; eager?: boolean; }
+const { src, alt = '', credit, eager = false } = Astro.props;
+---
+<div class="retino"><div class="foto"><img src={src} alt={alt} loading={eager ? 'eager' : 'lazy'} decoding="async" /></div></div>
+{credit && <div class="didascalia">{credit}</div>}

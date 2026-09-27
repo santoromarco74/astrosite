@@ -1,0 +1,41 @@
+---
+import Base from '../layouts/Base.astro';
+import Foto from '../components/Foto.astro';
+import Pezzo from '../components/Pezzo.astro';
+import { getArticoli, url, dataBreve, nomeCategoria, minutiLettura, attacco } from '../lib/site';
+
+const articoli = await getArticoli();
+const [primo, ...resto] = articoli;
+const inEvidenza = resto.slice(0, 6);
+const archivio = resto.slice(6);
+const cat = primo.data.categories[0];
+---
+<Base image={primo.data.cover}>
+  <section class="apertura" aria-label="In prima pagina">
+    <div class="apertura-titolo">
+      {cat && <a class="rubrica" href={`/${cat}/`}>{nomeCategoria(cat)}</a>}
+      <a href={url(primo)}><h1 class={`titolone ${primo.data.title.length > 70 ? 'lungo' : primo.data.title.length > 40 ? 'medio' : ''}`}>{primo.data.title}</h1></a>
+    </div>
+    <div class="apertura-foto">
+      {primo.data.cover && <a href={url(primo)} tabindex="-1" aria-hidden="true"><Foto src={primo.data.cover} alt={primo.data.coverAlt ?? ''} eager /></a>}
+      {primo.data.coverCredit && <div class="didascalia">{primo.data.coverCredit}</div>}
+    </div>
+    <div class="apertura-testo">
+      <p class="attacco capolettera">{attacco(primo.body)}</p>
+      <a class="continua" href={url(primo)}>Continua a leggere →</a>
+      <p class="meta" style="margin-top:14px"><time datetime={primo.data.date.toISOString()}>{dataBreve(primo.data.date)}</time> · {minutiLettura(primo.body)} min di lettura</p>
+    </div>
+  </section>
+
+  <div class="barra-sezione"><h2>All'interno</h2><p>Le altre storie di questa edizione</p></div>
+  <div class="colonne">
+    {inEvidenza.map((a) => <Pezzo a={a} />)}
+  </div>
+
+  <div class="barra-sezione"><h2>Archivio</h2><p>Tutte le edizioni precedenti</p></div>
+  <ul class="archivio">
+    {archivio.map((a) => (
+      <li><time datetime={a.data.date.toISOString()}>{dataBreve(a.data.date)}</time><a href={url(a)}>{a.data.title}</a></li>
+    ))}
+  </ul>
+</Base>

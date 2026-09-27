@@ -1,0 +1,15 @@
+---
+import Foto from './Foto.astro';
+import { type Articolo, url, dataBreve, nomeCategoria } from '../lib/site';
+interface Props { a: Articolo; }
+const { a } = Astro.props;
+const cat = a.data.categories[0];
+---
+<article class="pezzo">
+  <a href={url(a)}>
+    {a.data.cover && <Foto src={a.data.cover} alt={a.data.coverAlt ?? ''} />}
+    <h3 class="titolone">{a.data.title}</h3>
+  </a>
+  <div class="meta">{cat && <><a class="rubrica" href={`/${cat}/`}>{nomeCategoria(cat)}</a> · </>}<time datetime={a.data.date.toISOString()}>{dataBreve(a.data.date)}</time></div>
+  <p>{a.data.description}</p>
+</article>
