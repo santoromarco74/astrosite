@@ -13,6 +13,7 @@ tags:
 - yardbirds
 cover: /wp-content/uploads/2023/01/14628561335_83c7452b09_c.jpg
 coverAlt: La leggenda di Jeff Beck
+draft: false
 wpId: 3280
 ---
 

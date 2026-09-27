@@ -24,6 +24,7 @@ tags:
 cover: /wp-content/uploads/2021/04/La-locandina-del-film-The-Wall.jpg
 coverAlt: La locandina del film The Wall
 coverCredit: La locandina del film The Wall
+draft: false
 wpId: 480
 ---
 

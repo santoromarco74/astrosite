@@ -34,7 +34,7 @@ export default config({
         coverAlt: fields.text({ label: 'Testo alternativo copertina' }),
         coverCredit: fields.text({ label: 'Credito foto (autore, fonte, licenza)' }),
         wpId: fields.integer({ label: 'ID WordPress (storico)' }),
-        content: fields.markdoc({ label: 'Testo', extension: 'md' }),
+        content: fields.markdoc({ label: 'Testo', extension: 'md', options: { image: { directory: 'public/images/articoli', publicPath: '/images/articoli/' } } }),
       },
     }),
     pagine: collection({

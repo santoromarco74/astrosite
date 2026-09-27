@@ -9,6 +9,7 @@ tags: []
 cover: /wp-content/uploads/2026/09/copertina-nevermind-35-mural.jpg
 coverAlt: Murale di Kurt Cobain dell'artista Akse P19 a Sidney Street, Manchester
 coverCredit: 'Il murale di Kurt Cobain dipinto da Akse P19 a Sidney Street, Manchester. Foto: Dunk / Flickr ( CC BY 2.0 )'
+draft: false
 wpId: 3899
 ---
 

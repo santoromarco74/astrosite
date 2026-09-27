@@ -9,6 +9,7 @@ tags: []
 cover: /wp-content/uploads/2022/07/Chris-Cornell-and-Chester-Bennington.jpg
 coverAlt: Chris Cornell e Chester Bennington sul palco insieme
 coverCredit: Chris Cornell e Chester Bennington sul palco insieme
+draft: false
 wpId: 3113
 ---
 

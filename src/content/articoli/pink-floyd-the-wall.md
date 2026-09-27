@@ -23,6 +23,7 @@ tags:
 cover: /wp-content/uploads/2021/01/The-Wall-dei-Pink-Floyd-1024x576-1-e1618600562990.jpg
 coverAlt: The-Wall-dei-Pink-Floyd
 coverCredit: The-Wall-dei-Pink-Floyd
+draft: false
 wpId: 1027
 ---
 

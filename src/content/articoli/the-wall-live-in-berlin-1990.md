@@ -25,6 +25,7 @@ tags:
 cover: /wp-content/uploads/2021/04/Il-palco-del-Live-in-Berlin.jpg
 coverAlt: Il palco del Live in Berlin 1990
 coverCredit: Il palco del Live in Berlin 1990
+draft: false
 wpId: 1733
 ---
 

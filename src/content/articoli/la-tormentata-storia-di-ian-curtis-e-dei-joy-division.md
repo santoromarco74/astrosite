@@ -19,6 +19,7 @@ tags:
 cover: /wp-content/uploads/2021/01/Ian-Curtis-in-concerto-e1612122388173.jpg
 coverAlt: Ian Curtis in concerto
 coverCredit: Ian Curtis in concerto
+draft: false
 wpId: 45
 ---
 

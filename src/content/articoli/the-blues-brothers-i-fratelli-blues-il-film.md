@@ -9,6 +9,7 @@ tags: []
 cover: /wp-content/uploads/2022/03/Locandina-BB.jpg
 coverAlt: La locandina del film The Blues Brothers
 coverCredit: La locandina del film The Blues Brothers
+draft: false
 wpId: 3010
 ---
 

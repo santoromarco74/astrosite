@@ -30,6 +30,7 @@ tags:
 - ultimo-concerto
 cover: /wp-content/uploads/2021/08/Queen-queen-32443848-720-469.jpg
 coverAlt: The Queen – Live at Knebworth 9 agosto 1986
+draft: false
 wpId: 2555
 ---
 

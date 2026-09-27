@@ -16,6 +16,7 @@ tags:
 cover: /wp-content/uploads/2025/08/Aaliyah-2.jpg
 coverAlt: Primo piano di Aaliyah
 coverCredit: Primo piano dell’artista Aaliyah
+draft: false
 wpId: 3681
 ---
 

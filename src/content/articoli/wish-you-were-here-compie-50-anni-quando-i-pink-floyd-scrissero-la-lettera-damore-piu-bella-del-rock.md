@@ -15,6 +15,7 @@ tags:
 cover: /wp-content/uploads/2025/09/tumblr_m8ajnuU05L1rckc5ao1_1280.jpg
 coverAlt: La cartolina interna al vinile di "Wish You Were Here"
 coverCredit: La cartolina interna al vinile di “Wish You Were Here”
+draft: false
 wpId: 3712
 ---
 

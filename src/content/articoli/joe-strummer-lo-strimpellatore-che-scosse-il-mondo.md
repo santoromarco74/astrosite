@@ -25,6 +25,7 @@ tags:
 cover: /wp-content/uploads/2021/08/Joe-Strummer-1.jpg
 coverAlt: Joe Strummer a New York
 coverCredit: Joe Strummer a New York
+draft: false
 wpId: 2614
 ---
 

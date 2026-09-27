@@ -14,6 +14,7 @@ tags:
 cover: /wp-content/uploads/2021/01/Rino-Gaetano-con-tuba.jpeg
 coverAlt: Rino Gaetano con tuba
 coverCredit: Rino Gaetano con tuba
+draft: false
 wpId: 52
 ---
 

@@ -20,6 +20,7 @@ tags:
 cover: /wp-content/uploads/2023/02/Pink-Floyd-Dark-Side-Of-The-Moon-album.jpg
 coverAlt: La celebre copertina dell'album
 coverCredit: La celebre copertina dell’album
+draft: false
 wpId: 3308
 ---
 

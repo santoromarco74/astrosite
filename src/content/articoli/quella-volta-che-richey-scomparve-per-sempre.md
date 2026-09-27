@@ -20,6 +20,7 @@ tags:
 cover: /wp-content/uploads/2021/03/Richey-James-3-e1618600391249.jpeg
 coverAlt: Richey Edwards sul palco
 coverCredit: Richey Edwards sul palco
+draft: false
 wpId: 1570
 ---
 

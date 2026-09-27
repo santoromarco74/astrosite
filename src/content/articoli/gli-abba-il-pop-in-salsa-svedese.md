@@ -9,6 +9,7 @@ tags: []
 cover: /wp-content/uploads/2022/06/ABBA-in-concert.webp
 coverAlt: Gli ABBA all'Eurovision del '74
 coverCredit: Gli ABBA all’Eurovision del ’74
+draft: false
 wpId: 3083
 ---
 

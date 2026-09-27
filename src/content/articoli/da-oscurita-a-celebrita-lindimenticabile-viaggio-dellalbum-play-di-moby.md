@@ -15,6 +15,7 @@ tags:
 cover: /wp-content/uploads/2023/05/Play-Moby-cover.jpg
 coverAlt: La cover dell'album "Play" di Moby
 coverCredit: La cover dell’album “Play” di Moby
+draft: false
 wpId: 3363
 ---
 

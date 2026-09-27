@@ -29,6 +29,7 @@ tags:
 cover: /wp-content/uploads/2021/06/Foto-di-gruppo-del-cast-di-The-Doors-1200x675-1.jpg
 coverAlt: Foto di gruppo del cast di "The Doors"
 coverCredit: Foto di gruppo del cast di “The Doors”
+draft: false
 wpId: 2363
 ---
 

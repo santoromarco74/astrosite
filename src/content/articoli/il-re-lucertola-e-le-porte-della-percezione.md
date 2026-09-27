@@ -23,6 +23,7 @@ tags:
 cover: /wp-content/uploads/2021/05/The-Doors-insieme-900x900-1.webp
 coverAlt: The Doors insieme
 coverCredit: The Doors insieme
+draft: false
 wpId: 2262
 ---
 

@@ -18,6 +18,7 @@ tags:
 cover: /wp-content/uploads/2021/01/locandina-rocky-horror-large-e1618600630695.jpg
 coverAlt: Locandina del film The Rocky Horror Picture Show
 coverCredit: Locandina del film The Rocky Horror Picture Show
+draft: false
 wpId: 396
 ---
 

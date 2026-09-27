@@ -23,6 +23,7 @@ tags:
 cover: /wp-content/uploads/2021/10/Cover-King-Crimson-In-the-Court-of-the-Crimson-King-e1642153321660.jpg
 coverAlt: La cover del disco ITCOTCK
 coverCredit: La cover del disco ITCOTCK
+draft: false
 wpId: 2747
 ---
 

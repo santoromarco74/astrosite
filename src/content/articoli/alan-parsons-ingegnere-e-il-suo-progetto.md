@@ -25,6 +25,7 @@ tags:
 cover: /wp-content/uploads/2022/01/Alan-Parsons-oggi-scaled-e1642153389249.jpg
 coverAlt: Alan Parsons in concerto ai giorni nostri
 coverCredit: Alan Parsons in concerto ai giorni nostri
+draft: false
 wpId: 2936
 ---
 

@@ -15,6 +15,7 @@ tags:
 cover: /wp-content/uploads/2022/09/Copertina-Nevermind.jpg
 coverAlt: L'iconica copertina di Nevermind
 coverCredit: L’iconica copertina di Nevermind
+draft: false
 wpId: 3200
 ---
 

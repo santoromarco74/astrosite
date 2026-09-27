@@ -22,6 +22,7 @@ tags:
 cover: /wp-content/uploads/2021/09/Rick-Wright-oggi.jpg
 coverAlt: Richard Wright negli ultimi tempi
 coverCredit: Richard Wright negli ultimi tempi
+draft: false
 wpId: 2510
 ---
 

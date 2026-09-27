@@ -27,6 +27,7 @@ tags:
 cover: /wp-content/uploads/2021/11/Storm-e-Aubrey-anni-2000.jpg
 coverAlt: Storrm Thorgerson e Aubrey Powell negli anni 2000
 coverCredit: Storrm Thorgerson e Aubrey Powell negli anni 2000
+draft: false
 wpId: 2848
 ---
 

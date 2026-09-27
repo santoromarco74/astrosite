@@ -16,6 +16,7 @@ tags:
 cover: /wp-content/uploads/2022/08/Led-Zeppelin-primi-tempi.jpg
 coverAlt: La formazione originale dei The New Yardbirds (Led Zeppelin)
 coverCredit: La formazione originale dei The New Yardbirds (Led Zeppelin)
+draft: false
 wpId: 3139
 ---
 

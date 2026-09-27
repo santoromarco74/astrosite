@@ -15,6 +15,7 @@ tags:
 cover: /wp-content/uploads/2022/09/Dolores-primo-piano.jpg
 coverAlt: Primo piano di Dolores
 coverCredit: Primo piano di Dolores
+draft: false
 wpId: 3171
 ---
 

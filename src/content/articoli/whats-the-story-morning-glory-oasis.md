@@ -25,6 +25,7 @@ tags:
 cover: /wp-content/uploads/2021/02/Cover-Whats-e1618063173392.jpg
 coverAlt: La cover dell' album (What's the Story) Morning Glory
 coverCredit: La cover dell’ album (What’s the Story) Morning Glory
+draft: false
 wpId: 1286
 ---
 
