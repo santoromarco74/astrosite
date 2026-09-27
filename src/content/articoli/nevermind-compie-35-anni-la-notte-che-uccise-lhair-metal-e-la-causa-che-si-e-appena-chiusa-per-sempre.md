@@ -1,5 +1,6 @@
 ---
 title: 'Nevermind compie 35 anni: la notte che uccise l’hair metal (e la causa che si è appena chiusa per sempre)'
+headline: 'Nevermind compie 35 anni'
 description: Ieri, 24 settembre, «Nevermind» dei Nirvana ha compiuto 35 anni. Ne avevamo già raccontato la storia completa qualche tempo fa — la nascita a Seattle,…
 date: '2026-09-25'
 updated: '2026-09-27'

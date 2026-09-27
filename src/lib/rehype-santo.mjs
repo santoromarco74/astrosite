@@ -2,7 +2,8 @@
 // - paragrafo con una sola immagine  -> <figure> con didascalia (dal title dell'immagine)
 // - paragrafo con più immagini       -> galleria
 // - paragrafo con solo un link YouTube/Spotify -> player incorporato
-// - immagini lazy, link esterni in nuova scheda
+// - immagini lazy e leggere (Netlify Image CDN), link esterni in nuova scheda
+import { cdn, srcset } from './img.mjs';
 
 const isWs = (n) => n.type === 'text' && !n.value.trim();
 const isBr = (n) => n.type === 'element' && n.tagName === 'br';
@@ -12,11 +13,19 @@ function youtubeId(url) {
   return m ? m[1] : null;
 }
 
-function figureFor(img) {
-  const title = img.properties.title;
-  delete img.properties.title;
+function alleggerisci(img, sizes = '(max-width: 760px) 100vw, 700px') {
+  const src = String(img.properties.src || '');
+  const set = srcset(src);
+  img.properties.src = cdn(src, 1000);
+  if (set) { img.properties.srcSet = set; img.properties.sizes = sizes; }
   img.properties.loading = 'lazy';
   img.properties.decoding = 'async';
+}
+
+function figureFor(img, sizes) {
+  const title = img.properties.title;
+  delete img.properties.title;
+  alleggerisci(img, sizes);
   const children = [img];
   if (title) children.push({ type: 'element', tagName: 'figcaption', properties: {}, children: [{ type: 'text', value: String(title) }] });
   return { type: 'element', tagName: 'figure', properties: {}, children };
@@ -53,7 +62,7 @@ function walk(node) {
       const kids = child.children.filter((k) => !isWs(k) && !isBr(k));
       if (kids.length && kids.every((k) => k.type === 'element' && k.tagName === 'img')) {
         if (kids.length === 1) return figureFor(kids[0]);
-        return { type: 'element', tagName: 'div', properties: { className: ['galleria'] }, children: kids.map(figureFor) };
+        return { type: 'element', tagName: 'div', properties: { className: ['galleria'] }, children: kids.map((k) => figureFor(k, '(max-width: 760px) 50vw, 240px')) };
       }
       if (kids.length === 1 && kids[0].type === 'element' && kids[0].tagName === 'a') {
         const href = String(kids[0].properties.href || '');
@@ -64,10 +73,7 @@ function walk(node) {
         }
       }
     }
-    if (child.type === 'element' && child.tagName === 'img') {
-      child.properties.loading = 'lazy';
-      child.properties.decoding = 'async';
-    }
+    if (child.type === 'element' && child.tagName === 'img') alleggerisci(child);
     if (child.type === 'element' && child.tagName === 'a') {
       const href = String(child.properties.href || '');
       if (/^https?:\/\//.test(href) && !href.includes('lamusicadelsanto.it')) {

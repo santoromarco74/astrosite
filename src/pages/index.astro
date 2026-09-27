@@ -2,7 +2,7 @@
 import Base from '../layouts/Base.astro';
 import Foto from '../components/Foto.astro';
 import Pezzo from '../components/Pezzo.astro';
-import { getArticoli, url, dataBreve, attacco } from '../lib/site';
+import { getArticoli, url, dataBreve, attacco, titoloBreve } from '../lib/site';
 
 const articoli = await getArticoli();
 const [primo, ...resto] = articoli;
@@ -18,13 +18,14 @@ if (inizio && testo.startsWith(inizio)) {
   testo = testo.split(' ').slice(n).join(' ');
 }
 const attaccoBreve = testo.split(' ').slice(0, 45).join(' ') + '…';
-const lung = primo.data.title.length > 70 ? 'lungo' : primo.data.title.length > 40 ? 'medio' : '';
+const titoloPrimo = titoloBreve(primo);
+const lung = titoloPrimo.length > 70 ? 'lungo' : titoloPrimo.length > 40 ? 'medio' : '';
 ---
 <Base image={primo.data.cover}>
   <section class="primo-piano" aria-label="In primo piano">
     <div>
       <span class="etichetta">In primo piano</span>
-      <h1 class={`titolo ${lung}`}><a href={url(primo)}>{primo.data.title}</a></h1>
+      <h1 class={`titolo ${lung}`}><a href={url(primo)}>{titoloPrimo}</a></h1>
       {corto && <p class="sommario">{corto}</p>}
       <p class="attacco">{attaccoBreve}</p>
       <a class="leggi" href={url(primo)}>Leggi l'articolo →</a>

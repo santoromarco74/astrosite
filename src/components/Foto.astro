@@ -1,6 +1,7 @@
 ---
-interface Props { src: string; alt?: string; credit?: string; eager?: boolean; }
-const { src, alt = '', credit, eager = false } = Astro.props;
+import { cdn, srcset } from '../lib/img.mjs';
+interface Props { src: string; alt?: string; credit?: string; eager?: boolean; sizes?: string; max?: number; }
+const { src, alt = '', credit, eager = false, sizes = '(max-width: 760px) 100vw, 60vw', max = 1400 } = Astro.props;
 ---
-<div class="retino"><img src={src} alt={alt} loading={eager ? 'eager' : 'lazy'} decoding="async" /></div>
+<div class="retino"><img src={cdn(src, Math.min(max, 1000))} srcset={srcset(src, max)} sizes={sizes} alt={alt} loading={eager ? 'eager' : 'lazy'} decoding="async" /></div>
 {credit && <p class="didascalia">{credit}</p>}

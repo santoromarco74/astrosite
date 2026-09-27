@@ -1,5 +1,6 @@
 ---
 title: 'Da oscurità a celebrità: l’indimenticabile viaggio dell’album ‘Play’ di Moby'
+headline: 'Il viaggio di ‘Play’ di Moby'
 description: Primi passi di Moby e all’album “Play” C’era una volta un uomo di nome Richard Melville Hall, noto anche come Moby. Questo artista americano ha…
 date: '2023-05-07'
 updated: '2023-12-18'

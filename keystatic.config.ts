@@ -14,6 +14,7 @@ export default config({
       columns: ['title', 'date'],
       schema: {
         title: fields.slug({ name: { label: 'Titolo' }, slug: { label: 'Indirizzo (slug)' } }),
+        headline: fields.text({ label: 'Titolo di prima pagina (corto, facoltativo)', description: 'Usato in homepage, nelle schede e nelle grafiche social. Il titolo lungo resta per Google.' }),
         description: fields.text({ label: 'Sommario', multiline: true }),
         date: fields.date({ label: 'Data di pubblicazione', defaultValue: { kind: 'today' } }),
         updated: fields.date({ label: 'Ultimo aggiornamento' }),

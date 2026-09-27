@@ -1,5 +1,6 @@
 ---
 title: '25 agosto 2001: quando il futuro dell’R&B si spezzò alle Bahamas'
+headline: 'Il futuro dell’R&B si spezzò alle Bahamas'
 description: 24 anni dalla tragedia che ci portò via Aaliyah, la ragazza che aveva già inventato la musica di oggi Come tutti gli anniversari che cadono…
 date: '2025-08-26'
 updated: '2025-09-12'

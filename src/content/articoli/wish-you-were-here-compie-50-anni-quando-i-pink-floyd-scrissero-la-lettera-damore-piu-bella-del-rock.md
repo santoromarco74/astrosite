@@ -1,5 +1,6 @@
 ---
 title: 'Wish You Were Here compie 50 anni: quando i Pink Floyd scrissero la lettera d’amore più bella del rock'
+headline: 'Wish You Were Here compie 50 anni'
 description: Come tutti gli anni di questi tempi, il 12 settembre è una di quelle date che ti fa venire i brividi. E no, non solo…
 date: '2025-09-12'
 updated: '2026-09-27'

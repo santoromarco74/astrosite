@@ -62,3 +62,8 @@ export function attacco(body: string | undefined, parole = 110): string {
   const w = testo.split(' ');
   return w.length > parole ? w.slice(0, parole).join(' ') + '…' : testo;
 }
+
+/** Titolo corto per prima pagina e schede. */
+export function titoloBreve(a: Articolo): string {
+  return a.data.headline?.trim() || a.data.title;
+}
