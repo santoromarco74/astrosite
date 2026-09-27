@@ -83,7 +83,7 @@ Le musiche sono state composte interamente da Richard O’Brien insieme a [Richa
 
 Nella colonna sonora troviamo la trasposizione musicale degli intenti di O’Brien, cioè la lotta dei tabù; infatti partiamo dall’inizio dove Brian chiede di sposare Janet (*Dammit Janet*) al celeberrimo ballo transilvaniano Time Warp , all’ingresso trionfale in scena del dr. Frank-N-Furter (*Sweet Travenstite*) con il suo “*… non guardate il libro dalla copertina … sono solo un Transessuale dal pianeta Bisessuale …*”, alla “creatura” Rocky di “*I Can Make a Man*”,  a Janet che cede a Frank-N-Furter in “*Touch me*”,o ancora a “ *… non sognatelo, siatelo ..*” di Frank-N-Furter, alla storia di Eddie, a fino alla chiosa finale di “*I’m going home*” di Frank e Bruce  che si erge a salvatore in “*Super Heroes*”. Tutto questo aperto e chiuso da “*Science Fiction/Double Feature*”, vecchio pezzo di repertorio di O’Brien interpretato dalle “labbra” di Patricia Quinn.
 
-Il leitmotiv del musical è il celeberrimo Time Warp, accompagnato da relativo balletto ([qui da YouTube](https://www.youtube.com/watch?v=umj0gu5nEGs) ) , che in realtà non doveva neanche esistere e che fu creato come “riempitivo “ ed invece ebbe un successo clamoroso con l’orecchiabile ritornello “*Let’s to’ The time Warp again*”.
+Il leitmotiv del musical è il celeberrimo Time Warp, accompagnato da relativo balletto ([qui da YouTube](https://www.youtube.com/watch?v=umj0gu5nEGs)) , che in realtà non doveva neanche esistere e che fu creato come “riempitivo “ ed invece ebbe un successo clamoroso con l’orecchiabile ritornello “*Let’s to’ The time Warp again*”.
 
 > It’s just a jump to the left
 > And then a step to the right

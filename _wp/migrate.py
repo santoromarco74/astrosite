@@ -57,7 +57,8 @@ def local(url):
     return url
 
 def clean_text(s):
-    return re.sub(r"\s+", " ", s or "").strip()
+    s = re.sub(r"\s+", " ", s or "").strip()
+    return re.sub(r"\(\s+", "(", re.sub(r"\s+\)", ")", s))
 
 def youtube_id(src):
     m = re.search(r"youtube(?:-nocookie)?\.com/embed/([\w-]{6,})", src)

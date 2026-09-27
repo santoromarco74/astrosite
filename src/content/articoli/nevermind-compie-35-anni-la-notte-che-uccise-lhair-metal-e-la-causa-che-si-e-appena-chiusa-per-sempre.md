@@ -8,12 +8,12 @@ categories:
 tags: []
 cover: /wp-content/uploads/2026/09/copertina-nevermind-35-mural.jpg
 coverAlt: Murale di Kurt Cobain dell'artista Akse P19 a Sidney Street, Manchester
-coverCredit: 'Il murale di Kurt Cobain dipinto da Akse P19 a Sidney Street, Manchester. Foto: Dunk / Flickr ( CC BY 2.0 )'
+coverCredit: 'Il murale di Kurt Cobain dipinto da Akse P19 a Sidney Street, Manchester. Foto: Dunk / Flickr (CC BY 2.0)'
 draft: false
 wpId: 3899
 ---
 
-![Murale di Kurt Cobain dell'artista Akse P19 a Sidney Street, Manchester](/wp-content/uploads/2026/09/copertina-nevermind-35-mural.jpg "Il murale di Kurt Cobain dipinto da Akse P19 a Sidney Street, Manchester. Foto: Dunk / Flickr ( CC BY 2.0 )")
+![Murale di Kurt Cobain dell'artista Akse P19 a Sidney Street, Manchester](/wp-content/uploads/2026/09/copertina-nevermind-35-mural.jpg "Il murale di Kurt Cobain dipinto da Akse P19 a Sidney Street, Manchester. Foto: Dunk / Flickr (CC BY 2.0)")
 
 Ieri, 24 settembre, «Nevermind» dei Nirvana ha compiuto **35 anni**. Ne avevamo già raccontato la storia completa qualche tempo fa — [la nascita a Seattle, Kurt Cobain, la copertina, il tour de force delle tracce](/nirvana-nevermind/) — quindi oggi non ripetiamo la stessa lezione. Stavolta vogliamo raccontarvi due cose che allora avevamo lasciato in sospeso: **come questo disco abbia letteralmente spento un intero genere musicale nel giro di poche settimane**, e **come si sia chiusa, solo pochi mesi fa, una causa legale durata quasi trent’anni** legata proprio a quella copertina.
 

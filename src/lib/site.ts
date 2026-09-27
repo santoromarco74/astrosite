@@ -40,7 +40,7 @@ export function dataBreve(d: Date): string {
 }
 
 export function minutiLettura(body: string | undefined): number {
-  const words = (body ?? '').replace(/!\[[^\]]*\]\([^)]*\)/g, '').split(/\s+/).filter(Boolean).length;
+  const words = (body ?? '').replace(/!\[[^\]]*\]\([^)\s]*(?:\s+"[^"]*")?\)/g, '').split(/\s+/).filter(Boolean).length;
   return Math.max(1, Math.round(words / 220));
 }
 
@@ -51,7 +51,7 @@ export function url(a: Articolo): string {
 /** Primo pezzo di testo dell'articolo, senza markdown, per l'apertura in homepage. */
 export function attacco(body: string | undefined, parole = 110): string {
   const testo = (body ?? '')
-    .replace(/!\[[^\]]*\]\([^)]*\)/g, '')
+    .replace(/!\[[^\]]*\]\([^)\s]*(?:\s+"[^"]*")?\)/g, '')
     .replace(/\[([^\]]*)\]\([^)]*\)/g, '$1')
     .split(/\n{2,}/)
     .filter((b) => b.trim() && !/^(#|>|-|\d+\.|https?:)/.test(b.trim()))
