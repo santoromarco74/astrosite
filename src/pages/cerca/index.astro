@@ -1,0 +1,20 @@
+---
+import Base from '../../layouts/Base.astro';
+---
+<Base title="Cerca" description="Cerca tra gli articoli della Musica del Santo">
+  <link slot="head" rel="stylesheet" href="/pagefind/pagefind-ui.css" />
+  <header class="articolo-testa">
+    <span class="etichetta">Archivio</span>
+    <h1 class="titolo">Cerca nel giornale</h1>
+    <p class="sommario">Un artista, un disco, un anno: frugate pure negli arretrati.</p>
+  </header>
+  <div class="cerca" id="cerca"></div>
+  <script is:inline src="/pagefind/pagefind-ui.js"></script>
+  <script is:inline>
+    window.addEventListener('DOMContentLoaded', function () {
+      try {
+        new PagefindUI({ element: '#cerca', showImages: false, showSubResults: false, translations: { placeholder: 'Cerca un artista, un disco, un anno…', zero_results: 'Nessun risultato per [SEARCH_TERM]', many_results: '[COUNT] risultati per [SEARCH_TERM]', one_result: '1 risultato per [SEARCH_TERM]', load_more: 'Altri risultati', clear_search: 'Cancella' } });
+      } catch (e) { document.getElementById('cerca').textContent = 'La ricerca non è disponibile in questo momento.'; }
+    });
+  </script>
+</Base>

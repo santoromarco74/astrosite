@@ -1,6 +1,8 @@
 ---
 import '../styles/global.css';
-import { SITE, SEZIONI, nomeCategoria, dataLunga } from '../lib/site';
+import Testata from '../components/Testata.astro';
+import Stella from '../components/Stella.astro';
+import { SITE, SEZIONI, nomeCategoria, dataBreve, getArticoli } from '../lib/site';
 
 interface Props { title?: string; description?: string; image?: string; type?: string; }
 const { title, description = SITE.tagline, image, type = 'website' } = Astro.props;
@@ -10,6 +12,8 @@ const ogImage = image ? new URL(image, Astro.site).href : undefined;
 const path = Astro.url.pathname;
 const anno = new Date().getUTCFullYear() - 2020; // il blog nasce nel 2021
 const romani = ['I','II','III','IV','V','VI','VII','VIII','IX','X','XI','XII','XIII','XIV','XV'][anno - 1] ?? String(anno);
+const numero = (await getArticoli()).length;
+const voci = [{ href: '/', label: 'Home' }, ...SEZIONI.map((s) => ({ href: `/${s}/`, label: nomeCategoria(s) })), { href: '/chi-sono/', label: 'Chi sono' }];
 ---
 <!doctype html>
 <html lang="it">
@@ -19,8 +23,10 @@ const romani = ['I','II','III','IV','V','VI','VII','VIII','IX','X','XI','XII','X
   <title>{fullTitle}</title>
   <meta name="description" content={description} />
   <link rel="canonical" href={canonical} />
-  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <link rel="icon" href="/favicon-32.png" type="image/png" sizes="32x32" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
   <link rel="alternate" type="application/rss+xml" title={SITE.name} href="/rss.xml" />
+  <meta name="theme-color" content="#F6F1E8" />
   <meta property="og:site_name" content={SITE.name} />
   <meta property="og:locale" content="it_IT" />
   <meta property="og:type" content={type} />
@@ -31,28 +37,40 @@ const romani = ['I','II','III','IV','V','VI','VII','VIII','IX','X','XI','XII','X
   <meta name="twitter:card" content={ogImage ? 'summary_large_image' : 'summary'} />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anton&family=Oswald:wght@500;700&family=Playfair+Display:ital,wght@0,900;1,400&family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&display=swap" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,400;1,700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=Inter:wght@500;600;700&display=swap" />
   <slot name="head" />
 </head>
 <body>
   <a class="salta" href="#contenuto">Vai al contenuto</a>
-  <div class="fascia-rossa">{SITE.motto}</div>
-  <header class="wrap">
-    <div class="sopratestata">
-      <span class="solo-desktop">Anno {romani}</span>
-      <em>{SITE.tagline}</em>
-      <span class="solo-desktop">Prezzo: un ascolto</span>
+  <header class="wrap testa">
+    <p class="occhiello-testata">{SITE.motto}</p>
+    <div class="filetto-stella" aria-hidden="true"><span></span><Stella size={20} /><span></span></div>
+    <div class="riga-testata">
+      <div class="lato lato-sx">
+        <p class="meta-edizione solo-desktop">Anno {romani}<br />N. {numero}<br /><span id="oggi">{dataBreve(new Date())}</span></p>
+        <details class="menu-mobile solo-mobile">
+          <summary aria-label="Apri il menu">
+            <svg width="26" height="26" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 6h18M3 12h18M3 18h18" stroke="#111" stroke-width="2" stroke-linecap="round"/></svg>
+          </summary>
+          <nav aria-label="Sezioni (mobile)">
+            <ul>{voci.map((v) => <li><a href={v.href} aria-current={path === v.href ? 'page' : undefined}>{v.label}</a></li>)}</ul>
+          </nav>
+        </details>
+      </div>
+      <a class="logo" href="/" aria-label={`${SITE.name} — prima pagina`}><Testata /></a>
+      <div class="lato lato-dx">
+        <p class="prezzo solo-desktop">Prezzo:<br />un ascolto<br /><Stella size={16} /></p>
+        <a class="cerca-icona solo-mobile" href="/cerca/" aria-label="Cerca nel sito">
+          <svg width="24" height="24" viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="#111" stroke-width="2"/><path d="M15.5 15.5 21 21" stroke="#111" stroke-width="2" stroke-linecap="round"/></svg>
+        </a>
+      </div>
     </div>
-    <a class="testata" href="/" aria-label={`${SITE.name} — homepage`}>
-      <img src="/logo-l.svg" alt="" width="260" height="380" />
-      <span>{SITE.name}</span>
-    </a>
-    <nav class="sottotestata" aria-label="Sezioni">
-      <span class="solo-desktop" id="oggi">{dataLunga(new Date())}</span>
-      <ul class="menu">
-        {SEZIONI.map((s) => <li><a href={`/${s}/`} aria-current={path === `/${s}/` ? 'page' : undefined}>{nomeCategoria(s)}</a></li>)}
-        <li><a href="/chi-sono/" aria-current={path === '/chi-sono/' ? 'page' : undefined}>Chi sono</a></li>
-      </ul>
+    <p class="sottotitolo-testata">{SITE.tagline}</p>
+    <nav class="menu solo-desktop" aria-label="Sezioni">
+      <ul>{voci.map((v) => <li><a href={v.href} aria-current={path === v.href ? 'page' : undefined}>{v.label}</a></li>)}</ul>
+      <a class="cerca-icona" href="/cerca/" aria-label="Cerca nel sito">
+        <svg width="20" height="20" viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="#111" stroke-width="2"/><path d="M15.5 15.5 21 21" stroke="#111" stroke-width="2" stroke-linecap="round"/></svg>
+      </a>
     </nav>
   </header>
   <main id="contenuto" class="wrap">
@@ -60,18 +78,24 @@ const romani = ['I','II','III','IV','V','VI','VII','VIII','IX','X','XI','XII','X
   </main>
   <footer class="piede">
     <div class="wrap">
-      <a class="marchio" href="/"><img src="/logo-l.svg" alt="" width="260" height="380" />{SITE.name}</a>
-      <ul>
+      <div class="piede-marchio">
+        <p class="occhiello-testata">{SITE.motto}</p>
+        <div class="filetto-stella chiaro" aria-hidden="true"><span></span><Stella size={16} /><span></span></div>
+        <a class="logo" href="/" aria-label={SITE.name}><Testata tono="scuro" /></a>
+        <p class="sottotitolo-testata">{SITE.tagline}</p>
+      </div>
+      <ul class="piede-link">
         {SEZIONI.map((s) => <li><a href={`/${s}/`}>{nomeCategoria(s)}</a></li>)}
         <li><a href="/chi-sono/">Chi sono</a></li>
+        <li><a href="/cerca/">Cerca</a></li>
         <li><a href="/rss.xml">Feed RSS</a></li>
         <li><a href="/privacy-policy/">Privacy</a></li>
       </ul>
-      <small>© {new Date().getFullYear()} {SITE.author} · {SITE.tagline}</small>
+      <small>© {new Date().getFullYear()} {SITE.author}</small>
     </div>
   </footer>
   <script is:inline>
-    (function(){try{var g=['Domenica','Lunedì','Martedì','Mercoledì','Giovedì','Venerdì','Sabato'],m=['gennaio','febbraio','marzo','aprile','maggio','giugno','luglio','agosto','settembre','ottobre','novembre','dicembre'],d=new Date(),e=document.getElementById('oggi');if(e)e.textContent=g[d.getDay()]+' '+d.getDate()+' '+m[d.getMonth()]+' '+d.getFullYear();}catch(_){}})();
+    (function(){try{var g=['Domenica','Lunedì','Martedì','Mercoledì','Giovedì','Venerdì','Sabato'],m=['gennaio','febbraio','marzo','aprile','maggio','giugno','luglio','agosto','settembre','ottobre','novembre','dicembre'],d=new Date(),e=document.getElementById('oggi');if(e)e.textContent=d.getDate()+' '+m[d.getMonth()]+' '+d.getFullYear();}catch(_){}})();
   </script>
 </body>
 </html>

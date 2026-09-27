@@ -7,7 +7,7 @@ export type Articolo = CollectionEntry<'articoli'>;
 export const SITE = {
   name: 'La musica del Santo',
   tagline: 'Guida semiseria per autostoppisti musicali',
-  motto: 'Quotidiano semiserio di musica',
+  motto: 'Cronache di bella musica',
   author: 'Marco Santoro',
   url: 'https://lamusicadelsanto.it',
 };

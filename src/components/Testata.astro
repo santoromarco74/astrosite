@@ -1,0 +1,18 @@
+---
+// Testata del giornale: Playfair Display 900 compresso (textLength) con stella rossa.
+interface Props { tono?: 'chiaro' | 'scuro'; }
+const { tono = 'chiaro' } = Astro.props;
+const colore = tono === 'scuro' ? '#F6F1E8' : '#111111';
+---
+<span class="testata-logo">
+  <svg class="testata-una-riga" viewBox="0 0 1000 86" role="img" aria-label="La musica del Santo">
+    <text x="500" y="80" text-anchor="middle" textLength="1000" lengthAdjust="spacingAndGlyphs"
+      font-family="'Playfair Display', Georgia, serif" font-weight="900" font-size="108" fill={colore}>LA MUSICA DEL SANTO</text>
+  </svg>
+  <svg class="testata-due-righe" viewBox="0 0 600 206" role="img" aria-label="La musica del Santo">
+    <text x="300" y="98" text-anchor="middle" textLength="600" lengthAdjust="spacingAndGlyphs"
+      font-family="'Playfair Display', Georgia, serif" font-weight="900" font-size="134" fill={colore}>LA MUSICA</text>
+    <text x="300" y="200" text-anchor="middle" textLength="600" lengthAdjust="spacingAndGlyphs"
+      font-family="'Playfair Display', Georgia, serif" font-weight="900" font-size="134" fill={colore}>DEL SANTO</text>
+  </svg>
+</span>

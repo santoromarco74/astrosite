@@ -44,26 +44,26 @@ const catDesc = kind === 'categoria' ? (categorie as any)[props.cat]?.descriptio
     <script slot="head" type="application/ld+json" set:html={JSON.stringify(ld)} />
     <article>
       <header class="articolo-testa">
-        {cat && <a class="rubrica" href={`/${cat}/`}>{nomeCategoria(cat)}</a>}
-        <h1 class={`titolone ${d.title.length > 70 ? 'lungo' : d.title.length > 40 ? 'medio' : ''}`}>{d.title}</h1>
-        {d.description && <p class="occhiello">{d.description}</p>}
+        {cat && <a class="etichetta" href={`/${cat}/`}>{nomeCategoria(cat)}</a>}
+        <h1 data-pagefind-meta="title" class={`titolo ${d.title.length > 70 ? 'lungo' : d.title.length > 40 ? 'medio' : ''}`}>{d.title}</h1>
+        {d.description && <p class="sommario">{d.description}</p>}
         <p class="meta">di {SITE.author} · <time datetime={d.date.toISOString()}>{dataLunga(d.date)}</time> · {minutiLettura(a.body)} min di lettura</p>
       </header>
       {d.cover && <div class="articolo-copertina"><Foto src={d.cover} alt={d.coverAlt ?? ''} credit={d.coverCredit} eager /></div>}
-      <div class="corpo"><Content /></div>
+      <div class="corpo" data-pagefind-body><Content /></div>
       {d.tags.length > 0 && <ul class="tag-lista" aria-label="Tag">{d.tags.map((t) => <li><a href={`/tag/${t}/`}>{nomeTag(t)}</a></li>)}</ul>}
       <p class="firma">— {SITE.author}</p>
     </article>
     {correlati.length > 0 && <>
-      <div class="barra-sezione"><h2>All'interno</h2><p>Potrebbero piacerti anche</p></div>
-      <div class="colonne">{correlati.map((x) => <Pezzo a={x} />)}</div>
+      <h2 class="sezione-titolo">Potrebbero piacerti anche</h2>
+      <div class="pezzi">{correlati.map((x) => <Pezzo a={x} />)}</div>
     </>}
   </Base>);
 })()}
 
 {kind === 'pagina' && (
   <Base title={props.entry.data.title}>
-    <header class="articolo-testa"><h1 class="titolone">{props.entry.data.title}</h1></header>
+    <header class="articolo-testa"><h1 class="titolo">{props.entry.data.title}</h1></header>
     <div class="corpo"><Content /></div>
   </Base>
 )}
@@ -71,11 +71,11 @@ const catDesc = kind === 'categoria' ? (categorie as any)[props.cat]?.descriptio
 {kind === 'categoria' && (
   <Base title={nomeCategoria(props.cat)} description={catDesc || `Tutti gli articoli della sezione ${nomeCategoria(props.cat)}`}>
     <header class="articolo-testa">
-      <span class="rubrica">Sezione</span>
-      <h1 class="titolone">{nomeCategoria(props.cat)}</h1>
-      {catDesc && <p class="occhiello">{catDesc}</p>}
+      <span class="etichetta">Sezione</span>
+      <h1 class="titolo">{nomeCategoria(props.cat)}</h1>
+      {catDesc && <p class="sommario">{catDesc}</p>}
       <p class="meta">{props.lista.length} articoli</p>
     </header>
-    <div class="colonne">{props.lista.map((x: Articolo) => <Pezzo a={x} />)}</div>
+    <div class="pezzi">{props.lista.map((x: Articolo) => <Pezzo a={x} />)}</div>
   </Base>
 )}

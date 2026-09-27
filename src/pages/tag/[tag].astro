@@ -13,9 +13,9 @@ const { lista } = Astro.props as { lista: Articolo[] };
 ---
 <Base title={`Tag: ${nomeTag(tag!)}`} description={`Articoli su ${nomeTag(tag!)}`}>
   <header class="articolo-testa">
-    <span class="rubrica">Tag</span>
-    <h1 class="titolone">{nomeTag(tag!)}</h1>
+    <span class="etichetta">Tag</span>
+    <h1 class="titolo">{nomeTag(tag!)}</h1>
     <p class="meta">{lista.length} {lista.length === 1 ? 'articolo' : 'articoli'}</p>
   </header>
-  <div class="colonne">{lista.map((a) => <Pezzo a={a} />)}</div>
+  <div class="pezzi">{lista.map((a) => <Pezzo a={a} />)}</div>
 </Base>
