@@ -1,0 +1,61 @@
+---
+// Visore a schermo intero per le foto dell'articolo (copertina, foto singole, gallerie).
+// Senza JavaScript ogni foto resta un semplice link all'immagine grande.
+---
+<dialog class="visore" aria-label="Foto ingrandita">
+  <figure>
+    <img alt="" />
+    <figcaption><span class="visore-didascalia"></span> <span class="visore-contatore"></span></figcaption>
+  </figure>
+  <button type="button" class="visore-chiudi" aria-label="Chiudi">
+    <svg width="22" height="22" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 5l14 14M19 5L5 19" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+  </button>
+  <button type="button" class="visore-prec" aria-label="Foto precedente">
+    <svg width="26" height="26" viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5l-7 7 7 7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+  </button>
+  <button type="button" class="visore-succ" aria-label="Foto successiva">
+    <svg width="26" height="26" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5l7 7-7 7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+  </button>
+</dialog>
+
+<script is:inline>
+(function () {
+  var d = document.querySelector('dialog.visore');
+  if (!d || typeof d.showModal !== 'function') return;
+  var links = Array.prototype.slice.call(document.querySelectorAll('article a.zoom'));
+  if (!links.length) return;
+  var img = d.querySelector('img'), cap = d.querySelector('.visore-didascalia'), cnt = d.querySelector('.visore-contatore');
+  var prec = d.querySelector('.visore-prec'), succ = d.querySelector('.visore-succ');
+  var i = 0, x0 = null;
+  function mostra(n) {
+    i = (n + links.length) % links.length;
+    var a = links[i], thumb = a.querySelector('img');
+    img.src = a.getAttribute('href');
+    img.alt = thumb ? thumb.alt : '';
+    cap.textContent = a.getAttribute('data-didascalia') || '';
+    cnt.textContent = links.length > 1 ? (i + 1) + ' / ' + links.length : '';
+    prec.hidden = succ.hidden = links.length < 2;
+  }
+  links.forEach(function (a, n) {
+    a.addEventListener('click', function (e) {
+      if (e.metaKey || e.ctrlKey || e.shiftKey) return;
+      e.preventDefault(); mostra(n); d.showModal();
+    });
+  });
+  d.querySelector('.visore-chiudi').addEventListener('click', function () { d.close(); });
+  prec.addEventListener('click', function () { mostra(i - 1); });
+  succ.addEventListener('click', function () { mostra(i + 1); });
+  d.addEventListener('click', function (e) { if (e.target === d) d.close(); });
+  d.addEventListener('keydown', function (e) {
+    if (e.key === 'ArrowLeft') mostra(i - 1);
+    if (e.key === 'ArrowRight') mostra(i + 1);
+  });
+  d.addEventListener('touchstart', function (e) { x0 = e.touches[0].clientX; }, { passive: true });
+  d.addEventListener('touchend', function (e) {
+    if (x0 === null) return;
+    var dx = e.changedTouches[0].clientX - x0; x0 = null;
+    if (Math.abs(dx) > 50) mostra(dx < 0 ? i + 1 : i - 1);
+  });
+  d.addEventListener('close', function () { img.removeAttribute('src'); });
+})();
+</script>

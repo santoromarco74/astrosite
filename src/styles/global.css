@@ -176,3 +176,23 @@ a:hover .retino img { filter: grayscale(.15) contrast(1.05); }
 .articolo-testa .titolo.medio { font-size: clamp(34px, 4.8vw, 60px); }
 .articolo-testa .titolo.lungo { font-size: clamp(30px, 4vw, 50px); }
 .cerca mark { background: #F1D5CF; color: inherit; }
+
+/* ---------- Foto cliccabili e visore ---------- */
+a.zoom { display: block; cursor: zoom-in; }
+.corpo figure a.zoom { width: fit-content; max-width: 100%; margin: 0 auto; }
+.visore { width: 100vw; height: 100dvh; max-width: none; max-height: none; margin: 0; padding: 0; border: 0; background: rgba(17,17,17,.96); color: var(--carta); }
+.visore::backdrop { background: rgba(17,17,17,.96); }
+.visore[open] { display: flex; align-items: center; justify-content: center; }
+.visore figure { margin: 0; padding: 56px 72px 24px; max-width: 100%; max-height: 100%; display: flex; flex-direction: column; align-items: center; gap: 12px; }
+.visore img { max-width: 100%; max-height: calc(100dvh - 140px); width: auto; height: auto; object-fit: contain; }
+.visore figcaption { font-family: var(--f-testo); font-style: italic; font-size: 15px; text-align: center; max-width: 760px; color: #d9d4c7; }
+.visore-contatore { white-space: nowrap; font-family: var(--f-ui); font-style: normal; font-size: 12px; letter-spacing: .08em; color: #a9a59c; margin-left: 8px; }
+.visore button { position: absolute; background: transparent; border: 0; color: var(--carta); cursor: pointer; width: 48px; height: 48px; display: inline-flex; align-items: center; justify-content: center; border-radius: 50%; }
+.visore button:hover { background: rgba(246,241,232,.12); }
+.visore-chiudi { top: 12px; right: 12px; }
+.visore-prec { left: 12px; top: 50%; transform: translateY(-50%); }
+.visore-succ { right: 12px; top: 50%; transform: translateY(-50%); }
+@media (max-width: 760px) {
+  .visore figure { padding: 60px 8px 16px; }
+  .visore-prec, .visore-succ { top: auto; bottom: 10px; transform: none; }
+}
