@@ -3,6 +3,7 @@ import { getCollection, render } from 'astro:content';
 import Base from '../layouts/Base.astro';
 import Foto from '../components/Foto.astro';
 import Pezzo from '../components/Pezzo.astro';
+import Lightbox from '../components/Lightbox.astro';
 import categorie from '../data/categorie.json';
 import { getArticoli, SITE, dataBreve, dataLunga, nomeCategoria, nomeTag, minutiLettura, type Articolo } from '../lib/site';
 
@@ -49,11 +50,12 @@ const catDesc = kind === 'categoria' ? (categorie as any)[props.cat]?.descriptio
         {d.description && <p class="sommario">{d.description}</p>}
         <p class="meta">di {SITE.author} · <time datetime={d.date.toISOString()}>{dataLunga(d.date)}</time> · {minutiLettura(a.body)} min di lettura</p>
       </header>
-      {d.cover && <div class="articolo-copertina"><Foto src={d.cover} alt={d.coverAlt ?? ''} credit={d.coverCredit} eager /></div>}
+      {d.cover && <div class="articolo-copertina"><Foto src={d.cover} alt={d.coverAlt ?? ''} credit={d.coverCredit} eager zoom /></div>}
       <div class="corpo" data-pagefind-body><Content /></div>
       {d.tags.length > 0 && <ul class="tag-lista" aria-label="Tag">{d.tags.map((t) => <li><a href={`/tag/${t}/`}>{nomeTag(t)}</a></li>)}</ul>}
       <p class="firma">— {SITE.author}</p>
     </article>
+    <Lightbox />
     {correlati.length > 0 && <>
       <h2 class="sezione-titolo">Potrebbero piacerti anche</h2>
       <div class="pezzi">{correlati.map((x) => <Pezzo a={x} />)}</div>

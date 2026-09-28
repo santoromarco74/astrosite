@@ -25,8 +25,11 @@ function alleggerisci(img, sizes = '(max-width: 760px) 100vw, 700px') {
 function figureFor(img, sizes) {
   const title = img.properties.title;
   delete img.properties.title;
+  const originale = String(img.properties.src || '');
   alleggerisci(img, sizes);
-  const children = [img];
+  // Foto cliccabile: apre la versione grande (senza JS apre l'immagine; con JS la galleria a schermo intero)
+  const link = { type: 'element', tagName: 'a', properties: { className: ['zoom'], href: cdn(originale, 1800), dataDidascalia: title ? String(title) : undefined, ariaLabel: 'Ingrandisci la foto' }, children: [img] };
+  const children = [link];
   if (title) children.push({ type: 'element', tagName: 'figcaption', properties: {}, children: [{ type: 'text', value: String(title) }] });
   return { type: 'element', tagName: 'figure', properties: {}, children };
 }
