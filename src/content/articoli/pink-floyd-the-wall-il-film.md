@@ -21,7 +21,7 @@ tags:
 - roger-waters
 - teacher
 - the-wall
-cover: /wp-content/uploads/2021/04/La-locandina-del-film-The-Wall.jpg
+cover: /images/articoli/pink-floyd-the-wall-il-film/La-locandina-del-film-The-Wall.jpg
 coverAlt: La locandina del film The Wall
 coverCredit: La locandina del film The Wall
 draft: false
@@ -42,7 +42,7 @@ wpId: 480
 
 Nel [post precedente](/pink-floyd-the-wall/) abbiamo parlato della nascita e della creazione dell’opera rock in assoluto dei [Pink Floyd](https://it.wikipedia.org/wiki/Pink_Floyd), l’album *“[The Wall](https://it.wikipedia.org/wiki/The_Wall)“*.
 
-![La copertina DVD The Wall](/wp-content/uploads/2021/04/Copertina-DVD-The-Wall-1.jpg "La copertina DVD The Wall")
+![La copertina DVD The Wall](/images/articoli/pink-floyd-the-wall-il-film/Copertina-DVD-The-Wall-1.jpg "La copertina DVD The Wall")
 
 Adesso andremo a raccontare della nascita del film ad esso ispirato , “[Pink Floyd The Wall – The Movie](https://en.wikipedia.org/wiki/Pink_Floyd_%E2%80%93_The_Wall)” appunto.
 
@@ -148,15 +148,15 @@ Se invece volete conoscere meglio l’album potete seguire i seguenti contenuti:
 - [“Pink Floyd – The Wall” – La musica del Santo;](/pink-floyd-the-wall/)
 - [The Wall Complete: un interessante sito che sviscera ogni aspetto dell’album e del film;](https://thewallcomplete.com/)
 
-![Roger Waters sul set del film "The Wall"](/wp-content/uploads/2021/04/Roger-Waters-sul-set-del-film-The-Wall.jpeg "Roger Waters sul set del film “The Wall”")
-![Alan Parker e Bob Geldof sul set](/wp-content/uploads/2021/04/Alan-Parker-e-Bob-Geldof-sul-set.jpg "Alan Parker e Bob Geldof sul set")
-![La vignetta dell'insegnante in The Wall](/wp-content/uploads/2021/04/La-vignetta-dellinsegnante-in-The-Wall.jpg "La vignetta dell’insegnante in The Wall")
-![Pink giovane e adulto](/wp-content/uploads/2021/04/Pink-giovane-e-adulto.jpg "Pink giovane e adulto in “Comfortably Numb”")
-![Alan Parker - regista del film](/wp-content/uploads/2021/04/Alan-Parker.jpg "Alan Parker – regista del film")
-![Pink ragazzo e sua madre con Roger Waters sul set](/wp-content/uploads/2021/04/Pink-ragazzo-con-sua-madre-e-Roger-Waters.jpg "Christine Hargreaves (madre) e Kevin McKeon (Pink ragazzo) con Roger Waters sul set")
-![I personaggi del film](/wp-content/uploads/2021/04/I-vari-personaggi-del-film-The-Wall.jpg "I personaggi del film (da sx il medico, il professore, la moglie, la madre e il padre)")
-![La scolaresca di "Another Brick in the Wall"](/wp-content/uploads/2021/04/La-scolaresca-di-Another-Brick-in-the-Wall.jpg "La scolaresca di “Another Brick in the Wall”")
-![Pink che arringa la folla 3](/wp-content/uploads/2021/04/Pink-che-arringa-la-folla-3.jpeg "Pink nazista che arringa la folla nei suoi deliri")
-![Scena di The Trial 3](/wp-content/uploads/2021/04/Scena-di-The-Trial-3.jpeg "The Trial – L’accusa")
-![Scena di The Trial 1](/wp-content/uploads/2021/04/Scena-di-The-Trial-1.jpeg "The Trial – Il giudice")
-![Scena di The Trail 2](/wp-content/uploads/2021/04/Scena-di-The-Trial-2.jpeg "The Trial – La madre")
+![Roger Waters sul set del film "The Wall"](/images/articoli/pink-floyd-the-wall-il-film/Roger-Waters-sul-set-del-film-The-Wall.jpeg "Roger Waters sul set del film “The Wall”")
+![Alan Parker e Bob Geldof sul set](/images/articoli/pink-floyd-the-wall-il-film/Alan-Parker-e-Bob-Geldof-sul-set.jpg "Alan Parker e Bob Geldof sul set")
+![La vignetta dell'insegnante in The Wall](/images/articoli/pink-floyd-the-wall-il-film/La-vignetta-dellinsegnante-in-The-Wall.jpg "La vignetta dell’insegnante in The Wall")
+![Pink giovane e adulto](/images/articoli/pink-floyd-the-wall-il-film/Pink-giovane-e-adulto.jpg "Pink giovane e adulto in “Comfortably Numb”")
+![Alan Parker - regista del film](/images/articoli/pink-floyd-the-wall-il-film/Alan-Parker.jpg "Alan Parker – regista del film")
+![Pink ragazzo e sua madre con Roger Waters sul set](/images/articoli/pink-floyd-the-wall-il-film/Pink-ragazzo-con-sua-madre-e-Roger-Waters.jpg "Christine Hargreaves (madre) e Kevin McKeon (Pink ragazzo) con Roger Waters sul set")
+![I personaggi del film](/images/articoli/pink-floyd-the-wall-il-film/I-vari-personaggi-del-film-The-Wall.jpg "I personaggi del film (da sx il medico, il professore, la moglie, la madre e il padre)")
+![La scolaresca di "Another Brick in the Wall"](/images/articoli/pink-floyd-the-wall-il-film/La-scolaresca-di-Another-Brick-in-the-Wall.jpg "La scolaresca di “Another Brick in the Wall”")
+![Pink che arringa la folla 3](/images/articoli/pink-floyd-the-wall-il-film/Pink-che-arringa-la-folla-3.jpeg "Pink nazista che arringa la folla nei suoi deliri")
+![Scena di The Trial 3](/images/articoli/pink-floyd-the-wall-il-film/Scena-di-The-Trial-3.jpeg "The Trial – L’accusa")
+![Scena di The Trial 1](/images/articoli/pink-floyd-the-wall-il-film/Scena-di-The-Trial-1.jpeg "The Trial – Il giudice")
+![Scena di The Trail 2](/images/articoli/pink-floyd-the-wall-il-film/Scena-di-The-Trial-2.jpeg "The Trial – La madre")

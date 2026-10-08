@@ -17,7 +17,7 @@ tags:
 - roger-waters
 - syd-barrett
 - the-dark-side
-cover: /wp-content/uploads/2023/02/Pink-Floyd-Dark-Side-Of-The-Moon-album.jpg
+cover: /images/articoli/pink-floyd-the-dark-side-of-the-moon/Pink-Floyd-Dark-Side-Of-The-Moon-album.jpg
 coverAlt: La celebre copertina dell'album
 coverCredit: La celebre copertina dell’album
 draft: false
@@ -28,7 +28,7 @@ Il grande momento è arrivato, possiamo finalmente festeggiare i primi 50 di usc
 
 **Introduzione**
 
-![La cover completa di "The Dark Side of the Moon"](/wp-content/uploads/2023/02/5223925035_bcb7e4c0dc_b.jpg "La cover completa di Storm Thorgerson per “The Dark Side of the Moon”")
+![La cover completa di "The Dark Side of the Moon"](/images/articoli/pink-floyd-the-dark-side-of-the-moon/5223925035_bcb7e4c0dc_b.jpg "La cover completa di Storm Thorgerson per “The Dark Side of the Moon”")
 
 I Pink Floyd avevano iniziato a farsi conoscere al pubblico appena 6 anni prima, in quella che era al momento la culla del rock psichedelico, ovvero la Londra di fine anni ’60.
 
@@ -163,9 +163,9 @@ Classifiche a parte, “*The Dark Side of the Moon****”*** rappresenta sicuram
 
 Per me è stato sicuramente l’album più bello dei Pink Floyd, inteso come vero gruppo, perché è veramente un’opera corale dove tutti gli attori chiamati in causa hanno dato il meglio di sé ed il risultato è rimasto scolpito negli anni.
 
-![I Pink Floyd live all' Earls Court nel 1973](/wp-content/uploads/2023/02/DarkSideOfTheMoon1973.jpg "I Pink Floyd live all’ Earls Court nel 1973")
-![Storm Thorgerson con Roger Waters e David Gilmour](/wp-content/uploads/2023/02/storm-thorgerson-david-gilmour-roger-waters.webp "Storm Thorgerson con Roger Waters e David Gilmour")
-![Syd Barrett e Roger Waters nel 1967](/wp-content/uploads/2023/02/Syd-Barrett-e-Roger-Waters-1967.jpg "Syd Barrett e Roger Waters nel 1967")
-![La cover completa di "The Dark Side of the Moon"](/wp-content/uploads/2023/02/5223925035_bcb7e4c0dc_b.jpg "La cover completa di “The Dark Side of the Moon”")
-![La back cover di "The Dark Side of the Moon"](/wp-content/uploads/2023/02/the-dark-side-of-the-moon-back-cover.webp "La back cover di “The Dark Side of the Moon”")
-![La celebre copertina dell'album](https://ebdnkspzo5r.exactdn.com/wp-content/uploads/2023/02/Pink-Floyd-Dark-Side-Of-The-Moon-album.jpg "La celebre copertina dell’album")
+![I Pink Floyd live all' Earls Court nel 1973](/images/articoli/pink-floyd-the-dark-side-of-the-moon/DarkSideOfTheMoon1973.jpg "I Pink Floyd live all’ Earls Court nel 1973")
+![Storm Thorgerson con Roger Waters e David Gilmour](/images/articoli/pink-floyd-the-dark-side-of-the-moon/storm-thorgerson-david-gilmour-roger-waters.webp "Storm Thorgerson con Roger Waters e David Gilmour")
+![Syd Barrett e Roger Waters nel 1967](/images/articoli/pink-floyd-the-dark-side-of-the-moon/Syd-Barrett-e-Roger-Waters-1967.jpg "Syd Barrett e Roger Waters nel 1967")
+![La cover completa di "The Dark Side of the Moon"](/images/articoli/pink-floyd-the-dark-side-of-the-moon/5223925035_bcb7e4c0dc_b.jpg "La cover completa di “The Dark Side of the Moon”")
+![La back cover di "The Dark Side of the Moon"](/images/articoli/pink-floyd-the-dark-side-of-the-moon/the-dark-side-of-the-moon-back-cover.webp "La back cover di “The Dark Side of the Moon”")
+![La celebre copertina dell'album](https://ebdnkspzo5r.exactdn.com/images/articoli/pink-floyd-the-dark-side-of-the-moon/Pink-Floyd-Dark-Side-Of-The-Moon-album.jpg "La celebre copertina dell’album")

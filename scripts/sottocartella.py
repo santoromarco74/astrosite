@@ -28,4 +28,13 @@ RewriteRule ^feed/?$ {P}/rss.xml [R=301,L]
 RewriteRule ^category/([^/]+)/?$ {P}/$1/ [R=301,L]
 </IfModule>
 """)
+# redirect dalle vecchie immagini WordPress
+tsv=os.path.join(os.path.dirname(os.path.abspath(__file__)),"wp-redirects.tsv")
+if os.path.exists(tsv):
+    with open(os.path.join(dst,".htaccess"),"a") as h:
+        h.write("<IfModule mod_alias.c>\n")
+        for riga in open(tsv):
+            a,b=riga.rstrip("\n").split("\t")
+            h.write(f'Redirect 301 "{P}{a}" "{P}{b}"\n')
+        h.write("</IfModule>\n")
 print("ok",dst)

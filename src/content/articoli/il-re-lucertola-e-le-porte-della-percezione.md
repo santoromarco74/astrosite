@@ -20,7 +20,7 @@ tags:
 - the-end
 - ucla
 - waiting-for-the-sun
-cover: /wp-content/uploads/2021/05/The-Doors-insieme-900x900-1.webp
+cover: /images/articoli/il-re-lucertola-e-le-porte-della-percezione/The-Doors-insieme-900x900-1.webp
 coverAlt: The Doors insieme
 coverCredit: The Doors insieme
 draft: false
@@ -31,7 +31,7 @@ Non vi preoccupate, non stiamo parlando di un nuovo romanzo fantasy ma di quattr
 
 Il “*Re Lucertola*” non è nient’altro che il soprannome che si affibbiò [Jim Morrison](https://it.wikipedia.org/wiki/Jim_Morrison) e le *“Porte delle Percezione”* erano il suo gruppo, [The Doors](https://it.wikipedia.org/wiki/The_Doors).
 
-![Foto di gruppo dietro l'album "The Doors"](/wp-content/uploads/2021/05/The-Doors-dietro-album-644x362-1.jpg "Foto di gruppo dietro l’album “The Doors”")
+![Foto di gruppo dietro l'album "The Doors"](/images/articoli/il-re-lucertola-e-le-porte-della-percezione/The-Doors-dietro-album-644x362-1.jpg "Foto di gruppo dietro l’album “The Doors”")
 
 ## **Jim Morrison**
 
@@ -209,15 +209,15 @@ Oppure altri contributi come: (ne esistono centinaia ma ne ho scelto solo qualcu
 - *“*[*When You’re Strange*](https://amzn.to/3oamY8o)*”, il film di Tom DiCillo con il doppiaggio in italiano di Morgan (Blu Ray o DVD)*
 - [*“Thedoors.com”*](https://thedoors.com/)*: sito ufficiale della band.*
 
-![](/wp-content/uploads/2021/05/John-Densmore-oggi.jpg "John Densmore oggi")
-![Ray Manzarek nel 2012](/wp-content/uploads/2021/05/Ray_Manzarek_a_Milano_nel_2012.jpg "Ray Manzarek nel 2012")
-![Strange Days-The Doors](/wp-content/uploads/2021/01/Strange-Days-The-Doors.jpg "Strange Days-The Doors")
-![Foto di gruppo dietro l'album "The Doors"](/wp-content/uploads/2021/05/The-Doors-dietro-album-644x362-1.jpg "Foto di gruppo dietro l’album “The Doors”")
-![Foto di gruppo storica](/wp-content/uploads/2021/05/The-Doors-storica.jpg "Foto di gruppo storica")
-![Foto di gruppo The Doors](/wp-content/uploads/2021/05/The-Doors-in-gruppo.jpg "Foto di gruppo The Doors")
-![Jim Morrison ai tempi di Wight (1970)](/wp-content/uploads/2021/05/Jim-Morrison-isola-Wight.jpg "Jim Morrison ai tempi di Wight (1970)")
-![Jim Morrison e Pamela Courson](/wp-content/uploads/2021/05/Jim-e-Pamela.jpg "Jim Morrison e Pamela Courson")
-![Robby Krieger oggi](/wp-content/uploads/2021/05/Robby-Krieger-oggi.jpg "Robby Krieger oggi")
-![Jim in una delle sue performances](/wp-content/uploads/2021/05/Jim-sul-palco-scaled.jpg "Jim in una delle sue performances")
-![The Doors a colori](/wp-content/uploads/2021/05/The-Doors-a-colori-449x559-1.jpg "The Doors a colori")
-![The Doors insieme](/wp-content/uploads/2021/05/The-Doors-insieme-900x900-1.webp "The Doors insieme")
+![](/images/articoli/il-re-lucertola-e-le-porte-della-percezione/John-Densmore-oggi.jpg "John Densmore oggi")
+![Ray Manzarek nel 2012](/images/articoli/il-re-lucertola-e-le-porte-della-percezione/Ray_Manzarek_a_Milano_nel_2012.jpg "Ray Manzarek nel 2012")
+![Strange Days-The Doors](/images/articoli/il-re-lucertola-e-le-porte-della-percezione/Strange-Days-The-Doors.jpg "Strange Days-The Doors")
+![Foto di gruppo dietro l'album "The Doors"](/images/articoli/il-re-lucertola-e-le-porte-della-percezione/The-Doors-dietro-album-644x362-1.jpg "Foto di gruppo dietro l’album “The Doors”")
+![Foto di gruppo storica](/images/articoli/il-re-lucertola-e-le-porte-della-percezione/The-Doors-storica.jpg "Foto di gruppo storica")
+![Foto di gruppo The Doors](/images/articoli/il-re-lucertola-e-le-porte-della-percezione/The-Doors-in-gruppo.jpg "Foto di gruppo The Doors")
+![Jim Morrison ai tempi di Wight (1970)](/images/articoli/il-re-lucertola-e-le-porte-della-percezione/Jim-Morrison-isola-Wight.jpg "Jim Morrison ai tempi di Wight (1970)")
+![Jim Morrison e Pamela Courson](/images/articoli/il-re-lucertola-e-le-porte-della-percezione/Jim-e-Pamela.jpg "Jim Morrison e Pamela Courson")
+![Robby Krieger oggi](/images/articoli/il-re-lucertola-e-le-porte-della-percezione/Robby-Krieger-oggi.jpg "Robby Krieger oggi")
+![Jim in una delle sue performances](/images/articoli/il-re-lucertola-e-le-porte-della-percezione/Jim-sul-palco-scaled.jpg "Jim in una delle sue performances")
+![The Doors a colori](/images/articoli/il-re-lucertola-e-le-porte-della-percezione/The-Doors-a-colori-449x559-1.jpg "The Doors a colori")
+![The Doors insieme](/images/articoli/il-re-lucertola-e-le-porte-della-percezione/The-Doors-insieme-900x900-1.webp "The Doors insieme")

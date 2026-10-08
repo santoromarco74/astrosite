@@ -12,7 +12,7 @@ tags:
 - dreams
 - irlanda
 - noel-hogan
-cover: /wp-content/uploads/2022/09/Dolores-primo-piano.jpg
+cover: /images/articoli/dolores-oriordan-anima-fragile-dalla-voce-soave/Dolores-primo-piano.jpg
 coverAlt: Primo piano di Dolores
 coverCredit: Primo piano di Dolores
 draft: false
@@ -23,7 +23,7 @@ Il vasto panorama musicale, ma anche della vita di tutti i giorni, è tappezzato
 
 Ognuno ha i propri metodi per farlo, i più disparati, non sempre con risultati piacevoli.
 
-![](/wp-content/uploads/2022/09/Dolores-Riordan-live.jpg "Dolores dal vivo in concerto")
+![](/images/articoli/dolores-oriordan-anima-fragile-dalla-voce-soave/Dolores-Riordan-live.jpg "Dolores dal vivo in concerto")
 
 Deve averci provato fortemente anche la protagonista della nostra storia, Dolores, che in qualche modo per un pò ce l’ha fatta fino a che non le hanno presentato il conto finale.
 
@@ -107,10 +107,10 @@ La prematura scomparsa di Dolores O’Riordan per il mondo della musica è stata
 
 Quanto fosse voluto o accidentale il gesto di Dolores in quella camera d’albergo può saperlo solo lei, certo è che sarà impossibile trovare un’altra voce capace di farci emozionare come ha fatto lei in quegli anni.
 
-![Dolores in visita da Papa Wojtyla](/wp-content/uploads/2022/09/Dolores-in-visita-da-Papa-Woytila.webp "Dolores in visita da Papa Wojtyla")
-![](/wp-content/uploads/2022/09/Dolores-Riordan-live.jpg)
-![Dolores in concerto](/wp-content/uploads/2022/09/Dolores-ORiordan-905-675x904-1.jpg "Dolores in concerto")
-![The Cranberries](/wp-content/uploads/2022/09/The-Cranberries.jpg "The Cranberries")
-![The Cranberries in tour](/wp-content/uploads/2022/09/The-Cranberries-2.jpg "The Cranberries in tour")
-![Primo piano di Dolores](/wp-content/uploads/2022/09/Dolores-primo-piano.jpg "Primo piano di Dolores")
-![Dolores dal video di "Just My Imagination"](/wp-content/uploads/2022/09/Dolores-ORiordan-nel-video-di-Just-My-Immagination.webp "Dolores dal video di “Just My Imagination”")
+![Dolores in visita da Papa Wojtyla](/images/articoli/dolores-oriordan-anima-fragile-dalla-voce-soave/Dolores-in-visita-da-Papa-Woytila.webp "Dolores in visita da Papa Wojtyla")
+![](/images/articoli/dolores-oriordan-anima-fragile-dalla-voce-soave/Dolores-Riordan-live.jpg)
+![Dolores in concerto](/images/articoli/dolores-oriordan-anima-fragile-dalla-voce-soave/Dolores-ORiordan-905-675x904-1.jpg "Dolores in concerto")
+![The Cranberries](/images/articoli/dolores-oriordan-anima-fragile-dalla-voce-soave/The-Cranberries.jpg "The Cranberries")
+![The Cranberries in tour](/images/articoli/dolores-oriordan-anima-fragile-dalla-voce-soave/The-Cranberries-2.jpg "The Cranberries in tour")
+![Primo piano di Dolores](/images/articoli/dolores-oriordan-anima-fragile-dalla-voce-soave/Dolores-primo-piano.jpg "Primo piano di Dolores")
+![Dolores dal video di "Just My Imagination"](/images/articoli/dolores-oriordan-anima-fragile-dalla-voce-soave/Dolores-ORiordan-nel-video-di-Just-My-Immagination.webp "Dolores dal video di “Just My Imagination”")

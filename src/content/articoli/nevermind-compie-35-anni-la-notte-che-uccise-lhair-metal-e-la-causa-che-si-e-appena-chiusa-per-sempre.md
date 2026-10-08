@@ -7,7 +7,7 @@ updated: '2026-09-27'
 categories:
 - attualita
 tags: []
-cover: /wp-content/uploads/2026/09/copertina-nevermind-35-mural.jpg
+cover: /images/articoli/nevermind-compie-35-anni-la-notte-che-uccise-lhair-metal-e-la-causa-che-si-e-appena-chiusa-per-sempre/copertina-nevermind-35-mural.jpg
 coverAlt: Murale di Kurt Cobain dell'artista Akse P19 a Sidney Street, Manchester
 coverCredit: 'Il murale di Kurt Cobain dipinto da Akse P19 a Sidney Street, Manchester. Foto: Dunk / Flickr (CC BY 2.0)'
 draft: false

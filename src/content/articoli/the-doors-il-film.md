@@ -26,7 +26,7 @@ tags:
 - the-doors
 - tom-dicillo
 - val-kilmer
-cover: /wp-content/uploads/2021/06/Foto-di-gruppo-del-cast-di-The-Doors-1200x675-1.jpg
+cover: /images/articoli/the-doors-il-film/Foto-di-gruppo-del-cast-di-The-Doors-1200x675-1.jpg
 coverAlt: Foto di gruppo del cast di "The Doors"
 coverCredit: Foto di gruppo del cast di “The Doors”
 draft: false
@@ -37,7 +37,7 @@ A distanza di 20 anni dalla scomparsa del loro leader, [Jim Morrison](https://it
 
 L’idea
 
-![The Doors nel deserto - Primo piano](/wp-content/uploads/2021/06/The-Doors-nel-deserto-1.jpg "The Doors nel deserto – Primo piano")
+![The Doors nel deserto - Primo piano](/images/articoli/the-doors-il-film/The-Doors-nel-deserto-1.jpg "The Doors nel deserto – Primo piano")
 
 L’idea iniziale di realizzare un film biografico sui Doors cominciò a circolare all’inizio degli anni’80 e registi del calibro di [Brian De Palma](https://en.wikipedia.org/wiki/Brian_De_Palma) , [Martin Scorsese](https://en.wikipedia.org/wiki/Martin_Scorsese) e [William Friedkin](https://en.wikipedia.org/wiki/William_Friedkin) cominciarono ad accarezzare tale idea, se non che la [Columbia Pictures](https://it.wikipedia.org/wiki/Columbia_Pictures) nel 1985 acquistò i diritti dei Doors per poi rivenderli nel 1989 alla  [Carolco Pictures](https://en.wikipedia.org/wiki/Carolco_Pictures) di [Mario Kassar](https://en.wikipedia.org/wiki/Mario_Kassar) e [Andrew Vajna](https://en.wikipedia.org/wiki/Andrew_Vajna) , i quali per la realizzazione della pellicola vollero subito [Oliver Stone](https://it.wikipedia.org/wiki/Oliver_Stone) che, reduce da una serie di successi come [*Platoon*](https://it.wikipedia.org/wiki/Platoon), [*Nato il Quattro Luglio*](https://it.wikipedia.org/wiki/Nato_il_quattro_luglio_(film)) e [*Wall Street*](https://it.wikipedia.org/wiki/Wall_Street), aveva bisogno di una storia interessante con cui uscire dagli schemi convenzionali.
 [Oliver Stone](https://it.wikipedia.org/wiki/Oliver_Stone), nato nel 1946, era un grande fan di [Jim Morrison](/il-re-lucertola-e-le-porte-della-percezione/) ed ebbe il primo assaggio dei Doors quando aveva 21 anni, durante la sua esperienza nella [guerra del Vietnam](https://it.wikipedia.org/wiki/Guerra_del_Vietnam) dove, nei momenti di recupero dagli scontri, sperimentavano l’uso dell’[LSD](https://it.wikipedia.org/wiki/LSD) come un potente rilassante, e durante quel periodo era molto in voga la musica psichedelica, come quella dei Doors appunto, ma anche i [Jefferson Airplane](https://it.wikipedia.org/wiki/Jefferson_Airplane), i [Grateful Dead](https://it.wikipedia.org/wiki/Grateful_Dead) o i [Velvet Underground](https://it.wikipedia.org/wiki/The_Velvet_Underground).
@@ -247,10 +247,10 @@ Inoltre potete trovare gli album dei Doors ai seguenti indirizzi:
 - [The Very Best of The Doors;](https://amzn.to/2OASHBS)
 - [An American Prayer;](https://amzn.to/3l1m9gp)
 
-![The Doors nel deserto - panoramica](/wp-content/uploads/2021/06/The-Doors-nel-deserto-2.jpg "The Doors nel deserto")
-![Val Kilmer e Oliver Stone sul set](/wp-content/uploads/2021/06/Oliver-Stone-e-Val-Kilmer.jpg "Val Kilmer e Oliver Stone sul set")
-![La somiglianza tra Jim Morrison e Val Kilmer](/wp-content/uploads/2021/06/Confronto-Jim-Morrison-Val-Kilmer.jpg "La somiglianza tra Jim Morrison e Val Kilmer")
-![Kathleen Quinlan nel ruolo di Patricia Kennealy](/wp-content/uploads/2021/06/KathleenQuinlanSS05c.jpg "Kathleen Quinlan nel ruolo di Patricia Kennealy")
-![La locandina del film "The Doors"](/wp-content/uploads/2021/06/Doorsposter1991.jpg "La locandina del film “The Doors”")
-![](/wp-content/uploads/2021/06/Val-Kilmer-e-Meg-Ryan.jpg "Val Kilmer e Meg Ryan sul set")
-![La formazione originale dei Doors](/wp-content/uploads/2021/06/The-Doors-originali.jpg "La formazione originale dei Doors")
+![The Doors nel deserto - panoramica](/images/articoli/the-doors-il-film/The-Doors-nel-deserto-2.jpg "The Doors nel deserto")
+![Val Kilmer e Oliver Stone sul set](/images/articoli/the-doors-il-film/Oliver-Stone-e-Val-Kilmer.jpg "Val Kilmer e Oliver Stone sul set")
+![La somiglianza tra Jim Morrison e Val Kilmer](/images/articoli/the-doors-il-film/Confronto-Jim-Morrison-Val-Kilmer.jpg "La somiglianza tra Jim Morrison e Val Kilmer")
+![Kathleen Quinlan nel ruolo di Patricia Kennealy](/images/articoli/the-doors-il-film/KathleenQuinlanSS05c.jpg "Kathleen Quinlan nel ruolo di Patricia Kennealy")
+![La locandina del film "The Doors"](/images/articoli/the-doors-il-film/Doorsposter1991.jpg "La locandina del film “The Doors”")
+![](/images/articoli/the-doors-il-film/Val-Kilmer-e-Meg-Ryan.jpg "Val Kilmer e Meg Ryan sul set")
+![La formazione originale dei Doors](/images/articoli/the-doors-il-film/The-Doors-originali.jpg "La formazione originale dei Doors")

@@ -6,7 +6,7 @@ updated: '2022-08-12'
 categories:
 - storie
 tags: []
-cover: /wp-content/uploads/2022/07/Chris-Cornell-and-Chester-Bennington.jpg
+cover: /images/articoli/chris-e-chester-amici-fino-alla-fine-e-oltre/Chris-Cornell-and-Chester-Bennington.jpg
 coverAlt: Chris Cornell e Chester Bennington sul palco insieme
 coverCredit: Chris Cornell e Chester Bennington sul palco insieme
 draft: false
@@ -111,8 +111,8 @@ Fu così che neanche Chester rimase immune a questa “regola”, e il giorno in
 
 Chester così lascia sgomenti le sue due mogli e sei figli, nonché i suoi amici nei Linkin Park e tutti i suoi fan, ma finalmente può raggiungere il suo adorato amico la cui scomparsa lo aveva profondamente segnato.
 
-![Chris Cornell e Chester Bennington sul palco insieme](/wp-content/uploads/2022/07/Chris-Cornell-and-Chester-Bennington.jpg "Chris Cornell e Chester Bennington sul palco insieme")
-![Chester Bennington in concerto 30 agosto 2014 a Clarkston](/wp-content/uploads/2022/07/Chester-in-concerto-30-agosto-2014-Clarkston.jpg "Chester Bennington in concerto 30 agosto 2014 a Clarkston")
-![Chris e Chester insieme](/wp-content/uploads/2022/07/Chester-Chris.jpg "Chris e Chester insieme")
-![Chester al funerale di Chris Cornell](/wp-content/uploads/2022/07/Chester-al-funerale-di-Chris.jpg "Chester al funerale di Chris Cornell")
-![Chris Cornell](/wp-content/uploads/2022/07/Chris-on-car.jpg "Chris Cornell")
+![Chris Cornell e Chester Bennington sul palco insieme](/images/articoli/chris-e-chester-amici-fino-alla-fine-e-oltre/Chris-Cornell-and-Chester-Bennington.jpg "Chris Cornell e Chester Bennington sul palco insieme")
+![Chester Bennington in concerto 30 agosto 2014 a Clarkston](/images/articoli/chris-e-chester-amici-fino-alla-fine-e-oltre/Chester-in-concerto-30-agosto-2014-Clarkston.jpg "Chester Bennington in concerto 30 agosto 2014 a Clarkston")
+![Chris e Chester insieme](/images/articoli/chris-e-chester-amici-fino-alla-fine-e-oltre/Chester-Chris.jpg "Chris e Chester insieme")
+![Chester al funerale di Chris Cornell](/images/articoli/chris-e-chester-amici-fino-alla-fine-e-oltre/Chester-al-funerale-di-Chris.jpg "Chester al funerale di Chris Cornell")
+![Chris Cornell](/images/articoli/chris-e-chester-amici-fino-alla-fine-e-oltre/Chris-on-car.jpg "Chris Cornell")

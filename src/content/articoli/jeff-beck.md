@@ -11,7 +11,7 @@ tags:
 - jimmy-page
 - morte
 - yardbirds
-cover: /wp-content/uploads/2023/01/14628561335_83c7452b09_c.jpg
+cover: /images/articoli/jeff-beck/14628561335_83c7452b09_c.jpg
 coverAlt: La leggenda di Jeff Beck
 draft: false
 wpId: 3280
@@ -21,7 +21,7 @@ Il leggendario chitarrista rock Jeff Beck ci ha lasciato lascia all’età di 78
 
 Con lui se ne va un altro pezzo di storia della musica di tutti i tempi e un artista dalle doti fuori dal comune, capace di performance memorabili ma a causa del suo carattere un po ‘ bizzoso anche di prestazioni deludenti.
 
-![](/wp-content/uploads/2023/01/Jeff_Beck_1.jpg)
+![](/images/articoli/jeff-beck/Jeff_Beck_1.jpg)
 
 ## Gli inizi con gli Yardbirds
 
@@ -59,7 +59,7 @@ Non per niente, un altro chitarrista che adoro, [David Gilmour](https://it.wikip
 
 E’ questo il destino delle leggende come Jeff Beck, rimanere di ispirazione ed ammirazione per le generazioni future ed è proprio questo che li rende immortali.
 
-![](/wp-content/uploads/2023/01/Jeff_Beck_2009_MOJO_Awards.jpg)
-![](/wp-content/uploads/2023/01/4783113444_7e666a0a7e_b.jpg)
-![](/wp-content/uploads/2023/01/14628561335_83c7452b09_c.jpg)
-![](/wp-content/uploads/2023/01/Jeff_Beck_1.jpg)
+![](/images/articoli/jeff-beck/Jeff_Beck_2009_MOJO_Awards.jpg)
+![](/images/articoli/jeff-beck/4783113444_7e666a0a7e_b.jpg)
+![](/images/articoli/jeff-beck/14628561335_83c7452b09_c.jpg)
+![](/images/articoli/jeff-beck/Jeff_Beck_1.jpg)

@@ -16,7 +16,7 @@ tags:
 - technics
 - vinile
 - vinyl
-cover: /wp-content/uploads/2021/01/coffe-music.jpg
+cover: /images/articoli/la-magia-del-vinile-ai-giorni-nostri/coffe-music.jpg
 coverAlt: Coffe & music
 coverCredit: Coffe & music
 draft: false
@@ -27,7 +27,7 @@ Chiunque abbia almeno una trentina di anni sa di cosa stiamo parlando, la magia 
 
 Ai più potrebbe sembrare “un’ operazione nostalgia”, e forse un po’ lo è, ma il bello è che anche i più giovani stanno scoprendo questo mezzo di ascolto, questo atto di amore verso la musica, non solo legata a sterili smartphone ma anche ad un bel suono caldo che rende particolare qualsiasi atmosfera.
 
-![old vinyl record](/wp-content/uploads/2021/01/old-vinyl-record.jpg)
+![old vinyl record](/images/articoli/la-magia-del-vinile-ai-giorni-nostri/old-vinyl-record.jpg)
 
 ## Descrizione
 
@@ -116,13 +116,13 @@ Questo “rito” sicuramente vi ricongiungerà un po’ con la musica, e vi pos
 
 Qui sotto potete infine trovare una piccola galleria di album leggendari le cui copertine hanno contribuito a renderli indimenticabili e iconici e lo saranno ancora negli anni a venire.
 
-![Sgt. Pepper's Lonely Hearts Club Band - The Beatles](/wp-content/uploads/2021/01/Sgt.-Peppers-Lonely-Hearts-Club-Band-The-Beatles.jpg "Sgt. Pepper’s Lonely Hearts Club Band – The Beatles")
-![Unknown Pleasure - Joy Division](/wp-content/uploads/2021/01/unknown-pleasures-joy-division-copertina-600x600-1.webp "Unknown Pleasure – Joy Division")
-![The Velvet Underground & Nico - Velvet Underground](/wp-content/uploads/2021/01/The-Velvet-Underground-Nico-The-Velvet-Underground.jpg "The Velvet Underground & Nico – Velvet Underground")
-![The Dark Side of The Moon - Pink Floyd](/wp-content/uploads/2021/01/The-Dark-Side-Of-The-Moon-Pink-Floyd-2.jpg "The Dark Side of The Moon – Pink Floyd")
-![Strange Days-The Doors](/wp-content/uploads/2021/01/Strange-Days-The-Doors.jpg "Strange Days-The Doors")
-![In the Court of the Crimson King - King Crimson](/wp-content/uploads/2021/01/Copertina-In-the-court-crimson-king.webp "In the Court of the Crimson King – King Crimson")
-![Abbey Road - Beatles](/wp-content/uploads/2021/01/abbey_road_beatles-600x600-1.webp "Abbey Road – Beatles")
-![Raccolta delle copertine dei Led Zeppelin](/wp-content/uploads/2021/01/Copertine-LP-Led-Zeppelin.jpg "Raccolta delle copertine dei Led Zeppelin")
-![Atom Heart Mother - Pink Floyd](/wp-content/uploads/2021/01/atom-heart-mother-copertina-600x600-1.webp "Atom Heart Mother – Pink Floyd")
-![Axis: Bold As Love-The Jimi Hendrix Experience](/wp-content/uploads/2021/01/Axis-Bold-As-Love-The-Jimi-Hendrix-Experience.jpg "Axis: Bold As Love-The Jimi Hendrix Experience")
+![Sgt. Pepper's Lonely Hearts Club Band - The Beatles](/images/articoli/la-magia-del-vinile-ai-giorni-nostri/Sgt.-Peppers-Lonely-Hearts-Club-Band-The-Beatles.jpg "Sgt. Pepper’s Lonely Hearts Club Band – The Beatles")
+![Unknown Pleasure - Joy Division](/images/articoli/la-magia-del-vinile-ai-giorni-nostri/unknown-pleasures-joy-division-copertina-600x600-1.webp "Unknown Pleasure – Joy Division")
+![The Velvet Underground & Nico - Velvet Underground](/images/articoli/la-magia-del-vinile-ai-giorni-nostri/The-Velvet-Underground-Nico-The-Velvet-Underground.jpg "The Velvet Underground & Nico – Velvet Underground")
+![The Dark Side of The Moon - Pink Floyd](/images/articoli/la-magia-del-vinile-ai-giorni-nostri/The-Dark-Side-Of-The-Moon-Pink-Floyd-2.jpg "The Dark Side of The Moon – Pink Floyd")
+![Strange Days-The Doors](/images/articoli/la-magia-del-vinile-ai-giorni-nostri/Strange-Days-The-Doors.jpg "Strange Days-The Doors")
+![In the Court of the Crimson King - King Crimson](/images/articoli/la-magia-del-vinile-ai-giorni-nostri/Copertina-In-the-court-crimson-king.webp "In the Court of the Crimson King – King Crimson")
+![Abbey Road - Beatles](/images/articoli/la-magia-del-vinile-ai-giorni-nostri/abbey_road_beatles-600x600-1.webp "Abbey Road – Beatles")
+![Raccolta delle copertine dei Led Zeppelin](/images/articoli/la-magia-del-vinile-ai-giorni-nostri/Copertine-LP-Led-Zeppelin.jpg "Raccolta delle copertine dei Led Zeppelin")
+![Atom Heart Mother - Pink Floyd](/images/articoli/la-magia-del-vinile-ai-giorni-nostri/atom-heart-mother-copertina-600x600-1.webp "Atom Heart Mother – Pink Floyd")
+![Axis: Bold As Love-The Jimi Hendrix Experience](/images/articoli/la-magia-del-vinile-ai-giorni-nostri/Axis-Bold-As-Love-The-Jimi-Hendrix-Experience.jpg "Axis: Bold As Love-The Jimi Hendrix Experience")

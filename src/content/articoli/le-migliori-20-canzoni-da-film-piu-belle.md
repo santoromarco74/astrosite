@@ -11,7 +11,7 @@ tags:
 - golden-globe
 - musica-oscar
 - oscar
-cover: /wp-content/uploads/2022/04/Depositphotos_85209372_S.jpg
+cover: /images/articoli/le-migliori-20-canzoni-da-film-piu-belle/Depositphotos_85209372_S.jpg
 coverAlt: Le migliori 20 canzoni da film più belle di sempre
 draft: false
 wpId: 3046
@@ -21,7 +21,7 @@ Sono passate da poche settimane le premiazioni per gli Oscar e i Golden Globe 20
 
 Una colonna sonora spesso nasce dalla mente di un compositore, che ne scrive le musiche personalmente, di cui ad esempio il maestro [Ennio Morricone](https://it.wikipedia.org/wiki/Ennio_Morricone) ne ha fatto una filosofia di vita.
 
-![](/wp-content/uploads/2022/04/Depositphotos_26274551_S.jpg)
+![](/images/articoli/le-migliori-20-canzoni-da-film-piu-belle/Depositphotos_26274551_S.jpg)
 
 Poi invece ci sono quelle canzoni, che magari appartengono ad altri autori, spesso sconosciuti, ma che vengono utilizzate per accompagnare una determinata scena, ed è qui che ne diventa la colonna sonora a tutti gli effetti.
 

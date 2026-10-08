@@ -12,7 +12,7 @@ tags:
 - kurt-cobain
 - nevermind
 - nirvana
-cover: /wp-content/uploads/2022/09/Copertina-Nevermind.jpg
+cover: /images/articoli/nirvana-nevermind/Copertina-Nevermind.jpg
 coverAlt: L'iconica copertina di Nevermind
 coverCredit: L’iconica copertina di Nevermind
 draft: false
@@ -164,8 +164,8 @@ A seguire verranno pubblicati diversi album e raccolte postumi; quello più sign
 
 Tutto questo ha finito per travolgere la bellezza dell’album, come ha fatto con Cobain, trasformando tutto in un evento mercificato nel nome dello show business, distogliendo lo sguardo da quello che ha veramente rappresentato e continua a rappresentare per chi lo ha vissuto o per chi ancora oggi ha voglia di scoprirlo.
 
-![I Nirvana del 1989 con Chad Channing (a destra)](/wp-content/uploads/2022/09/nirvana-1989-con-channing.webp "I Nirvana del 1989 con Chad Channing (a destra)")
-![I Nirvana nel 1990 con Dave Grohl](/wp-content/uploads/2022/09/Nirvana-nel-1990.webp "I Nirvana nel 1990 con Dave Grohl")
-![I Nirvana](/wp-content/uploads/2022/09/nirvana-belli.jpg "I Nirvana")
-![L'iconica copertina di Nevermind](/wp-content/uploads/2022/09/Copertina-Nevermind.jpg "L’iconica copertina di Nevermind")
-![](/wp-content/uploads/2022/09/Kurt-Cobain.webp)
+![I Nirvana del 1989 con Chad Channing (a destra)](/images/articoli/nirvana-nevermind/nirvana-1989-con-channing.webp "I Nirvana del 1989 con Chad Channing (a destra)")
+![I Nirvana nel 1990 con Dave Grohl](/images/articoli/nirvana-nevermind/Nirvana-nel-1990.webp "I Nirvana nel 1990 con Dave Grohl")
+![I Nirvana](/images/articoli/nirvana-nevermind/nirvana-belli.jpg "I Nirvana")
+![L'iconica copertina di Nevermind](/images/articoli/nirvana-nevermind/Copertina-Nevermind.jpg "L’iconica copertina di Nevermind")
+![](/images/articoli/nirvana-nevermind/Kurt-Cobain.webp)

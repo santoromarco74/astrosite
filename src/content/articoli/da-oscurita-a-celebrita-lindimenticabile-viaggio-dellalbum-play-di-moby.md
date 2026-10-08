@@ -13,7 +13,7 @@ tags:
 - moby
 - new-york
 - play
-cover: /wp-content/uploads/2023/05/Play-Moby-cover.jpg
+cover: /images/articoli/da-oscurita-a-celebrita-lindimenticabile-viaggio-dellalbum-play-di-moby/Play-Moby-cover.jpg
 coverAlt: La cover dell'album "Play" di Moby
 coverCredit: La cover dell’album “Play” di Moby
 draft: false

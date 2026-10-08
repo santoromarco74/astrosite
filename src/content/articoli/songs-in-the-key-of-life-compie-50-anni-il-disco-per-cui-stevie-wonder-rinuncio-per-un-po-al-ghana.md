@@ -8,7 +8,7 @@ categories:
 tags:
 - stevie-wonder
 - songs-in-the-key-of-life
-cover: /images/articoli/stevie-wonder-drammenshallen-1981.jpg
+cover: /images/articoli/songs-in-the-key-of-life-compie-50-anni-il-disco-per-cui-stevie-wonder-rinuncio-per-un-po-al-ghana/stevie-wonder-drammenshallen-1981.jpg
 coverAlt: 'Stevie Wonder sul palco con occhiali da sole, sorridente e con le mani alzate, insieme alla sua band durante un concerto del 1981'
 coverCredit: 'Stevie Wonder (al centro) con la sua band alla Drammenshallen di Drammen, Norvegia, nel maggio 1981. Foto: Kåre Eide / Nasjonalbiblioteket, via Wikimedia Commons (CC0)'
 draft: false

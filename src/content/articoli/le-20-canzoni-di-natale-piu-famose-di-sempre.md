@@ -14,7 +14,7 @@ tags:
 - last-christmas
 - natale
 - white
-cover: /wp-content/uploads/2022/12/Depositphotos_129905336_S.jpg
+cover: /images/articoli/le-20-canzoni-di-natale-piu-famose-di-sempre/Depositphotos_129905336_S.jpg
 coverAlt: Le 20 canzoni di Natale più famose di sempre
 draft: false
 wpId: 3265

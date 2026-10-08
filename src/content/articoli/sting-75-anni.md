@@ -11,7 +11,7 @@ tags:
 - stewart-copeland
 - andy-summers
 - punk
-cover: /images/articoli/sting-police-atlanta-1979.jpg
+cover: /images/articoli/sting-75-anni/sting-police-atlanta-1979.jpg
 coverAlt: 'Sting in bianco e nero canta al microfono suonando il basso durante un concerto dei Police nel 1979'
 coverCredit: 'Sting con i Police all’Agora Ballroom di Atlanta, il 27 aprile 1979. Foto: Acroterion, via Wikimedia Commons (CC BY-SA 4.0)'
 draft: false

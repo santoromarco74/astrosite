@@ -20,7 +20,7 @@ tags:
 - re-cremisi
 - robert-fripp
 - rock-progressivo
-cover: /wp-content/uploads/2021/10/Cover-King-Crimson-In-the-Court-of-the-Crimson-King-e1642153321660.jpg
+cover: /images/articoli/king-crimson-in-the-court-of-crimson-king/Cover-King-Crimson-In-the-Court-of-the-Crimson-King-e1642153321660.jpg
 coverAlt: La cover del disco ITCOTCK
 coverCredit: La cover del disco ITCOTCK
 draft: false
@@ -206,8 +206,8 @@ Se volete approfondire potete consultare i seguenti contenuti:
 - [“*In the Court of Crimson King” – King Crimson*](https://amzn.to/3vb20tz) – (CD, vinile)
 - [DGM Live](https://www.dgmlive.com/king-crimson/kc-i-court) – Sito ufficiale di Robert Fripp che raccoglie tutti i contenuti dei King Crimson.
 
-![](/wp-content/uploads/2021/10/Cover-edizione-50-anni-album.jpg "La cover del disco celebrativo con le foto dei membri della band")
-![La formazione dei King Crimson al completo](/wp-content/uploads/2021/10/Formazione-King-Crimson.jpg "La formazione dei King Crimson al completo")
-![Barry Godber e la sua copertina](/wp-content/uploads/2021/10/Barry-Godber-e-la-sua-copertina.jpg "Barry Godber e la sua copertina")
-![Il leaflet completo del disco ITCOTCK](/wp-content/uploads/2021/10/ITCOTCK-in-and-out.jpg "Il leaflet completo del disco ITCOTCK")
-![I King Crimson al concerto a Hyde Park](/wp-content/uploads/2021/10/King-Crimson-Hyde-Park-69.jpg "I King Crimson al concerto a Hyde Park")
+![](/images/articoli/king-crimson-in-the-court-of-crimson-king/Cover-edizione-50-anni-album.jpg "La cover del disco celebrativo con le foto dei membri della band")
+![La formazione dei King Crimson al completo](/images/articoli/king-crimson-in-the-court-of-crimson-king/Formazione-King-Crimson.jpg "La formazione dei King Crimson al completo")
+![Barry Godber e la sua copertina](/images/articoli/king-crimson-in-the-court-of-crimson-king/Barry-Godber-e-la-sua-copertina.jpg "Barry Godber e la sua copertina")
+![Il leaflet completo del disco ITCOTCK](/images/articoli/king-crimson-in-the-court-of-crimson-king/ITCOTCK-in-and-out.jpg "Il leaflet completo del disco ITCOTCK")
+![I King Crimson al concerto a Hyde Park](/images/articoli/king-crimson-in-the-court-of-crimson-king/King-Crimson-Hyde-Park-69.jpg "I King Crimson al concerto a Hyde Park")

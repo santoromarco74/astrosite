@@ -15,7 +15,7 @@ tags:
 - susan-sarandon
 - tim-curry
 - time-warp
-cover: /wp-content/uploads/2021/01/locandina-rocky-horror-large-e1618600630695.jpg
+cover: /images/articoli/rocky-horror-picture-show/locandina-rocky-horror-large-e1618600630695.jpg
 coverAlt: Locandina del film The Rocky Horror Picture Show
 coverCredit: Locandina del film The Rocky Horror Picture Show
 draft: false
@@ -44,7 +44,7 @@ Si dice che il leader dei [Rolling Stones](https://it.wikipedia.org/wiki/The_Rol
 
 ## La trama
 
-![](/wp-content/uploads/2021/01/RHPS-Cover.jpeg)
+![](/images/articoli/rocky-horror-picture-show/RHPS-Cover.jpeg)
 
 La storia inizia con due giovani americani, [Brad Majors](https://it.wikipedia.org/wiki/Brad_Majors) e [Janet Weiss](https://it.wikipedia.org/wiki/Janet_Weiss_(personaggio)), che si trovano al matrimonio dei loro amici. Dopo la cerimonia, siccome Brad chiede a Janet di sposarlo e lei accetta, decidono di recarsi dal [Dr. Scott](https://it.wikipedia.org/wiki/Dr._Everett_Scott), dato che si sono conosciuti mentre frequentavano il suo corso universitario. A causa di un violento temporale però, decidono dunque di tornare indietro, ma sono costretti a cercare aiuto in un castello lungo la strada, causa foratura di una gomma.
 
@@ -145,9 +145,9 @@ Il film nel tempo è riuscito a creare uno stuolo immenso di seguaci che, indoss
 
 Se ne volete approfondire la conoscenza, potete acquistare su Amazon il film [a questo indirizzo](https://amzn.to/3cOm91x) mentre potete trovare [a questo](https://amzn.to/2Mm0xid) la colonna sonora originale.
 
-![Sweet Travenstite - Rocky Horror Picture Show](/wp-content/uploads/2020/12/rocky-horror-picture-show-sweet-trav-e1612122355634.jpeg "Sweet Travenstite – Rocky Horror Picture Show")
-![La locandina di The Rocky Horror Picture Show](/wp-content/uploads/2020/12/locandina-rocky-horror-picture-show-e1611871681607.jpeg "La locandina di The Rocky Horror Picture Show")
-![L'Oakley Court Hotel - Londra](/wp-content/uploads/2020/12/country-hotel-rhps-e1612122648182.jpg "L’Oakley Court Hotel – Londra dove è stato girato il Rocky Horror Picture Show")
-![Reunion cast Rocky Horror 40 anni dopo](/wp-content/uploads/2021/01/40-anni-rocky-horror-picture-show-reunion-cast-1280x720-1-e1612124681334.jpg "Reunion cast Rocky Horror 40 anni dopo")
-![Riff Raff interpretato da Richard O'Brien](/wp-content/uploads/2021/01/riff-raff1.jpg "Riff Raff interpretato da Richard O’Brien")
-![Time Warp al Rocky Horror Picture Show](/wp-content/uploads/2021/01/Rockyhorror-Time-Warp-e1612124541776.jpg "Time Warp al Rocky Horror Picture Show")
+![Sweet Travenstite - Rocky Horror Picture Show](/images/articoli/rocky-horror-picture-show/rocky-horror-picture-show-sweet-trav-e1612122355634.jpeg "Sweet Travenstite – Rocky Horror Picture Show")
+![La locandina di The Rocky Horror Picture Show](/images/articoli/rocky-horror-picture-show/locandina-rocky-horror-picture-show-e1611871681607.jpeg "La locandina di The Rocky Horror Picture Show")
+![L'Oakley Court Hotel - Londra](/images/articoli/rocky-horror-picture-show/country-hotel-rhps-e1612122648182.jpg "L’Oakley Court Hotel – Londra dove è stato girato il Rocky Horror Picture Show")
+![Reunion cast Rocky Horror 40 anni dopo](/images/articoli/rocky-horror-picture-show/40-anni-rocky-horror-picture-show-reunion-cast-1280x720-1-e1612124681334.jpg "Reunion cast Rocky Horror 40 anni dopo")
+![Riff Raff interpretato da Richard O'Brien](/images/articoli/rocky-horror-picture-show/riff-raff1.jpg "Riff Raff interpretato da Richard O’Brien")
+![Time Warp al Rocky Horror Picture Show](/images/articoli/rocky-horror-picture-show/Rockyhorror-Time-Warp-e1612124541776.jpg "Time Warp al Rocky Horror Picture Show")

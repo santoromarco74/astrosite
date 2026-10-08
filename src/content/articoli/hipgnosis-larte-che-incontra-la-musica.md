@@ -24,7 +24,7 @@ tags:
 - the-wall
 - vinile
 - vinyl
-cover: /wp-content/uploads/2021/11/Storm-e-Aubrey-anni-2000.jpg
+cover: /images/articoli/hipgnosis-larte-che-incontra-la-musica/Storm-e-Aubrey-anni-2000.jpg
 coverAlt: Storrm Thorgerson e Aubrey Powell negli anni 2000
 coverCredit: Storrm Thorgerson e Aubrey Powell negli anni 2000
 draft: false
@@ -35,7 +35,7 @@ Nell’angolo dei nostri ricordi musicali hanno sempre avuto un’importanza par
 
 Ed è proprio su questo aspetto fondamentale che la [Hipgnosis](https://it.wikipedia.org/wiki/Hipgnosis) di [Aubrey Powell](https://en.wikipedia.org/wiki/Aubrey_Powell_(designer)) e [Storm Thorgerson](https://it.wikipedia.org/wiki/Storm_Thorgerson) ne hanno fatto una vera e propria arte, capace di incuriosire, illustrare e alla fine colpire qualsiasi appassionato di musica con le loro celebri copertine ed annessi [gatefold](https://en.wikipedia.org/wiki/Gatefold) (la parte interna apribile della copertina del vinile)
 
-![Primo piano di Storm Thorgerson](/wp-content/uploads/2021/11/Storm-Thorgerson-Hipgnosis.jpg "Primo piano di Storm Thorgerson")
+![Primo piano di Storm Thorgerson](/images/articoli/hipgnosis-larte-che-incontra-la-musica/Storm-Thorgerson-Hipgnosis.jpg "Primo piano di Storm Thorgerson")
 
 In circa 15 anni di attività, la Hipgnosis ha illustrato circa 480 cover di album ([qui la lista completa](https://en.wikipedia.org/wiki/Category:Album_covers_by_Hipgnosis)) dei più importanti artisti di tutti i tempi, affascinando con le loro idee non sempre di facile interpretazione ma sicuramente di forte impatto e capaci di rimanere per sempre nella mente degli ascoltatori.
 
@@ -150,16 +150,16 @@ Se volete approfondire esistono pubblicazioni molto interessanti che raccolgono 
 - “*[Hipgnosis / Portraits](https://amzn.to/3HEahfc)*” di Aubrey Powell
 - *“*[*For the Love of Vinyl: The Album Art of Hipgnosis: Storm Thorgerson & Aubrey Powell*“](https://amzn.to/3nCwLpe)
 
-![Le 8 copertine più belle dei Pink Floyd](/wp-content/uploads/2021/11/8-cover-pink-floyd.jpg "Le 8 copertine più belle dei Pink Floyd")
-![Il dettaglio della copertina di "Wish You Were Here"](/wp-content/uploads/2021/11/Dettaglio-Copertina-Wish-You-Were-Here.jpg "Il dettaglio della copertina di “Wish You Were Here”")
-![La sequenza degli scatti della copertina di "Wish You Were Here"](/wp-content/uploads/2021/11/La-sequenza-della-copertina-di-Wish-You-Were-Here.jpg "La sequenza degli scatti della copertina di “Wish You Were Here”")
-![Il biglietto da visita degli esordi della Hipgnosis](/wp-content/uploads/2021/11/Hipgnosiscard.jpg "Il biglietto da visita degli esordi della Hipgnosis")
-![Storrm Thorgerson e Aubrey Powell negli anni 2000](/wp-content/uploads/2021/11/Storm-e-Aubrey-anni-2000.jpg "Storrm Thorgerson e Aubrey Powell negli anni 2000")
-![Le sei variazioni di "In Through the Out Door" dei Led Zeppelin](/wp-content/uploads/2021/11/In-Through-the-Out-Door-variations.jpg "Le sei variazioni di “In Through the Out Door” dei Led Zeppelin")
-![La prima copertina - "A Saucerful of Secrets" dei Pink-Floyd -1967](/wp-content/uploads/2021/11/A-Saucerful-of-Secrets-cover.jpg "La prima copertina – “A Saucerful of Secrets” dei Pink-Floyd -1967")
-![La copertina di "A Momentary Lapse of Reason" dei Pink-Floyd -1987](/wp-content/uploads/2021/11/Pink-Floyd-A-Momentary-Lapse-Of-Reason-1987.jpg "La copertina di “A Momentary Lapse of Reason” dei Pink-Floyd -1987")
-![La copertina dell'album "Peter Gabriel" - 1980](/wp-content/uploads/2021/11/Peter-Gabriel-Peter-Gabriel-1980.jpg "La copertina dell’album “Peter Gabriel” – 1980")
-![La copertina di "Houses of the Holy" dei Led Zeppelin - 1973](/wp-content/uploads/2021/11/Led-Zeppelin-Houses-of-the-holy-1973.jpg "La copertina di “Houses of the Holy” dei Led Zeppelin – 1973")
-![Primo piano di Storm Thorgerson](/wp-content/uploads/2021/11/Storm-Thorgerson-Hipgnosis.jpg "Primo piano di Storm Thorgerson")
-![Storm Thorgerson e David Gilmour](/wp-content/uploads/2021/11/Thorgerson-e-Gilmour.jpg "Storm Thorgerson e David Gilmour")
-![Storm Thorgerson e Aubrey Powell anni '60](/wp-content/uploads/2021/11/storm-powell-giovani.jpg "Storm Thorgerson e Aubrey Powell anni ’60")
+![Le 8 copertine più belle dei Pink Floyd](/images/articoli/hipgnosis-larte-che-incontra-la-musica/8-cover-pink-floyd.jpg "Le 8 copertine più belle dei Pink Floyd")
+![Il dettaglio della copertina di "Wish You Were Here"](/images/articoli/hipgnosis-larte-che-incontra-la-musica/Dettaglio-Copertina-Wish-You-Were-Here.jpg "Il dettaglio della copertina di “Wish You Were Here”")
+![La sequenza degli scatti della copertina di "Wish You Were Here"](/images/articoli/hipgnosis-larte-che-incontra-la-musica/La-sequenza-della-copertina-di-Wish-You-Were-Here.jpg "La sequenza degli scatti della copertina di “Wish You Were Here”")
+![Il biglietto da visita degli esordi della Hipgnosis](/images/articoli/hipgnosis-larte-che-incontra-la-musica/Hipgnosiscard.jpg "Il biglietto da visita degli esordi della Hipgnosis")
+![Storrm Thorgerson e Aubrey Powell negli anni 2000](/images/articoli/hipgnosis-larte-che-incontra-la-musica/Storm-e-Aubrey-anni-2000.jpg "Storrm Thorgerson e Aubrey Powell negli anni 2000")
+![Le sei variazioni di "In Through the Out Door" dei Led Zeppelin](/images/articoli/hipgnosis-larte-che-incontra-la-musica/In-Through-the-Out-Door-variations.jpg "Le sei variazioni di “In Through the Out Door” dei Led Zeppelin")
+![La prima copertina - "A Saucerful of Secrets" dei Pink-Floyd -1967](/images/articoli/hipgnosis-larte-che-incontra-la-musica/A-Saucerful-of-Secrets-cover.jpg "La prima copertina – “A Saucerful of Secrets” dei Pink-Floyd -1967")
+![La copertina di "A Momentary Lapse of Reason" dei Pink-Floyd -1987](/images/articoli/hipgnosis-larte-che-incontra-la-musica/Pink-Floyd-A-Momentary-Lapse-Of-Reason-1987.jpg "La copertina di “A Momentary Lapse of Reason” dei Pink-Floyd -1987")
+![La copertina dell'album "Peter Gabriel" - 1980](/images/articoli/hipgnosis-larte-che-incontra-la-musica/Peter-Gabriel-Peter-Gabriel-1980.jpg "La copertina dell’album “Peter Gabriel” – 1980")
+![La copertina di "Houses of the Holy" dei Led Zeppelin - 1973](/images/articoli/hipgnosis-larte-che-incontra-la-musica/Led-Zeppelin-Houses-of-the-holy-1973.jpg "La copertina di “Houses of the Holy” dei Led Zeppelin – 1973")
+![Primo piano di Storm Thorgerson](/images/articoli/hipgnosis-larte-che-incontra-la-musica/Storm-Thorgerson-Hipgnosis.jpg "Primo piano di Storm Thorgerson")
+![Storm Thorgerson e David Gilmour](/images/articoli/hipgnosis-larte-che-incontra-la-musica/Thorgerson-e-Gilmour.jpg "Storm Thorgerson e David Gilmour")
+![Storm Thorgerson e Aubrey Powell anni '60](/images/articoli/hipgnosis-larte-che-incontra-la-musica/storm-powell-giovani.jpg "Storm Thorgerson e Aubrey Powell anni ’60")

@@ -46,7 +46,7 @@ export default config({
       schema: {
         title: fields.slug({ name: { label: 'Titolo' } }),
         updated: fields.date({ label: 'Ultimo aggiornamento' }),
-        content: fields.markdoc({ label: 'Testo', extension: 'md' }),
+        content: fields.markdoc({ label: 'Testo', extension: 'md', options: { image: { directory: 'public/images/pagine', publicPath: '/images/pagine/' } } }),
       },
     }),
   },

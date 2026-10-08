@@ -17,7 +17,7 @@ tags:
 - richey
 - richey-james-edwards
 - severn-bridge
-cover: /wp-content/uploads/2021/03/Richey-James-3-e1618600391249.jpeg
+cover: /images/articoli/quella-volta-che-richey-scomparve-per-sempre/Richey-James-3-e1618600391249.jpeg
 coverAlt: Richey Edwards sul palco
 coverCredit: Richey Edwards sul palco
 draft: false
@@ -28,7 +28,7 @@ Siamo a Londra, [Severn Bridge](https://it.wikipedia.org/wiki/Severn_Bridge), 17
 
 Quel Richey era [Richey “James” Edwards](https://it.wikipedia.org/wiki/Richey_Edwards), chitarrista ma soprattutto designer e autore di successo del gruppo di cui faceva parte, i [Manic Street Preachers](https://docs.google.com/document/d/1brdcdfuK7gSJOLF610rkRjMvrGLZBjQEN21yGK7JFyo/edit#heading=h.616aqp8r4ugk).
 
-![Richey James con la sua chitarra](/wp-content/uploads/2021/03/Richey-James-guitar.jpeg "Richey James con la sua chitarra")
+![Richey James con la sua chitarra](/images/articoli/quella-volta-che-richey-scomparve-per-sempre/Richey-James-guitar.jpeg "Richey James con la sua chitarra")
 
 ## I Manic Street Preachers
 
@@ -117,10 +117,10 @@ Potete infine trovare alcuni album dei Manics su Amazon:
 - [The Holy Bible](https://amzn.to/3cN03ux)
 - [Everything Must Go](https://amzn.to/3lyZPv1)
 
-![Richey Edwards - primo piano](/wp-content/uploads/2021/03/Richey-James.jpeg "Richey Edwards – primo piano")
-![Richey Edwards in studio](/wp-content/uploads/2021/03/Richey-James-696x463-1.jpeg "Richey Edwards intervistato nel 1992")
-![Richey Edwards esibizione](/wp-content/uploads/2021/03/Richey-James-552x368-1.jpeg "Richey Edwards esibizione")
-![Rachel Edwards, sorella di Richey](/wp-content/uploads/2021/03/Rachel-James.jpeg "Rachel Edwards, sorella di Richey")
-![Manics nei primi anni '90](/wp-content/uploads/2021/03/Manics-anni-90.jpeg "Manics nei primi anni ’90")
-![Altri Manics nei primi anni '90](/wp-content/uploads/2021/03/richey-edwards-manic-street-preachers-may-1992-1513872836-view-2.jpg "Sempre Manics ma in altre vesti")
-![Richey Edwards durante un'intervista](/wp-content/uploads/2021/03/Richey-James-primo.jpeg "Richey Edwards durante un’intervista alla TV olandese")
+![Richey Edwards - primo piano](/images/articoli/quella-volta-che-richey-scomparve-per-sempre/Richey-James.jpeg "Richey Edwards – primo piano")
+![Richey Edwards in studio](/images/articoli/quella-volta-che-richey-scomparve-per-sempre/Richey-James-696x463-1.jpeg "Richey Edwards intervistato nel 1992")
+![Richey Edwards esibizione](/images/articoli/quella-volta-che-richey-scomparve-per-sempre/Richey-James-552x368-1.jpeg "Richey Edwards esibizione")
+![Rachel Edwards, sorella di Richey](/images/articoli/quella-volta-che-richey-scomparve-per-sempre/Rachel-James.jpeg "Rachel Edwards, sorella di Richey")
+![Manics nei primi anni '90](/images/articoli/quella-volta-che-richey-scomparve-per-sempre/Manics-anni-90.jpeg "Manics nei primi anni ’90")
+![Altri Manics nei primi anni '90](/images/articoli/quella-volta-che-richey-scomparve-per-sempre/richey-edwards-manic-street-preachers-may-1992-1513872836-view-2.jpg "Sempre Manics ma in altre vesti")
+![Richey Edwards durante un'intervista](/images/articoli/quella-volta-che-richey-scomparve-per-sempre/Richey-James-primo.jpeg "Richey Edwards durante un’intervista alla TV olandese")
