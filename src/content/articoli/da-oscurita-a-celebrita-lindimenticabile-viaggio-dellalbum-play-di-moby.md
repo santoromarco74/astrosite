@@ -20,8 +20,6 @@ draft: false
 wpId: 3363
 ---
 
-![La cover dell'album "Play" di Moby](/wp-content/uploads/2023/05/Play-Moby-cover.jpg "La cover dell’album “Play” di Moby")
-
 ## Primi passi di Moby e all’album “Play”
 
 C’era una volta un uomo di nome Richard Melville Hall, noto anche come Moby. Questo artista americano ha sfondato nel mondo della musica elettronica grazie al suo innovativo album “Play”. Rilasciato nel 1999, “Play” è diventato uno degli album più venduti di tutti i tempi, con oltre 12 milioni di copie vendute in tutto il mondo. Ma come si è svolto questo incredibile viaggio dall’oscurità alla celebrità? E quale è l’eredità di questo straordinario album? In questo articolo, esploreremo la storia dietro “Play” e come ha cambiato per sempre il panorama musicale. Gli anni iniziali della carriera di Moby

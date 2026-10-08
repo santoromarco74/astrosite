@@ -28,8 +28,6 @@ draft: false
 wpId: 480
 ---
 
-![La copertina DVD The Wall](/wp-content/uploads/2021/04/Copertina-DVD-The-Wall-1.jpg "La copertina DVD The Wall")
-
 > “The memories
 >
 > The madness
@@ -43,6 +41,8 @@ wpId: 480
 > dal trailer del film “Pink Floyd – the wall”
 
 Nel [post precedente](/pink-floyd-the-wall/) abbiamo parlato della nascita e della creazione dell’opera rock in assoluto dei [Pink Floyd](https://it.wikipedia.org/wiki/Pink_Floyd), l’album *“[The Wall](https://it.wikipedia.org/wiki/The_Wall)“*.
+
+![La copertina DVD The Wall](/wp-content/uploads/2021/04/Copertina-DVD-The-Wall-1.jpg "La copertina DVD The Wall")
 
 Adesso andremo a raccontare della nascita del film ad esso ispirato , “[Pink Floyd The Wall – The Movie](https://en.wikipedia.org/wiki/Pink_Floyd_%E2%80%93_The_Wall)” appunto.
 

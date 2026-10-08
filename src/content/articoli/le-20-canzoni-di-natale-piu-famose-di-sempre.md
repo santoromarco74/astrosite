@@ -20,8 +20,6 @@ draft: false
 wpId: 3265
 ---
 
-![](/wp-content/uploads/2022/12/Depositphotos_129905336_S-1.jpg)
-
 Anche quest’anno ci avviciniamo al Natale e non possiamo fare a meno di fischiettare le canzoncine di Natale che ossessivamente ci vengono riproposte; e nell’attesa dell’immancabile appuntamento con [*“Una poltrona per due”*](https://it.wikipedia.org/wiki/Una_poltrona_per_due)alla vigilia, ecco un piccolo ripasso delle canzoni più conosciute:
 
 1. “[*Oh Happy Day*](https://www.youtube.com/watch?v=olQrCfkvbGw)*”* : è una canzone gospel del XVII secolo e riproposta nel 1967 dagli [Edwin Hawkins Singers](https://it.wikipedia.org/wiki/Edwin_Hawkins) nell’album *Let Us Go into the House of the Lord* dello stesso anno. Erroneamente considerata una canzone di Natale e di Felice Anno Nuovo a causa di una nota pubblicità del 1980, “*Oh Happy Day*” è un canto dedicato alla conversione della chiesa protestante ma oramai, nonostante l’equivoco, accompagna le nostre feste puntualmente ogni anno.

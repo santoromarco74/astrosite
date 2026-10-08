@@ -29,8 +29,6 @@ draft: false
 wpId: 2614
 ---
 
-![Joe Strummer a New York](/wp-content/uploads/2021/08/Joe-Strummer-1.jpg)
-
 > *′′ Farò il possibile per creare più caos possibile, ma il mio caos è sempre di grande natura o ha un obiettivo positivo alla fine. Quando inizio a causare caos in una situazione è perché la situazione doveva davvero essere cambiata.”*
 >
 > *Joe Strummer*

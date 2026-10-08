@@ -24,11 +24,11 @@ draft: false
 wpId: 1570
 ---
 
-![Richey James con la sua chitarra](/wp-content/uploads/2021/03/Richey-James-guitar.jpeg "Richey James con la sua chitarra")
-
 Siamo a Londra, [Severn Bridge](https://it.wikipedia.org/wiki/Severn_Bridge), 17 febbraio 1995; la macchina di Richey viene trovata dalla polizia nella relativa area di servizio, parcheggiata e con qualche tagliando del parcheggio nel tergicristalli. Fu quella la prima occasione in cui venne presa in considerazione la scomparsa di Richey. Qualche giorno prima, il 1 febbraio 1991 Richey era stato visto uscire dall’Embassy Hotel di Londra alle 7 del mattino, come se nulla fosse.
 
 Quel Richey era [Richey “James” Edwards](https://it.wikipedia.org/wiki/Richey_Edwards), chitarrista ma soprattutto designer e autore di successo del gruppo di cui faceva parte, i [Manic Street Preachers](https://docs.google.com/document/d/1brdcdfuK7gSJOLF610rkRjMvrGLZBjQEN21yGK7JFyo/edit#heading=h.616aqp8r4ugk).
+
+![Richey James con la sua chitarra](/wp-content/uploads/2021/03/Richey-James-guitar.jpeg "Richey James con la sua chitarra")
 
 ## I Manic Street Preachers
 

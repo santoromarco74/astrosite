@@ -27,11 +27,11 @@ draft: false
 wpId: 2262
 ---
 
-![Foto di gruppo dietro l'album "The Doors"](/wp-content/uploads/2021/05/The-Doors-dietro-album-644x362-1.jpg "Foto di gruppo dietro l’album “The Doors”")
-
 Non vi preoccupate, non stiamo parlando di un nuovo romanzo fantasy ma di quattro ragazzi americani che nel 1965 formeranno un gruppo che in pochissimo tempo irromperà nel panorama rock e ne sconvolgerà completamente lo scenario.
 
 Il “*Re Lucertola*” non è nient’altro che il soprannome che si affibbiò [Jim Morrison](https://it.wikipedia.org/wiki/Jim_Morrison) e le *“Porte delle Percezione”* erano il suo gruppo, [The Doors](https://it.wikipedia.org/wiki/The_Doors).
+
+![Foto di gruppo dietro l'album "The Doors"](/wp-content/uploads/2021/05/The-Doors-dietro-album-644x362-1.jpg "Foto di gruppo dietro l’album “The Doors”")
 
 ## **Jim Morrison**
 

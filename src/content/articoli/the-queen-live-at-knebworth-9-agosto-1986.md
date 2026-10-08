@@ -34,9 +34,9 @@ draft: false
 wpId: 2555
 ---
 
-![Il mitico elicottero di Knebworth](/wp-content/uploads/2021/08/Il-mitico-elicottero-di-Knebworth.jpg "Il mitico elicottero di Knebworth")
-
 Estate 1986, precisamente agosto 1986, al [Knebworth Park](https://it.wikipedia.org/wiki/Knebworth) di [Stevenage](https://it.wikipedia.org/wiki/Stevenage), vicino [Londra](http://londra), si teneva l’ultima tappa del [*“Magic Tour”*](https://it.wikipedia.org/wiki/Magic_Tour), il più maestoso tour di tutti i tempi dei [Queen](https://it.wikipedia.org/wiki/Queen); nessuno sa però (neanche loro) che sarà l’ultima performance live dei Queen al completo, prima della scomparsa di [Freddie Mercury](https://it.wikipedia.org/wiki/Freddie_Mercury) e del ritiro di [John Deacon](https://it.wikipedia.org/wiki/John_Deacon).
+
+![Il mitico elicottero di Knebworth](/wp-content/uploads/2021/08/Il-mitico-elicottero-di-Knebworth.jpg "Il mitico elicottero di Knebworth")
 
 ## **Prelude**
 

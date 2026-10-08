@@ -27,8 +27,6 @@ draft: false
 wpId: 2747
 ---
 
-![King Crimson – In the Court of Crimson King](/wp-content/uploads/2021/10/Cover-King-Crimson-In-the-Court-of-the-Crimson-King-e1642153321660.jpg)
-
 Nella storia della musica rock sono molte le copertine che con il tempo sono state consegnate alla storia; una di queste è sicuramente il “faccione allucinato” di [*King Crimson*](https://it.wikipedia.org/wiki/King_Crimson) *–* [*“In the Court of Crimson King”*](https://it.wikipedia.org/wiki/In_the_Court_of_the_Crimson_King)*.*
 
 L’album al suo interno non fu da meno; [Robert Fripp](https://it.wikipedia.org/wiki/Robert_Fripp) e i suoi King Crimson in meno di un anno seppero inventare un genere (il [rock progressive](https://it.wikipedia.org/wiki/Portale:Rock_progressivo)) che divenne un punto di riferimento per le generazioni future.

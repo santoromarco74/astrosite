@@ -29,11 +29,11 @@ draft: false
 wpId: 2936
 ---
 
-![Alan all'epoca di Abbey Road Studio](/wp-content/uploads/2022/01/Alan-Parsons-ai-tempi-dei-Pink-Floyd.jpg "Alan Parsons all’epoca di Abbey Road Studio")
-
 Nella storia della musica è spesso accaduto che chi si avvicina a questo mondo con un ruolo, magari secondario, oppure come groupie o come roader finisce per diventarne protagonista in prima persona.
 
 E’ successo a [Ricky Edwards](/quella-volta-che-richey-scomparve-per-sempre/) dei [Manic Street Preachers](/tag/manic-street-preachers/) o a [Pete Sinfield](/king-crimson-in-the-court-of-crimson-king/) dei [King Crimson](/king-crimson-in-the-court-of-crimson-king/), entrati come supporter del gruppo, promossi parolieri per poi diventarne membri in pianta stabile.
+
+![Alan all'epoca di Abbey Road Studio](/wp-content/uploads/2022/01/Alan-Parsons-ai-tempi-dei-Pink-Floyd.jpg "Alan Parsons all’epoca di Abbey Road Studio")
 
 Quello che è successo ad Alan Parsons è stato per certi versi simile; nato come ingegnere del suono della [EMI](https://it.wikipedia.org/wiki/EMI) di Abbey Road a Londra, ha lavorato con gruppi come The Beatles e i Pink Floyd, decidendo ad un certo punto di mettersi in proprio, e di formare un gruppo tutto suo, [The Alan Parsons Project](https://it.wikipedia.org/wiki/The_Alan_Parsons_Project).
 

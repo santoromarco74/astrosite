@@ -19,11 +19,11 @@ draft: false
 wpId: 3171
 ---
 
-![](/wp-content/uploads/2022/09/Dolores-Riordan-live.jpg "Dolores dal vivo in concerto")
-
 Il vasto panorama musicale, ma anche della vita di tutti i giorni, è tappezzato di persone dall’animo gentile che, per un verso o per l’altro, combattono tutti i giorni con i propri demoni, per periodi o anche per l’intera vita stessa.
 
 Ognuno ha i propri metodi per farlo, i più disparati, non sempre con risultati piacevoli.
+
+![](/wp-content/uploads/2022/09/Dolores-Riordan-live.jpg "Dolores dal vivo in concerto")
 
 Deve averci provato fortemente anche la protagonista della nostra storia, Dolores, che in qualche modo per un pò ce l’ha fatta fino a che non le hanno presentato il conto finale.
 

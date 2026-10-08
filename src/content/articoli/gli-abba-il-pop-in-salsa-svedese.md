@@ -13,8 +13,6 @@ draft: false
 wpId: 3083
 ---
 
-![Gli ABBA all'Eurovision del '74](/wp-content/uploads/2022/06/ABBA-in-concert.webp "Gli ABBA all’Eurovision del ’74")
-
 Il 27 maggio di quest’anno è avvenuto un evento destinato a rivoluzionare il mondo della musica per i prossimi decenni; per la prima volta è andato in scena uno spettacolo dal vivo eseguito degli ologrammi dei componenti del gruppo, ed i protagonisti dell’evento sono stati gli ABBA.
 
 Esattamente 40 anni dopo il loro scioglimento, 3000 persone circa hanno potuto vedere uno spettacolo mai visto, ed il risultato è stato favoloso.

@@ -27,11 +27,11 @@ draft: false
 wpId: 1027
 ---
 
-![](/wp-content/uploads/2021/11/coro-another-brick.jpg "Il coro della Islington Green School di “Another Brick In the Wall – part 2”")
-
 Se siete alla ricerca della definizione di “concept album” e “opera rock” allo stesso tempo sicuramente [“The Wall”](https://it.wikipedia.org/wiki/The_Wall) dei [Pink Floyd](https://it.wikipedia.org/wiki/Pink_Floyd) è quello che state cercando.
 
 In realtà, come scopriremo più avanti, l’album è frutto quasi esclusivamente del lavoro di Roger Waters, lasciando ai restanti Floyd il ruolo di attori non protagonisti della creazione.
+
+![](/wp-content/uploads/2021/11/coro-another-brick.jpg "Il coro della Islington Green School di “Another Brick In the Wall – part 2”")
 
 ## **La genesi**
 

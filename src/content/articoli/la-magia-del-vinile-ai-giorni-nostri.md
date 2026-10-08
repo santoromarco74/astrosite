@@ -23,11 +23,11 @@ draft: false
 wpId: 653
 ---
 
-![old vinyl record](/wp-content/uploads/2021/01/old-vinyl-record.jpg)
-
 Chiunque abbia almeno una trentina di anni sa di cosa stiamo parlando, la magia del caro vecchio disco di vinile, oggetto che spesso ha accompagnato la nostra gioventù ma anche la nostra vita adulta, che da sempre rappresenta la “musica di qualità”, facendone addirittura un rito o un oggetto di culto.
 
 Ai più potrebbe sembrare “un’ operazione nostalgia”, e forse un po’ lo è, ma il bello è che anche i più giovani stanno scoprendo questo mezzo di ascolto, questo atto di amore verso la musica, non solo legata a sterili smartphone ma anche ad un bel suono caldo che rende particolare qualsiasi atmosfera.
+
+![old vinyl record](/wp-content/uploads/2021/01/old-vinyl-record.jpg)
 
 ## Descrizione
 

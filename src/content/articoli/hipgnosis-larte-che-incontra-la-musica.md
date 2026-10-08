@@ -31,11 +31,11 @@ draft: false
 wpId: 2848
 ---
 
-![Primo piano di Storm Thorgerson](/wp-content/uploads/2021/11/Storm-Thorgerson-Hipgnosis.jpg "Primo piano di Storm Thorgerson")
-
 Nell’angolo dei nostri ricordi musicali hanno sempre avuto un’importanza particolare le copertine degli album dei nostri idoli, sia che ci fossero loro in copertina sia che ci fossero immagini di fantasia simboleggianti il significato intrinseco della musica contenuta nell’album stesso; ne abbiamo parlato anche in merito all’album dei [King Crimson “*In the Court of the Crimson King”*](/king-crimson-in-the-court-of-crimson-king/) del ruolo fondamentale avuto dalla copertina dell’album stesso.
 
 Ed è proprio su questo aspetto fondamentale che la [Hipgnosis](https://it.wikipedia.org/wiki/Hipgnosis) di [Aubrey Powell](https://en.wikipedia.org/wiki/Aubrey_Powell_(designer)) e [Storm Thorgerson](https://it.wikipedia.org/wiki/Storm_Thorgerson) ne hanno fatto una vera e propria arte, capace di incuriosire, illustrare e alla fine colpire qualsiasi appassionato di musica con le loro celebri copertine ed annessi [gatefold](https://en.wikipedia.org/wiki/Gatefold) (la parte interna apribile della copertina del vinile)
+
+![Primo piano di Storm Thorgerson](/wp-content/uploads/2021/11/Storm-Thorgerson-Hipgnosis.jpg "Primo piano di Storm Thorgerson")
 
 In circa 15 anni di attività, la Hipgnosis ha illustrato circa 480 cover di album ([qui la lista completa](https://en.wikipedia.org/wiki/Category:Album_covers_by_Hipgnosis)) dei più importanti artisti di tutti i tempi, affascinando con le loro idee non sempre di facile interpretazione ma sicuramente di forte impatto e capaci di rimanere per sempre nella mente degli ascoltatori.
 

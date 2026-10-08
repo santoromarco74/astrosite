@@ -29,10 +29,10 @@ draft: false
 wpId: 1733
 ---
 
-![Panoramica del palco di Berlino](/wp-content/uploads/2021/04/Panoramica-del-palco-di-Berlino.jpg "Panoramica del palco di Berlino la sera del 21 luglio 1990")
-
 Con questo post si conclude l’ideale trilogia di [Roger Waters](https://it.wikipedia.org/wiki/Roger_Waters) (e anche la nostra) sull’opera [*“The Wall”*](https://it.wikipedia.org/wiki/The_Wall); dopo [l’album](/pink-floyd-the-wall/), [il film](/pink-floyd-the-wall-il-film/), arriva il live, ed in un contesto particolare, a Berlino, 21 luglio 1990, otto mesi dopo la caduta del tristemente noto muro.
 In realtà di live ce ne sono stati diversi che potessero chiudere il ciclo di Waters, come il tour registrato nell’album [*“Is There Anybody Out There?: The Wall Live 1980-1981”*](https://en.wikipedia.org/wiki/Is_There_Anybody_Out_There%3F_The_Wall_Live_1980%E2%80%9381) e quello recente di Waters stesso del 2015, un road tour dove ha visitato anche [il cimitero di Anzio](https://it.wikipedia.org/wiki/Anzio), ma il [live di Berlino](https://it.wikipedia.org/wiki/The_Wall_-_Live_in_Berlin) assume dei contorni particolari che voglio raccontarvi.
+
+![Panoramica del palco di Berlino](/wp-content/uploads/2021/04/Panoramica-del-palco-di-Berlino.jpg "Panoramica del palco di Berlino la sera del 21 luglio 1990")
 
 ## **L’idea**
 

@@ -24,11 +24,11 @@ draft: false
 wpId: 3308
 ---
 
-![La cover completa di "The Dark Side of the Moon"](/wp-content/uploads/2023/02/5223925035_bcb7e4c0dc_b.jpg "La cover completa di Storm Thorgerson per “The Dark Side of the Moon”")
-
 Il grande momento è arrivato, possiamo finalmente festeggiare i primi 50 di uscita dell’album più significativo della storia della musica; il 1 marzo del 1973 usciva in America “[*The Dark Side of the Moon*](https://it.wikipedia.org/wiki/The_Dark_Side_of_the_Moon)*“* dei [Pink Floyd](https://it.wikipedia.org/wiki/Pink_Floyd).
 
 **Introduzione**
+
+![La cover completa di "The Dark Side of the Moon"](/wp-content/uploads/2023/02/5223925035_bcb7e4c0dc_b.jpg "La cover completa di Storm Thorgerson per “The Dark Side of the Moon”")
 
 I Pink Floyd avevano iniziato a farsi conoscere al pubblico appena 6 anni prima, in quella che era al momento la culla del rock psichedelico, ovvero la Londra di fine anni ’60.
 

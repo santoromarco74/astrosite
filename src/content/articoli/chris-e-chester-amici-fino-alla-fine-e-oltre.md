@@ -13,8 +13,6 @@ draft: false
 wpId: 3113
 ---
 
-![Chris Cornell e Chester Bennington sul palco insieme](/wp-content/uploads/2022/07/Chris-Cornell-and-Chester-Bennington.jpg "Chris Cornell e Chester Bennington sul palco insi")
-
 Spesso e volentieri la vita ci abitua a storie strane, a volte tragiche, che fanno giri immensi per poi ritrovarsi e diventare immortali.
 
 Non ne è immune la musica, che tante volte ci ha messo davanti ad episodi inspiegabili, coincidenze assurde, legami indissolubili e scomparse tragiche.

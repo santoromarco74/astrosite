@@ -20,11 +20,11 @@ draft: false
 wpId: 3139
 ---
 
-![The New Yardbirds il 9 settembre '68 a Copenaghen](/wp-content/uploads/2022/08/led-zeppelin-la-nascita-della-band-durante-il-tour-scandinavo-wide-site-h1ksy.jpg "The New Yardbirds il 9 settembre ’68 a Copenaghen")
-
 Nella storia della musica spesso abbiamo assistito alla nascita di band in modo rocambolesco; c’è chi si conosce dalla scuola, chi litiga con qualcuno e si mette con un altro o chi semplicemente vuole sperimentare nuove situazioni.
 
 La storia che andiamo a raccontare oggi le contiene tutte, ma tutto comincia con un ragazzo molto bravo con la chitarra, un certo Jimmy Page.
+
+![The New Yardbirds il 9 settembre '68 a Copenaghen](/wp-content/uploads/2022/08/led-zeppelin-la-nascita-della-band-durante-il-tour-scandinavo-wide-site-h1ksy.jpg "The New Yardbirds il 9 settembre ’68 a Copenaghen")
 
 ## **Jimmy Page**
 

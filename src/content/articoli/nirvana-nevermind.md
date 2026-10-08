@@ -19,8 +19,6 @@ draft: false
 wpId: 3200
 ---
 
-![L'iconica copertina di Nevermind](/wp-content/uploads/2022/09/Copertina-Nevermind.jpg)
-
 Spesso nel mondo della musica ci sono stati degli album che hanno segnato l’epoca in cui vivevano oppure si sono resi protagonisti di un movimento sono state pietra miliare per quel movimento e punto di riferimento.
 
 Sicuramente uno di questi è stato a “*Nevermind*” dei Nirvana che divenne, suo malgrado, punto di riferimento per il movimento grunge dei primi anni ’90, soprattutto nei dintorni della città americana di Seattle.

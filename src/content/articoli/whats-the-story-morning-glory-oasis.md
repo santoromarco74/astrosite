@@ -29,8 +29,6 @@ draft: false
 wpId: 1286
 ---
 
-![La cover dell' album (What's the Story) Morning Glory](/wp-content/uploads/2021/02/Cover-Whats.jpg "La cover dell’ album (What’s the Story) Morning Glory")
-
 Tutti noi conosciamo le peripezie dei “famosi” fratelli Liam e Noel Gallagher, anche loro originari di Manchester, quella Manchester (o “Madchester” come veniva detta all’epoca) che ha dato i natali anche a [Ian Curtis](/la-tormentata-storia-di-ian-curtis-e-dei-joy-division/) e ai [Joy Division](/la-tormentata-storia-di-ian-curtis-e-dei-joy-division/), e come a loro a tanti altri interpreti musicali.
 
 E’ proprio lì che nascono e crescono gli [Oasis](https://it.wikipedia.org/wiki/Oasis), e nello specifico i nostri fratelli Gallagher, capaci di successi clamoroso quanti di litigate altrettanto furiose, come quando Noel Gallagher il 28 agosto 2009 lasciò il palco del [Rock en Seine](https://it.wikipedia.org/wiki/Rock_en_Seine) a [Parigi](https://it.wikipedia.org/wiki/Parigi) a pochi minuti dall’esibizione, sancendo la fine definitiva della band.

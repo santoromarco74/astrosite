@@ -17,11 +17,11 @@ draft: false
 wpId: 3280
 ---
 
-![](/wp-content/uploads/2023/01/Jeff_Beck_1.jpg)
-
 Il leggendario chitarrista rock Jeff Beck ci ha lasciato lascia all’età di 78 anni a causa di una meningite batterica; ne dà la triste notizia la famiglia tramite l’account Twitter nella giornata di ieri 11 gennaio 2023.
 
 Con lui se ne va un altro pezzo di storia della musica di tutti i tempi e un artista dalle doti fuori dal comune, capace di performance memorabili ma a causa del suo carattere un po ‘ bizzoso anche di prestazioni deludenti.
+
+![](/wp-content/uploads/2023/01/Jeff_Beck_1.jpg)
 
 ## Gli inizi con gli Yardbirds
 

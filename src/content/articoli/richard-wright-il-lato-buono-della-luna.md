@@ -26,11 +26,11 @@ draft: false
 wpId: 2510
 ---
 
-![](/wp-content/uploads/2021/08/Richard-Wright.jpg)
-
 Il giorno 4 agosto del 1962 nacque a Londra [Richard Wright](https://it.wikipedia.org/wiki/Richard_Wright_(musicista)), polistrumentista e padre fondatore dei Pink Floyd, insieme a [Syd Barrett](https://it.wikipedia.org/wiki/Syd_Barrett), [Roger Waters](https://it.wikipedia.org/wiki/Roger_Waters) e [Nick Mason](https://it.wikipedia.org/wiki/Nick_Mason).
 
 Richard Wright non era solo il tastierista del gruppo, è stato anche il compositore di numerosi pezzi storici ma è stato universalmente riconosciuto come la parte più umana del gruppo, soprattutto durante le liti intestine tra Roger Waters e il resto della band, trovandosi spesso ad essere lui a farne la spese.
+
+![](/wp-content/uploads/2021/08/Richard-Wright.jpg)
 
 ## **Inizi**
 

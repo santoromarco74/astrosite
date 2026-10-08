@@ -13,11 +13,11 @@ draft: false
 wpId: 3010
 ---
 
-![Jake e Elwood alla tavola calda](/wp-content/uploads/2022/03/Jake-e-Elwood-alla-tavola-calda.jpg "Jake e Elwood alla tavola calda")
-
 Occhiali da sole scuri, completo nero e borsalino su camicia bianca, e tanto blues; niente di più iconico al mondo che loro, ladies and gentleman, [The Blues Brothers](https://it.wikipedia.org/wiki/The_Blues_Brothers_-_I_fratelli_Blues).
 
 Nel momento di massima espressione della loro carriera, ecco che arriva la consacrazione cinematografica Blues Brothers, in quello che forse è una commedia o forse un musical, ma di sicuro una pietra miliare nella storia del cinema e della musica.
+
+![Jake e Elwood alla tavola calda](/wp-content/uploads/2022/03/Jake-e-Elwood-alla-tavola-calda.jpg "Jake e Elwood alla tavola calda")
 
 ## **I fratelli Blues**
 
