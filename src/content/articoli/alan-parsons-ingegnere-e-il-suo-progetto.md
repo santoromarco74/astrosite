@@ -22,18 +22,18 @@ tags:
 - sirius
 - stereotomy
 - tales-allan-poe
-cover: /wp-content/uploads/2022/01/Alan-Parsons-oggi-scaled-e1642153389249.jpg
+cover: /images/articoli/alan-parsons-ingegnere-e-il-suo-progetto/Alan-Parsons-oggi-scaled-e1642153389249.jpg
 coverAlt: Alan Parsons in concerto ai giorni nostri
 coverCredit: Alan Parsons in concerto ai giorni nostri
 draft: false
 wpId: 2936
 ---
 
-![Alan all'epoca di Abbey Road Studio](/wp-content/uploads/2022/01/Alan-Parsons-ai-tempi-dei-Pink-Floyd.jpg "Alan Parsons all’epoca di Abbey Road Studio")
-
 Nella storia della musica è spesso accaduto che chi si avvicina a questo mondo con un ruolo, magari secondario, oppure come groupie o come roader finisce per diventarne protagonista in prima persona.
 
 E’ successo a [Ricky Edwards](/quella-volta-che-richey-scomparve-per-sempre/) dei [Manic Street Preachers](/tag/manic-street-preachers/) o a [Pete Sinfield](/king-crimson-in-the-court-of-crimson-king/) dei [King Crimson](/king-crimson-in-the-court-of-crimson-king/), entrati come supporter del gruppo, promossi parolieri per poi diventarne membri in pianta stabile.
+
+![Alan all'epoca di Abbey Road Studio](/images/articoli/alan-parsons-ingegnere-e-il-suo-progetto/Alan-Parsons-ai-tempi-dei-Pink-Floyd.jpg "Alan Parsons all’epoca di Abbey Road Studio")
 
 Quello che è successo ad Alan Parsons è stato per certi versi simile; nato come ingegnere del suono della [EMI](https://it.wikipedia.org/wiki/EMI) di Abbey Road a Londra, ha lavorato con gruppi come The Beatles e i Pink Floyd, decidendo ad un certo punto di mettersi in proprio, e di formare un gruppo tutto suo, [The Alan Parsons Project](https://it.wikipedia.org/wiki/The_Alan_Parsons_Project).
 
@@ -168,10 +168,10 @@ Se volete approfondire la conoscenza, potete consultare i seguenti contenuti:
 - la ristampa ufficiale “*[Ammonia Avenue](https://amzn.to/3nyFg45)“*, completamente rimasterizzata e arricchita di numerosi contenuti;
 - il sito di Alan Parsons di formazione alla registrazione musicale, [Art & Science Sound Recording](https://www.artandscienceofsound.com/).
 
-![Il dettaglio della copertina di "Wish You Were Here"](/wp-content/uploads/2021/11/Dettaglio-Copertina-Wish-You-Were-Here.jpg "Il dettaglio della copertina di “Wish You Were Here”")
-![La sequenza degli scatti della copertina di "Wish You Were Here"](/wp-content/uploads/2021/11/La-sequenza-della-copertina-di-Wish-You-Were-Here.jpg "La sequenza degli scatti della copertina di “Wish You Were Here”")
-![La copertina fasciata di nero del vinile](/wp-content/uploads/2025/09/Copertina-Wish-due-mani-meccaniche-avvolta-nero-1.jpg "La copertina fasciata di nero del vinile")
-![Syd Barrett durante i primi anni nel gruppo e nella sua ultima apparizione nel 1975](/wp-content/uploads/2025/09/h0mjoxtyk9o81.jpg "Syd Barrett durante i primi anni nel gruppo e nella sua ultima apparizione nel 1975")
-![I Pink Floyd durante la registrazione agli "Abbey Studios" nel 1975](/wp-content/uploads/2025/09/Pink-Floyd-durante-la-registrazione.jpg "I Pink Floyd durante la registrazione agli “Abbey Studios” nel 1975")
-![La cartolina interna al vinile di "Wish You Were Here"](/wp-content/uploads/2025/09/tumblr_m8ajnuU05L1rckc5ao1_1280.jpg "La cartolina interna al vinile di “Wish You Were Here”")
-![La copertina che fascia di nero il vinile di "Wish You Were Here"](/wp-content/uploads/2025/09/Copertina-Wish-due-mani-meccaniche-avvolta-nero.jpg "La copertina che fascia di nero il vinile di “Wish You Were Here”")
+![Il dettaglio della copertina di "Wish You Were Here"](/images/articoli/alan-parsons-ingegnere-e-il-suo-progetto/Dettaglio-Copertina-Wish-You-Were-Here.jpg "Il dettaglio della copertina di “Wish You Were Here”")
+![La sequenza degli scatti della copertina di "Wish You Were Here"](/images/articoli/alan-parsons-ingegnere-e-il-suo-progetto/La-sequenza-della-copertina-di-Wish-You-Were-Here.jpg "La sequenza degli scatti della copertina di “Wish You Were Here”")
+![La copertina fasciata di nero del vinile](/images/articoli/alan-parsons-ingegnere-e-il-suo-progetto/Copertina-Wish-due-mani-meccaniche-avvolta-nero-1.jpg "La copertina fasciata di nero del vinile")
+![Syd Barrett durante i primi anni nel gruppo e nella sua ultima apparizione nel 1975](/images/articoli/alan-parsons-ingegnere-e-il-suo-progetto/h0mjoxtyk9o81.jpg "Syd Barrett durante i primi anni nel gruppo e nella sua ultima apparizione nel 1975")
+![I Pink Floyd durante la registrazione agli "Abbey Studios" nel 1975](/images/articoli/alan-parsons-ingegnere-e-il-suo-progetto/Pink-Floyd-durante-la-registrazione.jpg "I Pink Floyd durante la registrazione agli “Abbey Studios” nel 1975")
+![La cartolina interna al vinile di "Wish You Were Here"](/images/articoli/alan-parsons-ingegnere-e-il-suo-progetto/tumblr_m8ajnuU05L1rckc5ao1_1280.jpg "La cartolina interna al vinile di “Wish You Were Here”")
+![La copertina che fascia di nero il vinile di "Wish You Were Here"](/images/articoli/alan-parsons-ingegnere-e-il-suo-progetto/Copertina-Wish-due-mani-meccaniche-avvolta-nero.jpg "La copertina che fascia di nero il vinile di “Wish You Were Here”")

@@ -13,18 +13,18 @@ tags:
 - new-yardbirds
 - robert-plant
 - yardbirds
-cover: /wp-content/uploads/2022/08/Led-Zeppelin-primi-tempi.jpg
+cover: /images/articoli/e-il-dirigibile-spicca-il-volo/Led-Zeppelin-primi-tempi.jpg
 coverAlt: La formazione originale dei The New Yardbirds (Led Zeppelin)
 coverCredit: La formazione originale dei The New Yardbirds (Led Zeppelin)
 draft: false
 wpId: 3139
 ---
 
-![The New Yardbirds il 9 settembre '68 a Copenaghen](/wp-content/uploads/2022/08/led-zeppelin-la-nascita-della-band-durante-il-tour-scandinavo-wide-site-h1ksy.jpg "The New Yardbirds il 9 settembre ’68 a Copenaghen")
-
 Nella storia della musica spesso abbiamo assistito alla nascita di band in modo rocambolesco; c’è chi si conosce dalla scuola, chi litiga con qualcuno e si mette con un altro o chi semplicemente vuole sperimentare nuove situazioni.
 
 La storia che andiamo a raccontare oggi le contiene tutte, ma tutto comincia con un ragazzo molto bravo con la chitarra, un certo Jimmy Page.
+
+![The New Yardbirds il 9 settembre '68 a Copenaghen](/images/articoli/e-il-dirigibile-spicca-il-volo/led-zeppelin-la-nascita-della-band-durante-il-tour-scandinavo-wide-site-h1ksy.jpg "The New Yardbirds il 9 settembre ’68 a Copenaghen")
 
 ## **Jimmy Page**
 
@@ -88,11 +88,11 @@ La leggenda narra che il nome fu suggerito da una dichiarazione di Keith Moon, p
 
 Con il senno di poi, si può sicuramente dire che il nome ha portato fortuna al nascente gruppo Led Zeppelin, dando loro un successo planetario senza precedenti e iscrivendolo nell’album delle leggende rock di tutti i tempi, ma questa sicuramente è un’altra storia …
 
-![The Yardbirds nella formazione originale con Eric Clapton](/wp-content/uploads/2022/08/Yardbirds-originale.webp "The Yardbirds nella formazione originale con Eric Clapton")
-![The Yardbirds nella formazione con Jeff Beck e Jimmy Page](/wp-content/uploads/2022/08/Yardbirds-con-Jeff-Beck-e-Jimmy-Page.jpg "The Yardbirds nella formazione con Jeff Beck e Jimmy Page")
-![Jimmy Page sul palco](/wp-content/uploads/2022/08/Jimmy-Page.jpg "Jimmy Page sul palco")
-![Locandina concerto New Yardbirds del '68](/wp-content/uploads/2022/08/Locandina-NYard-68.jpg "Locandina concerto New Yardbirds del ’68")
-![The Yardbirds con Jimmy Page](/wp-content/uploads/2022/08/Yardbirds-resize-1.jpg "The Yardbirds con Jimmy Page")
-![Intervista a Jimmy Page poco prima di formare The New Yardbirds](/wp-content/uploads/2022/08/tumblr_32ea91200968516148defe8b64342a52_d257cbdb_500.jpg "Intervista a Jimmy Page poco prima di formare The New Yardbirds")
-![The New Yardbirds il 9 settembre '68 a Copenaghen](/wp-content/uploads/2022/08/led-zeppelin-la-nascita-della-band-durante-il-tour-scandinavo-wide-site-h1ksy.jpg "The New Yardbirds il 9 settembre ’68 a Copenaghen")
-![La formazione originale dei The New Yardbirds (Led Zeppelin)](/wp-content/uploads/2022/08/Led-Zeppelin-primi-tempi.jpg "La formazione originale dei The New Yardbirds (Led Zeppelin)")
+![The Yardbirds nella formazione originale con Eric Clapton](/images/articoli/e-il-dirigibile-spicca-il-volo/Yardbirds-originale.webp "The Yardbirds nella formazione originale con Eric Clapton")
+![The Yardbirds nella formazione con Jeff Beck e Jimmy Page](/images/articoli/e-il-dirigibile-spicca-il-volo/Yardbirds-con-Jeff-Beck-e-Jimmy-Page.jpg "The Yardbirds nella formazione con Jeff Beck e Jimmy Page")
+![Jimmy Page sul palco](/images/articoli/e-il-dirigibile-spicca-il-volo/Jimmy-Page.jpg "Jimmy Page sul palco")
+![Locandina concerto New Yardbirds del '68](/images/articoli/e-il-dirigibile-spicca-il-volo/Locandina-NYard-68.jpg "Locandina concerto New Yardbirds del ’68")
+![The Yardbirds con Jimmy Page](/images/articoli/e-il-dirigibile-spicca-il-volo/Yardbirds-resize-1.jpg "The Yardbirds con Jimmy Page")
+![Intervista a Jimmy Page poco prima di formare The New Yardbirds](/images/articoli/e-il-dirigibile-spicca-il-volo/tumblr_32ea91200968516148defe8b64342a52_d257cbdb_500.jpg "Intervista a Jimmy Page poco prima di formare The New Yardbirds")
+![The New Yardbirds il 9 settembre '68 a Copenaghen](/images/articoli/e-il-dirigibile-spicca-il-volo/led-zeppelin-la-nascita-della-band-durante-il-tour-scandinavo-wide-site-h1ksy.jpg "The New Yardbirds il 9 settembre ’68 a Copenaghen")
+![La formazione originale dei The New Yardbirds (Led Zeppelin)](/images/articoli/e-il-dirigibile-spicca-il-volo/Led-Zeppelin-primi-tempi.jpg "La formazione originale dei The New Yardbirds (Led Zeppelin)")

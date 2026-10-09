@@ -11,7 +11,7 @@ tags:
 - rino-gaetano-morte
 - rino-gaetano-sanremo
 - rino-gaetano-vita
-cover: /wp-content/uploads/2021/01/Rino-Gaetano-con-tuba.jpeg
+cover: /images/articoli/rino-gaetano-il-nonsense-che-ha-senso/Rino-Gaetano-con-tuba.jpeg
 coverAlt: Rino Gaetano con tuba
 coverCredit: Rino Gaetano con tuba
 draft: false
@@ -92,12 +92,12 @@ Per chi volesse approfondire la conoscenza, e ve lo consiglio caldamente, oltre 
 
 > *“C’è qualcuno che vuole mettermi il bavaglio! Io non li temo! Non ci riusciranno! Sento che, in futuro, le mie canzoni saranno cantate dalle prossime generazioni! Che, grazie alla comunicazione di massa, capiranno che cosa voglio dire questa sera! Capiranno e apriranno gli occhi, anziché averli pieni di sale! E si chiederanno cosa succedeva sulla spiaggia di Capocotta”* .
 
-![Rino in concerto](/wp-content/uploads/2021/01/Rino-in-concerto-e1612113556190.jpg "Rino in concerto")
-![Rino Gaetano con il suo ukulele](/wp-content/uploads/2021/01/Rino-con-ukulele-1000x600-1-e1612121253480.jpg "Rino Gaetano con il suo ukulele")
-![Rino Gaetano - primo piano](/wp-content/uploads/2021/01/Rino-Gaetano-primo-piano.jpg "Rino Gaetano – primo piano")
-![Rino Gaetano con la sua chitarra](/wp-content/uploads/2021/01/rino-gaetano.jpg "Rino Gaetano con la sua chitarra")
-![Rino Gaetano al Festival di Sanremo 1978](/wp-content/uploads/2021/01/rino-sanremo.jpg "Rino Gaetano al Festival di Sanremo 1978")
-![La tomba di Rino Gaetano al Verano di Roma](/wp-content/uploads/2021/01/Rino-Gaetano-640x360-2.jpg "La tomba di Rino Gaetano al Verano di Roma")
+![Rino in concerto](/images/articoli/rino-gaetano-il-nonsense-che-ha-senso/Rino-in-concerto-e1612113556190.jpg "Rino in concerto")
+![Rino Gaetano con il suo ukulele](/images/articoli/rino-gaetano-il-nonsense-che-ha-senso/Rino-con-ukulele-1000x600-1-e1612121253480.jpg "Rino Gaetano con il suo ukulele")
+![Rino Gaetano - primo piano](/images/articoli/rino-gaetano-il-nonsense-che-ha-senso/Rino-Gaetano-primo-piano.jpg "Rino Gaetano – primo piano")
+![Rino Gaetano con la sua chitarra](/images/articoli/rino-gaetano-il-nonsense-che-ha-senso/rino-gaetano.jpg "Rino Gaetano con la sua chitarra")
+![Rino Gaetano al Festival di Sanremo 1978](/images/articoli/rino-gaetano-il-nonsense-che-ha-senso/rino-sanremo.jpg "Rino Gaetano al Festival di Sanremo 1978")
+![La tomba di Rino Gaetano al Verano di Roma](/images/articoli/rino-gaetano-il-nonsense-che-ha-senso/Rino-Gaetano-640x360-2.jpg "La tomba di Rino Gaetano al Verano di Roma")
 
 ## Approfondimenti
 

@@ -22,14 +22,12 @@ tags:
 - tymon-dogg
 - woody
 - woody-mellor
-cover: /wp-content/uploads/2021/08/Joe-Strummer-1.jpg
+cover: /images/articoli/joe-strummer-lo-strimpellatore-che-scosse-il-mondo/Joe-Strummer-1.jpg
 coverAlt: Joe Strummer a New York
 coverCredit: Joe Strummer a New York
 draft: false
 wpId: 2614
 ---
-
-![Joe Strummer a New York](/wp-content/uploads/2021/08/Joe-Strummer-1.jpg)
 
 > *′′ Farò il possibile per creare più caos possibile, ma il mio caos è sempre di grande natura o ha un obiettivo positivo alla fine. Quando inizio a causare caos in una situazione è perché la situazione doveva davvero essere cambiata.”*
 >
@@ -217,11 +215,11 @@ oppure gli album fondamentali con i Clash:
 - [*“Combat Rock” – The Clash (MP3, CD, Vinile)*](https://amzn.to/3msN6fN)
 - [*“Sandinista!” – The Clash (MP3, CD, Vinile)*](https://amzn.to/3B3Eal7)
 
-![La Fender Telecaster di Joe Strummer](/wp-content/uploads/2021/08/La-Fender-Telecaster-di-Joe-Strummer-scaled.jpg "La Fender Telecaster di Joe Strummer")
-![The Clash al completo](/wp-content/uploads/2021/08/The-Clash-al-completo.jpg "The Clash al completo")
-![The Clash al concerto di Leicester del 1977](/wp-content/uploads/2021/08/The-Clash-live-leicester-1977.jpg "The Clash al concerto di Leicester del 1977")
-![Il murale dedicato a Joe Strummer a New York](/wp-content/uploads/2021/08/Joe-murales-niagara-NY.jpg "Il murale dedicato a Joe Strummer a New York")
-![Joe Strummer al tempo dei Mescaleros](/wp-content/uploads/2021/08/Joe-con-i-Mescaleros.jpg "Joe Strummer al tempo dei Mescaleros")
-!["Woody" Mellor ai tempi dei 101'ers](/wp-content/uploads/2021/08/Woody-Mellor-e-i-101-ers.png "“Woody” Mellor ai tempi dei 101’ers")
-![Joe Strummer a New York](/wp-content/uploads/2021/08/Joe-Strummer-1.jpg "Joe Strummer a New York")
-![Joe Strummer](/wp-content/uploads/2021/08/Joe-Strummer-taxi.jpg "Joe Strummer")
+![La Fender Telecaster di Joe Strummer](/images/articoli/joe-strummer-lo-strimpellatore-che-scosse-il-mondo/La-Fender-Telecaster-di-Joe-Strummer-scaled.jpg "La Fender Telecaster di Joe Strummer")
+![The Clash al completo](/images/articoli/joe-strummer-lo-strimpellatore-che-scosse-il-mondo/The-Clash-al-completo.jpg "The Clash al completo")
+![The Clash al concerto di Leicester del 1977](/images/articoli/joe-strummer-lo-strimpellatore-che-scosse-il-mondo/The-Clash-live-leicester-1977.jpg "The Clash al concerto di Leicester del 1977")
+![Il murale dedicato a Joe Strummer a New York](/images/articoli/joe-strummer-lo-strimpellatore-che-scosse-il-mondo/Joe-murales-niagara-NY.jpg "Il murale dedicato a Joe Strummer a New York")
+![Joe Strummer al tempo dei Mescaleros](/images/articoli/joe-strummer-lo-strimpellatore-che-scosse-il-mondo/Joe-con-i-Mescaleros.jpg "Joe Strummer al tempo dei Mescaleros")
+!["Woody" Mellor ai tempi dei 101'ers](/images/articoli/joe-strummer-lo-strimpellatore-che-scosse-il-mondo/Woody-Mellor-e-i-101-ers.png "“Woody” Mellor ai tempi dei 101’ers")
+![Joe Strummer a New York](/images/articoli/joe-strummer-lo-strimpellatore-che-scosse-il-mondo/Joe-Strummer-1.jpg "Joe Strummer a New York")
+![Joe Strummer](/images/articoli/joe-strummer-lo-strimpellatore-che-scosse-il-mondo/Joe-Strummer-taxi.jpg "Joe Strummer")

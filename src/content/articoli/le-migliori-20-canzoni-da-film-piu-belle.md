@@ -11,17 +11,17 @@ tags:
 - golden-globe
 - musica-oscar
 - oscar
-cover: /wp-content/uploads/2022/04/Depositphotos_85209372_S.jpg
+cover: /images/articoli/le-migliori-20-canzoni-da-film-piu-belle/Depositphotos_85209372_S.jpg
 coverAlt: Le migliori 20 canzoni da film più belle di sempre
 draft: false
 wpId: 3046
 ---
 
-![](/wp-content/uploads/2022/04/Depositphotos_26274551_S.jpg)
-
 Sono passate da poche settimane le premiazioni per gli Oscar e i Golden Globe 2022  per il cinema ed ognuno di noi sa quanto siano importanti le musiche per la buona riuscita di qualsiasi film, le cosiddette “[colonne sonore](https://it.wikipedia.org/wiki/Colonna_sonora)” (o “original soundtrack”) per cui esiste anche un [Premio Oscar](https://it.wikipedia.org/wiki/Premio_Oscar), e non solo, anche il [Golden Globe](https://it.wikipedia.org/wiki/Golden_Globe) e il [BAFTA](https://www.bafta.org/).
 
 Una colonna sonora spesso nasce dalla mente di un compositore, che ne scrive le musiche personalmente, di cui ad esempio il maestro [Ennio Morricone](https://it.wikipedia.org/wiki/Ennio_Morricone) ne ha fatto una filosofia di vita.
+
+![](/images/articoli/le-migliori-20-canzoni-da-film-piu-belle/Depositphotos_26274551_S.jpg)
 
 Poi invece ci sono quelle canzoni, che magari appartengono ad altri autori, spesso sconosciuti, ma che vengono utilizzate per accompagnare una determinata scena, ed è qui che ne diventa la colonna sonora a tutti gli effetti.
 

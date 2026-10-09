@@ -11,13 +11,13 @@ tags:
 - stewart-copeland
 - andy-summers
 - punk
-cover: /images/articoli/sting-police-atlanta-1979.jpg
+cover: /images/articoli/sting-75-anni/sting-police-atlanta-1979.jpg
 coverAlt: 'Sting in bianco e nero canta al microfono suonando il basso durante un concerto dei Police nel 1979'
 coverCredit: 'Sting con i Police all’Agora Ballroom di Atlanta, il 27 aprile 1979. Foto: Acroterion, via Wikimedia Commons (CC BY-SA 4.0)'
 draft: false
 ---
 
-Come tutti gli anni di questi tempi, l'autunno ci mette in fila una serie di anniversari che pesano (come i 50 anni di [«Songs in the Key of Life»](https://lamusicadelsanto.it/songs-in-the-key-of-life-compie-50-anni-il-disco-per-cui-stevie-wonder-rinuncio-per-un-po-al-ghana/), o quelli di [«Atom Heart Mother»](/atom-heart-mother-pink-floyd-la-mucca-numero-uno/)). Ma il **2 ottobre 2026** ha un sapore tutto suo: **[Sting](https://www.sting.com/)** ha compiuto **75 anni**. La cosa più pazzesca è che lo stesso giorno del 1981 usciva **«Ghost in the Machine»** dei Police: un disco pubblicato, letteralmente, per il suo trentesimo compleanno. E per festeggiare cosa ha fatto? Ha scelto di ripartire in tour il 5 ottobre 2026 da Vancouver. In trio, come ai vecchi tempi.
+Come tutti gli anni di questi tempi, l'autunno ci mette in fila una serie di anniversari che pesano (come i 50 anni di [«Songs in the Key of Life»](/songs-in-the-key-of-life-compie-50-anni-il-disco-per-cui-stevie-wonder-rinuncio-per-un-po-al-ghana/), o quelli di [«Atom Heart Mother»](/atom-heart-mother-pink-floyd-la-mucca-numero-uno/)). Ma il **2 ottobre 2026** ha un sapore tutto suo: **[Sting](https://www.sting.com/)** ha compiuto **75 anni**. La cosa più pazzesca è che lo stesso giorno del 1981 usciva **«Ghost in the Machine»** dei Police: un disco pubblicato, letteralmente, per il suo trentesimo compleanno. E per festeggiare cosa ha fatto? Ha scelto di ripartire in tour il 5 ottobre 2026 da Vancouver. In trio, come ai vecchi tempi.
 
 ## Il ragazzo dei cantieri che si vestiva da vespa
 

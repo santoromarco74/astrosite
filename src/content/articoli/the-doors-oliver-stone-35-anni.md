@@ -14,7 +14,7 @@ tags:
 - john-densmore
 - robbie-krieger
 - meg-ryan
-cover: /images/articoli/whisky-a-go-go-sunset-strip.jpg
+cover: /images/articoli/the-doors-oliver-stone-35-anni/whisky-a-go-go-sunset-strip.jpg
 coverAlt: 'L’insegna del Whisky a Go Go sul Sunset Strip, a West Hollywood'
 coverCredit: 'Il Whisky a Go Go sul Sunset Strip, dove i Doors furono di casa nel 1966. Foto: Ken Lund / Wikimedia Commons (CC BY-SA 2.0)'
 draft: false
@@ -76,7 +76,7 @@ Per carità, *The Doors* non è un documentario e non ha mai finto di esserlo. �
 
 Il consiglio è guardarlo tenendo accanto la musica vera, e magari un buon libro, per ricordarsi che Jim era anche [il poeta del Re Lucertola](/il-re-lucertola-e-le-porte-della-percezione/) e non solo l’uomo con la bottiglia in mano.
 
-![La tomba di Jim Morrison al cimitero di Père Lachaise, a Parigi](/images/articoli/tomba-jim-morrison-pere-lachaise.jpg "La tomba di Jim Morrison al Père Lachaise di Parigi. Foto: Effervescing Elephant / Wikimedia Commons (CC BY-SA 2.0)")
+![La tomba di Jim Morrison al cimitero di Père Lachaise, a Parigi](/images/articoli/the-doors-oliver-stone-35-anni/tomba-jim-morrison-pere-lachaise.jpg "La tomba di Jim Morrison al Père Lachaise di Parigi. Foto: Effervescing Elephant / Wikimedia Commons (CC BY-SA 2.0)")
 
 ## Se volete approfondire
 

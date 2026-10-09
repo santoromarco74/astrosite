@@ -16,7 +16,7 @@ tags:
 - nick-mason
 - richard-wright
 - alan-parsons
-cover: /images/articoli/pink-floyd-1971.jpg
+cover: /images/articoli/atom-heart-mother-pink-floyd-la-mucca-numero-uno/pink-floyd-1971.jpg
 coverAlt: 'Roger Waters, Nick Mason, David Gilmour e Richard Wright in una foto promozionale del 1971'
 coverCredit: 'Da sinistra Roger Waters, Nick Mason, David Gilmour e Richard Wright nel 1971. Foto: Capitol Records, via Wikimedia Commons (pubblico dominio)'
 draft: false

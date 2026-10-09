@@ -16,7 +16,7 @@ tags:
 - joy-division
 - love-will-tear-us-apart
 - peter-hook
-cover: /wp-content/uploads/2021/01/Ian-Curtis-in-concerto-e1612122388173.jpg
+cover: /images/articoli/la-tormentata-storia-di-ian-curtis-e-dei-joy-division/Ian-Curtis-in-concerto-e1612122388173.jpg
 coverAlt: Ian Curtis in concerto
 coverCredit: Ian Curtis in concerto
 draft: false
@@ -25,7 +25,7 @@ wpId: 45
 
 Qualche tempo fa, durante una soporifera puntata di un noto talent TV, è stato assegnato ad un concorrente un pezzo storico della musica rock, ovvero [Love Will Tear Us Apart](https://www.youtube.com/watch?v=zuuObGsB0No) dei [Joy Division](https://it.wikipedia.org/wiki/Joy_Division), riportando così alla luce la tormentata storia del loro leader, [Ian Curtis,](https://it.wikipedia.org/wiki/Ian_Curtis) scomparso tragicamente 40 anni fa, il 18 maggio 1980.
 
-![](/wp-content/uploads/2021/01/Ian-Curtis-primo-piano.jpg "Ian Curtis – primo piano")
+![](/images/articoli/la-tormentata-storia-di-ian-curtis-e-dei-joy-division/Ian-Curtis-primo-piano.jpg "Ian Curtis – primo piano")
 
 ## La storia
 
@@ -115,13 +115,13 @@ Le vicende dei Joy Division e del loro leader hanno trovato nuovo lustro negli a
 >
 > dalla sezione “About Us” del sito ufficiale dei Joy Division.
 
-![Ian Curtis live](/wp-content/uploads/2021/01/Altro-Ian-Curtis-in-concert.jpg "Ian Curtis in concerto")
-![Image gallery image](/wp-content/uploads/2021/01/Il-murale-di-Akse-a-Manchester.jpg "Murale dell’artista Akse a Manchester")
-![Deborah Woodruffe e Nathalie Curtis](/wp-content/uploads/2020/06/deborahhathalie.jpg "Deborah Woodruffe e Nathalie Curtis")
-![Annik Honerée](/wp-content/uploads/2020/06/annik-honore-478x270-1-e1611138583158.jpg "Annik Honerée")
-![Locandina dei Joy Division in concerto al Fresh Music di Londra il 20 febbraio 1980](/wp-content/uploads/2020/06/manifesto-joy-division-20021980-1.jpg "Locandina dei Joy Division in concerto al Fresh Music di Londra il 20 febbraio 1980")
-![Image gallery image](/wp-content/uploads/2020/06/ian-in-concert.jpeg "Ian Curtis in concerto")
-![I Joy Division ai tempi di Unknown Pleasure](/wp-content/uploads/2020/06/joy_division_unkn.png "I Joy Division ai tempi di Unknown Pleasure")
+![Ian Curtis live](/images/articoli/la-tormentata-storia-di-ian-curtis-e-dei-joy-division/Altro-Ian-Curtis-in-concert.jpg "Ian Curtis in concerto")
+![Image gallery image](/images/articoli/la-tormentata-storia-di-ian-curtis-e-dei-joy-division/Il-murale-di-Akse-a-Manchester.jpg "Murale dell’artista Akse a Manchester")
+![Deborah Woodruffe e Nathalie Curtis](/images/articoli/la-tormentata-storia-di-ian-curtis-e-dei-joy-division/deborahhathalie.jpg "Deborah Woodruffe e Nathalie Curtis")
+![Annik Honerée](/images/articoli/la-tormentata-storia-di-ian-curtis-e-dei-joy-division/annik-honore-478x270-1-e1611138583158.jpg "Annik Honerée")
+![Locandina dei Joy Division in concerto al Fresh Music di Londra il 20 febbraio 1980](/images/articoli/la-tormentata-storia-di-ian-curtis-e-dei-joy-division/manifesto-joy-division-20021980-1.jpg "Locandina dei Joy Division in concerto al Fresh Music di Londra il 20 febbraio 1980")
+![Image gallery image](/images/articoli/la-tormentata-storia-di-ian-curtis-e-dei-joy-division/ian-in-concert.jpeg "Ian Curtis in concerto")
+![I Joy Division ai tempi di Unknown Pleasure](/images/articoli/la-tormentata-storia-di-ian-curtis-e-dei-joy-division/joy_division_unkn.png "I Joy Division ai tempi di Unknown Pleasure")
 
 ## Approfondimenti
 

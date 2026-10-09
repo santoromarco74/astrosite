@@ -13,7 +13,7 @@ tags:
 - richard-wright
 - roger-waters
 - the-wall
-cover: /wp-content/uploads/2025/09/tumblr_m8ajnuU05L1rckc5ao1_1280.jpg
+cover: /images/articoli/wish-you-were-here-compie-50-anni-quando-i-pink-floyd-scrissero-la-lettera-damore-piu-bella-del-rock/tumblr_m8ajnuU05L1rckc5ao1_1280.jpg
 coverAlt: La cartolina interna al vinile di "Wish You Were Here"
 coverCredit: La cartolina interna al vinile di “Wish You Were Here”
 draft: false
@@ -68,10 +68,10 @@ Per chi vuole riascoltare “Wish You Were Here” con occhi nuovi, il consiglio
 
 Su YouTube trovate facilmente il documentario **“Pink Floyd: The Story of Wish You Were Here”**, che racconta nei dettagli quella magica e tragica sessione di registrazione. E se vi capita di rivedere la copertina, ricordatevi che quegli uomini che si stringono la mano stavano davvero bruciando. Proprio come tutti noi, ogni volta che desideriamo che qualcuno fosse ancora qui.
 
-![Il dettaglio della copertina di "Wish You Were Here"](/wp-content/uploads/2021/11/Dettaglio-Copertina-Wish-You-Were-Here.jpg "Il dettaglio della copertina di “Wish You Were Here”")
-![La sequenza degli scatti della copertina di "Wish You Were Here"](/wp-content/uploads/2021/11/La-sequenza-della-copertina-di-Wish-You-Were-Here.jpg "La sequenza degli scatti della copertina di “Wish You Were Here”")
-![La copertina fasciata di nero del vinile](/wp-content/uploads/2025/09/Copertina-Wish-due-mani-meccaniche-avvolta-nero-1.jpg "La copertina fasciata di nero del vinile")
-![Syd Barrett durante i primi anni nel gruppo e nella sua ultima apparizione nel 1975](/wp-content/uploads/2025/09/h0mjoxtyk9o81.jpg "Syd Barrett durante i primi anni nel gruppo e nella sua ultima apparizione nel 1975")
-![I Pink Floyd durante la registrazione agli "Abbey Studios" nel 1975](/wp-content/uploads/2025/09/Pink-Floyd-durante-la-registrazione.jpg "I Pink Floyd durante la registrazione agli “Abbey Studios” nel 1975")
-![La cartolina interna al vinile di "Wish You Were Here"](/wp-content/uploads/2025/09/tumblr_m8ajnuU05L1rckc5ao1_1280.jpg "La cartolina interna al vinile di “Wish You Were Here”")
-![La copertina che fascia di nero il vinile di "Wish You Were Here"](/wp-content/uploads/2025/09/Copertina-Wish-due-mani-meccaniche-avvolta-nero.jpg "La copertina che fascia di nero il vinile di “Wish You Were Here”")
+![Il dettaglio della copertina di "Wish You Were Here"](/images/articoli/wish-you-were-here-compie-50-anni-quando-i-pink-floyd-scrissero-la-lettera-damore-piu-bella-del-rock/Dettaglio-Copertina-Wish-You-Were-Here.jpg "Il dettaglio della copertina di “Wish You Were Here”")
+![La sequenza degli scatti della copertina di "Wish You Were Here"](/images/articoli/wish-you-were-here-compie-50-anni-quando-i-pink-floyd-scrissero-la-lettera-damore-piu-bella-del-rock/La-sequenza-della-copertina-di-Wish-You-Were-Here.jpg "La sequenza degli scatti della copertina di “Wish You Were Here”")
+![La copertina fasciata di nero del vinile](/images/articoli/wish-you-were-here-compie-50-anni-quando-i-pink-floyd-scrissero-la-lettera-damore-piu-bella-del-rock/Copertina-Wish-due-mani-meccaniche-avvolta-nero-1.jpg "La copertina fasciata di nero del vinile")
+![Syd Barrett durante i primi anni nel gruppo e nella sua ultima apparizione nel 1975](/images/articoli/wish-you-were-here-compie-50-anni-quando-i-pink-floyd-scrissero-la-lettera-damore-piu-bella-del-rock/h0mjoxtyk9o81.jpg "Syd Barrett durante i primi anni nel gruppo e nella sua ultima apparizione nel 1975")
+![I Pink Floyd durante la registrazione agli "Abbey Studios" nel 1975](/images/articoli/wish-you-were-here-compie-50-anni-quando-i-pink-floyd-scrissero-la-lettera-damore-piu-bella-del-rock/Pink-Floyd-durante-la-registrazione.jpg "I Pink Floyd durante la registrazione agli “Abbey Studios” nel 1975")
+![La cartolina interna al vinile di "Wish You Were Here"](/images/articoli/wish-you-were-here-compie-50-anni-quando-i-pink-floyd-scrissero-la-lettera-damore-piu-bella-del-rock/tumblr_m8ajnuU05L1rckc5ao1_1280.jpg "La cartolina interna al vinile di “Wish You Were Here”")
+![La copertina che fascia di nero il vinile di "Wish You Were Here"](/images/articoli/wish-you-were-here-compie-50-anni-quando-i-pink-floyd-scrissero-la-lettera-damore-piu-bella-del-rock/Copertina-Wish-due-mani-meccaniche-avvolta-nero.jpg "La copertina che fascia di nero il vinile di “Wish You Were Here”")

@@ -20,18 +20,18 @@ tags:
 - storm-thogerson
 - teacher
 - the-wall
-cover: /wp-content/uploads/2021/01/The-Wall-dei-Pink-Floyd-1024x576-1-e1618600562990.jpg
+cover: /images/articoli/pink-floyd-the-wall/The-Wall-dei-Pink-Floyd-1024x576-1-e1618600562990.jpg
 coverAlt: The-Wall-dei-Pink-Floyd
 coverCredit: The-Wall-dei-Pink-Floyd
 draft: false
 wpId: 1027
 ---
 
-![](/wp-content/uploads/2021/11/coro-another-brick.jpg "Il coro della Islington Green School di “Another Brick In the Wall – part 2”")
-
 Se siete alla ricerca della definizione di “concept album” e “opera rock” allo stesso tempo sicuramente [“The Wall”](https://it.wikipedia.org/wiki/The_Wall) dei [Pink Floyd](https://it.wikipedia.org/wiki/Pink_Floyd) è quello che state cercando.
 
 In realtà, come scopriremo più avanti, l’album è frutto quasi esclusivamente del lavoro di Roger Waters, lasciando ai restanti Floyd il ruolo di attori non protagonisti della creazione.
+
+![](/images/articoli/pink-floyd-the-wall/coro-another-brick.jpg "Il coro della Islington Green School di “Another Brick In the Wall – part 2”")
 
 ## **La genesi**
 
@@ -115,10 +115,10 @@ Il messaggio di Pink è sempre molto attuale; ognuno di noi ha le sue paure, i s
 
 Questo messaggio in questo periodo di “isolamento forzato” a causa dell’epidemia mondiale del virus Covid-19 che stiamo affrontando, assume un significato particolarmente importante; esso ci dice che, seppur dovendo per questione di contagio erigere un “muro” a nostra difesa, questo non deve isolarci dagli altri, dobbiamo fare in modo che non sia la soluzione definitiva e non cambi la nostra volontà di relazionarci con gli altri.
 
-![Il dettaglio della copertina di "Wish You Were Here"](/wp-content/uploads/2021/11/Dettaglio-Copertina-Wish-You-Were-Here.jpg "Il dettaglio della copertina di “Wish You Were Here”")
-![La sequenza degli scatti della copertina di "Wish You Were Here"](/wp-content/uploads/2021/11/La-sequenza-della-copertina-di-Wish-You-Were-Here.jpg "La sequenza degli scatti della copertina di “Wish You Were Here”")
-![La copertina fasciata di nero del vinile](/wp-content/uploads/2025/09/Copertina-Wish-due-mani-meccaniche-avvolta-nero-1.jpg "La copertina fasciata di nero del vinile")
-![Syd Barrett durante i primi anni nel gruppo e nella sua ultima apparizione nel 1975](/wp-content/uploads/2025/09/h0mjoxtyk9o81.jpg "Syd Barrett durante i primi anni nel gruppo e nella sua ultima apparizione nel 1975")
-![I Pink Floyd durante la registrazione agli "Abbey Studios" nel 1975](/wp-content/uploads/2025/09/Pink-Floyd-durante-la-registrazione.jpg "I Pink Floyd durante la registrazione agli “Abbey Studios” nel 1975")
-![La cartolina interna al vinile di "Wish You Were Here"](/wp-content/uploads/2025/09/tumblr_m8ajnuU05L1rckc5ao1_1280.jpg "La cartolina interna al vinile di “Wish You Were Here”")
-![La copertina che fascia di nero il vinile di "Wish You Were Here"](/wp-content/uploads/2025/09/Copertina-Wish-due-mani-meccaniche-avvolta-nero.jpg "La copertina che fascia di nero il vinile di “Wish You Were Here”")
+![Il dettaglio della copertina di "Wish You Were Here"](/images/articoli/pink-floyd-the-wall/Dettaglio-Copertina-Wish-You-Were-Here.jpg "Il dettaglio della copertina di “Wish You Were Here”")
+![La sequenza degli scatti della copertina di "Wish You Were Here"](/images/articoli/pink-floyd-the-wall/La-sequenza-della-copertina-di-Wish-You-Were-Here.jpg "La sequenza degli scatti della copertina di “Wish You Were Here”")
+![La copertina fasciata di nero del vinile](/images/articoli/pink-floyd-the-wall/Copertina-Wish-due-mani-meccaniche-avvolta-nero-1.jpg "La copertina fasciata di nero del vinile")
+![Syd Barrett durante i primi anni nel gruppo e nella sua ultima apparizione nel 1975](/images/articoli/pink-floyd-the-wall/h0mjoxtyk9o81.jpg "Syd Barrett durante i primi anni nel gruppo e nella sua ultima apparizione nel 1975")
+![I Pink Floyd durante la registrazione agli "Abbey Studios" nel 1975](/images/articoli/pink-floyd-the-wall/Pink-Floyd-durante-la-registrazione.jpg "I Pink Floyd durante la registrazione agli “Abbey Studios” nel 1975")
+![La cartolina interna al vinile di "Wish You Were Here"](/images/articoli/pink-floyd-the-wall/tumblr_m8ajnuU05L1rckc5ao1_1280.jpg "La cartolina interna al vinile di “Wish You Were Here”")
+![La copertina che fascia di nero il vinile di "Wish You Were Here"](/images/articoli/pink-floyd-the-wall/Copertina-Wish-due-mani-meccaniche-avvolta-nero.jpg "La copertina che fascia di nero il vinile di “Wish You Were Here”")

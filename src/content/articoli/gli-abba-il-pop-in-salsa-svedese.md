@@ -6,14 +6,12 @@ updated: '2022-07-20'
 categories:
 - storie
 tags: []
-cover: /wp-content/uploads/2022/06/ABBA-in-concert.webp
+cover: /images/articoli/gli-abba-il-pop-in-salsa-svedese/ABBA-in-concert.webp
 coverAlt: Gli ABBA all'Eurovision del '74
 coverCredit: Gli ABBA all’Eurovision del ’74
 draft: false
 wpId: 3083
 ---
-
-![Gli ABBA all'Eurovision del '74](/wp-content/uploads/2022/06/ABBA-in-concert.webp "Gli ABBA all’Eurovision del ’74")
 
 Il 27 maggio di quest’anno è avvenuto un evento destinato a rivoluzionare il mondo della musica per i prossimi decenni; per la prima volta è andato in scena uno spettacolo dal vivo eseguito degli ologrammi dei componenti del gruppo, ed i protagonisti dell’evento sono stati gli ABBA.
 
@@ -181,9 +179,9 @@ Pochi gruppi al mondo hanno saputo essere “trasversali” come gli ABBA, capac
 
 Durante le interviste più recenti Benny si è affrettato a dichiarare che non ci saranno più reunion degli ABBA … sarà da credergli ?? Mah … staremo a vedere!!
 
-![Gli ABBA ai giorni nostri](/wp-content/uploads/2022/06/ABBA-oggi.jpg "Gli ABBA ai giorni nostri")
-![Gli avatar degli ABBA ai giorni nostri](/wp-content/uploads/2022/06/tron2-1024x512-1.jpg "Gli avatar degli ABBA ai giorni nostri")
-![Gli ABBA - inizi](/wp-content/uploads/2022/06/ABBA-primi-piani.jpg "Gli ABBA – inizi")
-![Gli ABBA durante il tour in Giappone](/wp-content/uploads/2022/06/Gli-ABBA-durante-il-tour-in-Giappone.jpg "Gli ABBA durante il tour in Giappone")
-![Gli ABBA all'Eurovision del '74](/wp-content/uploads/2022/06/ABBA-in-concert.webp "Gli ABBA all’Eurovision del ’74")
-![ABBA Supereroi](/wp-content/uploads/2022/06/ABBA-Supereroi.jpg "ABBA Supereroi")
+![Gli ABBA ai giorni nostri](/images/articoli/gli-abba-il-pop-in-salsa-svedese/ABBA-oggi.jpg "Gli ABBA ai giorni nostri")
+![Gli avatar degli ABBA ai giorni nostri](/images/articoli/gli-abba-il-pop-in-salsa-svedese/tron2-1024x512-1.jpg "Gli avatar degli ABBA ai giorni nostri")
+![Gli ABBA - inizi](/images/articoli/gli-abba-il-pop-in-salsa-svedese/ABBA-primi-piani.jpg "Gli ABBA – inizi")
+![Gli ABBA durante il tour in Giappone](/images/articoli/gli-abba-il-pop-in-salsa-svedese/Gli-ABBA-durante-il-tour-in-Giappone.jpg "Gli ABBA durante il tour in Giappone")
+![Gli ABBA all'Eurovision del '74](/images/articoli/gli-abba-il-pop-in-salsa-svedese/ABBA-in-concert.webp "Gli ABBA all’Eurovision del ’74")
+![ABBA Supereroi](/images/articoli/gli-abba-il-pop-in-salsa-svedese/ABBA-Supereroi.jpg "ABBA Supereroi")

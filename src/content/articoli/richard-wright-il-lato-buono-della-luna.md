@@ -19,18 +19,18 @@ tags:
 - the-wall
 - us-and-them
 - westminster
-cover: /wp-content/uploads/2021/09/Rick-Wright-oggi.jpg
+cover: /images/articoli/richard-wright-il-lato-buono-della-luna/Rick-Wright-oggi.jpg
 coverAlt: Richard Wright negli ultimi tempi
 coverCredit: Richard Wright negli ultimi tempi
 draft: false
 wpId: 2510
 ---
 
-![](/wp-content/uploads/2021/08/Richard-Wright.jpg)
-
 Il giorno 4 agosto del 1962 nacque a Londra [Richard Wright](https://it.wikipedia.org/wiki/Richard_Wright_(musicista)), polistrumentista e padre fondatore dei Pink Floyd, insieme a [Syd Barrett](https://it.wikipedia.org/wiki/Syd_Barrett), [Roger Waters](https://it.wikipedia.org/wiki/Roger_Waters) e [Nick Mason](https://it.wikipedia.org/wiki/Nick_Mason).
 
 Richard Wright non era solo il tastierista del gruppo, è stato anche il compositore di numerosi pezzi storici ma è stato universalmente riconosciuto come la parte più umana del gruppo, soprattutto durante le liti intestine tra Roger Waters e il resto della band, trovandosi spesso ad essere lui a farne la spese.
+
+![](/images/articoli/richard-wright-il-lato-buono-della-luna/Richard-Wright.jpg)
 
 ## **Inizi**
 
@@ -129,11 +129,11 @@ Se volete potete approfondire con i seguenti contenuti:
 - [www.rickwright.com](https://rickwright.com/) – Sito ufficiale di Richard Wright, con tanti contenuti interessanti, soprattutto tecnici.
 - [“Nick Mason – Inside Out”](https://amzn.to/3kaqWgV) – Autobiografia di Nick Mason
 
-![Richard Wright alla tastiera](/wp-content/uploads/2021/08/Richard-Wright.jpg "Richard Wright alla tastiera")
-![Richard Wright - primo piano](/wp-content/uploads/2021/08/Richard-Wright-color.jpg "Richard Wright – primo piano")
-![Foto dei Pink Floyd con Wright, Waters, Mason, e Barrett](/wp-content/uploads/2021/08/Pink-Floyd-Rick-Wright-Roger-Waters-Nick-Mason-y-Syd-Barrett.jpeg "Foto dei Pink Floyd con Wright, Waters, Mason, e Barrett")
-![Wright ai tempi di The Endless River](/wp-content/uploads/2021/08/Wright-The-Endless-River.jpg "Wright ai tempi di The Endless River")
-![Richard Wright con David Gilmour durante gli ultimi lavori assieme](/wp-content/uploads/2021/08/David-Gilmour-Richard-Wright.jpg "Richard Wright con David Gilmour durante gli ultimi lavori assieme")
-![Richard Wright in studio di registrazione](/wp-content/uploads/2021/08/Wright-Tastiera.jpg "Richard Wright in studio di registrazione")
-![Richard Wright sul palco di Pompei nel '71](/wp-content/uploads/2021/08/Wright-Live.jpg "Richard Wright sul palco di Pompei nel ’71")
-![Ultima reunion dei Pink Floyd al Live8 - 2005](/wp-content/uploads/2021/01/Pink-floyd-Live-8.jpeg "Ultima reunion dei Pink Floyd al Live8 – 2005")
+![Richard Wright alla tastiera](/images/articoli/richard-wright-il-lato-buono-della-luna/Richard-Wright.jpg "Richard Wright alla tastiera")
+![Richard Wright - primo piano](/images/articoli/richard-wright-il-lato-buono-della-luna/Richard-Wright-color.jpg "Richard Wright – primo piano")
+![Foto dei Pink Floyd con Wright, Waters, Mason, e Barrett](/images/articoli/richard-wright-il-lato-buono-della-luna/Pink-Floyd-Rick-Wright-Roger-Waters-Nick-Mason-y-Syd-Barrett.jpeg "Foto dei Pink Floyd con Wright, Waters, Mason, e Barrett")
+![Wright ai tempi di The Endless River](/images/articoli/richard-wright-il-lato-buono-della-luna/Wright-The-Endless-River.jpg "Wright ai tempi di The Endless River")
+![Richard Wright con David Gilmour durante gli ultimi lavori assieme](/images/articoli/richard-wright-il-lato-buono-della-luna/David-Gilmour-Richard-Wright.jpg "Richard Wright con David Gilmour durante gli ultimi lavori assieme")
+![Richard Wright in studio di registrazione](/images/articoli/richard-wright-il-lato-buono-della-luna/Wright-Tastiera.jpg "Richard Wright in studio di registrazione")
+![Richard Wright sul palco di Pompei nel '71](/images/articoli/richard-wright-il-lato-buono-della-luna/Wright-Live.jpg "Richard Wright sul palco di Pompei nel ’71")
+![Ultima reunion dei Pink Floyd al Live8 - 2005](/images/articoli/richard-wright-il-lato-buono-della-luna/Pink-floyd-Live-8.jpeg "Ultima reunion dei Pink Floyd al Live8 – 2005")

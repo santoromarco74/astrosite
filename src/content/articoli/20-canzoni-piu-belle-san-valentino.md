@@ -12,7 +12,7 @@ tags:
 - love-songs
 - san-valentino
 - soft-rock
-cover: /wp-content/uploads/2021/02/love-quotes-e1618600291768.jpg
+cover: /images/articoli/20-canzoni-piu-belle-san-valentino/love-quotes-e1618600291768.jpg
 coverAlt: Love quotes
 coverCredit: Love quotes
 draft: false

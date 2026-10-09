@@ -22,17 +22,17 @@ tags:
 - scorpions
 - the-wall
 - theacher
-cover: /wp-content/uploads/2021/04/Il-palco-del-Live-in-Berlin.jpg
+cover: /images/articoli/the-wall-live-in-berlin-1990/Il-palco-del-Live-in-Berlin.jpg
 coverAlt: Il palco del Live in Berlin 1990
 coverCredit: Il palco del Live in Berlin 1990
 draft: false
 wpId: 1733
 ---
 
-![Panoramica del palco di Berlino](/wp-content/uploads/2021/04/Panoramica-del-palco-di-Berlino.jpg "Panoramica del palco di Berlino la sera del 21 luglio 1990")
-
 Con questo post si conclude l’ideale trilogia di [Roger Waters](https://it.wikipedia.org/wiki/Roger_Waters) (e anche la nostra) sull’opera [*“The Wall”*](https://it.wikipedia.org/wiki/The_Wall); dopo [l’album](/pink-floyd-the-wall/), [il film](/pink-floyd-the-wall-il-film/), arriva il live, ed in un contesto particolare, a Berlino, 21 luglio 1990, otto mesi dopo la caduta del tristemente noto muro.
 In realtà di live ce ne sono stati diversi che potessero chiudere il ciclo di Waters, come il tour registrato nell’album [*“Is There Anybody Out There?: The Wall Live 1980-1981”*](https://en.wikipedia.org/wiki/Is_There_Anybody_Out_There%3F_The_Wall_Live_1980%E2%80%9381) e quello recente di Waters stesso del 2015, un road tour dove ha visitato anche [il cimitero di Anzio](https://it.wikipedia.org/wiki/Anzio), ma il [live di Berlino](https://it.wikipedia.org/wiki/The_Wall_-_Live_in_Berlin) assume dei contorni particolari che voglio raccontarvi.
+
+![Panoramica del palco di Berlino](/images/articoli/the-wall-live-in-berlin-1990/Panoramica-del-palco-di-Berlino.jpg "Panoramica del palco di Berlino la sera del 21 luglio 1990")
 
 ## **L’idea**
 
@@ -207,19 +207,19 @@ Invece per acquistare le opere menzionate, le trovate su Amazon ai seguenti link
 - [“Pink Floyd – The Wall” – Il film diretto da Alan Parker](https://amzn.to/3eiI9Ao)
 - [Ed infine l’album da cui tutto nacque: “Pink Floyd – The Wall”](https://amzn.to/3eo5nVT)
 
-![Il palco del Live in Berlin 1990](/wp-content/uploads/2021/04/Il-palco-del-Live-in-Berlin.jpg "Il palco del Live in Berlin 1990")
-![Joni Mitchell e Roger Waters sul palco](/wp-content/uploads/2021/04/Joni-Mitchell-e-Roger-Waters-sul-palco.jpg "Joni Mitchell e Roger Waters sul palco")
-![Il famoso "Pig" rielaborato per l'occasione](/wp-content/uploads/2021/04/Maiale-in-Live-in-Berlin-1990.jpg "Il famoso “Pig” rielaborato per l’occasione")
-![Panoramica durante "Bring the Boys Back Home"](/wp-content/uploads/2021/04/Proiezione-Bring-the-Boys.jpg "Panoramica durante “Bring the Boys Back Home”")
-![Roger durante le prove giornaliere](/wp-content/uploads/2021/04/Roger-durante-le-prove.jpg "Roger durante le prove giornaliere")
-![Albert Finney - Giudice in "The Trial"](/wp-content/uploads/2021/04/Albert-Finney.jpg "Albert Finney – Giudice in “The Trial”")
-![Roger in elicottero durante in live](/wp-content/uploads/2021/04/Roger-in-elicotterodurante-in-live.jpeg "Roger in elicottero durante in live")
-![Panoramica del palco di Berlino](/wp-content/uploads/2021/04/Panoramica-del-palco-di-Berlino.jpg "Panoramica del palco di Berlino")
-![Roger Waters durante il live in Berlin 1990](/wp-content/uploads/2021/04/Roger-durante-il-live.jpg "Roger Waters durante il live in Berlin 1990")
-![Ute Lemper - La Moglie in "The Trial"](/wp-content/uploads/2021/04/Ute-Lemper.jpg "Ute Lemper – La Moglie in “The Trial”")
-![Marianne Faithfull - La Madre in "The Trial"](/wp-content/uploads/2021/04/Marianne-Faithfull.jpg "Marianne Faithfull – La Madre in “The Trial”")
-![Thomas Dolby - The Teacher](/wp-content/uploads/2021/04/Thomas-Dolby.jpg "Thomas Dolby – The Teacher")
-![Gli Scorpions all'arrivo sul palco](/wp-content/uploads/2021/04/Scorpions.jpg "Gli Scorpions all’arrivo sul palco")
-![Cindy Lauper - Roger Waters - Ute Lemper](/wp-content/uploads/2021/04/Cindy-Lauper-Roger-Waters-Ute-Lemper.jpg "Cindy Lauper – Roger Waters – Ute Lemper")
-![Palco in costruzione - Live in Berlino 90](/wp-content/uploads/2021/04/Palco-in-costruzione-Live-in-Berlino-90.jpg "Palco in costruzione – Live in Berlino 90")
-![Palco con pupazzo teacher - Live in Berlino](/wp-content/uploads/2021/04/Palco-con-pupazzo-teacher-Live-in-Berlino-90-grande.jpg "Palco con pupazzo teacher – Live in Berlino")
+![Il palco del Live in Berlin 1990](/images/articoli/the-wall-live-in-berlin-1990/Il-palco-del-Live-in-Berlin.jpg "Il palco del Live in Berlin 1990")
+![Joni Mitchell e Roger Waters sul palco](/images/articoli/the-wall-live-in-berlin-1990/Joni-Mitchell-e-Roger-Waters-sul-palco.jpg "Joni Mitchell e Roger Waters sul palco")
+![Il famoso "Pig" rielaborato per l'occasione](/images/articoli/the-wall-live-in-berlin-1990/Maiale-in-Live-in-Berlin-1990.jpg "Il famoso “Pig” rielaborato per l’occasione")
+![Panoramica durante "Bring the Boys Back Home"](/images/articoli/the-wall-live-in-berlin-1990/Proiezione-Bring-the-Boys.jpg "Panoramica durante “Bring the Boys Back Home”")
+![Roger durante le prove giornaliere](/images/articoli/the-wall-live-in-berlin-1990/Roger-durante-le-prove.jpg "Roger durante le prove giornaliere")
+![Albert Finney - Giudice in "The Trial"](/images/articoli/the-wall-live-in-berlin-1990/Albert-Finney.jpg "Albert Finney – Giudice in “The Trial”")
+![Roger in elicottero durante in live](/images/articoli/the-wall-live-in-berlin-1990/Roger-in-elicotterodurante-in-live.jpeg "Roger in elicottero durante in live")
+![Panoramica del palco di Berlino](/images/articoli/the-wall-live-in-berlin-1990/Panoramica-del-palco-di-Berlino.jpg "Panoramica del palco di Berlino")
+![Roger Waters durante il live in Berlin 1990](/images/articoli/the-wall-live-in-berlin-1990/Roger-durante-il-live.jpg "Roger Waters durante il live in Berlin 1990")
+![Ute Lemper - La Moglie in "The Trial"](/images/articoli/the-wall-live-in-berlin-1990/Ute-Lemper.jpg "Ute Lemper – La Moglie in “The Trial”")
+![Marianne Faithfull - La Madre in "The Trial"](/images/articoli/the-wall-live-in-berlin-1990/Marianne-Faithfull.jpg "Marianne Faithfull – La Madre in “The Trial”")
+![Thomas Dolby - The Teacher](/images/articoli/the-wall-live-in-berlin-1990/Thomas-Dolby.jpg "Thomas Dolby – The Teacher")
+![Gli Scorpions all'arrivo sul palco](/images/articoli/the-wall-live-in-berlin-1990/Scorpions.jpg "Gli Scorpions all’arrivo sul palco")
+![Cindy Lauper - Roger Waters - Ute Lemper](/images/articoli/the-wall-live-in-berlin-1990/Cindy-Lauper-Roger-Waters-Ute-Lemper.jpg "Cindy Lauper – Roger Waters – Ute Lemper")
+![Palco in costruzione - Live in Berlino 90](/images/articoli/the-wall-live-in-berlin-1990/Palco-in-costruzione-Live-in-Berlino-90.jpg "Palco in costruzione – Live in Berlino 90")
+![Palco con pupazzo teacher - Live in Berlino](/images/articoli/the-wall-live-in-berlin-1990/Palco-con-pupazzo-teacher-Live-in-Berlino-90-grande.jpg "Palco con pupazzo teacher – Live in Berlino")

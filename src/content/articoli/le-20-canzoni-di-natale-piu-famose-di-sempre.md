@@ -14,13 +14,11 @@ tags:
 - last-christmas
 - natale
 - white
-cover: /wp-content/uploads/2022/12/Depositphotos_129905336_S.jpg
+cover: /images/articoli/le-20-canzoni-di-natale-piu-famose-di-sempre/Depositphotos_129905336_S.jpg
 coverAlt: Le 20 canzoni di Natale più famose di sempre
 draft: false
 wpId: 3265
 ---
-
-![](/wp-content/uploads/2022/12/Depositphotos_129905336_S-1.jpg)
 
 Anche quest’anno ci avviciniamo al Natale e non possiamo fare a meno di fischiettare le canzoncine di Natale che ossessivamente ci vengono riproposte; e nell’attesa dell’immancabile appuntamento con [*“Una poltrona per due”*](https://it.wikipedia.org/wiki/Una_poltrona_per_due)alla vigilia, ecco un piccolo ripasso delle canzoni più conosciute:
 

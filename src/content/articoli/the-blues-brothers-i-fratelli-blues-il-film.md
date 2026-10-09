@@ -6,18 +6,18 @@ updated: '2022-04-24'
 categories:
 - film
 tags: []
-cover: /wp-content/uploads/2022/03/Locandina-BB.jpg
+cover: /images/articoli/the-blues-brothers-i-fratelli-blues-il-film/Locandina-BB.jpg
 coverAlt: La locandina del film The Blues Brothers
 coverCredit: La locandina del film The Blues Brothers
 draft: false
 wpId: 3010
 ---
 
-![Jake e Elwood alla tavola calda](/wp-content/uploads/2022/03/Jake-e-Elwood-alla-tavola-calda.jpg "Jake e Elwood alla tavola calda")
-
 Occhiali da sole scuri, completo nero e borsalino su camicia bianca, e tanto blues; niente di più iconico al mondo che loro, ladies and gentleman, [The Blues Brothers](https://it.wikipedia.org/wiki/The_Blues_Brothers_-_I_fratelli_Blues).
 
 Nel momento di massima espressione della loro carriera, ecco che arriva la consacrazione cinematografica Blues Brothers, in quello che forse è una commedia o forse un musical, ma di sicuro una pietra miliare nella storia del cinema e della musica.
+
+![Jake e Elwood alla tavola calda](/images/articoli/the-blues-brothers-i-fratelli-blues-il-film/Jake-e-Elwood-alla-tavola-calda.jpg "Jake e Elwood alla tavola calda")
 
 ## **I fratelli Blues**
 
@@ -266,11 +266,11 @@ Come tutti sono rimasto affascinato dalla carismatica figura di John Belushi, di
 
 La coppia Belushi Aykroyd fu inoltre capace di creare un marchio di fabbrica, resistente al mito dei tempi; ancora oggi, il [Ray Ban Wayfarer](https://www.ray-ban.com/italy/occhiali-da-sole/wayfarer) è diventato l’occhiale dei Blues Brothers come lo è la loro tenuta in completo nero e borsalino e non si può non vederli in un negozio senza non pensare a loro.
 
-![John, Dan e Carrie Fisher sul set](/wp-content/uploads/2022/03/John-Dan-e-Carrie-Fisher.jpg)
-![Jake e Elwood alla tavola calda](/wp-content/uploads/2022/03/Jake-e-Elwood-alla-tavola-calda.jpg)
-![Jake e Eldwood](/wp-content/uploads/2022/03/BB.jpg)
-![John e Dan con Jonnhy Lee Hooker](/wp-content/uploads/2022/03/Jake-e-Elwood-con-Jonnhy-Lee-Hooker.jpg)
-![La Bluesmobile durante la promozione dello spettacolo](/wp-content/uploads/2022/03/La-Bluesmobile.jpg)
-![La copertina della colonna sonora del film](/wp-content/uploads/2022/03/Copertina-colonna-sonora-BB.jpg)
-![La locandina del film The Blues Brothers](/wp-content/uploads/2022/03/Locandina-BB.jpg)
-![James Brown](/wp-content/uploads/2022/03/James-Brown.jpg)
+![John, Dan e Carrie Fisher sul set](/images/articoli/the-blues-brothers-i-fratelli-blues-il-film/John-Dan-e-Carrie-Fisher.jpg)
+![Jake e Elwood alla tavola calda](/images/articoli/the-blues-brothers-i-fratelli-blues-il-film/Jake-e-Elwood-alla-tavola-calda.jpg)
+![Jake e Eldwood](/images/articoli/the-blues-brothers-i-fratelli-blues-il-film/BB.jpg)
+![John e Dan con Jonnhy Lee Hooker](/images/articoli/the-blues-brothers-i-fratelli-blues-il-film/Jake-e-Elwood-con-Jonnhy-Lee-Hooker.jpg)
+![La Bluesmobile durante la promozione dello spettacolo](/images/articoli/the-blues-brothers-i-fratelli-blues-il-film/La-Bluesmobile.jpg)
+![La copertina della colonna sonora del film](/images/articoli/the-blues-brothers-i-fratelli-blues-il-film/Copertina-colonna-sonora-BB.jpg)
+![La locandina del film The Blues Brothers](/images/articoli/the-blues-brothers-i-fratelli-blues-il-film/Locandina-BB.jpg)
+![James Brown](/images/articoli/the-blues-brothers-i-fratelli-blues-il-film/James-Brown.jpg)

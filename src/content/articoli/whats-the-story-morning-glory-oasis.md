@@ -22,14 +22,12 @@ tags:
 - oasis
 - rockfield
 - wonderwall
-cover: /wp-content/uploads/2021/02/Cover-Whats-e1618063173392.jpg
+cover: /images/articoli/whats-the-story-morning-glory-oasis/Cover-Whats-e1618063173392.jpg
 coverAlt: La cover dell' album (What's the Story) Morning Glory
 coverCredit: La cover dell’ album (What’s the Story) Morning Glory
 draft: false
 wpId: 1286
 ---
-
-![La cover dell' album (What's the Story) Morning Glory](/wp-content/uploads/2021/02/Cover-Whats.jpg "La cover dell’ album (What’s the Story) Morning Glory")
 
 Tutti noi conosciamo le peripezie dei “famosi” fratelli Liam e Noel Gallagher, anche loro originari di Manchester, quella Manchester (o “Madchester” come veniva detta all’epoca) che ha dato i natali anche a [Ian Curtis](/la-tormentata-storia-di-ian-curtis-e-dei-joy-division/) e ai [Joy Division](/la-tormentata-storia-di-ian-curtis-e-dei-joy-division/), e come a loro a tanti altri interpreti musicali.
 
@@ -176,12 +174,12 @@ L’album *[(What’s the Story) Morning Glory](https://it.wikipedia.org/wiki/(W
 
 Potete trovare l’album , oltre che sul [sito ufficiale](https://shop.oasisinet.com/product/68112), soprattutto nella versione picture disc che raccomando fortemente, anche sul sito [Amazon](https://amzn.to/3dWdlaa) nei vari formati disponibili (MP3, LP, cassetta, CD audio).
 
-![La visuale esterna dei Rockfield Studios nel Galles](/wp-content/uploads/2021/02/rockfield-studios-esterni.jpg "La visuale esterna dei Rockfield Studios nel Galles")
-![Gli interni dei Rockfield Studios nel Galles](/wp-content/uploads/2021/02/Rockfield-Studios-interni.jpg "Gli interni dei Rockfield Studios nel Galles")
-![Liam Gallagher e Damon Albarn - Oasis contro Blur anche sul campo da calcio](/wp-content/uploads/2021/02/oasis-blur.jpg "Liam Gallagher e Damon Albarn – Oasis contro Blur anche sul campo da calcio")
-![La formazione degli Oasis al completo](/wp-content/uploads/2021/02/Oasis-al-completo.jpg "La formazione degli Oasis al completo")
-![Gli Oasis sul palco di Knebworth](/wp-content/uploads/2021/02/Oasis-live-at-Knebworth.webp "Gli Oasis sul palco di Knebworth")
-![Oasis in versione ultrà del Manchester City](/wp-content/uploads/2021/02/Oasis-in-versione-ultra.jpg "Oasis in versione ultrà del Manchester City")
+![La visuale esterna dei Rockfield Studios nel Galles](/images/articoli/whats-the-story-morning-glory-oasis/rockfield-studios-esterni.jpg "La visuale esterna dei Rockfield Studios nel Galles")
+![Gli interni dei Rockfield Studios nel Galles](/images/articoli/whats-the-story-morning-glory-oasis/Rockfield-Studios-interni.jpg "Gli interni dei Rockfield Studios nel Galles")
+![Liam Gallagher e Damon Albarn - Oasis contro Blur anche sul campo da calcio](/images/articoli/whats-the-story-morning-glory-oasis/oasis-blur.jpg "Liam Gallagher e Damon Albarn – Oasis contro Blur anche sul campo da calcio")
+![La formazione degli Oasis al completo](/images/articoli/whats-the-story-morning-glory-oasis/Oasis-al-completo.jpg "La formazione degli Oasis al completo")
+![Gli Oasis sul palco di Knebworth](/images/articoli/whats-the-story-morning-glory-oasis/Oasis-live-at-Knebworth.webp "Gli Oasis sul palco di Knebworth")
+![Oasis in versione ultrà del Manchester City](/images/articoli/whats-the-story-morning-glory-oasis/Oasis-in-versione-ultra.jpg "Oasis in versione ultrà del Manchester City")
 
 https://www.youtube.com/watch?v=IqbPBWQNkzM
 

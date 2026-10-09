@@ -13,7 +13,7 @@ Mi chiamo Marco Santoro, 46 anni , ligure di adozione ma di origine laziale, son
 
 Sognatore per passione, realista per professione, sono una persona estremamente curiosa e per questo cerco sempre nuove attività che stimolino la mia creatività.
 
-![](/wp-content/uploads/2021/01/2019-05-20-13h51m29-768x1024.jpg "Epson Show a Tokyo")
+![](/images/pagine/chi-sono/2019-05-20-13h51m29-768x1024.jpg "Epson Show a Tokyo")
 
 Una citazione di Rino Gaetano aiuterà meglio a capire lo spirito di questa nuova avventura:
 
