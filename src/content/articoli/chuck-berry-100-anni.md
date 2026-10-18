@@ -14,7 +14,7 @@ tags:
 cover: /images/articoli/chuck-berry-100-anni/chuck-berry-promo.jpg
 coverAlt: 'Chuck Berry in smoking e papillon, accovacciato con una chitarra semiacustica chiara, in una foto promozionale in bianco e nero'
 coverCredit: 'Chuck Berry in una foto promozionale dell’agenzia Universal Attractions. Via Wikimedia Commons (pubblico dominio)'
-draft: true
+draft: false
 ---
 
 Ci sono compleanni che si festeggiano e compleanni che si studiano. Il **18 ottobre 1926**, cento anni prima di questo 2026, nasceva a **St. Louis**, nel Missouri, **Charles Edward Anderson Berry**. Per tutti, semplicemente, **Chuck Berry**. E se vi sembra esagerato chiamarlo il padre del rock’n’roll, lasciamo la parola a uno che di rock se ne intendeva: John Lennon disse che *«se volessi dare un altro nome al rock and roll, potresti chiamarlo Chuck Berry»*.
