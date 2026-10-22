@@ -1,6 +1,7 @@
 /feed/ /rss.xml 301
 /feed /rss.xml 301
 /category/:slug/ /:slug/ 301
+/paul-simon-85-anni-2/ /paul-simon-85-anni/ 301
 /wp-content/uploads/2020/06/annik-honore-478x270-1-e1611138583158.jpg /images/articoli/la-tormentata-storia-di-ian-curtis-e-dei-joy-division/annik-honore-478x270-1-e1611138583158.jpg 301
 /wp-content/uploads/2020/06/deborahhathalie.jpg /images/articoli/la-tormentata-storia-di-ian-curtis-e-dei-joy-division/deborahhathalie.jpg 301
 /wp-content/uploads/2020/06/ian-in-concert.jpeg /images/articoli/la-tormentata-storia-di-ian-curtis-e-dei-joy-division/ian-in-concert.jpeg 301

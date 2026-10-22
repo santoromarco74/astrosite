@@ -1,0 +1,75 @@
+# Pubblicazione automatica su VHosting (lamusicadelsanto.it) a ogni push su main.
+#
+# Resta SPENTA finché nel repository non c'è la variabile DEPLOY_VHOSTING = true
+# (Settings > Secrets and variables > Actions > Variables). Così non cancella nulla
+# sul server prima che WordPress sia stato salvato e spostato.
+#
+# Segreti richiesti (Settings > Secrets and variables > Actions > Secrets):
+#   FTP_SERVER    host FTP di VHosting (es. ftp.lamusicadelsanto.it o il nome del server)
+#   FTP_USERNAME  utente FTP DEDICATO, limitato alla cartella del sito
+#   FTP_PASSWORD  password di quell'utente
+#   FTP_DIR       cartella del sito vista da quell'utente (es. /  oppure /lamusicadelsanto.it)
+#
+# ATTENZIONE: il caricamento è a specchio. Tutto ciò che sta nella cartella del sito
+# e non fa parte del sito Astro viene CANCELLATO (tranne .well-known e cgi-bin).
+
+name: Pubblica su VHosting
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: deploy-vhosting
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    if: vars.DEPLOY_VHOSTING == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Installa le dipendenze
+        run: npm ci
+
+      - name: Costruisci il sito
+        run: npm run build
+
+      - name: Prepara .htaccess per VHosting
+        run: python3 scripts/htaccess.py dist
+
+      - name: Controllo di sicurezza (niente PHP nel sito)
+        run: |
+          if find dist -iname '*.php*' | grep -q .; then
+            echo "Trovato un file PHP in dist: pubblicazione bloccata"; find dist -iname '*.php*'; exit 1
+          fi
+
+      - name: Installa lftp
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq lftp
+
+      - name: Carica su VHosting (FTPS, a specchio)
+        env:
+          FTP_SERVER: ${{ secrets.FTP_SERVER }}
+          FTP_USERNAME: ${{ secrets.FTP_USERNAME }}
+          FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
+          FTP_DIR: ${{ secrets.FTP_DIR }}
+        run: |
+          lftp -u "$FTP_USERNAME","$FTP_PASSWORD" "$FTP_SERVER" -e "
+            set ftp:ssl-force true;
+            set ftp:ssl-protect-data true;
+            set ssl:verify-certificate yes;
+            set net:max-retries 3;
+            set net:timeout 30;
+            mirror --reverse --delete --verbose --parallel=4 \
+              --exclude-glob .well-known/ \
+              --exclude-glob cgi-bin/ \
+              dist/ \"$FTP_DIR\";
+            bye"
