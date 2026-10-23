@@ -1,0 +1,29 @@
+<!doctype html><html lang="it"><head><meta charset="utf-8"><link rel="stylesheet" href="stile.css">
+<style>
+/* Storia Instagram 1080x1920: in alto e in basso ~220px restano liberi per l'interfaccia di Instagram;
+   lo spazio vuoto sotto la freccia (circa 1500-1680 px dall'alto) è il posto dove incollare lo sticker «Link». */
+.tela{width:1080px;height:1920px}
+.fascia{position:absolute;top:220px;left:0;right:0;height:70px;padding:0 64px;font-size:26px;letter-spacing:.16em}
+.dentro{position:absolute;top:320px;left:64px;right:64px}
+.testata{font-size:76px;white-space:nowrap}
+.scala{height:50px;margin-top:22px}.scala .lancetta{height:38px;left:var(--lancetta,37%)}.scala .numeri{top:24px;font-size:15px}
+.nuovo{font-family:var(--mono);text-transform:uppercase;letter-spacing:.2em;font-size:22px;color:var(--ambra-scura);text-align:center;margin-top:34px}
+.titolo{font-size:116px;text-align:center;margin-top:12px}
+.occhiello{font-size:30px;text-align:center;margin-top:18px}
+.lp{width:600px;padding-right:70px;margin:40px auto 0}
+.lp .busta{width:530px}
+.credito{font-size:16px;text-align:center;margin-top:18px}
+.freccia{position:absolute;left:0;right:0;bottom:360px;text-align:center;font-family:var(--titolo);font-size:42px}
+</style></head><body><div class="tela">
+<div class="fascia"><span>Accadde il {{data_evento}}</span><span class="fm">FM</span></div>
+<div class="dentro">
+ <h1 class="testata">LA MUSICA DEL SANTO</h1>
+ <div class="scala"><i class="lancetta"></i><div class="numeri"><span>88</span><span>92</span><span>96</span><span>100</span><span>104</span><span>108 MHz</span></div></div>
+ <p class="nuovo">Nuovo sul blog</p>
+ <h2 class="titolo">{{titolo}}</h2>
+ <p class="occhiello">{{occhiello_storia}}</p>
+ <div class="lp"><i class="disco"></i><div class="busta"><img src="{{foto}}" style="object-position:{{fuoco}}"></div></div>
+ <p class="credito">{{credito_breve}}</p>
+</div>
+<p class="freccia">Leggi la storia completa ↓</p>
+</div></body></html>

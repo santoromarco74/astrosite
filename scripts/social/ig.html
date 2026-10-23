@@ -1,0 +1,37 @@
+<!doctype html><html lang="it"><head><meta charset="utf-8"><link rel="stylesheet" href="stile.css">
+<style>
+.tela{width:1080px;height:1350px}
+.fascia{height:66px;padding:0 56px;font-size:24px;letter-spacing:.16em}
+.dentro{padding:0 56px}
+.occhiello-testata{font-size:15px;letter-spacing:.34em;margin-top:24px}
+.testata{font-size:84px;margin-top:8px;white-space:nowrap}
+.motto{font-size:25px;margin-top:6px}
+.scala{height:46px;margin-top:22px}.scala .lancetta{height:34px;left:var(--lancetta,37%)}.scala .numeri{top:22px;font-size:14px}
+.riga-data{font-size:16px;letter-spacing:.12em;padding:10px 0 12px}
+.titolo{font-size:96px;text-align:center;margin-top:20px}
+.occhiello{font-size:25px;text-align:center;margin:12px 30px 0}
+.corpo{display:grid;grid-template-columns:540px 1fr;gap:36px;margin-top:24px;align-items:start}
+.lp{width:540px;padding-right:62px}
+.lp .busta{width:478px}
+.credito{font-size:14px;margin-top:14px}
+.testo{font-size:21px;padding-top:6px}
+.interno{position:absolute;left:56px;right:56px;bottom:36px;height:56px}
+.interno b{padding:0 20px;font-size:18px;letter-spacing:.16em}
+.interno span{padding:0 18px;font-size:22px}
+</style></head><body><div class="tela">
+<div class="fascia"><span>Accadde il {{data_evento}}</span><span class="fm">FM</span></div>
+<div class="dentro">
+<p class="occhiello-testata">Cronache di bella musica</p>
+<h1 class="testata">LA MUSICA DEL SANTO</h1>
+<p class="motto">Guida semiseria per autostoppisti musicali</p>
+<div class="scala"><i class="lancetta"></i><div class="numeri"><span>88</span><span>92</span><span>96</span><span>100</span><span>104</span><span>108 MHz</span></div></div>
+<div class="riga-data"><span>{{giorno_epoca}}</span><span>Prezzo: un ascolto</span></div>
+<h2 class="titolo">{{titolo}}</h2>
+<p class="occhiello">{{occhiello}}</p>
+<div class="corpo">
+ <div><div class="lp"><i class="disco"></i><div class="busta"><img src="{{foto}}" style="object-position:{{fuoco}}"></div></div><p class="credito">{{credito}}</p></div>
+ <div class="testo"><p>{{testo1}}</p><p>{{testo2}}</p></div>
+</div>
+</div>
+<div class="interno"><b>All’interno</b><span>{{interno}}</span></div>
+</div></body></html>
