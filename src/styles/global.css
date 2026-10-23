@@ -77,9 +77,10 @@ a.etichetta:hover { color: #fff; background: var(--nero); }
 .leggi { font-family: var(--f-ui); font-weight: 700; font-size: 13px; letter-spacing: .08em; text-transform: uppercase; color: var(--rosso-testo); text-decoration: none; }
 .meta { font-family: var(--f-ui); font-size: 13px; letter-spacing: .04em; color: var(--grigio-testo); }
 .retino { position: relative; overflow: hidden; background: var(--neutro); }
-.retino img { width: 100%; height: 100%; object-fit: cover; filter: grayscale(1) contrast(1.2) brightness(1.05); transition: filter .4s; }
-.retino::after { content: ''; position: absolute; inset: 0; pointer-events: none; mix-blend-mode: multiply; background-image: radial-gradient(circle, rgba(17,17,17,.24) 1px, transparent 1.35px); background-size: 5px 5px; }
-a:hover .retino img { filter: grayscale(.15) contrast(1.05); }
+/* Foto al naturale: niente bianco e nero né retinatura (23/10/2026) */
+.retino img { width: 100%; height: 100%; object-fit: cover; display: block; transition: transform .5s ease; }
+a:hover .retino img { transform: scale(1.03); }
+@media (prefers-reduced-motion: reduce) { .retino img { transition: none; } a:hover .retino img { transform: none; } }
 .didascalia { font-style: italic; font-size: 14px; color: var(--grigio-testo); margin-top: 6px; }
 .sezione-titolo { display: flex; align-items: center; gap: 14px; margin: 44px 0 22px; font-family: var(--f-ui); font-weight: 700; font-size: 13px; letter-spacing: .14em; text-transform: uppercase; }
 .sezione-titolo::after { content: ''; flex: 1; border-top: 1.5px solid var(--nero); }
