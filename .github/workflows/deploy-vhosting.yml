@@ -62,6 +62,9 @@ jobs:
           FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
           FTP_DIR: ${{ secrets.FTP_DIR }}
         run: |
+          # cartella di destinazione: niente virgolette (lftp le tratterebbe come parte del nome)
+          FTP_DIR="${FTP_DIR:-/}"
+          case "$FTP_DIR" in *[\"\'\ ]*) echo "FTP_DIR non deve contenere virgolette o spazi"; exit 1;; esac
           lftp -u "$FTP_USERNAME","$FTP_PASSWORD" "$FTP_SERVER" -e "
             set ftp:ssl-force true;
             set ftp:ssl-protect-data true;
@@ -71,5 +74,5 @@ jobs:
             mirror --reverse --delete --verbose --parallel=4 \
               --exclude-glob .well-known/ \
               --exclude-glob cgi-bin/ \
-              dist/ \"$FTP_DIR\";
+              dist/ $FTP_DIR;
             bye"
