@@ -14,7 +14,7 @@ tags:
 cover: /images/articoli/bill-wyman-90-anni/wyman-1989.jpg
 coverAlt: 'Bill Wyman sorridente, con giacca chiara e camicia a righe, appoggiato con il mento alla mano'
 coverCredit: 'Bill Wyman nel settembre 1989. Foto di Gorup de Besanez via Wikimedia Commons (CC BY-SA 4.0)'
-draft: true
+draft: false
 ---
 
 Dopo i cento anni di [Chuck Berry](/chuck-berry-100-anni/), festeggiati il 18 ottobre, tocca a uno che le canzoni di Chuck le ha suonate per davvero, a partire dal primo singolo dei Rolling Stones. Il **24 ottobre 2026** **Bill Wyman** compie **90 anni**. Per trent’anni, dal **1962** al **1993**, è stato il bassista della più grande rock’n’roll band del mondo. Quello che stava un passo indietro, tanto che il documentario sulla sua vita (2019) si intitola proprio *The Quiet One*, “quello tranquillo”.
