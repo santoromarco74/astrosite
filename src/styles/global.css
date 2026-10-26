@@ -156,6 +156,9 @@ a:hover .retino img { transform: scale(1.03); }
   --poster-ink: #242321;
   --poster-accent: #842D40;
   --poster-muted: #514A44;
+  --poster-tag-bg: #842D40;
+  --poster-tag-ink: #FFFFFF;
+  --poster-hover: #842D40;
   position: relative;
   display: flex;
   flex-direction: column;
@@ -177,30 +180,45 @@ a:hover .retino img { transform: scale(1.03); }
   --poster-ink: #FFFFFF;
   --poster-accent: #F0C84C;
   --poster-muted: #E2E6EA;
+  --poster-tag-bg: #F0C84C;
+  --poster-tag-ink: #242321;
+  --poster-hover: #F0C84C;
 }
 .pezzo:nth-child(6n+3) {
-  --poster-bg: #D94F36;
+  --poster-bg: #E8A08C;
   --poster-ink: #211D1B;
-  --poster-accent: #FBE9C6;
+  --poster-accent: #242321;
   --poster-muted: #33241E;
+  --poster-tag-bg: #242321;
+  --poster-tag-ink: #FFFFFF;
+  --poster-hover: #842D40;
 }
 .pezzo:nth-child(6n+4) {
   --poster-bg: #222225;
   --poster-ink: #F7F3EB;
   --poster-accent: #D94F36;
   --poster-muted: #E2DDD7;
+  --poster-tag-bg: #F7F3EB;
+  --poster-tag-ink: #222225;
+  --poster-hover: #D94F36;
 }
 .pezzo:nth-child(6n+5) {
   --poster-bg: #E9C95A;
   --poster-ink: #242321;
   --poster-accent: #242321;
   --poster-muted: #3A3424;
+  --poster-tag-bg: #242321;
+  --poster-tag-ink: #E9C95A;
+  --poster-hover: #842D40;
 }
 .pezzo:nth-child(6n) {
   --poster-bg: #E9E7E1;
   --poster-ink: #242321;
   --poster-accent: #366B78;
   --poster-muted: #4F5E60;
+  --poster-tag-bg: #366B78;
+  --poster-tag-ink: #FFFFFF;
+  --poster-hover: #366B78;
 }
 .pezzo > a:first-child { position: relative; display: block; flex: 0 0 auto; height: clamp(190px, 22vw, 270px); overflow: hidden; background: var(--poster-accent); }
 .pezzo:nth-child(6n+1) > a:first-child, .pezzo:nth-child(6n+2) > a:first-child { height: clamp(240px, 30vw, 360px); }
@@ -208,10 +226,10 @@ a:hover .retino img { transform: scale(1.03); }
 .pezzo .retino { width: 100%; height: 100%; aspect-ratio: auto; box-shadow: none; background: var(--poster-accent); }
 .pezzo .retino img { width: 100%; height: 100%; object-fit: cover; transition: transform .35s ease; }
 .pezzo > div { position: relative; flex: 1; padding: 17px 18px 25px; border-top: 6px solid var(--poster-accent); }
-.pezzo .rubrica { display: inline-block; margin: 0 0 9px; padding: 4px 7px; color: var(--poster-bg); background: var(--poster-ink); font-family: var(--f-ui); font-size: 10px; font-weight: 700; letter-spacing: .12em; }
+.pezzo .rubrica { display: inline-block; margin: 0 0 9px; padding: 4px 7px; color: var(--poster-tag-ink); background: var(--poster-tag-bg); font-family: var(--f-ui); font-size: 10px; font-weight: 700; letter-spacing: .12em; }
 .pezzo .titolo { position: relative; z-index: 1; color: var(--poster-ink); font-family: var(--f-poster); font-weight: 400; font-size: clamp(24px, 2.2vw, 34px); line-height: .98; letter-spacing: .015em; text-transform: uppercase; margin: 2px 0 10px; text-wrap: balance; }
 .pezzo .titolo a { color: inherit; text-decoration: none; }
-.pezzo .titolo a:hover { color: var(--poster-accent); }
+.pezzo .titolo a:hover { color: var(--poster-hover, var(--poster-accent)); }
 .pezzo p { position: relative; z-index: 1; margin: 0; font-size: 14px; line-height: 1.48; color: var(--poster-muted); }
 .pezzo > div::after { content: counter(poster, decimal-leading-zero); position: absolute; right: 12px; bottom: -20px; color: var(--poster-ink); opacity: .07; font-family: var(--f-poster); font-size: 96px; line-height: 1; pointer-events: none; }
 .pezzo:hover { transform: translateY(-4px); box-shadow: 0 10px 24px rgba(36,35,33,.13); }
@@ -334,4 +352,19 @@ a.zoom { display: block; cursor: zoom-in; }
   .primo-piano { padding-bottom: 28px; }
   .primo-piano .titolo { font-size: clamp(36px, 9vw, 52px); }
   .testa { padding-bottom: 2px; }
+}
+
+
+/* Griglia dei correlati: tre card equilibrate, senza gli span da homepage. */
+.pezzi-correlati { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.pezzi-correlati .pezzo,
+.pezzi-correlati .pezzo:nth-child(6n+1),
+.pezzi-correlati .pezzo:nth-child(6n+2) { grid-column: span 1; }
+.pezzi-correlati .pezzo > a:first-child { height: clamp(180px, 18vw, 250px); }
+@media (max-width: 900px) {
+  .pezzi-correlati { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (max-width: 560px) {
+  .pezzi-correlati { grid-template-columns: 1fr; }
+  .pezzi-correlati .pezzo > a:first-child { height: clamp(220px, 66vw, 320px); }
 }
