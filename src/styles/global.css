@@ -27,6 +27,8 @@ body { margin: 0; background: var(--carta); color: var(--nero); font-family: var
 img { max-width: 100%; height: auto; display: block; }
 a { color: inherit; text-decoration-thickness: 1px; text-underline-offset: 3px; }
 a:hover { color: var(--rosso-testo); }
+.leggi:hover { color: #FFFFFF; background: var(--nero); }
+.etichetta:hover { color: #FFFFFF; background: var(--nero); }
 :focus-visible { outline: 2px solid var(--rosso); outline-offset: 2px; }
 .wrap { max-width: var(--max); margin: 0 auto; padding: 0 var(--gutter); }
 .salta { position: absolute; left: -9999px; }
@@ -66,7 +68,7 @@ a:hover { color: var(--rosso-testo); }
   .testata-una-riga { display: none !important; }
   .testata-due-righe { display: block !important; }
   .sottotitolo-testata { font-size: 14px; padding-bottom: 10px; }
-  .scala-fm { display: block; }
+  .scala-fm { display: none !important; }
   .lato-dx { text-align: right; }
   .cerca-icona { display: inline-flex; padding: 10px; }
   .menu-mobile summary { list-style: none; cursor: pointer; padding: 9px; display: inline-flex; }
@@ -185,10 +187,11 @@ a:hover .retino img { transform: scale(1.03); }
 .piede-marchio { max-width: 620px; width: 100%; margin: 0 auto; }
 .piede .testata-una-riga { display: block !important; }
 .piede .testata-due-righe { display: none !important; }
-.piede .occhiello-testata { font-size: 12px; }
-.piede .sottotitolo-testata { font-size: 17px; border: 0; padding: 0; }
+.piede .occhiello-testata { font-size: 12px; color: var(--carta-2); }
+.piede .sottotitolo-testata { font-size: 17px; border: 0; padding: 0; color: var(--carta-2); }
 .piede a { color: var(--carta); }
 .piede a:hover { color: var(--ambra-chiara); }
+.piede .leggi:hover { color: #FFFFFF; }
 .piede-link { list-style: none; padding: 16px 0 0; margin: 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 8px 26px; border-top: 1px solid #3A3F45; font-family: var(--f-ui); font-size: 13px; letter-spacing: .06em; text-transform: uppercase; }
 .piede small { text-align: center; color: #A7AEA4; font-family: var(--f-ui); font-size: 12px; }
 .articolo-testa .titolo.medio { font-size: clamp(34px, 4.8vw, 60px); }
@@ -215,5 +218,13 @@ a.zoom { display: block; cursor: zoom-in; }
   .visore-prec, .visore-succ { top: auto; bottom: 10px; transform: none; }
 }
 
-/* DM Mono ha solo i pesi 400 e 500: niente grassetti finti */
-.rubrica, .leggi, .etichetta, .sezione-titolo, .menu a, .menu a[aria-current='page'], .menu-mobile a, .tag-lista a { font-weight: 500; }
+/* Peso tipografico coerente con DM Sans: gerarchia nitida senza grassetti eccessivi. */
+.rubrica, .leggi, .etichetta, .sezione-titolo, .menu a, .menu a[aria-current='page'], .menu-mobile a, .tag-lista a { font-weight: 600; }
+
+/* Il tema bordeaux mantiene le CTA leggibili in ogni stato interattivo. */
+.piede .occhiello-testata, .piede .sottotitolo-testata { color: var(--carta-2); }
+@media (max-width: 760px) {
+  .primo-piano { padding-bottom: 28px; }
+  .primo-piano .titolo { font-size: clamp(36px, 9vw, 52px); }
+  .testa { padding-bottom: 2px; }
+}
