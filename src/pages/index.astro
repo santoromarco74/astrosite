@@ -31,7 +31,7 @@ const lung = titoloPrimo.length > 70 ? 'lungo' : titoloPrimo.length > 40 ? 'medi
       <a class="leggi" href={url(primo)}>Leggi l'articolo →</a>
     </div>
     <a class="foto-link" href={url(primo)} tabindex="-1" aria-hidden="true">
-      {primo.data.cover && <Foto src={primo.data.cover} alt="" eager />}
+      {primo.data.cover && <Foto src={primo.data.cover} alt="" eager sizes="100vw" max={1800} />}
     </a>
   </section>
 
