@@ -208,7 +208,7 @@ a:hover .retino img { transform: scale(1.03); }
 .pezzo .retino { width: 100%; height: 100%; aspect-ratio: auto; box-shadow: none; background: var(--poster-accent); }
 .pezzo .retino img { width: 100%; height: 100%; object-fit: cover; transition: transform .35s ease; }
 .pezzo > div { position: relative; flex: 1; padding: 17px 18px 25px; border-top: 6px solid var(--poster-accent); }
-.pezzo .rubrica { display: inline-block; margin: 0 0 9px; padding: 4px 7px; color: var(--poster-bg); background: var(--poster-accent); font-family: var(--f-ui); font-size: 10px; font-weight: 700; letter-spacing: .12em; }
+.pezzo .rubrica { display: inline-block; margin: 0 0 9px; padding: 4px 7px; color: var(--poster-bg); background: var(--poster-ink); font-family: var(--f-ui); font-size: 10px; font-weight: 700; letter-spacing: .12em; }
 .pezzo .titolo { position: relative; z-index: 1; color: var(--poster-ink); font-family: var(--f-poster); font-weight: 400; font-size: clamp(24px, 2.2vw, 34px); line-height: .98; letter-spacing: .015em; text-transform: uppercase; margin: 2px 0 10px; text-wrap: balance; }
 .pezzo .titolo a { color: inherit; text-decoration: none; }
 .pezzo .titolo a:hover { color: var(--poster-accent); }
