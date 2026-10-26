@@ -322,3 +322,47 @@ a.etichetta:hover { background: var(--nero); color: #fff; }
 @media (prefers-reduced-motion: reduce) {
   .primo-piano .foto-link .retino img, .retino img { transition: none; }
 }
+
+
+/* FULL BLEED — tema scuro globale: antracite, avorio e accenti caldi.
+   La variante deve restare distinta dal Poster Wall e non modifica main. */
+:root {
+  --carta: #101113;
+  --carta-2: #1C1D20;
+  --rosso: #C44735;
+  --rosso-testo: #FF8B73;
+  --ambra-chiara: #F2C14E;
+  --grigio: #77777F;
+  --grigio-testo: #B7B2AA;
+  --neutro: #3C3D42;
+  --testo-2: #D6D1C9;
+  --filetto: 1px solid var(--neutro);
+  color-scheme: dark;
+}
+html, body { background: var(--carta); }
+body { color: #F4F0E8; }
+.filetto-stella span,
+.filetto-stella.chiaro span { border-color: var(--neutro) !important; }
+.menu { border-bottom-color: var(--neutro); }
+.menu a { color: #E8E3DB; }
+.menu a[aria-current='page'] { color: var(--rosso-testo); }
+.menu-mobile[open] nav { background: var(--carta-2); border-color: var(--neutro); }
+.menu-mobile a { border-bottom-color: var(--neutro); }
+.corpo > p:first-of-type::first-letter { color: var(--ambra-chiara); }
+.tag-lista { border-top-color: var(--neutro); }
+.tag-lista a { border-color: var(--neutro); color: #E8E3DB; }
+.tag-lista a:hover { background: var(--neutro); color: #FFFFFF; }
+.cerca .pagefind-ui {
+  --pagefind-ui-primary: var(--ambra-chiara);
+  --pagefind-ui-text: #F4F0E8;
+  --pagefind-ui-background: var(--carta-2);
+  --pagefind-ui-border: var(--neutro);
+  --pagefind-ui-tag: var(--neutro);
+}
+.piede { color: #F4F0E8; }
+.piede a { color: #F4F0E8; }
+.piede a:hover { color: var(--ambra-chiara); }
+::selection { background: var(--ambra-chiara); color: #171719; }
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { scroll-behavior: auto !important; }
+}
