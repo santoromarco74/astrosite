@@ -50,7 +50,7 @@ const catDesc = kind === 'categoria' ? (categorie as any)[props.cat]?.descriptio
         {d.description && <p class="sommario">{d.description}</p>}
         <p class="meta">di {SITE.author} · <time datetime={d.date.toISOString()}>{dataLunga(d.date)}</time> · {minutiLettura(a.body)} min di lettura</p>
       </header>
-      {d.cover && <div class="articolo-copertina"><Foto src={d.cover} alt={d.coverAlt ?? ''} credit={d.coverCredit} eager zoom /></div>}
+      {d.cover && <div class="articolo-copertina"><Foto src={d.cover} alt={d.coverAlt ?? ''} credit={d.coverCredit} eager zoom sizes="100vw" max={1800} /></div>}
       <div class="corpo" data-pagefind-body><Content /></div>
       {d.tags.length > 0 && <ul class="tag-lista" aria-label="Tag">{d.tags.map((t) => <li><a href={`/tag/${t}/`}>{nomeTag(t)}</a></li>)}</ul>}
       <p class="firma">— {SITE.author}</p>
