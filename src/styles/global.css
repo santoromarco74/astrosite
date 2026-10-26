@@ -220,3 +220,105 @@ a.zoom { display: block; cursor: zoom-in; }
 
 /* DM Mono ha solo i pesi 400 e 500: niente grassetti finti */
 .rubrica, .leggi, .etichetta, .sezione-titolo, .menu a, .menu a[aria-current='page'], .menu-mobile a, .tag-lista a { font-weight: 500; }
+
+
+/* VARIANTE A — FULL BLEED
+   Fotografia immersiva, titoli editoriali sovrapposti, resto dell'interfaccia essenziale. */
+:root {
+  --nero: #1B1B1D;
+  --carta: #F4F0E8;
+  --carta-2: #E8E0D3;
+  --rosso: #C44735;
+  --rosso-testo: #A93629;
+  --ambra-chiara: #F2C14E;
+  --grigio: #B6B0A7;
+  --grigio-testo: #59544E;
+  --neutro: #D7CFC2;
+  --testo-2: #3C3935;
+  --max: 1240px;
+  --testo: 700px;
+  --f-titolo: 'Playfair Display', Georgia, serif;
+  --f-poster: 'Bebas Neue', Impact, sans-serif;
+  --f-testo: 'Source Serif 4', Georgia, 'Times New Roman', serif;
+  --f-ui: 'DM Sans', Arial, sans-serif;
+}
+body { background: var(--carta); }
+.scala-fm { display: none !important; }
+.menu, .scala-fm { background: none !important; }
+.menu { margin-top: 16px; padding: 18px 42px 14px; border-bottom: 1px solid var(--neutro); }
+.menu a[aria-current='page']::before {
+  top: auto; bottom: -8px; left: 0; right: 0; width: auto; height: 2px;
+  margin-left: 0; background: var(--rosso); box-shadow: none;
+}
+.menu a[aria-current='page'] { color: var(--rosso-testo); }
+.occhiello-testata { font-family: var(--f-ui); font-size: 11px; letter-spacing: .22em; color: var(--grigio-testo); }
+.sottotitolo-testata { color: var(--grigio-testo); }
+.etichetta { background: var(--rosso); color: #fff; }
+a.etichetta:hover { background: var(--nero); color: #fff; }
+.leggi { display: inline-block; padding: 11px 16px; background: var(--ambra-chiara); color: var(--nero); text-decoration: none; }
+.leggi:hover { background: var(--rosso); color: #fff; }
+
+/* Homepage: hero fotografico a tutta larghezza. */
+.primo-piano {
+  position: relative; isolation: isolate; display: flex; align-items: flex-end;
+  width: 100vw; min-height: clamp(570px, 66vw, 820px);
+  margin-left: calc(50% - 50vw);
+  padding: clamp(40px, 6.5vw, 96px) max(var(--gutter), calc((100vw - var(--max)) / 2 + var(--gutter)));
+  overflow: hidden; color: #fff; background: #171719; border: 0;
+}
+.primo-piano > div:first-child { position: relative; z-index: 2; max-width: 780px; }
+.primo-piano .etichetta { background: var(--ambra-chiara); color: var(--nero); border-left: 4px solid var(--rosso); }
+.primo-piano .titolo {
+  max-width: 13ch; margin: 18px 0 0; font-family: var(--f-poster); font-weight: 400;
+  font-size: clamp(66px, 8.5vw, 116px); line-height: .91; letter-spacing: .012em;
+  text-transform: uppercase; text-wrap: balance;
+}
+.primo-piano .titolo.medio { font-size: clamp(56px, 7vw, 94px); }
+.primo-piano .titolo.lungo { max-width: 17ch; font-size: clamp(42px, 5.2vw, 72px); }
+.primo-piano .titolo a { color: #fff; text-decoration: none; }
+.primo-piano .titolo a:hover { color: var(--ambra-chiara); }
+.primo-piano .sommario { max-width: 52ch; margin: 20px 0 0; color: #FFF9F0; font-size: clamp(20px, 1.8vw, 24px); line-height: 1.42; }
+.primo-piano .attacco { max-width: 65ch; margin: 14px 0 24px; color: #EAE5DE; font-size: 16px; line-height: 1.62; }
+.primo-piano .leggi { background: var(--ambra-chiara); color: var(--nero); }
+.primo-piano .foto-link {
+  position: absolute; z-index: 0; inset: 0; display: block; padding: 0; overflow: hidden;
+}
+.primo-piano .foto-link .retino { position: absolute; inset: 0; width: 100%; height: 100%; aspect-ratio: auto; box-shadow: none; background: #171719; }
+.primo-piano .foto-link .retino img { width: 100%; height: 100%; object-fit: cover; object-position: center 34%; }
+.primo-piano .foto-link::before, .primo-piano .foto-link::after {
+  content: ''; position: absolute; inset: 0; z-index: 1; display: block;
+  border-radius: 0; aspect-ratio: auto; pointer-events: none;
+}
+.primo-piano .foto-link::before {
+  background: linear-gradient(90deg, rgba(12,12,14,.94) 0%, rgba(12,12,14,.74) 38%, rgba(12,12,14,.24) 73%, rgba(12,12,14,.08) 100%);
+}
+.primo-piano .foto-link::after { background: linear-gradient(0deg, rgba(12,12,14,.50), transparent 62%); }
+.primo-piano .foto-link:hover::before { transform: none; }
+@media (max-width: 860px) {
+  .primo-piano { min-height: 690px; padding: 38px var(--gutter) 42px; }
+  .primo-piano .titolo { font-size: clamp(56px, 12vw, 82px); }
+  .primo-piano .titolo.medio { font-size: clamp(48px, 10vw, 72px); }
+  .primo-piano .titolo.lungo { font-size: clamp(38px, 8.5vw, 60px); }
+  .primo-piano .foto-link::before { background: linear-gradient(0deg, rgba(12,12,14,.97) 0%, rgba(12,12,14,.73) 48%, rgba(12,12,14,.12) 100%); }
+}
+@media (max-width: 480px) {
+  .primo-piano { min-height: 630px; padding-bottom: 30px; }
+  .primo-piano .attacco { font-size: 15px; }
+}
+
+/* Articoli: la copertina esce dal contenitore editoriale e occupa il viewport. */
+.articolo-testa { text-align: left; padding: 42px 0 20px; }
+.articolo-testa .titolo { font-family: var(--f-poster); font-weight: 400; text-transform: uppercase; line-height: .96; }
+.articolo-testa .titolo a { text-decoration: none; }
+.articolo-copertina {
+  position: relative; left: 50%; width: 100vw; max-width: none;
+  margin: 18px 0 0; transform: translateX(-50%); overflow: hidden; background: #171719;
+}
+.articolo-copertina .retino { width: 100%; height: clamp(300px, 56vw, 700px); max-height: none; aspect-ratio: auto; }
+.articolo-copertina .retino img { width: 100%; height: 100%; object-fit: cover; }
+.corpo h2::before { width: 44px; height: 3px; background: var(--rosso); }
+.piede { margin-top: 84px; background: var(--nero); color: var(--carta); }
+.piede .occhiello-testata, .piede .sottotitolo-testata { color: var(--carta-2); }
+@media (prefers-reduced-motion: reduce) {
+  .primo-piano .foto-link .retino img, .retino img { transition: none; }
+}
