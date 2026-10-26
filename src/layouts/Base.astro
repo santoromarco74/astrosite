@@ -29,7 +29,7 @@ const voci = [{ href: '/', label: 'Home' }, ...sezioniAttive.map((s) => ({ href:
   <link rel="icon" href="/favicon-32.png" type="image/png" sizes="32x32" />
   <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
   <link rel="alternate" type="application/rss+xml" title={SITE.name} href="/rss.xml" />
-  <meta name="theme-color" content="#E0E6DA" />
+  <meta name="theme-color" content="#F2EFE7" />
   <meta property="og:site_name" content={SITE.name} />
   <meta property="og:locale" content="it_IT" />
   <meta property="og:type" content={type} />
@@ -40,7 +40,7 @@ const voci = [{ href: '/', label: 'Home' }, ...sezioniAttive.map((s) => ({ href:
   <meta name="twitter:card" content={ogImage ? 'summary_large_image' : 'summary'} />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Zilla+Slab:ital,wght@0,600;0,700;1,600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400;1,8..60,600&family=DM+Mono:wght@400;500&display=swap" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400;1,8..60,600&family=DM+Sans:wght@400;500;600;700&display=swap" />
   <slot name="head" />
 </head>
 <body>
@@ -53,7 +53,7 @@ const voci = [{ href: '/', label: 'Home' }, ...sezioniAttive.map((s) => ({ href:
         <p class="meta-edizione solo-desktop">Anno {romani}<br />N. {numero}<br /><span id="oggi">{dataBreve(new Date())}</span></p>
         <details class="menu-mobile solo-mobile">
           <summary aria-label="Apri il menu">
-            <svg width="26" height="26" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 6h18M3 12h18M3 18h18" stroke="#1C1F24" stroke-width="2" stroke-linecap="round"/></svg>
+            <svg width="26" height="26" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 6h18M3 12h18M3 18h18" stroke="#20201F" stroke-width="2" stroke-linecap="round"/></svg>
           </summary>
           <nav aria-label="Sezioni (mobile)">
             <ul>{voci.map((v) => <li><a href={v.href} aria-current={path === v.href ? 'page' : undefined}>{v.label}</a></li>)}</ul>
@@ -64,7 +64,7 @@ const voci = [{ href: '/', label: 'Home' }, ...sezioniAttive.map((s) => ({ href:
       <div class="lato lato-dx">
         <p class="prezzo solo-desktop">Prezzo:<br />un ascolto<br /><Stella size={16} /></p>
         <a class="cerca-icona solo-mobile" href="/cerca/" aria-label="Cerca nel sito">
-          <svg width="24" height="24" viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="#1C1F24" stroke-width="2"/><path d="M15.5 15.5 21 21" stroke="#1C1F24" stroke-width="2" stroke-linecap="round"/></svg>
+          <svg width="24" height="24" viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="#20201F" stroke-width="2"/><path d="M15.5 15.5 21 21" stroke="#20201F" stroke-width="2" stroke-linecap="round"/></svg>
         </a>
       </div>
     </div>
@@ -73,7 +73,7 @@ const voci = [{ href: '/', label: 'Home' }, ...sezioniAttive.map((s) => ({ href:
     <nav class="menu solo-desktop" aria-label="Sezioni">
       <ul>{voci.map((v) => <li><a href={v.href} aria-current={path === v.href ? 'page' : undefined}>{v.label}</a></li>)}</ul>
       <a class="cerca-icona" href="/cerca/" aria-label="Cerca nel sito">
-        <svg width="20" height="20" viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="#1C1F24" stroke-width="2"/><path d="M15.5 15.5 21 21" stroke="#1C1F24" stroke-width="2" stroke-linecap="round"/></svg>
+        <svg width="20" height="20" viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="#20201F" stroke-width="2"/><path d="M15.5 15.5 21 21" stroke="#20201F" stroke-width="2" stroke-linecap="round"/></svg>
       </a>
     </nav>
   </header>
