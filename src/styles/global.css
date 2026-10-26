@@ -82,7 +82,7 @@ a:hover { color: var(--rosso-testo); }
 
 /* ---------- Elementi comuni ---------- */
 .etichetta { display: inline-block; background: var(--rosso); color: #FFFFFF; font-family: var(--f-ui); font-weight: 700; font-size: 11px; letter-spacing: .09em; text-transform: uppercase; padding: 5px 9px; text-decoration: none; }
-a.etichetta:hover { color: var(--nero); background: var(--rosso); }
+a.etichetta:hover { color: #FFFFFF; background: var(--nero); }
 .rubrica { font-family: var(--f-ui); font-weight: 700; font-size: 12px; letter-spacing: .1em; text-transform: uppercase; color: var(--rosso-testo); text-decoration: none; }
 .titolo { font-family: var(--f-titolo); font-weight: 700; line-height: 1.02; letter-spacing: -.005em; margin: 0; text-wrap: balance; }
 .leggi { display: inline-block; font-family: var(--f-ui); font-weight: 700; font-size: 12px; letter-spacing: .05em; text-transform: uppercase; color: #FFFFFF; background: var(--rosso); padding: 10px 14px; text-decoration: none; }
