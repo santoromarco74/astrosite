@@ -6,7 +6,7 @@ const { a } = Astro.props;
 const cat = a.data.categories[0];
 ---
 <article class="pezzo">
-  <a href={url(a)} tabindex="-1" aria-hidden="true">{a.data.cover ? <Foto src={a.data.cover} alt="" sizes="124px" max={400} /> : <div class="retino" />}</a>
+  <a href={url(a)} tabindex="-1" aria-hidden="true">{a.data.cover ? <Foto src={a.data.cover} alt="" sizes="(max-width: 560px) 100vw, (max-width: 900px) 50vw, 50vw" max={1400} /> : <div class="retino" />}</a>
   <div>
     {cat && <a class="rubrica" href={`/${cat}/`}>{nomeCategoria(cat)}</a>}
     <h3 class="titolo"><a href={url(a)}>{titoloBreve(a)}</a></h3>
