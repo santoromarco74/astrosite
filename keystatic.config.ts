@@ -26,6 +26,7 @@ export default config({
             { label: 'Attualità', value: 'attualita' },
             { label: 'Film & Musical', value: 'film' },
             { label: 'Storie', value: 'storie' },
+            { label: 'Imperdibili', value: 'imperdibili' },
             { label: 'Biografie', value: 'biografie' },
             { label: 'Classifiche', value: 'classifiche' },
           ],

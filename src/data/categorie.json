@@ -34,5 +34,9 @@
  "storie": {
   "name": "Storie",
   "description": ""
+ },
+ "imperdibili": {
+  "name": "Imperdibili",
+  "description": "Dischi da ascoltare almeno una volta nella vita, anche senza un anniversario a fare da scusa."
  }
 }

@@ -13,7 +13,7 @@ export const SITE = {
 };
 
 // Sezioni mostrate nel menu (in ordine)
-export const SEZIONI = ['album', 'storie', 'attualita', 'film'];
+export const SEZIONI = ['album', 'storie', 'attualita', 'film', 'imperdibili'];
 
 export async function getArticoli(): Promise<Articolo[]> {
   const all = await getCollection('articoli', ({ data }) => !data.draft);

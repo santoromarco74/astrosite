@@ -12,8 +12,11 @@ const ogImage = image ? new URL(image, Astro.site).href : undefined;
 const path = Astro.url.pathname;
 const anno = new Date().getUTCFullYear() - 2020; // il blog nasce nel 2021
 const romani = ['I','II','III','IV','V','VI','VII','VIII','IX','X','XI','XII','XIII','XIV','XV'][anno - 1] ?? String(anno);
-const numero = (await getArticoli()).length;
-const voci = [{ href: '/', label: 'Home' }, ...SEZIONI.map((s) => ({ href: `/${s}/`, label: nomeCategoria(s) })), { href: '/chi-sono/', label: 'Chi sono' }];
+const tuttiArticoli = await getArticoli();
+const numero = tuttiArticoli.length;
+// nel menu solo le sezioni che hanno almeno un articolo pubblicato (es. «Imperdibili» compare con il primo disco)
+const sezioniAttive = SEZIONI.filter((s) => tuttiArticoli.some((a) => a.data.categories.includes(s)));
+const voci = [{ href: '/', label: 'Home' }, ...sezioniAttive.map((s) => ({ href: `/${s}/`, label: nomeCategoria(s) })), { href: '/chi-sono/', label: 'Chi sono' }];
 ---
 <!doctype html>
 <html lang="it">
@@ -86,7 +89,7 @@ const voci = [{ href: '/', label: 'Home' }, ...SEZIONI.map((s) => ({ href: `/${s
         <p class="sottotitolo-testata">{SITE.tagline}</p>
       </div>
       <ul class="piede-link">
-        {SEZIONI.map((s) => <li><a href={`/${s}/`}>{nomeCategoria(s)}</a></li>)}
+        {sezioniAttive.map((s) => <li><a href={`/${s}/`}>{nomeCategoria(s)}</a></li>)}
         <li><a href="/chi-sono/">Chi sono</a></li>
         <li><a href="/cerca/">Cerca</a></li>
         <li><a href="/rss.xml">Feed RSS</a></li>
