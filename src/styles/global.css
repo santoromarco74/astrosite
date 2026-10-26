@@ -192,11 +192,11 @@ a:hover .retino img { transform: scale(1.03); }
 .piede a { color: var(--carta); }
 .piede a:hover { color: var(--ambra-chiara); }
 .piede .leggi:hover { color: #FFFFFF; }
-.piede-link { list-style: none; padding: 16px 0 0; margin: 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 8px 26px; border-top: 1px solid #3A3F45; font-family: var(--f-ui); font-size: 13px; letter-spacing: .06em; text-transform: uppercase; }
-.piede small { text-align: center; color: #A7AEA4; font-family: var(--f-ui); font-size: 12px; }
+.piede-link { list-style: none; padding: 16px 0 0; margin: 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 8px 26px; border-top: 1px solid rgba(247,243,235,.18); font-family: var(--f-ui); font-size: 13px; letter-spacing: .06em; text-transform: uppercase; }
+.piede small { text-align: center; color: #C9C1B5; font-family: var(--f-ui); font-size: 12px; }
 .articolo-testa .titolo.medio { font-size: clamp(34px, 4.8vw, 60px); }
 .articolo-testa .titolo.lungo { font-size: clamp(30px, 4vw, 50px); }
-.cerca mark { background: #F5D9A3; color: inherit; }
+.cerca mark { background: var(--carta-2); color: inherit; }
 
 /* ---------- Foto cliccabili e visore ---------- */
 a.zoom { display: block; cursor: zoom-in; }
@@ -206,10 +206,10 @@ a.zoom { display: block; cursor: zoom-in; }
 .visore[open] { display: flex; align-items: center; justify-content: center; }
 .visore figure { margin: 0; padding: 56px 72px 24px; max-width: 100%; max-height: 100%; display: flex; flex-direction: column; align-items: center; gap: 12px; }
 .visore img { max-width: 100%; max-height: calc(100dvh - 140px); width: auto; height: auto; object-fit: contain; }
-.visore figcaption { font-family: var(--f-testo); font-style: italic; font-size: 15px; text-align: center; max-width: 760px; color: #D3DACC; }
+.visore figcaption { font-family: var(--f-testo); font-style: italic; font-size: 15px; text-align: center; max-width: 760px; color: var(--carta-2); }
 .visore-contatore { white-space: nowrap; font-family: var(--f-ui); font-style: normal; font-size: 12px; letter-spacing: .08em; color: #A7AEA4; margin-left: 8px; }
 .visore button { position: absolute; background: transparent; border: 0; color: var(--carta); cursor: pointer; width: 48px; height: 48px; display: inline-flex; align-items: center; justify-content: center; border-radius: 50%; }
-.visore button:hover { background: rgba(224,230,218,.14); }
+.visore button:hover { background: rgba(247,243,235,.14); }
 .visore-chiudi { top: 12px; right: 12px; }
 .visore-prec { left: 12px; top: 50%; transform: translateY(-50%); }
 .visore-succ { right: 12px; top: 50%; transform: translateY(-50%); }
