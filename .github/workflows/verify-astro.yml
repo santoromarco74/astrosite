@@ -1,0 +1,28 @@
+name: Verifica build Astro
+
+on:
+  push:
+    branches: [design-poster-wall]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    name: Build e indicizzazione
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - name: Installa dipendenze
+        run: npm ci
+      - name: Build Astro e indice Pagefind
+        run: npm run build
