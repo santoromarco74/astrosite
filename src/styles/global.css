@@ -172,7 +172,7 @@ a:hover .retino img { transform: scale(1.03); }
 .corpo h2 { font-family: var(--f-titolo); font-weight: 400; font-size: 46px; line-height: 1; margin: 54px 0 14px; padding-left: 18px; border-left: 10px solid var(--rosso); }
 .corpo h3 { font-family: var(--f-ui); font-weight: 600; font-size: 22px; line-height: 1.25; letter-spacing: .02em; text-transform: uppercase; margin: 36px 0 8px; }
 .corpo h4 { font-family: var(--f-ui); font-weight: 600; text-transform: uppercase; letter-spacing: .1em; font-size: 15px; margin: 28px 0 6px; }
-.corpo blockquote { margin: 34px 0; padding: 20px 26px; background: var(--nero); color: var(--crema); font-family: var(--f-titolo); font-size: 38px; line-height: 1.05; }
+.corpo blockquote { margin: 36px 0; padding: 4px 0 4px 26px; border-left: 6px solid var(--rosso); font-family: var(--f-testo); font-style: italic; font-size: 23px; line-height: 1.5; color: var(--testo); }
 .corpo blockquote p { margin: 0 0 8px; }
 .corpo figure { margin: 38px 0; }
 .corpo figure img { margin: 0 auto; }
