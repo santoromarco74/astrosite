@@ -44,7 +44,7 @@ const catDesc = kind === 'categoria' ? (categorie as any)[props.cat]?.descriptio
   <Base title={d.title} description={d.description} image={d.cover} type="article">
     <script slot="head" type="application/ld+json" set:html={JSON.stringify(ld)} />
     <article>
-      <header class="articolo-testa">
+      <header class="articolo-testa palco-articolo">
         {cat && <a class="etichetta" href={`/${cat}/`}>{nomeCategoria(cat)}</a>}
         <h1 data-pagefind-meta="title" class={`titolo ${d.title.length > 70 ? 'lungo' : d.title.length > 40 ? 'medio' : ''}`}>{d.title}</h1>
         {d.description && <p class="sommario">{d.description}</p>}

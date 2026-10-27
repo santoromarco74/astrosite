@@ -2,12 +2,13 @@
 import Base from '../layouts/Base.astro';
 import Foto from '../components/Foto.astro';
 import Pezzo from '../components/Pezzo.astro';
-import { getArticoli, url, dataBreve, attacco, titoloBreve } from '../lib/site';
+import { getArticoli, url, dataBreve, attacco, titoloBreve, nomeCategoria } from '../lib/site';
 
 const articoli = await getArticoli();
 const [primo, ...resto] = articoli;
-const inEvidenza = resto.slice(0, 6);
-const archivio = resto.slice(6);
+const laterali = resto.slice(0, 3);
+const altri = resto.slice(3, 9);
+const archivio = resto.slice(9);
 const sommario = primo.data.description.replace(/…$/, '').trim().replace(/[,;:]$/, '…');
 const corto = sommario.length > 180 ? sommario.slice(0, 175).replace(/\s+\S*$/, '') + '…' : sommario;
 // Se il sommario è l'inizio del testo, l'attacco riparte da dove finisce il sommario.
@@ -18,32 +19,50 @@ if (inizio && testo.startsWith(inizio)) {
   testo = testo.split(' ').slice(n).join(' ');
 }
 const attaccoBreve = testo.split(' ').slice(0, 45).join(' ') + '…';
+const cat = primo.data.categories[0];
 const titoloPrimo = titoloBreve(primo);
 const lung = titoloPrimo.length > 70 ? 'lungo' : titoloPrimo.length > 40 ? 'medio' : '';
 ---
 <Base image={primo.data.cover}>
-  <section class="primo-piano" aria-label="In primo piano">
-    <div>
-      <span class="etichetta">In primo piano</span>
-      <h1 class={`titolo ${lung}`}><a href={url(primo)}>{titoloPrimo}</a></h1>
-      {corto && <p class="sommario">{corto}</p>}
-      <p class="attacco">{attaccoBreve}</p>
-      <a class="leggi" href={url(primo)}>Leggi l'articolo →</a>
-    </div>
-    <a class="foto-link" href={url(primo)} tabindex="-1" aria-hidden="true">
-      {primo.data.cover && <Foto src={primo.data.cover} alt="" eager />}
-    </a>
-  </section>
-
-  <h2 class="sezione-titolo">In questo numero</h2>
-  <div class="pezzi">
-    {inEvidenza.map((a) => <Pezzo a={a} />)}
+  <div class="palco">
+    <section class="apertura" aria-label="In primo piano">
+      <article class="apertura-primo">
+        <a class="foto-link" href={url(primo)} tabindex="-1" aria-hidden="true">
+          {primo.data.cover && <Foto src={primo.data.cover} alt="" eager sizes="(max-width: 960px) 100vw, 860px" max={1400} />}
+        </a>
+        <div class="apertura-testo">
+          {cat && <a class="etichetta" href={`/${cat}/`}>{nomeCategoria(cat)}</a>}
+          <h1 class={`titolo ${lung}`}><a href={url(primo)}>{titoloPrimo}</a></h1>
+          {corto && <p class="sommario">{corto}</p>}
+          <a class="bottone" href={url(primo)}>Leggi l'articolo <span aria-hidden="true">→</span></a>
+        </div>
+      </article>
+      <div class="apertura-lato">
+        <h2 class="lato-titolo">In primo piano</h2>
+        {laterali.map((a) => (
+          <article class="lato-pezzo">
+            <a class="lato-foto" href={url(a)} tabindex="-1" aria-hidden="true">{a.data.cover && <Foto src={a.data.cover} alt="" sizes="120px" max={400} />}</a>
+            <div>
+              {a.data.categories[0] && <a class={`lato-rubrica sez-${a.data.categories[0]}`} href={`/${a.data.categories[0]}/`}>{nomeCategoria(a.data.categories[0])}</a>}
+              <h3 class="titolo"><a href={url(a)}>{titoloBreve(a)}</a></h3>
+            </div>
+          </article>
+        ))}
+      </div>
+    </section>
   </div>
 
-  <h2 class="sezione-titolo">Archivio</h2>
-  <ul class="archivio">
-    {archivio.map((a) => (
-      <li><time datetime={a.data.date.toISOString()}>{dataBreve(a.data.date)}</time><a href={url(a)}>{a.data.title}</a></li>
-    ))}
-  </ul>
+  <div>
+    <h2 class="sezione-titolo">Dal numero corrente</h2>
+    <div class="pezzi">
+      {altri.map((a) => <Pezzo a={a} />)}
+    </div>
+
+    <h2 class="sezione-titolo">Archivio</h2>
+    <ul class="archivio">
+      {archivio.map((a) => (
+        <li><time datetime={a.data.date.toISOString()}>{dataBreve(a.data.date)}</time><a href={url(a)}>{a.data.title}</a></li>
+      ))}
+    </ul>
+  </div>
 </Base>
