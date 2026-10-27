@@ -1,4 +1,5 @@
 ---
+// Riquadro articolo: foto in alto, rubrica in corsivo, titolo, sommario.
 import Foto from './Foto.astro';
 import { type Articolo, url, nomeCategoria, titoloBreve } from '../lib/site';
 interface Props { a: Articolo; }
@@ -6,10 +7,10 @@ const { a } = Astro.props;
 const cat = a.data.categories[0];
 ---
 <article class="pezzo">
-  <a href={url(a)} tabindex="-1" aria-hidden="true">{a.data.cover ? <Foto src={a.data.cover} alt="" sizes="124px" max={400} /> : <div class="retino" />}</a>
-  <div>
-    {cat && <a class="rubrica" href={`/${cat}/`}>{nomeCategoria(cat)}</a>}
-    <h3 class="titolo"><a href={url(a)}>{titoloBreve(a)}</a></h3>
-    <p>{a.data.description.length > 130 ? a.data.description.slice(0, 125).replace(/\s+\S*$/, '') + '…' : a.data.description}</p>
-  </div>
+  <a class="pezzo-foto" href={url(a)} tabindex="-1" aria-hidden="true">
+    {a.data.cover ? <Foto src={a.data.cover} alt="" sizes="(max-width: 700px) 100vw, 380px" max={700} /> : <div class="retino" />}
+  </a>
+  {cat && <a class="rubrica" href={`/${cat}/`}>{nomeCategoria(cat)}</a>}
+  <h3 class="titolo"><a href={url(a)}>{titoloBreve(a)}</a></h3>
+  <p>{a.data.description.length > 150 ? a.data.description.slice(0, 145).replace(/\s+\S*$/, '') + '…' : a.data.description}</p>
 </article>
