@@ -29,7 +29,7 @@ const voci = [{ href: '/', label: 'Home' }, ...sezioniAttive.map((s) => ({ href:
   <link rel="icon" href="/favicon-32.png" type="image/png" sizes="32x32" />
   <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
   <link rel="alternate" type="application/rss+xml" title={SITE.name} href="/rss.xml" />
-  <meta name="theme-color" content="#E0E6DA" />
+  <meta name="theme-color" content="#090A0D" />
   <meta property="og:site_name" content={SITE.name} />
   <meta property="og:locale" content="it_IT" />
   <meta property="og:type" content={type} />
@@ -41,9 +41,10 @@ const voci = [{ href: '/', label: 'Home' }, ...sezioniAttive.map((s) => ({ href:
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Zilla+Slab:ital,wght@0,600;0,700;1,600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400;1,8..60,600&family=DM+Mono:wght@400;500&display=swap" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:opsz,wght@6..96,400;6..96,500;6..96,600;6..96,700&family=DM+Sans:wght@400;500;600;700&display=swap" />
   <slot name="head" />
 </head>
-<body>
+<body class="theme-hero">
   <a class="salta" href="#contenuto">Vai al contenuto</a>
   <header class="wrap testa">
     <p class="occhiello-testata">{SITE.motto}</p>
