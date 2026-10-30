@@ -220,3 +220,106 @@ a.zoom { display: block; cursor: zoom-in; }
 
 /* DM Mono ha solo i pesi 400 e 500: niente grassetti finti */
 .rubrica, .leggi, .etichetta, .sezione-titolo, .menu a, .menu a[aria-current='page'], .menu-mobile a, .tag-lista a { font-weight: 500; }
+
+
+
+/* =========================================================
+   VARIANTE 02 — HERO FULLSCREEN / CINEMATIC MUSIC MAGAZINE
+   ========================================================= */
+body.theme-hero {
+  --nero:#F4F0EA;
+  --carta:#090A0D;
+  --carta-2:#17191E;
+  --rosso:#EF4138;
+  --rosso-testo:#FF6259;
+  --ambra-chiara:#FF6259;
+  --grigio:#555A62;
+  --grigio-testo:#B9B7B3;
+  --neutro:#303239;
+  --testo-2:#D4D0CA;
+  --filetto:1px solid #34363D;
+  background:var(--carta);
+  color:var(--nero);
+  color-scheme:dark;
+  font-family:'DM Sans',Arial,sans-serif;
+}
+body.theme-hero a:hover {color:#FF7770}
+body.theme-hero .testa {padding-top:16px; position:relative; z-index:5}
+body.theme-hero .occhiello-testata {font-family:'DM Sans',sans-serif;font-size:10px;letter-spacing:.24em;color:#A8A6A2}
+body.theme-hero .filetto-stella {display:none}
+body.theme-hero .riga-testata {grid-template-columns:130px minmax(0,1fr) 130px;gap:18px;padding:12px 0}
+body.theme-hero .testata-logo text {font-family:'Bodoni Moda',Georgia,serif!important;fill:#F4F0EA!important;font-weight:600!important;letter-spacing:-2px}
+body.theme-hero .sottotitolo-testata {font-family:'DM Sans',sans-serif;font-style:normal;font-size:10px;letter-spacing:.25em;text-transform:uppercase;color:#A8A6A2}
+body.theme-hero .menu {margin-top:16px;padding:14px 40px 12px;border-top:1px solid #303239;border-bottom:1px solid #303239;background:none}
+body.theme-hero .menu ul {gap:8px 38px}
+body.theme-hero .menu a {font-family:'DM Sans',sans-serif;font-size:11px;letter-spacing:.16em;color:#D4D0CA}
+body.theme-hero .menu a[aria-current='page'] {color:#FF6259}
+body.theme-hero .menu a[aria-current='page']::before {top:-14px;height:10px;width:2px;background:#EF4138;box-shadow:none}
+body.theme-hero .menu .cerca-icona svg circle,
+body.theme-hero .menu .cerca-icona svg path {stroke:#F4F0EA}
+body.theme-hero .primo-piano {
+  position:relative;isolation:isolate;left:50%;width:100vw;transform:translateX(-50%);
+  min-height:min(78vh,820px);margin:26px 0 46px;padding:clamp(34px,7vw,100px) max(6vw,calc((100vw - 1200px)/2 + 40px));
+  display:flex;align-items:flex-end;border:0;overflow:hidden;background:#08090B;color:#fff;
+}
+body.theme-hero .primo-piano > div {position:relative;z-index:2;max-width:min(780px,68vw)}
+body.theme-hero .primo-piano .etichetta {background:#EF4138;color:#fff;font-family:'DM Sans',sans-serif;font-size:10px;letter-spacing:.2em;padding:7px 11px}
+body.theme-hero .primo-piano .titolo {font-family:'Bodoni Moda',Georgia,serif;font-weight:500;font-size:clamp(54px,8.2vw,112px);line-height:.94;letter-spacing:-.035em;text-transform:none;margin:20px 0 14px;color:#fff}
+body.theme-hero .primo-piano .titolo.medio {font-size:clamp(48px,7vw,92px)}
+body.theme-hero .primo-piano .titolo.lungo {font-size:clamp(42px,5.7vw,76px)}
+body.theme-hero .primo-piano .sommario {font-family:'DM Sans',sans-serif;font-size:clamp(18px,2vw,24px);line-height:1.35;max-width:34ch;color:#F4F0EA}
+body.theme-hero .primo-piano .attacco {font-family:'DM Sans',sans-serif;font-size:15px;line-height:1.6;max-width:54ch;color:#D0CDC8;margin:12px 0 22px}
+body.theme-hero .primo-piano .leggi {display:inline-flex;background:#EF4138;color:#fff;padding:12px 18px;font-family:'DM Sans',sans-serif;font-size:11px;letter-spacing:.16em}
+body.theme-hero .primo-piano .leggi:hover {background:#fff;color:#111}
+body.theme-hero .primo-piano .foto-link {position:absolute;inset:0;z-index:0;padding:0;display:block}
+body.theme-hero .primo-piano .foto-link .retino {width:100%;height:100%;aspect-ratio:auto;box-shadow:none;background:#141519}
+body.theme-hero .primo-piano .foto-link .retino img {width:100%;height:100%;object-fit:cover;object-position:center 38%;filter:brightness(.53) saturate(.82)}
+body.theme-hero .primo-piano .foto-link::before {content:'';position:absolute;inset:0;top:0;right:0;bottom:0;aspect-ratio:auto;border-radius:0;z-index:1;background:linear-gradient(90deg,rgba(5,6,8,.94) 0%,rgba(5,6,8,.76) 39%,rgba(5,6,8,.16) 100%),linear-gradient(0deg,rgba(5,6,8,.55),transparent 55%)}
+body.theme-hero .primo-piano .foto-link::after {display:none}
+body.theme-hero .sezione-titolo {font-family:'DM Sans',sans-serif;color:#F4F0EA;letter-spacing:.2em;margin:42px 0 20px}
+body.theme-hero .sezione-titolo::before {content:'LIVE';background:#EF4138;color:#fff}
+body.theme-hero .sezione-titolo::after {background:repeating-linear-gradient(90deg,#41434A 0 1px,transparent 1px 12px)}
+body.theme-hero .pezzi {grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}
+body.theme-hero .pezzo,
+body.theme-hero .pezzi .pezzo:not(:nth-child(3n+1)) {display:flex;flex-direction:column;gap:13px;padding:13px;background:#15171C;border:1px solid #303239}
+body.theme-hero .pezzo > a:first-child {display:block}
+body.theme-hero .pezzo .retino {aspect-ratio:16/10;box-shadow:none}
+body.theme-hero .pezzo .rubrica {color:#FF6259;font-family:'DM Sans',sans-serif;font-size:10px;letter-spacing:.18em}
+body.theme-hero .pezzo .titolo {font-family:'Bodoni Moda',Georgia,serif;color:#F4F0EA;font-size:25px;line-height:1.05}
+body.theme-hero .pezzo p {font-family:'DM Sans',sans-serif;color:#B9B7B3;font-size:13px;line-height:1.5}
+body.theme-hero .archivio {column-rule-color:#303239}
+body.theme-hero .archivio li {border-color:#303239}
+body.theme-hero .archivio time {color:#999A9E}
+body.theme-hero .archivio a {font-family:'DM Sans',sans-serif;font-size:15px}
+body.theme-hero .piede {margin-top:78px;background:#030406;color:#F4F0EA;border-top:1px solid #303239}
+body.theme-hero .piede .testata-logo text {fill:#F4F0EA!important}
+body.theme-hero .piede a {color:#F4F0EA}
+body.theme-hero .piede-link {border-color:#303239}
+body.theme-hero .articolo-testa {text-align:left;max-width:980px}
+body.theme-hero .articolo-testa .titolo {font-family:'Bodoni Moda',Georgia,serif}
+body.theme-hero .articolo-testa .meta {border-color:#303239}
+body.theme-hero .corpo {font-family:'DM Sans',sans-serif;font-size:19px;line-height:1.78}
+body.theme-hero .corpo h2, body.theme-hero .corpo h3 {font-family:'Bodoni Moda',Georgia,serif}
+body.theme-hero .corpo > p:first-of-type::first-letter {color:#FF6259}
+body.theme-hero .tag-lista {border-color:#44464D}
+body.theme-hero .tag-lista a {border-color:#555A62}
+@media (max-width:860px) {
+  body.theme-hero .primo-piano {min-height:70vh;padding:35px 7vw}
+  body.theme-hero .primo-piano > div {max-width:100%}
+  body.theme-hero .primo-piano .foto-link .retino img {object-position:62% center}
+  body.theme-hero .pezzi {grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+@media (max-width:560px) {
+  body.theme-hero .testa {padding-top:12px}
+  body.theme-hero .riga-testata {grid-template-columns:40px minmax(0,1fr) 40px}
+  body.theme-hero .testata-logo text {fill:#F4F0EA!important}
+  body.theme-hero .menu {display:none}
+  body.theme-hero .primo-piano {min-height:72vh;margin-top:14px;padding:28px 22px}
+  body.theme-hero .primo-piano .titolo {font-size:clamp(46px,14vw,70px)}
+  body.theme-hero .primo-piano .attacco {font-size:14px}
+  body.theme-hero .pezzi {grid-template-columns:1fr}
+  body.theme-hero .pezzo {display:grid;grid-template-columns:112px minmax(0,1fr);align-items:start}
+  body.theme-hero .pezzo .titolo {font-size:21px}
+}
+@media (prefers-reduced-motion:reduce) {body.theme-hero * {scroll-behavior:auto!important;transition:none!important}}
+
