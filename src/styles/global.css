@@ -122,9 +122,10 @@ a:hover .retino img { transform: scale(1.03); }
 /* ---------- Schede-biglietto (griglia a tre) ---------- */
 .pezzi { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 28px; }
 .pezzo { position: relative; display: flex; flex-direction: column; background: var(--salvia); border-radius: 8px; overflow: hidden; }
-.pezzi > .pezzo:nth-child(4n+2) { background: var(--zucchero); }
-.pezzi > .pezzo:nth-child(4n+3) { background: var(--senape); }
-.pezzi > .pezzo:nth-child(4n+4) { background: var(--terracotta); }
+/* un colore per sezione (il nome della sezione è comunque scritto sul biglietto) */
+.pezzo-album, .pezzo-imperdibili { background: var(--senape); }
+.pezzo-attualita { background: var(--zucchero); }
+.pezzo-film { background: var(--terracotta); }
 .pezzo .retino { aspect-ratio: 16 / 9; }
 .pezzo-corpo { flex: 1; display: flex; flex-direction: column; gap: 10px; padding: 18px 20px 20px; border-top: 3px dashed var(--nero); }
 .pezzo-testa { margin: 0; display: flex; justify-content: space-between; gap: 10px; font-size: 12px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; }

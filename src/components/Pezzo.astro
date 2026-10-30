@@ -5,7 +5,7 @@ interface Props { a: Articolo; }
 const { a } = Astro.props;
 const cat = a.data.categories[0];
 ---
-<article class="pezzo">
+<article class={`pezzo${cat ? ` pezzo-${cat}` : ''}`}>
   <a href={url(a)} tabindex="-1" aria-hidden="true">{a.data.cover ? <Foto src={a.data.cover} alt="" sizes="(max-width: 620px) 112px, (max-width: 960px) 50vw, 380px" max={800} /> : <div class="retino" />}</a>
   <div class="pezzo-corpo">
     <p class="pezzo-testa">

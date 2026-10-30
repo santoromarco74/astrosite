@@ -94,7 +94,7 @@ const catDesc = kind === 'categoria' ? (categorie as any)[props.cat]?.descriptio
     </article>
     <Lightbox />
     {correlati.length > 0 && <>
-      <h2 class="sezione-titolo">Altre date in cartellone</h2>
+      <h2 class="sezione-titolo">Anche in cartellone</h2>
       <div class="pezzi">{correlati.map((x) => <Pezzo a={x} />)}</div>
     </>}
     <script is:inline>

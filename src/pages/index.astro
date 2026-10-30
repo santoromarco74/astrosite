@@ -40,7 +40,7 @@ const numero = String(articoli.length).padStart(4, '0');
     {primo.data.coverCredit && <p class="didascalia">{primo.data.coverCredit}</p>}
   </section>
 
-  <h2 class="sezione-titolo">Prossime date <a href="#archivio">Tutte →</a></h2>
+  <h2 class="sezione-titolo">In cartellone <a href="#archivio">Tutto l’archivio →</a></h2>
   <div class="pezzi">
     {inEvidenza.map((a) => <Pezzo a={a} />)}
   </div>
