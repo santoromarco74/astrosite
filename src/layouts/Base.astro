@@ -1,22 +1,19 @@
 ---
 import '../styles/global.css';
-import Testata from '../components/Testata.astro';
-import Stella from '../components/Stella.astro';
-import { SITE, SEZIONI, nomeCategoria, dataBreve, getArticoli } from '../lib/site';
+import { SITE, SEZIONI, nomeCategoria, getArticoli } from '../lib/site';
 
-interface Props { title?: string; description?: string; image?: string; type?: string; }
-const { title, description = SITE.tagline, image, type = 'website' } = Astro.props;
+// sezione: la voce di menu da evidenziare anche fuori dalla sua pagina (es. la sezione di un articolo)
+interface Props { title?: string; description?: string; image?: string; type?: string; sezione?: string; }
+const { title, description = SITE.tagline, image, type = 'website', sezione } = Astro.props;
 const fullTitle = title ? `${title} | ${SITE.name}` : `${SITE.name} — ${SITE.tagline}`;
 const canonical = new URL(Astro.url.pathname, Astro.site);
 const ogImage = image ? new URL(image, Astro.site).href : undefined;
 const path = Astro.url.pathname;
-const anno = new Date().getUTCFullYear() - 2020; // il blog nasce nel 2021
-const romani = ['I','II','III','IV','V','VI','VII','VIII','IX','X','XI','XII','XIII','XIV','XV'][anno - 1] ?? String(anno);
 const tuttiArticoli = await getArticoli();
-const numero = tuttiArticoli.length;
 // nel menu solo le sezioni che hanno almeno un articolo pubblicato (es. «Imperdibili» compare con il primo disco)
 const sezioniAttive = SEZIONI.filter((s) => tuttiArticoli.some((a) => a.data.categories.includes(s)));
 const voci = [{ href: '/', label: 'Home' }, ...sezioniAttive.map((s) => ({ href: `/${s}/`, label: nomeCategoria(s) })), { href: '/chi-sono/', label: 'Chi sono' }];
+const corrente = (href: string) => (path === href ? 'page' : sezione && href === `/${sezione}/` ? 'true' : undefined);
 ---
 <!doctype html>
 <html lang="it">
@@ -29,7 +26,7 @@ const voci = [{ href: '/', label: 'Home' }, ...sezioniAttive.map((s) => ({ href:
   <link rel="icon" href="/favicon-32.png" type="image/png" sizes="32x32" />
   <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
   <link rel="alternate" type="application/rss+xml" title={SITE.name} href="/rss.xml" />
-  <meta name="theme-color" content="#E0E6DA" />
+  <meta name="theme-color" content="#F5F2EC" />
   <meta property="og:site_name" content={SITE.name} />
   <meta property="og:locale" content="it_IT" />
   <meta property="og:type" content={type} />
@@ -40,42 +37,26 @@ const voci = [{ href: '/', label: 'Home' }, ...sezioniAttive.map((s) => ({ href:
   <meta name="twitter:card" content={ogImage ? 'summary_large_image' : 'summary'} />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Zilla+Slab:ital,wght@0,600;0,700;1,600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400;1,8..60,600&family=DM+Mono:wght@400;500&display=swap" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@800;900&family=Courier+Prime:ital,wght@0,400;0,700;1,400&display=swap" />
   <slot name="head" />
 </head>
 <body>
   <a class="salta" href="#contenuto">Vai al contenuto</a>
-  <header class="wrap testa">
-    <p class="occhiello-testata">{SITE.motto}</p>
-    <div class="filetto-stella" aria-hidden="true"><span></span><Stella size={20} /><span></span></div>
-    <div class="riga-testata">
-      <div class="lato lato-sx">
-        <p class="meta-edizione solo-desktop">Anno {romani}<br />N. {numero}<br /><span id="oggi">{dataBreve(new Date())}</span></p>
-        <details class="menu-mobile solo-mobile">
-          <summary aria-label="Apri il menu">
-            <svg width="26" height="26" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 6h18M3 12h18M3 18h18" stroke="#1C1F24" stroke-width="2" stroke-linecap="round"/></svg>
-          </summary>
-          <nav aria-label="Sezioni (mobile)">
-            <ul>{voci.map((v) => <li><a href={v.href} aria-current={path === v.href ? 'page' : undefined}>{v.label}</a></li>)}</ul>
-          </nav>
-        </details>
-      </div>
-      <a class="logo" href="/" aria-label={`${SITE.name} — prima pagina`}><Testata /></a>
-      <div class="lato lato-dx">
-        <p class="prezzo solo-desktop">Prezzo:<br />un ascolto<br /><Stella size={16} /></p>
-        <a class="cerca-icona solo-mobile" href="/cerca/" aria-label="Cerca nel sito">
-          <svg width="24" height="24" viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="#1C1F24" stroke-width="2"/><path d="M15.5 15.5 21 21" stroke="#1C1F24" stroke-width="2" stroke-linecap="round"/></svg>
-        </a>
-      </div>
-    </div>
-    <p class="sottotitolo-testata">{SITE.tagline}</p>
-    <div class="scala-fm solo-mobile" aria-hidden="true"></div>
-    <nav class="menu solo-desktop" aria-label="Sezioni">
-      <ul>{voci.map((v) => <li><a href={v.href} aria-current={path === v.href ? 'page' : undefined}>{v.label}</a></li>)}</ul>
-      <a class="cerca-icona" href="/cerca/" aria-label="Cerca nel sito">
-        <svg width="20" height="20" viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="#1C1F24" stroke-width="2"/><path d="M15.5 15.5 21 21" stroke="#1C1F24" stroke-width="2" stroke-linecap="round"/></svg>
+  <header class="testa">
+    <div class="wrap">
+      <a class="logo" href="/" aria-label={`${SITE.name} — prima pagina`}>
+        <span class="logo-nome">{SITE.name}</span>
+        <span class="logo-motto">Biglietteria aperta · {SITE.tagline.toLowerCase()}</span>
       </a>
-    </nav>
+      <nav class="menu" aria-label="Sezioni">
+        <ul>
+          {voci.map((v) => <li><a href={v.href} aria-current={corrente(v.href)}>{v.label}</a></li>)}
+          <li><a class="cerca-icona" href="/cerca/" aria-label="Cerca nel sito" aria-current={corrente('/cerca/')}>
+            <svg width="22" height="22" viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M15.5 15.5 21 21" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+          </a></li>
+        </ul>
+      </nav>
+    </div>
   </header>
   <main id="contenuto" class="wrap">
     <slot />
@@ -83,11 +64,10 @@ const voci = [{ href: '/', label: 'Home' }, ...sezioniAttive.map((s) => ({ href:
   <footer class="piede">
     <div class="wrap">
       <div class="piede-marchio">
-        <p class="occhiello-testata">{SITE.motto}</p>
-        <div class="filetto-stella chiaro" aria-hidden="true"><span></span><Stella size={16} /><span></span></div>
-        <a class="logo" href="/" aria-label={SITE.name}><Testata tono="scuro" /></a>
-        <p class="sottotitolo-testata">{SITE.tagline}</p>
+        <a class="logo" href="/" aria-label={SITE.name}><span class="logo-nome">{SITE.name}</span></a>
+        <p>Conservate il biglietto: vale per tutti i concerti della vita.</p>
       </div>
+      <span class="barre" aria-hidden="true"></span>
       <ul class="piede-link">
         {sezioniAttive.map((s) => <li><a href={`/${s}/`}>{nomeCategoria(s)}</a></li>)}
         <li><a href="/chi-sono/">Chi sono</a></li>
@@ -95,11 +75,8 @@ const voci = [{ href: '/', label: 'Home' }, ...sezioniAttive.map((s) => ({ href:
         <li><a href="/rss.xml">Feed RSS</a></li>
         <li><a href="/privacy-policy/">Privacy</a></li>
       </ul>
-      <small>© {new Date().getFullYear()} {SITE.author}</small>
+      <small>© {new Date().getFullYear()} {SITE.author} · {SITE.motto}</small>
     </div>
   </footer>
-  <script is:inline>
-    (function(){try{var g=['Domenica','Lunedì','Martedì','Mercoledì','Giovedì','Venerdì','Sabato'],m=['gennaio','febbraio','marzo','aprile','maggio','giugno','luglio','agosto','settembre','ottobre','novembre','dicembre'],d=new Date(),e=document.getElementById('oggi');if(e)e.textContent=d.getDate()+' '+m[d.getMonth()]+' '+d.getFullYear();}catch(_){}})();
-  </script>
 </body>
 </html>

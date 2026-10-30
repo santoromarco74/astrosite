@@ -39,6 +39,12 @@ export function dataBreve(d: Date): string {
   return `${d.getUTCDate()} ${MESI[d.getUTCMonth()]} ${d.getUTCFullYear()}`;
 }
 
+/** Data da biglietto: 24.10.2026 */
+export function dataPunti(d: Date): string {
+  const due = (n: number) => String(n).padStart(2, '0');
+  return `${due(d.getUTCDate())}.${due(d.getUTCMonth() + 1)}.${d.getUTCFullYear()}`;
+}
+
 export function minutiLettura(body: string | undefined): number {
   const words = (body ?? '').replace(/!\[[^\]]*\]\([^)\s]*(?:\s+"[^"]*")?\)/g, '').split(/\s+/).filter(Boolean).length;
   return Math.max(1, Math.round(words / 220));
