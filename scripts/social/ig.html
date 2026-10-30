@@ -1,37 +1,40 @@
 <!doctype html><html lang="it"><head><meta charset="utf-8"><link rel="stylesheet" href="stile.css">
 <style>
 .tela{width:1080px;height:1350px}
-.fascia{height:66px;padding:0 56px;font-size:24px;letter-spacing:.16em}
+.fascia{height:66px;padding:0 56px;font-size:22px;letter-spacing:.14em}
 .dentro{padding:0 56px}
-.occhiello-testata{font-size:15px;letter-spacing:.34em;margin-top:24px}
-.testata{font-size:84px;margin-top:8px;white-space:nowrap}
-.motto{font-size:25px;margin-top:6px}
-.scala{height:46px;margin-top:22px}.scala .lancetta{height:34px;left:var(--lancetta,37%)}.scala .numeri{top:22px;font-size:14px}
-.riga-data{font-size:16px;letter-spacing:.12em;padding:10px 0 12px}
-.titolo{font-size:96px;text-align:center;margin-top:20px}
-.occhiello{font-size:25px;text-align:center;margin:12px 30px 0}
-.corpo{display:grid;grid-template-columns:540px 1fr;gap:36px;margin-top:24px;align-items:start}
-.lp{width:540px;padding-right:62px}
-.lp .busta{width:478px}
-.credito{font-size:14px;margin-top:14px}
-.testo{font-size:21px;padding-top:6px}
-.interno{position:absolute;left:56px;right:56px;bottom:36px;height:56px}
-.interno b{padding:0 20px;font-size:18px;letter-spacing:.16em}
-.interno span{padding:0 18px;font-size:22px}
+.intestazione{display:flex;justify-content:space-between;align-items:flex-end;margin-top:30px}
+.logo{font-size:84px}
+.motto{font-size:18px;margin-top:8px}
+.intestazione .barre{width:170px;height:56px}
+.biglietto{grid-template-columns:400px 1fr;height:720px;margin-top:30px}
+.corpo-biglietto{display:flex;flex-direction:column;justify-content:space-between;padding:34px 40px 30px 44px;border-left:5px dashed var(--inchiostro)}
+.testa-biglietto{font-size:16px}
+.titolo{font-size:110px}
+.occhiello{font-size:26px;margin-top:20px}
+.dati{font-size:17px;padding-top:14px}
+.biglietto .buco{left:382px;width:40px;height:40px}.buco.su{top:-20px}.buco.giu{bottom:-20px}
+.credito{font-size:14px;margin-top:12px}
+.testi{display:grid;grid-template-columns:1fr 1fr;gap:40px;margin-top:26px}
+.testo{font-size:24px}
+.interno{position:absolute;left:56px;right:56px;bottom:40px;height:62px}
+.interno b{padding:0 22px;font-size:18px;letter-spacing:.14em}
+.interno span{padding:0 20px;font-size:22px}
 </style></head><body><div class="tela">
-<div class="fascia"><span>{{fascia}}</span><span class="fm">FM</span></div>
+<div class="fascia"><span>{{fascia}}</span><span class="presenta">lamusicadelsanto.it</span></div>
 <div class="dentro">
-<p class="occhiello-testata">Cronache di bella musica</p>
-<h1 class="testata">LA MUSICA DEL SANTO</h1>
-<p class="motto">Guida semiseria per autostoppisti musicali</p>
-<div class="scala"><i class="lancetta"></i><div class="numeri"><span>88</span><span>92</span><span>96</span><span>100</span><span>104</span><span>108 MHz</span></div></div>
-<div class="riga-data"><span>{{giorno_epoca}}</span><span>Prezzo: un ascolto</span></div>
-<h2 class="titolo">{{titolo}}</h2>
-<p class="occhiello">{{occhiello}}</p>
-<div class="corpo">
- <div><div class="lp"><i class="disco"></i><div class="busta"><img src="{{foto}}" style="object-position:{{fuoco}}"></div></div><p class="credito">{{credito}}</p></div>
- <div class="testo"><p>{{testo1}}</p><p>{{testo2}}</p></div>
-</div>
+ <div class="intestazione"><div><h1 class="logo">La musica del Santo</h1><p class="motto">Biglietteria aperta · guida semiseria per autostoppisti musicali</p></div><i class="barre"></i></div>
+ <div class="biglietto">
+  <div class="foto"><img src="{{foto}}" style="object-position:{{fuoco}}"></div>
+  <div class="corpo-biglietto">
+   <p class="testa-biglietto"><span>La musica del Santo presenta</span><span>{{sezione}}</span></p>
+   <div><h2 class="titolo">{{titolo}}</h2><p class="occhiello">{{occhiello}}</p></div>
+   <p class="dati"><span><small>Accadde</small><b>{{giorno_epoca}}</b></span><span><small>Ingresso</small><b>Un ascolto</b></span></p>
+  </div>
+  <i class="buco su"></i><i class="buco giu"></i>
+ </div>
+ <p class="credito">{{credito}}</p>
+ <div class="testi"><p class="testo">{{testo1}}</p><p class="testo">{{testo2}}</p></div>
 </div>
 <div class="interno"><b>All’interno</b><span>{{interno}}</span></div>
 </div></body></html>
