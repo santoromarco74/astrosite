@@ -35,6 +35,11 @@ export default config({
         cover: fields.image({ label: 'Immagine di copertina', directory: 'public/images/articoli', publicPath: '/images/articoli/' }),
         coverAlt: fields.text({ label: 'Testo alternativo copertina' }),
         coverCredit: fields.text({ label: 'Credito foto (autore, fonte, licenza)' }),
+        ascolto: fields.object({
+          titolo: fields.text({ label: 'Disco o brano', description: 'Es. «Monkey Grip (1974)». Se resta vuoto il riquadro non compare.' }),
+          nota: fields.text({ label: 'Perché ascoltarlo (una frase)', multiline: true }),
+          link: fields.url({ label: 'Link per ascoltarlo (Spotify, YouTube…)' }),
+        }, { label: 'Da ascoltare (facoltativo)' }),
         wpId: fields.integer({ label: 'ID WordPress (storico)' }),
         content: fields.markdoc({ label: 'Testo', extension: 'md', options: { image: { directory: 'public/images/articoli', publicPath: '/images/articoli/' } } }),
       },

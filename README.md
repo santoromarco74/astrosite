@@ -24,6 +24,14 @@ npm run build    # genera il sito in dist/
 - Immagine con didascalia: `![testo alternativo](/percorso.jpg "Didascalia")`
 - Più immagini nello stesso paragrafo (una per riga) = galleria.
 - Un link YouTube o Spotify da solo su una riga = player incorporato.
+- «Da ascoltare» (facoltativo): un disco consigliato accanto all'articolo. Nell'editor è il gruppo «Da ascoltare»; a mano:
+  ```
+  ascolto:
+    titolo: 'Monkey Grip (1974)'
+    nota: 'Il primo album solista di un Rolling Stone.'
+    link: 'https://open.spotify.com/…'
+  ```
+  Se manca il titolo il riquadro non compare.
 
 ## Messa online (una volta sola)
 1. Crea un repository GitHub (es. `lamusicadelsanto`) e carica questa cartella.

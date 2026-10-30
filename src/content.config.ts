@@ -15,6 +15,8 @@ const articoli = defineCollection({
     cover: z.string().optional(),
     coverAlt: z.string().optional(),
     coverCredit: z.string().optional(),
+    // «Da ascoltare»: un disco o un brano consigliato, mostrato accanto all'articolo
+    ascolto: z.object({ titolo: z.string().nullish(), nota: z.string().nullish(), link: z.string().nullish() }).nullish(),
     draft: z.boolean().default(false),
     wpId: z.number().optional(),
   }),
