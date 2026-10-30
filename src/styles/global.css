@@ -4,7 +4,7 @@
   --nero: #1C1A1F;                 /* inchiostro: testo e filetti */
   --carta: #F5F2EC;                /* fondo */
   --bianco: #FFFFFF;
-  --grigio-testo: #5A5463;         /* testo secondario: contrasto 6.9 su carta */
+  --grigio-testo: #5A5463;         /* testo secondario: contrasto 6.5 su carta */
   --tratteggio: #9A93A3;           /* linee tratteggiate e filetti leggeri */
   --mattone: #A33A1C;              /* link e hover: contrasto 5.9 su carta */
   /* i quattro colori dei biglietti, da carta stampata d'epoca: tutti oltre 5:1 con l'inchiostro */
