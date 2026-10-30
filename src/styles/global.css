@@ -176,7 +176,8 @@ a:hover .retino img { transform: scale(1.03); }
 .articolo-copertina { margin-top: 36px; }
 .articolo-copertina .retino { border-radius: 10px; max-height: 600px; }
 .articolo-griglia { display: grid; grid-template-columns: minmax(0, var(--testo)) 320px; justify-content: space-between; gap: 72px; margin-top: 44px; }
-.programma { align-self: start; position: sticky; top: 24px; background: var(--bianco); border: 2px solid var(--nero); border-radius: 8px; }
+.laterale { align-self: start; position: sticky; top: 24px; display: flex; flex-direction: column; gap: 24px; }
+.programma { background: var(--bianco); border: 2px solid var(--nero); border-radius: 8px; }
 .programma summary { list-style: none; cursor: pointer; display: flex; justify-content: space-between; align-items: center; gap: 12px; padding: 16px 20px; font-family: var(--f-titolo); font-weight: 800; font-size: 28px; line-height: 1; text-transform: uppercase; }
 .programma summary::-webkit-details-marker { display: none; }
 .programma summary span { font-family: var(--f-testo); font-size: 14px; font-weight: 400; text-transform: none; }
@@ -184,10 +185,18 @@ a:hover .retino img { transform: scale(1.03); }
 .programma li { counter-increment: parte; display: grid; grid-template-columns: 30px minmax(0, 1fr); padding: 10px 0; border-top: 1px dashed var(--tratteggio); }
 .programma li::before { content: counter(parte); font-weight: 700; }
 .programma a { text-decoration: none; }
+.ascolto { background: var(--senape); border-radius: 8px; padding: 20px 22px; display: flex; flex-direction: column; gap: 8px; }
+.ascolto p { margin: 0; }
+.ascolto-occhiello { font-size: 13px; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; }
+.ascolto-titolo { font-family: var(--f-titolo); font-weight: 800; font-size: 28px; line-height: 1; text-transform: uppercase; }
+.ascolto-nota { font-family: var(--f-lettura); font-size: 16px; line-height: 1.45; }
+.ascolto a { align-self: flex-start; display: inline-flex; align-items: center; min-height: 32px; font-weight: 700; font-size: 15px; }
 
 @media (max-width: 960px) {
   .articolo-griglia { grid-template-columns: 1fr; gap: 24px; margin-top: 24px; }
-  .programma { position: static; order: -1; }
+  /* su telefono il Programma va prima del testo, «Da ascoltare» dopo */
+  .laterale { display: contents; }
+  .programma { order: -1; }
   .programma summary { font-size: 24px; padding: 14px 16px; }
   .programma ol { padding: 0 16px 10px; }
 }
