@@ -2,7 +2,7 @@
 import Base from '../layouts/Base.astro';
 import Foto from '../components/Foto.astro';
 import Pezzo from '../components/Pezzo.astro';
-import { getArticoli, url, dataBreve, attacco, titoloBreve } from '../lib/site';
+import { getArticoli, url, dataBreve, dataPunti, minutiLettura, nomeCategoria, titoloBreve, SITE } from '../lib/site';
 
 const articoli = await getArticoli();
 const [primo, ...resto] = articoli;
@@ -10,37 +10,42 @@ const inEvidenza = resto.slice(0, 6);
 const archivio = resto.slice(6);
 const sommario = primo.data.description.replace(/…$/, '').trim().replace(/[,;:]$/, '…');
 const corto = sommario.length > 180 ? sommario.slice(0, 175).replace(/\s+\S*$/, '') + '…' : sommario;
-// Se il sommario è l'inizio del testo, l'attacco riparte da dove finisce il sommario.
-let testo = attacco(primo.body, 400);
-const inizio = sommario.slice(0, 40);
-if (inizio && testo.startsWith(inizio)) {
-  const n = corto.replace(/…$/, '').split(' ').length;
-  testo = testo.split(' ').slice(n).join(' ');
-}
-const attaccoBreve = testo.split(' ').slice(0, 45).join(' ') + '…';
 const titoloPrimo = titoloBreve(primo);
-const lung = titoloPrimo.length > 70 ? 'lungo' : titoloPrimo.length > 40 ? 'medio' : '';
+const lung = titoloPrimo.length > 40 ? 'lungo' : titoloPrimo.length > 24 ? 'medio' : '';
+const cat = primo.data.categories[0];
+// il numero del biglietto è il numero dell'articolo, in ordine di uscita
+const numero = String(articoli.length).padStart(4, '0');
 ---
 <Base image={primo.data.cover}>
   <section class="primo-piano" aria-label="In primo piano">
-    <div>
-      <span class="etichetta">In primo piano</span>
-      <h1 class={`titolo ${lung}`}><a href={url(primo)}>{titoloPrimo}</a></h1>
-      {corto && <p class="sommario">{corto}</p>}
-      <p class="attacco">{attaccoBreve}</p>
-      <a class="leggi" href={url(primo)}>Leggi l'articolo →</a>
-    </div>
-    <a class="foto-link" href={url(primo)} tabindex="-1" aria-hidden="true">
-      {primo.data.cover && <Foto src={primo.data.cover} alt="" eager />}
+    <p class="occhiello">Stasera in cartellone</p>
+    <a class="biglietto" href={url(primo)}>
+      {primo.data.cover ? <Foto src={primo.data.cover} alt={primo.data.coverAlt ?? ''} eager sizes="(max-width: 860px) 100vw, 420px" max={900} /> : <div class="retino" />}
+      <div class="biglietto-corpo">
+        <p class="biglietto-testa"><span>{SITE.name} presenta</span><span>N. {numero}</span></p>
+        <div>
+          <h1 class={`titolo ${lung}`}>{titoloPrimo}</h1>
+          {corto && <p class="sommario">{corto}</p>}
+        </div>
+        <dl class="biglietto-dati">
+          {cat && <div><dt>Sezione</dt><dd>{nomeCategoria(cat)}</dd></div>}
+          <div><dt>Data</dt><dd>{dataPunti(primo.data.date)}</dd></div>
+          <div><dt>Durata</dt><dd>{minutiLettura(primo.body)} min</dd></div>
+          <div class="ingresso"><dt>Ingresso</dt><dd>Un ascolto</dd></div>
+        </dl>
+      </div>
+      <span class="buco su" aria-hidden="true"></span>
+      <span class="buco giu" aria-hidden="true"></span>
     </a>
+    {primo.data.coverCredit && <p class="didascalia">{primo.data.coverCredit}</p>}
   </section>
 
-  <h2 class="sezione-titolo">In questo numero</h2>
+  <h2 class="sezione-titolo">In cartellone <a href="#archivio">Tutto l’archivio →</a></h2>
   <div class="pezzi">
     {inEvidenza.map((a) => <Pezzo a={a} />)}
   </div>
 
-  <h2 class="sezione-titolo">Archivio</h2>
+  <h2 class="sezione-titolo" id="archivio">Archivio</h2>
   <ul class="archivio">
     {archivio.map((a) => (
       <li><time datetime={a.data.date.toISOString()}>{dataBreve(a.data.date)}</time><a href={url(a)}>{a.data.title}</a></li>

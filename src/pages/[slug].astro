@@ -5,7 +5,7 @@ import Foto from '../components/Foto.astro';
 import Pezzo from '../components/Pezzo.astro';
 import Lightbox from '../components/Lightbox.astro';
 import categorie from '../data/categorie.json';
-import { getArticoli, SITE, dataBreve, dataLunga, nomeCategoria, nomeTag, minutiLettura, type Articolo } from '../lib/site';
+import { getArticoli, SITE, dataPunti, nomeCategoria, nomeTag, minutiLettura, titoloBreve, type Articolo } from '../lib/site';
 
 export async function getStaticPaths() {
   const articoli = await getArticoli();
@@ -21,7 +21,8 @@ export async function getStaticPaths() {
 const props = Astro.props as any;
 const kind: 'articolo' | 'pagina' | 'categoria' = props.kind;
 let Content: any = null;
-if (kind !== 'categoria') ({ Content } = await render(props.entry));
+let headings: { depth: number; slug: string; text: string }[] = [];
+if (kind !== 'categoria') ({ Content, headings } = await render(props.entry));
 
 let correlati: Articolo[] = [];
 if (kind === 'articolo') {
@@ -36,48 +37,88 @@ const catDesc = kind === 'categoria' ? (categorie as any)[props.cat]?.descriptio
 ---
 {kind === 'articolo' && (() => {
   const a = props.entry as Articolo; const d = a.data; const cat = d.categories[0];
+  const tutti = props.tutti as Articolo[];
   const ld = { '@context': 'https://schema.org', '@type': 'BlogPosting', headline: d.title, description: d.description,
     datePublished: d.date.toISOString(), dateModified: (d.updated ?? d.date).toISOString(),
     author: { '@type': 'Person', name: SITE.author }, image: d.cover ? new URL(d.cover, SITE.url).href : undefined,
     mainEntityOfPage: new URL(`/${a.id}/`, SITE.url).href, inLanguage: 'it-IT' };
+  // titolo grande = titolo breve; se diverso, il titolo completo va sotto
+  const breve = titoloBreve(a);
+  const lung = breve.length > 40 ? 'lungo' : breve.length > 24 ? 'medio' : '';
+  // numero del biglietto: posizione dell'articolo in ordine di uscita
+  const numero = String(tutti.length - tutti.findIndex((x) => x.id === a.id)).padStart(4, '0');
+  const parti = headings.filter((h) => h.depth === 2);
   return (
-  <Base title={d.title} description={d.description} image={d.cover} type="article">
+  <Base title={d.title} description={d.description} image={d.cover} type="article" sezione={cat}>
     <script slot="head" type="application/ld+json" set:html={JSON.stringify(ld)} />
     <article>
       <header class="articolo-testa">
-        {cat && <a class="etichetta" href={`/${cat}/`}>{nomeCategoria(cat)}</a>}
-        <h1 data-pagefind-meta="title" class={`titolo ${d.title.length > 70 ? 'lungo' : d.title.length > 40 ? 'medio' : ''}`}>{d.title}</h1>
-        {d.description && <p class="sommario">{d.description}</p>}
-        <p class="meta">di {SITE.author} · <time datetime={d.date.toISOString()}>{dataLunga(d.date)}</time> · {minutiLettura(a.body)} min di lettura</p>
+        <p class="occhiello"><a href="/">Home</a>{cat && <> / <a href={`/${cat}/`}>{nomeCategoria(cat)}</a></>} / Biglietto n. {numero}</p>
+        <div class="biglietto">
+          <div class="biglietto-corpo">
+            <p class="biglietto-testa"><span>{SITE.name} presenta</span>{cat && <a href={`/${cat}/`}>{nomeCategoria(cat)}</a>}</p>
+            <h1 data-pagefind-meta="title" class={`titolo ${lung}`}>{breve}</h1>
+            {breve !== d.title && <p class="sommario">{d.title}</p>}
+            <dl class="biglietto-dati">
+              <div><dt>Di</dt><dd>{SITE.author}</dd></div>
+              <div><dt>Data</dt><dd><time datetime={d.date.toISOString()}>{dataPunti(d.date)}</time></dd></div>
+              <div><dt>Durata</dt><dd>{minutiLettura(a.body)} min di lettura</dd></div>
+              <div><dt>Ingresso</dt><dd>Un ascolto</dd></div>
+            </dl>
+          </div>
+          <div class="tagliando">
+            <span>Tagliando</span>
+            <strong>{numero}</strong>
+            <span>Valido per<br />tutti i concerti<br />della vita</span>
+            <i class="barre" aria-hidden="true"></i>
+          </div>
+          <span class="buco su" aria-hidden="true"></span>
+          <span class="buco giu" aria-hidden="true"></span>
+        </div>
       </header>
-      {d.cover && <div class="articolo-copertina"><Foto src={d.cover} alt={d.coverAlt ?? ''} credit={d.coverCredit} eager zoom /></div>}
-      <div class="corpo" data-pagefind-body><Content /></div>
-      {d.tags.length > 0 && <ul class="tag-lista" aria-label="Tag">{d.tags.map((t) => <li><a href={`/tag/${t}/`}>{nomeTag(t)}</a></li>)}</ul>}
-      <p class="firma">— {SITE.author}</p>
+      {d.cover && <div class="articolo-copertina"><Foto src={d.cover} alt={d.coverAlt ?? ''} credit={d.coverCredit} eager zoom max={1800} sizes="(max-width: 1200px) 100vw, 1100px" /></div>}
+      <div class="articolo-griglia">
+        <div class="corpo" data-pagefind-body>
+          {d.description && <p>{d.description}</p>}
+          <Content />
+          {d.tags.length > 0 && <ul class="tag-lista" aria-label="Tag">{d.tags.map((t) => <li><a href={`/tag/${t}/`}>{nomeTag(t)}</a></li>)}</ul>}
+          <p class="firma">— {SITE.author}</p>
+        </div>
+        {parti.length > 1 && (
+          <details class="programma" open>
+            <summary>Programma <span>{parti.length} parti</span></summary>
+            <ol>{parti.map((h) => <li><a href={`#${h.slug}`}>{h.text}</a></li>)}</ol>
+          </details>
+        )}
+      </div>
     </article>
     <Lightbox />
     {correlati.length > 0 && <>
-      <h2 class="sezione-titolo">Potrebbero piacerti anche</h2>
+      <h2 class="sezione-titolo">Anche in cartellone</h2>
       <div class="pezzi">{correlati.map((x) => <Pezzo a={x} />)}</div>
     </>}
+    <script is:inline>
+      (function(){try{var p=document.querySelector('.programma');if(p&&window.matchMedia('(max-width: 960px)').matches)p.removeAttribute('open');}catch(_){}})();
+    </script>
   </Base>);
 })()}
 
 {kind === 'pagina' && (
   <Base title={props.entry.data.title}>
-    <header class="articolo-testa"><h1 class="titolo">{props.entry.data.title}</h1></header>
-    <div class="corpo"><Content /></div>
+    <header class="pagina-testa"><h1 class="titolo">{props.entry.data.title}</h1></header>
+    <div class="corpo pagina-corpo"><Content /></div>
   </Base>
 )}
 
 {kind === 'categoria' && (
   <Base title={nomeCategoria(props.cat)} description={catDesc || `Tutti gli articoli della sezione ${nomeCategoria(props.cat)}`}>
-    <header class="articolo-testa">
+    <header class="pagina-testa">
       <span class="etichetta">Sezione</span>
       <h1 class="titolo">{nomeCategoria(props.cat)}</h1>
       {catDesc && <p class="sommario">{catDesc}</p>}
       <p class="meta">{props.lista.length} articoli</p>
     </header>
+    <h2 class="invisibile">Articoli della sezione</h2>
     <div class="pezzi">{props.lista.map((x: Articolo) => <Pezzo a={x} />)}</div>
   </Base>
 )}

@@ -1,15 +1,18 @@
 ---
 import Foto from './Foto.astro';
-import { type Articolo, url, nomeCategoria, titoloBreve } from '../lib/site';
+import { type Articolo, url, nomeCategoria, titoloBreve, dataPunti, minutiLettura } from '../lib/site';
 interface Props { a: Articolo; }
 const { a } = Astro.props;
 const cat = a.data.categories[0];
 ---
-<article class="pezzo">
-  <a href={url(a)} tabindex="-1" aria-hidden="true">{a.data.cover ? <Foto src={a.data.cover} alt="" sizes="124px" max={400} /> : <div class="retino" />}</a>
-  <div>
-    {cat && <a class="rubrica" href={`/${cat}/`}>{nomeCategoria(cat)}</a>}
+<article class={`pezzo${cat ? ` pezzo-${cat}` : ''}`}>
+  <a href={url(a)} tabindex="-1" aria-hidden="true">{a.data.cover ? <Foto src={a.data.cover} alt="" sizes="(max-width: 620px) 112px, (max-width: 960px) 50vw, 380px" max={800} /> : <div class="retino" />}</a>
+  <div class="pezzo-corpo">
+    <p class="pezzo-testa">
+      {cat ? <a class="rubrica" href={`/${cat}/`}>{nomeCategoria(cat)}</a> : <span />}
+      <time datetime={a.data.date.toISOString()}>{dataPunti(a.data.date)}</time>
+    </p>
     <h3 class="titolo"><a href={url(a)}>{titoloBreve(a)}</a></h3>
-    <p>{a.data.description.length > 130 ? a.data.description.slice(0, 125).replace(/\s+\S*$/, '') + '…' : a.data.description}</p>
+    <p class="pezzo-piede">Durata {minutiLettura(a.body)} min</p>
   </div>
 </article>

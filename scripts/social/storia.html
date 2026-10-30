@@ -3,26 +3,35 @@
 /* Storia Instagram 1080x1920: in alto e in basso ~220px restano liberi per l'interfaccia di Instagram;
    lo spazio vuoto sotto la freccia (circa 1500-1680 px dall'alto) è il posto dove incollare lo sticker «Link». */
 .tela{width:1080px;height:1920px}
-.fascia{position:absolute;top:220px;left:0;right:0;height:70px;padding:0 64px;font-size:26px;letter-spacing:.16em}
-.dentro{position:absolute;top:320px;left:64px;right:64px}
-.testata{font-size:76px;white-space:nowrap}
-.scala{height:50px;margin-top:22px}.scala .lancetta{height:38px;left:var(--lancetta,37%)}.scala .numeri{top:24px;font-size:15px}
-.nuovo{font-family:var(--mono);text-transform:uppercase;letter-spacing:.2em;font-size:22px;color:var(--ambra-scura);text-align:center;margin-top:34px}
-.titolo{font-size:116px;text-align:center;margin-top:12px}
-.occhiello{font-size:30px;text-align:center;margin-top:18px}
-.lp{width:600px;padding-right:70px;margin:40px auto 0}
-.lp .busta{width:530px}
-.credito{font-size:16px;text-align:center;margin-top:18px}
-.freccia{position:absolute;left:0;right:0;bottom:360px;text-align:center;font-family:var(--titolo);font-size:42px}
+.fascia{position:absolute;top:220px;left:0;right:0;height:66px;padding:0 64px;font-size:24px;letter-spacing:.14em}
+.dentro{position:absolute;top:316px;left:64px;right:64px}
+.logo{font-size:80px;text-align:center}
+.nuovo{font-family:var(--mono);font-weight:700;text-transform:uppercase;letter-spacing:.2em;font-size:22px;color:var(--mattone);text-align:center;margin-top:14px}
+.biglietto{grid-template-columns:1fr;margin-top:28px}
+.biglietto .foto{height:500px}
+.corpo-biglietto{padding:30px 40px 30px;border-top:5px dashed var(--inchiostro)}
+.testa-biglietto{font-size:17px}
+.titolo{font-size:118px;margin-top:20px}
+.occhiello{font-size:30px;margin-top:18px}
+.dati{font-size:18px;padding-top:14px;margin-top:24px}
+.biglietto .buco{top:478px;width:44px;height:44px}.buco.su{left:-22px}.buco.giu{right:-22px}
+.credito{font-size:15px;text-align:center;margin-top:14px}
+.freccia{position:absolute;left:0;right:0;bottom:360px;text-align:center;font-family:var(--titolo);font-weight:800;text-transform:uppercase;font-size:46px}
 </style></head><body><div class="tela">
-<div class="fascia"><span>{{fascia}}</span><span class="fm">FM</span></div>
+<div class="fascia"><span>{{fascia}}</span><span class="presenta">Nuovo</span></div>
 <div class="dentro">
- <h1 class="testata">LA MUSICA DEL SANTO</h1>
- <div class="scala"><i class="lancetta"></i><div class="numeri"><span>88</span><span>92</span><span>96</span><span>100</span><span>104</span><span>108 MHz</span></div></div>
+ <h1 class="logo">La musica del Santo</h1>
  <p class="nuovo">Nuovo sul blog</p>
- <h2 class="titolo">{{titolo}}</h2>
- <p class="occhiello">{{occhiello_storia}}</p>
- <div class="lp"><i class="disco"></i><div class="busta"><img src="{{foto}}" style="object-position:{{fuoco}}"></div></div>
+ <div class="biglietto">
+  <div class="foto"><img alt="" src="{{foto}}" style="object-position:{{fuoco}}"></div>
+  <div class="corpo-biglietto">
+   <p class="testa-biglietto"><span>La musica del Santo presenta</span><span>{{sezione}}</span></p>
+   <h2 class="titolo">{{titolo}}</h2>
+   <p class="occhiello">{{occhiello_storia}}</p>
+   <p class="dati"><span><small>Accadde</small><b>{{giorno_epoca}}</b></span><span><small>Ingresso</small><b>Un ascolto</b></span></p>
+  </div>
+  <i class="buco su"></i><i class="buco giu"></i>
+ </div>
  <p class="credito">{{credito_breve}}</p>
 </div>
 <p class="freccia">Leggi la storia completa ↓</p>

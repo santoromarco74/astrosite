@@ -3,7 +3,8 @@
 // Il JSON contiene: slug, data_evento, giorno_epoca, titolo (può contenere <br>), occhiello,
 // foto (percorso relativo alla cartella del repo, es. public/images/articoli/<slug>/foto.jpg), fuoco (es. "50% 30%"),
 // credito, credito_breve, testo1, testo2, interno, lancetta (facoltativo, es. "37%"),
-// fascia (facoltativo: testo della fascia in alto, di default "Accadde il <data_evento>").
+// fascia (facoltativo: testo della fascia in alto, di default "Accadde il <data_evento>"),
+// sezione (facoltativo: la sezione stampata sul biglietto, di default "Storie").
 // Esce: public/social/<slug>-ig.jpg (1080x1350), <slug>-fb.png (1200x630) e <slug>-storia.jpg (1080x1920, storia Instagram).
 // Per la storia serve anche occhiello_storia (una frase breve).
 // Playwright: quello del progetto se installato, altrimenti quello globale (NODE_PATH).
@@ -14,6 +15,8 @@ const radice = path.resolve(qui, '..', '..');
 const dati = JSON.parse(fs.readFileSync(process.argv[2], 'utf8'));
 // Fascia in alto: per gli anniversari "Accadde il <data>"; per l'attualità si può scrivere altro nel campo fascia (es. "In uscita il 30 ottobre 2026").
 if (!dati.fascia) dati.fascia = `Accadde il ${dati.data_evento}`;
+// Sezione stampata sul biglietto (facoltativa, di default «Storie»).
+if (!dati.sezione) dati.sezione = 'Storie';
 const esc = (s) => String(s ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/&lt;br&gt;/g, '<br>');
 const riempi = (html) => html.replace(/\{\{(\w+)\}\}/g, (_, k) => k === 'foto' ? pathToFileURL(path.resolve(radice, dati.foto)).href : esc(dati[k]));
 (async () => {

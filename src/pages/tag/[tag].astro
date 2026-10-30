@@ -12,10 +12,11 @@ const { tag } = Astro.params;
 const { lista } = Astro.props as { lista: Articolo[] };
 ---
 <Base title={`Tag: ${nomeTag(tag!)}`} description={`Articoli su ${nomeTag(tag!)}`}>
-  <header class="articolo-testa">
+  <header class="pagina-testa">
     <span class="etichetta">Tag</span>
     <h1 class="titolo">{nomeTag(tag!)}</h1>
     <p class="meta">{lista.length} {lista.length === 1 ? 'articolo' : 'articoli'}</p>
   </header>
+  <h2 class="invisibile">Articoli con questo tag</h2>
   <div class="pezzi">{lista.map((a) => <Pezzo a={a} />)}</div>
 </Base>

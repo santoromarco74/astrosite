@@ -1,32 +1,27 @@
 <!doctype html><html lang="it"><head><meta charset="utf-8"><link rel="stylesheet" href="stile.css">
 <style>
 .tela{width:1200px;height:630px}
-.fascia{height:48px;padding:0 44px;font-size:18px;letter-spacing:.16em}
-.griglia{display:grid;grid-template-columns:1fr 460px;gap:40px;padding:0 44px}
-.testata{font-size:52px;text-align:left;margin-top:22px}
-.scala{height:36px;margin-top:14px}.scala .lancetta{height:28px;left:var(--lancetta,37%)}.scala .numeri{top:18px;font-size:12px}
-.riga-data{font-size:13px;letter-spacing:.12em;padding:8px 0 9px}
-.titolo{font-size:66px;margin-top:18px}
-.occhiello{font-size:21px;margin-top:12px}
-.lp{width:460px;padding-right:56px;margin-top:30px}
-.lp .busta{width:404px}
-.credito{font-size:12px;margin-top:12px;text-align:right}
-.interno{position:absolute;left:44px;width:656px;bottom:62px;height:44px}
-.interno b{padding:0 14px;font-size:14px;letter-spacing:.14em}
-.interno span{padding:0 14px;font-size:17px}
-.sito{position:absolute;left:44px;bottom:26px;font-size:17px}
+.fascia{height:46px;padding:0 40px;font-size:16px;letter-spacing:.14em}
+.biglietto{grid-template-columns:380px 1fr;position:absolute;left:40px;right:40px;top:76px;height:470px}
+.corpo-biglietto{display:flex;flex-direction:column;justify-content:space-between;padding:28px 36px 24px 40px;border-left:5px dashed var(--inchiostro)}
+.testa-biglietto{font-size:14px}
+.titolo{font-size:76px}
+.occhiello{font-size:20px;margin-top:12px}
+.dati{font-size:14px;padding-top:10px}
+.biglietto .buco{left:362px;width:36px;height:36px}.buco.su{top:-18px}.buco.giu{bottom:-18px}
+.piede{position:absolute;left:40px;right:40px;bottom:22px;display:flex;justify-content:space-between;align-items:center}
+.piede .logo{font-size:34px}
+.credito{font-size:12px;max-width:520px;text-align:right}
 </style></head><body><div class="tela">
-<div class="fascia"><span>{{fascia}}</span><span class="fm">FM · La musica del Santo</span></div>
-<div class="griglia">
- <div>
-  <h1 class="testata">LA MUSICA DEL SANTO</h1>
-  <div class="scala"><i class="lancetta"></i><div class="numeri"><span>88</span><span>92</span><span>96</span><span>100</span><span>104</span><span>108 MHz</span></div></div>
-  <div class="riga-data"><span>{{giorno_epoca}}</span><span>Prezzo: un ascolto</span></div>
-  <h2 class="titolo">{{titolo}}</h2>
-  <p class="occhiello">{{occhiello}}</p>
+<div class="fascia"><span>{{fascia}}</span><span class="presenta">lamusicadelsanto.it</span></div>
+<div class="biglietto">
+ <div class="foto"><img alt="" src="{{foto}}" style="object-position:{{fuoco}}"></div>
+ <div class="corpo-biglietto">
+  <p class="testa-biglietto"><span>La musica del Santo presenta</span><span>{{sezione}}</span></p>
+  <div><h2 class="titolo">{{titolo}}</h2><p class="occhiello">{{occhiello}}</p></div>
+  <p class="dati"><span><small>Accadde</small><b>{{giorno_epoca}}</b></span><span><small>Ingresso</small><b>Un ascolto</b></span></p>
  </div>
- <div><div class="lp"><i class="disco"></i><div class="busta"><img src="{{foto}}" style="object-position:{{fuoco}}"></div></div><p class="credito">{{credito_breve}}</p></div>
+ <i class="buco su"></i><i class="buco giu"></i>
 </div>
-<div class="interno"><b>All’interno</b><span>{{interno}}</span></div>
-<p class="sito">lamusicadelsanto.it</p>
+<div class="piede"><span class="logo">La musica del Santo</span><span class="credito">{{credito_breve}}</span></div>
 </div></body></html>
