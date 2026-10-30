@@ -6,7 +6,7 @@ Sito statico di lamusicadelsanto.it, migrato da WordPress (32 articoli, 2 pagine
 - `src/content/articoli/*.md` — un file per articolo (frontmatter + testo Markdown)
 - `src/content/pagine/*.md` — pagine fisse (Chi sono, Privacy)
 - `public/wp-content/uploads/` — immagini, stesso percorso di WordPress (i vecchi link continuano a funzionare)
-- `src/styles/global.css` — tema "Biglietti" chiaro: ogni articolo è un biglietto (Big Shoulders Display + Courier Prime, colori pastello)
+- `src/styles/global.css` — tema "Biglietti" chiaro: ogni articolo è un biglietto (titoli Big Shoulders Display, testo Literata, titoletti Archivo, dettagli Courier Prime, colori pastello)
 - `keystatic.config.ts` — editor visuale
 - `_wp/migrate.py` — script di migrazione (riutilizzabile)
 
