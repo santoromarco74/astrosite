@@ -220,3 +220,105 @@ a.zoom { display: block; cursor: zoom-in; }
 
 /* DM Mono ha solo i pesi 400 e 500: niente grassetti finti */
 .rubrica, .leggi, .etichetta, .sezione-titolo, .menu a, .menu a[aria-current='page'], .menu-mobile a, .tag-lista a { font-weight: 500; }
+
+
+
+/* =========================================================
+   VARIANTE 06 — MINIMAL ELEGANTE / TYPOGRAPHY FIRST
+   ========================================================= */
+body.theme-minimal {
+  --nero:#252522;
+  --carta:#FBFAF7;
+  --carta-2:#F1EFE9;
+  --rosso:#A95D47;
+  --rosso-testo:#8C4837;
+  --ambra-chiara:#D7B49B;
+  --grigio:#B7B2A8;
+  --grigio-testo:#69665F;
+  --neutro:#E1DED6;
+  --testo-2:#4F4C46;
+  --filetto:1px solid #DFDCD4;
+  background:var(--carta);
+  color:var(--nero);
+  color-scheme:light;
+  font-family:'DM Sans',Arial,sans-serif;
+}
+body.theme-minimal a {text-decoration-thickness:1px;text-underline-offset:4px}
+body.theme-minimal a:hover {color:#A95D47}
+body.theme-minimal .testa {padding-top:24px}
+body.theme-minimal .occhiello-testata {text-align:left;font-family:'DM Sans',sans-serif;font-size:10px;letter-spacing:.18em;color:#77736D}
+body.theme-minimal .filetto-stella {display:none}
+body.theme-minimal .riga-testata {grid-template-columns:110px minmax(0,1fr) 110px;gap:22px;padding:12px 0}
+body.theme-minimal .testata-logo text {font-family:'Instrument Serif',Georgia,serif!important;fill:#252522!important;font-weight:400!important;letter-spacing:-1px}
+body.theme-minimal .sottotitolo-testata {font-family:'DM Sans',sans-serif;font-style:normal;font-size:10px;letter-spacing:.2em;text-transform:uppercase;color:#77736D}
+body.theme-minimal .menu {margin-top:24px;padding:12px 40px;border-top:1px solid #E1DED6;border-bottom:1px solid #E1DED6;background:none}
+body.theme-minimal .menu ul {gap:8px 38px}
+body.theme-minimal .menu a {font-family:'DM Sans',sans-serif;font-size:10px;font-weight:600;letter-spacing:.14em;color:#5F5C56}
+body.theme-minimal .menu a[aria-current='page'] {color:#A95D47}
+body.theme-minimal .menu a[aria-current='page']::before {display:none}
+body.theme-minimal .menu .cerca-icona svg circle,body.theme-minimal .menu .cerca-icona svg path {stroke:#252522}
+body.theme-minimal .primo-piano {grid-template-columns:minmax(0,.78fr) minmax(0,1.22fr);gap:clamp(32px,5.5vw,86px);align-items:center;padding:clamp(48px,7vw,86px) 0 68px;border-bottom:1px solid #E1DED6}
+body.theme-minimal .primo-piano .etichetta {display:inline-block;background:transparent;color:#A95D47;border:0;border-bottom:1px solid #A95D47;padding:0 0 6px;font-family:'DM Sans',sans-serif;font-size:10px;letter-spacing:.18em}
+body.theme-minimal .primo-piano .titolo {font-family:'Instrument Serif',Georgia,serif;font-size:clamp(52px,7.3vw,92px);font-weight:400;line-height:.92;letter-spacing:-.035em;margin:20px 0 16px}
+body.theme-minimal .primo-piano .titolo.medio {font-size:clamp(48px,6.2vw,78px)}
+body.theme-minimal .primo-piano .titolo.lungo {font-size:clamp(40px,5vw,64px)}
+body.theme-minimal .primo-piano .sommario {font-family:'Instrument Serif',Georgia,serif;font-style:italic;font-size:clamp(20px,2.1vw,27px);line-height:1.24;color:#4F4C46}
+body.theme-minimal .primo-piano .attacco {font-family:'DM Sans',sans-serif;font-size:14px;line-height:1.7;color:#77736D;margin:18px 0 20px;max-width:48ch}
+body.theme-minimal .primo-piano .leggi {display:inline-flex;align-items:center;gap:12px;color:#8C4837;font-family:'DM Sans',sans-serif;font-size:10px;letter-spacing:.16em;border-bottom:1px solid #A95D47;padding:0 0 7px}
+body.theme-minimal .primo-piano .foto-link {padding:0;display:block}
+body.theme-minimal .primo-piano .foto-link::before,body.theme-minimal .primo-piano .foto-link::after {display:none}
+body.theme-minimal .primo-piano .retino {aspect-ratio:4/3;box-shadow:none;background:#F1EFE9}
+body.theme-minimal .primo-piano .retino img {width:100%;height:100%;object-fit:cover;filter:saturate(.88)}
+body.theme-minimal .sezione-titolo {font-family:'DM Sans',sans-serif;font-weight:600;font-size:10px;letter-spacing:.2em;color:#77736D;margin:60px 0 28px}
+body.theme-minimal .sezione-titolo::before {content:'—';background:none;color:#A95D47;padding:0;font-size:18px}
+body.theme-minimal .sezione-titolo::after {height:1px;background:#E1DED6}
+body.theme-minimal .pezzi {grid-template-columns:repeat(3,minmax(0,1fr));gap:clamp(18px,2.8vw,38px)}
+body.theme-minimal .pezzo,
+body.theme-minimal .pezzi .pezzo:not(:nth-child(3n+1)) {display:flex;flex-direction:column;gap:13px;padding:0 0 24px;border:0;border-bottom:1px solid #E1DED6}
+body.theme-minimal .pezzo > a:first-child {display:block}
+body.theme-minimal .pezzo .retino {aspect-ratio:16/10;box-shadow:none}
+body.theme-minimal .pezzo .rubrica {color:#A95D47;font-family:'DM Sans',sans-serif;font-size:9px;letter-spacing:.18em}
+body.theme-minimal .pezzo .titolo {font-family:'Instrument Serif',Georgia,serif;font-weight:400;font-size:27px;line-height:1.02;margin:7px 0}
+body.theme-minimal .pezzo p {font-family:'DM Sans',sans-serif;font-size:13px;line-height:1.6;color:#77736D}
+body.theme-minimal .archivio {columns:3;column-gap:34px;column-rule:0}
+body.theme-minimal .archivio li {display:block;padding:10px 0;border-color:#E1DED6}
+body.theme-minimal .archivio time {display:block;color:#A95D47;font-size:10px;margin-bottom:2px}
+body.theme-minimal .archivio a {font-family:'DM Sans',sans-serif;font-size:14px}
+body.theme-minimal .piede {background:#252522;color:#FBFAF7}
+body.theme-minimal .piede .testata-logo text {fill:#FBFAF7!important}
+body.theme-minimal .piede a {color:#FBFAF7}
+body.theme-minimal .piede-link {border-color:#45443F}
+body.theme-minimal .articolo-testa {text-align:left;max-width:940px;padding-top:54px}
+body.theme-minimal .articolo-testa .titolo {font-family:'Instrument Serif',Georgia,serif;font-weight:400}
+body.theme-minimal .articolo-testa .sommario {font-family:'Instrument Serif',Georgia,serif;font-style:italic}
+body.theme-minimal .articolo-testa .meta {border-color:#E1DED6}
+body.theme-minimal .corpo {font-family:'DM Sans',sans-serif;font-size:18px;line-height:1.85}
+body.theme-minimal .corpo h2 {font-family:'Instrument Serif',Georgia,serif;font-size:38px;font-weight:400}
+body.theme-minimal .corpo h2::before {background:#A95D47;height:1px;width:44px}
+body.theme-minimal .corpo h3 {font-family:'Instrument Serif',Georgia,serif;font-size:27px;font-weight:400}
+body.theme-minimal .corpo > p:first-of-type::first-letter {color:#A95D47;font-family:'Instrument Serif',Georgia,serif}
+body.theme-minimal .corpo blockquote {border-left:1px solid #A95D47;font-family:'Instrument Serif',Georgia,serif;font-size:25px}
+body.theme-minimal .tag-lista {border-color:#E1DED6}
+body.theme-minimal .tag-lista a {border-color:#D5D1C8;color:#6D6962}
+@media (max-width:900px) {
+  body.theme-minimal .pezzi {grid-template-columns:repeat(2,minmax(0,1fr))}
+  body.theme-minimal .archivio {columns:2}
+}
+@media (max-width:760px) {
+  body.theme-minimal .primo-piano {grid-template-columns:1fr;gap:24px;padding:34px 0 42px}
+  body.theme-minimal .primo-piano .foto-link {order:-1}
+  body.theme-minimal .primo-piano .retino {aspect-ratio:16/10}
+  body.theme-minimal .menu {padding:10px 0}
+}
+@media (max-width:560px) {
+  body.theme-minimal .testa {padding-top:14px}
+  body.theme-minimal .riga-testata {grid-template-columns:40px minmax(0,1fr) 40px}
+  body.theme-minimal .menu {display:none}
+  body.theme-minimal .primo-piano .titolo {font-size:clamp(48px,14vw,68px)}
+  body.theme-minimal .pezzi {grid-template-columns:1fr;gap:22px}
+  body.theme-minimal .pezzo {display:grid;grid-template-columns:112px minmax(0,1fr);align-items:start}
+  body.theme-minimal .pezzo .titolo {font-size:23px}
+  body.theme-minimal .pezzo p {font-size:12px}
+  body.theme-minimal .archivio {columns:1}
+}
+
