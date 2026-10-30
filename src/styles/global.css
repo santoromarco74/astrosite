@@ -248,7 +248,7 @@ body.theme-hero .testa {padding-top:16px; position:relative; z-index:5}
 body.theme-hero .occhiello-testata {font-family:'DM Sans',sans-serif;font-size:10px;letter-spacing:.24em;color:#A8A6A2}
 body.theme-hero .filetto-stella {display:none}
 body.theme-hero .riga-testata {grid-template-columns:130px minmax(0,1fr) 130px;gap:18px;padding:12px 0}
-body.theme-hero .testata-logo text {font-family:'Bodoni Moda',Georgia,serif!important;fill:#F4F0EA!important;font-weight:600!important;letter-spacing:-2px}
+body.theme-hero .testata-logo text {font-family:'Oswald',Impact,'Arial Narrow',sans-serif!important;fill:#F4F0EA!important;font-weight:700!important;letter-spacing:.015em;paint-order:stroke fill;stroke:#F4F0EA;stroke-width:.35px}
 body.theme-hero .sottotitolo-testata {font-family:'DM Sans',sans-serif;font-style:normal;font-size:10px;letter-spacing:.25em;text-transform:uppercase;color:#A8A6A2}
 body.theme-hero .menu {margin-top:16px;padding:14px 40px 12px;border-top:1px solid #303239;border-bottom:1px solid #303239;background:none}
 body.theme-hero .menu ul {gap:8px 38px}
@@ -323,3 +323,10 @@ body.theme-hero .tag-lista a {border-color:#555A62}
 }
 @media (prefers-reduced-motion:reduce) {body.theme-hero * {scroll-behavior:auto!important;transition:none!important}}
 
+
+
+/* Testata e controlli: contrasto netto su fondo scuro */
+body.theme-hero .menu-mobile summary svg path {stroke:#F4F0EA!important}
+body.theme-hero .cerca-icona svg circle,
+body.theme-hero .cerca-icona svg path {stroke:#F4F0EA!important}
+body.theme-hero .testata-logo {filter:drop-shadow(0 1px 8px rgba(0,0,0,.24))}
