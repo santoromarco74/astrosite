@@ -120,7 +120,7 @@ a:hover .retino img { transform: scale(1.03); }
 
 /* ---------- Schede-biglietto (griglia a tre) ---------- */
 .pezzi { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 28px; }
-.pezzo { display: flex; flex-direction: column; background: var(--salvia); border-radius: 8px; overflow: hidden; }
+.pezzo { position: relative; display: flex; flex-direction: column; background: var(--salvia); border-radius: 8px; overflow: hidden; }
 .pezzi > .pezzo:nth-child(4n+2) { background: var(--zucchero); }
 .pezzi > .pezzo:nth-child(4n+3) { background: var(--senape); }
 .pezzi > .pezzo:nth-child(4n+4) { background: var(--terracotta); }
@@ -130,7 +130,6 @@ a:hover .retino img { transform: scale(1.03); }
 .pezzo .titolo { font-weight: 800; font-size: 34px; line-height: .95; }
 .pezzo .titolo a { text-decoration: none; }
 .pezzo .titolo a::after { content: ''; position: absolute; inset: 0; }
-.pezzo { position: relative; }
 .pezzo .rubrica { position: relative; z-index: 1; }
 .pezzo-piede { margin: auto 0 0; font-size: 13px; }
 @media (max-width: 960px) { .pezzi { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px; } }
