@@ -118,6 +118,7 @@ const catDesc = kind === 'categoria' ? (categorie as any)[props.cat]?.descriptio
       {catDesc && <p class="sommario">{catDesc}</p>}
       <p class="meta">{props.lista.length} articoli</p>
     </header>
+    <h2 class="invisibile">Articoli della sezione</h2>
     <div class="pezzi">{props.lista.map((x: Articolo) => <Pezzo a={x} />)}</div>
   </Base>
 )}
