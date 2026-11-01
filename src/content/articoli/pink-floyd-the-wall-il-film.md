@@ -48,7 +48,7 @@ Adesso andremo a raccontare della nascita del film ad esso ispirato , “[Pink F
 
 ## L’idea
 
-Nella mente di [Roger Waters](https://it.wikipedia.org/wiki/Roger_Waters) era fin dall’inizio tutto molto chiaro; la sua opera *“The Wall”* si sarebbe compiuta in tre atti: [un album](/pink-floyd-the-wall/), un tour live (tenuto subito dopo l’uscita dell’album e pubblicato nell’album [*“Is There Anybody Out There?: The Wall Live 1980-1981”*](https://it.wikipedia.org/wiki/Is_There_Anybody_Out_There%3F:_The_Wall_Live_1980-1981)) ed un film.
+Nella mente di [Roger Waters](https://it.wikipedia.org/wiki/Roger_Waters) era fin dall’inizio tutto molto chiaro; la sua opera *“The Wall”* si sarebbe compiuta in tre atti: [un album](/pink-floyd-the-wall/), un tour live (tenuto subito dopo l’uscita dell’album e pubblicato nell’album [*“Is There Anybody Out There?: The Wall Live 1980-1981”*](https://en.wikipedia.org/wiki/Is_There_Anybody_Out_There%3F_The_Wall_Live_1980%E2%80%9381)) ed un film.
 
 Inizialmente il progetto del film, nato dalla collaborazione di Waters e [Gerard Scarfe](https://www.geraldscarfe.com/), l’illuminato vignettista dell’album, prevedeva proprio che fosse Scarfe ad occuparsi della regia del film, alternando le proprie animazioni con spezzoni delle performances del gruppo dal vivo (come ad esempio all’[Earl’s Court](https://it.wikipedia.org/wiki/Earls_Court_Exhibition_Centre)), ma l’idea sembrava troppo complessa da realizzare e in più la produzione voleva un regista famoso per la direzione del progetto.
 

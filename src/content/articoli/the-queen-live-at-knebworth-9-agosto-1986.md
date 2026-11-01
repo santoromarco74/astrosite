@@ -34,7 +34,7 @@ draft: false
 wpId: 2555
 ---
 
-Estate 1986, precisamente agosto 1986, al [Knebworth Park](https://it.wikipedia.org/wiki/Knebworth) di [Stevenage](https://it.wikipedia.org/wiki/Stevenage), vicino [Londra](http://londra), si teneva l’ultima tappa del [*“Magic Tour”*](https://it.wikipedia.org/wiki/Magic_Tour), il più maestoso tour di tutti i tempi dei [Queen](https://it.wikipedia.org/wiki/Queen); nessuno sa però (neanche loro) che sarà l’ultima performance live dei Queen al completo, prima della scomparsa di [Freddie Mercury](https://it.wikipedia.org/wiki/Freddie_Mercury) e del ritiro di [John Deacon](https://it.wikipedia.org/wiki/John_Deacon).
+Estate 1986, precisamente agosto 1986, al [Knebworth Park](https://it.wikipedia.org/wiki/Knebworth) di [Stevenage](https://it.wikipedia.org/wiki/Stevenage), vicino [Londra](https://it.wikipedia.org/wiki/Londra), si teneva l’ultima tappa del [*“Magic Tour”*](https://it.wikipedia.org/wiki/Magic_Tour), il più maestoso tour di tutti i tempi dei [Queen](https://it.wikipedia.org/wiki/Queen); nessuno sa però (neanche loro) che sarà l’ultima performance live dei Queen al completo, prima della scomparsa di [Freddie Mercury](https://it.wikipedia.org/wiki/Freddie_Mercury) e del ritiro di [John Deacon](https://it.wikipedia.org/wiki/John_Deacon).
 
 ![Il mitico elicottero di Knebworth](/images/articoli/the-queen-live-at-knebworth-9-agosto-1986/Il-mitico-elicottero-di-Knebworth.jpg "Il mitico elicottero di Knebworth")
 
@@ -82,7 +82,7 @@ Anche [Robbie Williams](https://it.wikipedia.org/wiki/Robbie_Williams), nel 2003
 
 ## **La serata**
 
-Si arriva dunque alla serata del 9 agosto 1986, ribattezzata per l’occasione “[*A Night of Summer Magic*](https://www.queenheaven.it/posts/queen-at-knebworth-a-night-of-summer-magic)“; la capienza del concerto era inizialmente stimata sui 120 mila spettatori ma ben presto, secondo gli organizzatori si arrivò a toccare la cifra record dei 200 mila partecipanti.
+Si arriva dunque alla serata del 9 agosto 1986, ribattezzata per l’occasione “*A Night of Summer Magic*“; la capienza del concerto era inizialmente stimata sui 120 mila spettatori ma ben presto, secondo gli organizzatori si arrivò a toccare la cifra record dei 200 mila partecipanti.
 
 Il palco fu eretto in mezzo a un campo le cui dimensioni erano enormi; per permettere a tutti quanti di partecipare al concerto c’erano speciali apparecchiature che permettevano che il suono arrivasse senza troppo ritardo a chi si trovava in fondo mentre c’era un mega schermo, lo [Starvision](https://www.starvision-tech.com/), già utilizzato a Wembley, che permetteva di vedere in lontananza.
 

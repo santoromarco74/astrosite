@@ -131,7 +131,7 @@ Peccato che nel frattempo ne avevano consumati 200 in birra  e quindi adesso gli
 
 La nostra band ovviamente non può fare altro che darsela a gambe levate e, nonostante l’inseguimento che ne scaturisce, riesce a fuggire e a raggiungere il loro vecchio amico e manager Maury Sline ([Steve Lawrence](https://it.wikipedia.org/wiki/Steve_Lawrence)) con il quale raggiungono l’accordo di esibirsi nel lussuoso “*Palace Hotel Ballroom*‘” a nord sul lago [Wazzapamani](https://www.movie-locations.com/movies/b/Blues-Brothers.php), a scopo benefico, l’unico in grado di contenere 5.000 persone a cui far pagare 1 dollaro di biglietto a testa.
 
-Nella realtà il palazzo non è a nord di 106 miglia di Chicago, come detto da Elwood nel film,  ma in realtà è il [South Shore Cultural Center](http://www.hydepark.org/parks/southshore/sscc1.php), accanto alla South Shore Station di Chicago.
+Nella realtà il palazzo non è a nord di 106 miglia di Chicago, come detto da Elwood nel film,  ma in realtà è il [South Shore Cultural Center](https://en.wikipedia.org/wiki/South_Shore_Cultural_Center), accanto alla South Shore Station di Chicago.
 
 Arriva il giorno del concerto e la band è già schierata sul palco con la sala che comincia a riempirsi; mancano solo Jake ed Elwood che, dopo aver pubblicizzato per tutto il giorno lo spettacolo, rischiano di arrivare tardi perché hanno terminato la benzina e devono spingere per ore.
 
