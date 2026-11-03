@@ -2,7 +2,7 @@
 title: 'Leonard Cohen, 10 anni dopo: l’ultimo salotto del poeta che non voleva smettere'
 headline: 'L’ultimo salotto di Cohen'
 description: 'Il 7 novembre 2016 moriva Leonard Cohen, 17 giorni dopo l’uscita di You Want It Darker, registrato in salotto. Dieci anni dopo, la sua storia.'
-date: '2026-11-08'
+date: '2026-11-07'
 categories:
 - storie
 tags:
