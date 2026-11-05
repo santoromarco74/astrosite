@@ -268,6 +268,8 @@ La coppia Belushi Aykroyd fu inoltre capace di creare un marchio di fabbrica, re
 
 ![Cab Calloway a New York nel 1947](/images/articoli/the-blues-brothers-i-fratelli-blues-il-film/cab-calloway-1947.jpg "Cab Calloway a New York nel 1947. Foto di William P. Gottlieb via Wikimedia Commons (pubblico dominio)")
 
+![La copertina della colonna sonora di The Blues Brothers](/images/articoli/the-blues-brothers-i-fratelli-blues-il-film/copertina-colonna-sonora.jpg "La copertina di «The Blues Brothers» (colonna sonora originale) (1980). © dei titolari dei diritti, riprodotta per critica e discussione")
+
 ![John Lee Hooker al Long Beach Blues Festival 1997](/images/articoli/the-blues-brothers-i-fratelli-blues-il-film/john-lee-hooker-1997.jpg "John Lee Hooker al Long Beach Blues Festival del 1997. Foto di Masahiro Sumori via Wikimedia Commons (CC BY-SA 3.0)")
 ![Replica della Bluesmobile a Joliet, Illinois](/images/articoli/the-blues-brothers-i-fratelli-blues-il-film/bluesmobile-joliet-route-66.jpg "Una replica della Bluesmobile a Joliet, Illinois, la città del carcere da cui esce Jake. Foto di Dough4872 via Wikimedia Commons (CC BY-SA 4.0)")
 ![James Brown dal vivo ad Amburgo nel 1973](/images/articoli/the-blues-brothers-i-fratelli-blues-il-film/james-brown-amburgo-1973.jpg "James Brown dal vivo alla Musikhalle di Amburgo, febbraio 1973. Foto di Heinrich Klaffs via Wikimedia Commons (CC BY-SA 2.0)")

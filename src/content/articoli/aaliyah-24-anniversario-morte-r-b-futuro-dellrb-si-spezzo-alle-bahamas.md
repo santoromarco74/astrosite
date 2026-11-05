@@ -99,6 +99,8 @@ Oggi, nel giorno del 24° anniversario, mentre ascoltiamo artiste come Billie Ei
 
 *Se volete approfondire il mondo di Aaliyah, i suoi tre album sono finalmente disponibili su tutte le piattaforme streaming. E se siete dei nostalgici come il sottoscritto, cercate su YouTube il video di “Are You That Somebody” – un piccolo capolavoro di 4 minuti che vi farà capire perché questa ragazza era davvero arrivata dal futuro.*
 
+![La copertina rossa dell’album «Aaliyah»](/images/articoli/aaliyah-24-anniversario-morte-r-b-futuro-dellrb-si-spezzo-alle-bahamas/copertina-aaliyah-red-album.jpg "La copertina di «Aaliyah» (il «Red Album») di Aaliyah (2001). © dei titolari dei diritti, riprodotta per critica e discussione")
+
 ![Aaliyah seduta a un tavolo, in bianco e nero](/images/articoli/aaliyah-24-anniversario-morte-r-b-futuro-dellrb-si-spezzo-alle-bahamas/aaliyah-2000-orizzontale.jpg "Aaliyah nel maggio 2000, l'anno di Romeo Must Die. Foto di MikaV via Wikimedia Commons (CC BY-SA 4.0)")
 ![Aaliyah sorride guardando di lato](/images/articoli/aaliyah-24-anniversario-morte-r-b-futuro-dellrb-si-spezzo-alle-bahamas/aaliyah-2000-verticale.jpg "Aaliyah sorridente durante lo stesso servizio del 2000. Foto di MikaV via Wikimedia Commons (CC BY-SA 4.0)")
 ![Timbaland con felpa grigia sul palco](/images/articoli/aaliyah-24-anniversario-morte-r-b-futuro-dellrb-si-spezzo-alle-bahamas/timbaland-2019.jpg "Timbaland, il produttore che con Aaliyah inventò il suono del futuro, nel 2019. Foto di Collision Conf via Wikimedia Commons (CC BY 2.0)")

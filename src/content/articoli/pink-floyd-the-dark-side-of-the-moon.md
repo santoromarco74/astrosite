@@ -17,9 +17,9 @@ tags:
 - roger-waters
 - syd-barrett
 - the-dark-side
-cover: /images/articoli/pink-floyd-the-dark-side-of-the-moon/prisma-dispersione-luce.jpg
-coverAlt: 'Spettro di luce arcobaleno proiettato su una parete'
-coverCredit: 'Un fascio di luce bianca scomposto nei colori dello spettro da un prisma. Foto di Aligatorigiganti via Wikimedia Commons (CC0)'
+cover: /images/articoli/pink-floyd-the-dark-side-of-the-moon/copertina-dark-side.jpg
+coverAlt: 'La copertina di «The Dark Side of the Moon» dei Pink Floyd'
+coverCredit: 'La copertina di «The Dark Side of the Moon» dei Pink Floyd (1973). © dei titolari dei diritti, riprodotta per critica e discussione'
 draft: false
 wpId: 3308
 ---
@@ -162,6 +162,8 @@ Classifiche a parte, “*The Dark Side of the Moon****”*** rappresenta sicuram
 Per me è stato sicuramente l’album più bello dei Pink Floyd, inteso come vero gruppo, perché è veramente un’opera corale dove tutti gli attori chiamati in causa hanno dato il meglio di sé ed il risultato è rimasto scolpito negli anni.
 
 ![Ritratto in bianco e nero di Richard Wright](/images/articoli/pink-floyd-the-dark-side-of-the-moon/richard-wright-1974.jpg "Richard Wright nel 1974. Foto di autore sconosciuto via Wikimedia Commons (pubblico dominio)")
+
+![Spettro di luce arcobaleno proiettato su una parete](/images/articoli/pink-floyd-the-dark-side-of-the-moon/prisma-dispersione-luce.jpg "Un fascio di luce bianca scomposto nei colori dello spettro da un prisma. Foto di Aligatorigiganti via Wikimedia Commons (CC0)")
 
 ![I quattro Pink Floyd in posa all'aperto](/images/articoli/pink-floyd-the-dark-side-of-the-moon/pink-floyd-1974.jpg "I Pink Floyd in una foto promozionale del 1974 (press kit di Live at Pompeii). Foto di autore sconosciuto via Wikimedia Commons (pubblico dominio)")
 ![I Pink Floyd del 1967 davanti a un muro di mattoni](/images/articoli/pink-floyd-the-dark-side-of-the-moon/pink-floyd-1967-syd-barrett.jpg "I Pink Floyd nel 1967, con Syd Barrett (a destra). Foto pubblicata da Hit Parader via Wikimedia Commons (pubblico dominio)")

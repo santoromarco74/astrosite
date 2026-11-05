@@ -114,7 +114,14 @@ Detto questo dunque consiglio caldamente di acquistare un giradischi e crearsi l
 
 Questo “rito” sicuramente vi ricongiungerà un po’ con la musica, e vi posso assicurare che è una cosa di cui la nostra anima ha sempre bisogno.
 
-Qui sotto, infine, qualche immagine dal mondo del vinile: un giradischi leggendario, dischi d’archivio e i solchi visti da vicinissimo.
+Qui sotto potete infine trovare una piccola galleria di album leggendari le cui copertine hanno contribuito a renderli indimenticabili e iconici e lo saranno ancora negli anni a venire.
+
+![La copertina di Sgt. Pepper’s Lonely Hearts Club Band](/images/articoli/la-magia-del-vinile-ai-giorni-nostri/copertina-sgt-pepper.jpg "La copertina di «Sgt. Pepper’s Lonely Hearts Club Band» dei Beatles (1967). © dei titolari dei diritti, riprodotta per critica e discussione")
+![La copertina di The Velvet Underground & Nico](/images/articoli/la-magia-del-vinile-ai-giorni-nostri/copertina-velvet-underground-nico.jpg "La copertina di «The Velvet Underground & Nico» (1967). © dei titolari dei diritti, riprodotta per critica e discussione")
+![La copertina di Abbey Road](/images/articoli/la-magia-del-vinile-ai-giorni-nostri/copertina-abbey-road.jpg "La copertina di «Abbey Road» dei Beatles (1969). © dei titolari dei diritti, riprodotta per critica e discussione")
+![La copertina di The Dark Side of the Moon](/images/articoli/la-magia-del-vinile-ai-giorni-nostri/copertina-dark-side-of-the-moon.jpg "La copertina di «The Dark Side of the Moon» dei Pink Floyd (1973). © dei titolari dei diritti, riprodotta per critica e discussione")
+![La copertina di Unknown Pleasures](/images/articoli/la-magia-del-vinile-ai-giorni-nostri/copertina-unknown-pleasures.jpg "La copertina di «Unknown Pleasures» dei Joy Division (1979). © dei titolari dei diritti, riprodotta per critica e discussione")
+![La copertina di Axis: Bold as Love](/images/articoli/la-magia-del-vinile-ai-giorni-nostri/copertina-axis-bold-as-love.jpg "La copertina di «Axis: Bold as Love» della Jimi Hendrix Experience (1967). © dei titolari dei diritti, riprodotta per critica e discussione")
 
 ![Giradischi Technics SL-1200MK2 nero con un disco sul piatto](/images/articoli/la-magia-del-vinile-ai-giorni-nostri/technics-sl-1200mk2.jpg "Il Technics SL-1200MK2, il giradischi più amato dai DJ. Foto di Adrian DuMay from USA via Wikimedia Commons (CC BY 2.0)")
 ![Due vecchi dischi neri con etichetta su sfondo bianco](/images/articoli/la-magia-del-vinile-ai-giorni-nostri/dischi-archivio-dr.jpg "Vecchi dischi dall'archivio della radio danese DR. Foto di DRs Kulturarvsprojekt from Copenhagen, Danmark via Wikimedia Commons (CC BY-SA 2.0)")

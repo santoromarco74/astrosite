@@ -12,9 +12,9 @@ tags:
 - kurt-cobain
 - nevermind
 - nirvana
-cover: /images/articoli/nirvana-nevermind/illustrazione-garage.jpg
-coverAlt: 'Una chitarra mancina appoggiata a un amplificatore in un garage, con la pioggia sulla finestra e una cassetta a terra'
-coverCredit: 'Illustrazione di La musica del Santo'
+cover: /images/articoli/nirvana-nevermind/copertina-nevermind.jpg
+coverAlt: 'La copertina di «Nevermind» dei Nirvana'
+coverCredit: 'La copertina di «Nevermind» dei Nirvana (1991). © dei titolari dei diritti, riprodotta per critica e discussione'
 draft: false
 wpId: 3200
 ---

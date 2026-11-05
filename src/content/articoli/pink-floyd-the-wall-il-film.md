@@ -146,6 +146,8 @@ Se invece volete conoscere meglio l’album potete seguire i seguenti contenuti:
 - [“Pink Floyd – The Wall” – La musica del Santo;](/pink-floyd-the-wall/)
 - [The Wall Complete: un interessante sito che sviscera ogni aspetto dell’album e del film;](https://thewallcomplete.com/)
 
+![La copertina del DVD di Pink Floyd – The Wall](/images/articoli/pink-floyd-the-wall-il-film/copertina-dvd-the-wall.jpg "La copertina del DVD di «Pink Floyd – The Wall», il film di Alan Parker (1982). © dei titolari dei diritti, riprodotta per critica e discussione")
+
 ![Roger Waters canta al microfono con giacca di pelle e occhiali scuri](/images/articoli/pink-floyd-the-wall-il-film/roger-waters-the-wall-live-barcellona-2011.jpg "Roger Waters durante The Wall Live al Palau Sant Jordi di Barcellona, 29 marzo 2011. Foto di Alterna2 via Wikimedia Commons (CC BY 2.0)")
 ![Bob Geldof con chitarra acustica al microfono sul palco](/images/articoli/pink-floyd-the-wall-il-film/bob-geldof-rock-am-ring-1987.jpg "Bob Geldof, il Pink del film, sul palco del Rock am Ring nel 1987. Foto di Elmar J. Lordemann (ElLo57) via Wikimedia Commons (CC BY-SA 2.0 DE)")
 ![Il pupazzo gigante dell'insegnante di The Wall con occhiali tondi e bocca spalancata](/images/articoli/pink-floyd-the-wall-il-film/pupazzo-insegnante-the-wall.jpg "Il pupazzo gigante dell’insegnante disegnato da Gerald Scarfe, dai tour di The Wall, esposto alla mostra “Their Mortal Remains” (Londra, 2017). Foto di Andy Mabbett via Wikimedia Commons (CC BY-SA 4.0)")

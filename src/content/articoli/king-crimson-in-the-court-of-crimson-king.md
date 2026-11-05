@@ -20,9 +20,9 @@ tags:
 - re-cremisi
 - robert-fripp
 - rock-progressivo
-cover: /images/articoli/king-crimson-in-the-court-of-crimson-king/illustrazione-mellotron.jpg
-coverAlt: 'Una tastiera mellotron con i nastri che salgono verso un sole pallido'
-coverCredit: 'Illustrazione di La musica del Santo'
+cover: /images/articoli/king-crimson-in-the-court-of-crimson-king/copertina-in-the-court.jpg
+coverAlt: 'La copertina di «In the Court of the Crimson King» dei King Crimson'
+coverCredit: 'La copertina di «In the Court of the Crimson King» dei King Crimson (1969), dipinta da Barry Godber. © dei titolari dei diritti, riprodotta per critica e discussione'
 draft: false
 wpId: 2747
 ---
@@ -205,6 +205,8 @@ Se volete approfondire potete consultare i seguenti contenuti:
 - “[*King Crimson: Gli anni Prog*” *di Andrea C. Soncini*](https://amzn.to/3aBk9qU) – (libro – ebook)
 - [“*In the Court of Crimson King” – King Crimson*](https://amzn.to/3vb20tz) – (CD, vinile)
 - [DGM Live](https://www.dgmlive.com/king-crimson/kc-i-court) – Sito ufficiale di Robert Fripp che raccoglie tutti i contenuti dei King Crimson.
+
+![La copertina dell’edizione per i 50 anni con le foto della band](/images/articoli/king-crimson-in-the-court-of-crimson-king/copertina-edizione-50-anni.jpg "La copertina dell’edizione per i 50 anni di «In the Court of the Crimson King», con le foto dei membri della band. © dei titolari dei diritti, riprodotta per critica e discussione")
 
 ![I King Crimson in una foto promozionale del 1974](/images/articoli/king-crimson-in-the-court-of-crimson-king/king-crimson-1974.jpg "I King Crimson nel 1974 (John Wetton, David Cross, Robert Fripp e Bill Bruford): l'unico superstite della formazione del 1969 è Fripp. Foto di Atlantic Records via Wikimedia Commons (pubblico dominio)")
 ![Un Mellotron M400](/images/articoli/king-crimson-in-the-court-of-crimson-king/mellotron-m400.jpg "Un Mellotron M400: il suono “orchestrale“ di “In the Court of the Crimson King“ nasce da strumenti come questo. Foto di andrew garton via Wikimedia Commons (CC BY-SA 2.0)")

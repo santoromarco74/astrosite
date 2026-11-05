@@ -174,6 +174,8 @@ L’album *[(What’s the Story) Morning Glory](https://it.wikipedia.org/wiki/(W
 
 Potete trovare l’album , oltre che sul [sito ufficiale](https://shop.oasisinet.com/product/68112), soprattutto nella versione picture disc che raccomando fortemente, anche sul sito [Amazon](https://amzn.to/3dWdlaa) nei vari formati disponibili (MP3, LP, cassetta, CD audio).
 
+![La copertina di «(What’s the Story) Morning Glory?» degli Oasis](/images/articoli/whats-the-story-morning-glory-oasis/copertina-morning-glory.jpg "La copertina di «(What’s the Story) Morning Glory?» degli Oasis (1995). © dei titolari dei diritti, riprodotta per critica e discussione")
+
 ![Le scuderie dei Rockfield Studios nel Galles](/images/articoli/whats-the-story-morning-glory-oasis/rockfield-studios-scuderie.jpg "Le vecchie scuderie dei Rockfield Studios, vicino a Monmouth nel Galles, dove fu registrato l'album. Foto di Steve Knight via Wikimedia Commons (CC BY 2.0)")
 ![Berwick Street nel quartiere di Soho a Londra](/images/articoli/whats-the-story-morning-glory-oasis/berwick-street-soho.jpg "Berwick Street, nel quartiere di Soho a Londra: è la strada fotografata sulla copertina di “(What's the Story) Morning Glory?“. Foto di Philafrenzy via Wikimedia Commons (CC BY-SA 4.0)")
 ![Liam Gallagher in concerto nel 2005](/images/articoli/whats-the-story-morning-glory-oasis/liam-gallagher-2005.jpg "Liam Gallagher in concerto a San Diego nel 2005. Foto di Will Fresch via Wikimedia Commons (CC BY-SA 2.0)")

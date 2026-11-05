@@ -146,3 +146,6 @@ Se ne volete approfondire la conoscenza, potete acquistare su Amazon il film [a 
 ![Facciata illuminata dello UA Cinema con il Rocky Horror in cartellone, 1978](/images/articoli/rocky-horror-picture-show/ua-cinema-merced-1978-b.jpg "Lo UA Cinema di Merced nel dicembre 1978, quando le proiezioni di mezzanotte del film erano già un rito. Foto di Mark James Miller via Wikimedia Commons (CC BY-SA 3.0)")
 
 ![Insegna del Princess Theatre di Edmonton con il titolo The Rocky Horror Picture Show](/images/articoli/rocky-horror-picture-show/marquee-princess-theatre-edmonton.jpg "Ancora oggi in cartellone: l'insegna del Princess Theatre di Edmonton (Canada) nel settembre 2026. Foto di Chris Woodrich via Wikimedia Commons (CC BY-SA 4.0)")
+
+![La copertina della colonna sonora del Rocky Horror Picture Show](/images/articoli/rocky-horror-picture-show/copertina-colonna-sonora.jpg "La copertina di «The Rocky Horror Picture Show» (colonna sonora originale) (1975). © dei titolari dei diritti, riprodotta per critica e discussione")
+
