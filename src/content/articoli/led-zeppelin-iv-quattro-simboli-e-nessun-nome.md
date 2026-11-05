@@ -14,13 +14,13 @@ tags:
 - john-bonham
 - stairway-to-heaven
 - andy-johns
-cover: /images/articoli/led-zeppelin-iv-quattro-simboli-e-nessun-nome/led-zeppelin-plant-page-amburgo-1973.jpg
-coverAlt: 'Robert Plant canta battendo le mani e Jimmy Page suona la chitarra acustica, seduti sul palco, in una foto in bianco e nero'
-coverCredit: 'Robert Plant e Jimmy Page in versione acustica alla Musikhalle di Amburgo, 21 marzo 1973. Foto di Heinrich Klaffs via Wikimedia Commons (CC BY-SA 2.0)'
+cover: /images/articoli/led-zeppelin-iv-quattro-simboli-e-nessun-nome/copertina-led-zeppelin-iv.jpg
+coverAlt: 'La copertina di «Led Zeppelin IV»: un vecchio con un fascio di legna sulla schiena, in un quadro appeso a una parete scrostata'
+coverCredit: 'La copertina di «Led Zeppelin IV» dei Led Zeppelin (1971). © dei titolari dei diritti, riprodotta per critica e discussione'
 ascolto:
   titolo: 'Led Zeppelin IV (1971)'
   nota: 'Otto brani, due lati: partite dall’inizio e non saltate niente, nemmeno quando credete di sapere già tutto.'
-  link: 'https://en.wikipedia.org/wiki/Led_Zeppelin_IV'
+  link: 'https://open.spotify.com/album/5EyIDBAqhnlkAHqvPRwdbX'
 draft: false
 ---
 
@@ -75,6 +75,8 @@ https://www.youtube.com/watch?v=JM3fodiK9rY
 ## Un disco accolto con tiepidezza e vendutissimo
 
 I giudizi dell’epoca non furono unanimi, ma il pubblico non ebbe dubbi. Nel Regno Unito entrò al numero 10 e la settimana dopo era al numero 1, restando in classifica per 90 settimane. Negli Stati Uniti si fermò al numero 2 della Billboard 200. Per carità, il recensore di Rolling Stone, Lenny Kaye, lo giudicò il più «consistentemente buono» del gruppo, non il più alto. Con il tempo la bilancia si è spostata: nella lista dei 500 migliori album di Rolling Stone, edizione 2020, è al numero 58. Negli Stati Uniti la RIAA lo ha certificato **24 volte disco di platino** (lo scrive Loudwire nel novembre 2021). Nel mondo si parla di decine di milioni.
+
+![Robert Plant canta battendo le mani e Jimmy Page suona la chitarra acustica, seduti sul palco, in una foto in bianco e nero](/images/articoli/led-zeppelin-iv-quattro-simboli-e-nessun-nome/led-zeppelin-plant-page-amburgo-1973.jpg "Robert Plant e Jimmy Page in versione acustica alla Musikhalle di Amburgo, 21 marzo 1973. Foto di Heinrich Klaffs via Wikimedia Commons (CC BY-SA 2.0)")
 
 ## Se dovessi dire perché ascoltarlo
 

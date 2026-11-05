@@ -18,7 +18,7 @@ coverCredit: 'Leonard Cohen a Venezia nel 1988. Foto di Gorupdebesanez via Wikim
 ascolto:
   titolo: 'You Want It Darker (2016)'
   nota: 'L’ultimo disco uscito in vita, registrato nel salotto di casa: una voce quasi sussurrata che si congeda con eleganza.'
-  link: 'https://en.wikipedia.org/wiki/You_Want_It_Darker'
+  link: 'https://open.spotify.com/album/3jeTB3j3QmUs8SPIVleHtU'
 draft: true
 ---
 
