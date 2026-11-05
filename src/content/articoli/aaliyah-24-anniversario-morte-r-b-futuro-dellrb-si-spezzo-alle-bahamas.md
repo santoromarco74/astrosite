@@ -14,9 +14,9 @@ tags:
 - missy-elliott
 - rb
 - timbaland
-cover: /images/articoli/aaliyah-24-anniversario-morte-r-b-futuro-dellrb-si-spezzo-alle-bahamas/Aaliyah-2.jpg
-coverAlt: Primo piano di Aaliyah
-coverCredit: Primo piano dell’artista Aaliyah
+cover: /images/articoli/aaliyah-24-anniversario-morte-r-b-futuro-dellrb-si-spezzo-alle-bahamas/aaliyah-2000-ritratto.jpg
+coverAlt: 'Ritratto in bianco e nero di Aaliyah con bandana'
+coverCredit: 'Aaliyah fotografata il 14 maggio 2000. Foto di MikaV via Wikimedia Commons (CC BY-SA 4.0)'
 draft: false
 wpId: 3681
 ---
@@ -99,11 +99,8 @@ Oggi, nel giorno del 24° anniversario, mentre ascoltiamo artiste come Billie Ei
 
 *Se volete approfondire il mondo di Aaliyah, i suoi tre album sono finalmente disponibili su tutte le piattaforme streaming. E se siete dei nostalgici come il sottoscritto, cercate su YouTube il video di “Are You That Somebody” – un piccolo capolavoro di 4 minuti che vi farà capire perché questa ragazza era davvero arrivata dal futuro.*
 
-![Primo piano di Aaliyah](/images/articoli/aaliyah-24-anniversario-morte-r-b-futuro-dellrb-si-spezzo-alle-bahamas/Aaliyah-2.jpg)
-![Aaliyah ultima foto Bahamas 2001](/images/articoli/aaliyah-24-anniversario-morte-r-b-futuro-dellrb-si-spezzo-alle-bahamas/Last-photo-Aalyannah.jpg)
-![copertina "Red Album" Aaliyah](/images/articoli/aaliyah-24-anniversario-morte-r-b-futuro-dellrb-si-spezzo-alle-bahamas/La-copertina-del-red-album.jpg)
-![Aaliyah in Romeo must die](/images/articoli/aaliyah-24-anniversario-morte-r-b-futuro-dellrb-si-spezzo-alle-bahamas/Aaliyah-in-Romeo-must-die.jpg)
-![Missy Elliott, Eminem, Aaliyah & Timbaland (2000)](/images/articoli/aaliyah-24-anniversario-morte-r-b-futuro-dellrb-si-spezzo-alle-bahamas/Missy-Elliott-Eminem-Aaliyah-Timbaland-2000.jpg)
-![Aaliyah Style Evolution](/images/articoli/aaliyah-24-anniversario-morte-r-b-futuro-dellrb-si-spezzo-alle-bahamas/Aaliyah-Style-Evolution.jpg)
+![Aaliyah seduta a un tavolo, in bianco e nero](/images/articoli/aaliyah-24-anniversario-morte-r-b-futuro-dellrb-si-spezzo-alle-bahamas/aaliyah-2000-orizzontale.jpg "Aaliyah nel maggio 2000, l'anno di Romeo Must Die. Foto di MikaV via Wikimedia Commons (CC BY-SA 4.0)")
+![Aaliyah sorride guardando di lato](/images/articoli/aaliyah-24-anniversario-morte-r-b-futuro-dellrb-si-spezzo-alle-bahamas/aaliyah-2000-verticale.jpg "Aaliyah sorridente durante lo stesso servizio del 2000. Foto di MikaV via Wikimedia Commons (CC BY-SA 4.0)")
+![Timbaland con felpa grigia sul palco](/images/articoli/aaliyah-24-anniversario-morte-r-b-futuro-dellrb-si-spezzo-alle-bahamas/timbaland-2019.jpg "Timbaland, il produttore che con Aaliyah inventò il suono del futuro, nel 2019. Foto di Collision Conf via Wikimedia Commons (CC BY 2.0)")
 
 https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4

@@ -15,6 +15,7 @@ tags:
 - natale
 - white
 cover: /images/articoli/le-20-canzoni-di-natale-piu-famose-di-sempre/Depositphotos_129905336_S.jpg
+coverCredit: 'Foto Depositphotos'
 coverAlt: Le 20 canzoni di Natale più famose di sempre
 draft: false
 wpId: 3265

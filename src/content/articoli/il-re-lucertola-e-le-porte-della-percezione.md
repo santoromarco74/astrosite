@@ -20,9 +20,9 @@ tags:
 - the-end
 - ucla
 - waiting-for-the-sun
-cover: /images/articoli/il-re-lucertola-e-le-porte-della-percezione/The-Doors-insieme-900x900-1.webp
-coverAlt: The Doors insieme
-coverCredit: The Doors insieme
+cover: /images/articoli/il-re-lucertola-e-le-porte-della-percezione/the-doors-1966-foto-promozionale.jpg
+coverAlt: 'I quattro Doors in bianco e nero, Jim Morrison in primo piano'
+coverCredit: 'The Doors in una foto promozionale di Joel Brodsky (1966). Foto di Joel Brodsky via Wikimedia Commons (pubblico dominio)'
 draft: false
 wpId: 2262
 ---
@@ -30,8 +30,6 @@ wpId: 2262
 Non vi preoccupate, non stiamo parlando di un nuovo romanzo fantasy ma di quattro ragazzi americani che nel 1965 formeranno un gruppo che in pochissimo tempo irromperà nel panorama rock e ne sconvolgerà completamente lo scenario.
 
 Il “*Re Lucertola*” non è nient’altro che il soprannome che si affibbiò [Jim Morrison](https://it.wikipedia.org/wiki/Jim_Morrison) e le *“Porte delle Percezione”* erano il suo gruppo, [The Doors](https://it.wikipedia.org/wiki/The_Doors).
-
-![Foto di gruppo dietro l'album "The Doors"](/images/articoli/il-re-lucertola-e-le-porte-della-percezione/The-Doors-dietro-album-644x362-1.jpg "Foto di gruppo dietro l’album “The Doors”")
 
 ## **Jim Morrison**
 
@@ -209,15 +207,9 @@ Oppure altri contributi come: (ne esistono centinaia ma ne ho scelto solo qualcu
 - *“*[*When You’re Strange*](https://amzn.to/3oamY8o)*”, il film di Tom DiCillo con il doppiaggio in italiano di Morgan (Blu Ray o DVD)*
 - [*“Thedoors.com”*](https://thedoors.com/)*: sito ufficiale della band.*
 
-![](/images/articoli/il-re-lucertola-e-le-porte-della-percezione/John-Densmore-oggi.jpg "John Densmore oggi")
-![Ray Manzarek nel 2012](/images/articoli/il-re-lucertola-e-le-porte-della-percezione/Ray_Manzarek_a_Milano_nel_2012.jpg "Ray Manzarek nel 2012")
-![Strange Days-The Doors](/images/articoli/il-re-lucertola-e-le-porte-della-percezione/Strange-Days-The-Doors.jpg "Strange Days-The Doors")
-![Foto di gruppo dietro l'album "The Doors"](/images/articoli/il-re-lucertola-e-le-porte-della-percezione/The-Doors-dietro-album-644x362-1.jpg "Foto di gruppo dietro l’album “The Doors”")
-![Foto di gruppo storica](/images/articoli/il-re-lucertola-e-le-porte-della-percezione/The-Doors-storica.jpg "Foto di gruppo storica")
-![Foto di gruppo The Doors](/images/articoli/il-re-lucertola-e-le-porte-della-percezione/The-Doors-in-gruppo.jpg "Foto di gruppo The Doors")
-![Jim Morrison ai tempi di Wight (1970)](/images/articoli/il-re-lucertola-e-le-porte-della-percezione/Jim-Morrison-isola-Wight.jpg "Jim Morrison ai tempi di Wight (1970)")
-![Jim Morrison e Pamela Courson](/images/articoli/il-re-lucertola-e-le-porte-della-percezione/Jim-e-Pamela.jpg "Jim Morrison e Pamela Courson")
-![Robby Krieger oggi](/images/articoli/il-re-lucertola-e-le-porte-della-percezione/Robby-Krieger-oggi.jpg "Robby Krieger oggi")
-![Jim in una delle sue performances](/images/articoli/il-re-lucertola-e-le-porte-della-percezione/Jim-sul-palco-scaled.jpg "Jim in una delle sue performances")
-![The Doors a colori](/images/articoli/il-re-lucertola-e-le-porte-della-percezione/The-Doors-a-colori-449x559-1.jpg "The Doors a colori")
-![The Doors insieme](/images/articoli/il-re-lucertola-e-le-porte-della-percezione/The-Doors-insieme-900x900-1.webp "The Doors insieme")
+![I Doors in posa, foto promozionale del 1966](/images/articoli/il-re-lucertola-e-le-porte-della-percezione/the-doors-elektra-1966.jpg "The Doors nella foto promozionale Elektra del novembre 1966, ai tempi del primo album. Foto di Joel Brodsky per Elektra Records via Wikimedia Commons (pubblico dominio)")
+![John Densmore con occhiali scuri al Tribeca Festival](/images/articoli/il-re-lucertola-e-le-porte-della-percezione/john-densmore-2025.jpg "John Densmore al Tribeca Festival nel 2025. Foto di Colleen Sturtevant via Wikimedia Commons (CC BY-SA 4.0)")
+![Ray Manzarek sul palco con una gamba sulla tastiera](/images/articoli/il-re-lucertola-e-le-porte-della-percezione/ray-manzarek-milano-2012.jpg "Ray Manzarek dal vivo a Milano nel 2012. Foto di PolverediGela via Wikimedia Commons (CC BY-SA 3.0)")
+![I Doors sul palco a Copenaghen nel 1968](/images/articoli/il-re-lucertola-e-le-porte-della-percezione/the-doors-copenaghen-1968.jpg "The Doors in concerto a Copenaghen il 17 settembre 1968. Foto di Jan Persson (Polfoto) via Wikimedia Commons (pubblico dominio)")
+![Robby Krieger suona la chitarra sul palco](/images/articoli/il-re-lucertola-e-le-porte-della-percezione/robby-krieger-2007.jpg "Robby Krieger dal vivo nel giugno 2007. Foto di Caroline Bonarde Ucci via Wikimedia Commons (CC BY 3.0)")
+![La tomba di Jim Morrison coperta di fiori](/images/articoli/il-re-lucertola-e-le-porte-della-percezione/tomba-jim-morrison-pere-lachaise.jpg "La tomba di Jim Morrison al cimitero di Père-Lachaise a Parigi (2008). Foto di Simon Wedege Petersen via Wikimedia Commons (CC BY 3.0)")

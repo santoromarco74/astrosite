@@ -12,9 +12,9 @@ tags:
 - kurt-cobain
 - nevermind
 - nirvana
-cover: /images/articoli/nirvana-nevermind/Copertina-Nevermind.jpg
-coverAlt: L'iconica copertina di Nevermind
-coverCredit: L’iconica copertina di Nevermind
+cover: /images/articoli/nirvana-nevermind/illustrazione-garage.jpg
+coverAlt: 'Una chitarra mancina appoggiata a un amplificatore in un garage, con la pioggia sulla finestra e una cassetta a terra'
+coverCredit: 'Illustrazione di La musica del Santo'
 draft: false
 wpId: 3200
 ---
@@ -164,8 +164,6 @@ A seguire verranno pubblicati diversi album e raccolte postumi; quello più sign
 
 Tutto questo ha finito per travolgere la bellezza dell’album, come ha fatto con Cobain, trasformando tutto in un evento mercificato nel nome dello show business, distogliendo lo sguardo da quello che ha veramente rappresentato e continua a rappresentare per chi lo ha vissuto o per chi ancora oggi ha voglia di scoprirlo.
 
-![I Nirvana del 1989 con Chad Channing (a destra)](/images/articoli/nirvana-nevermind/nirvana-1989-con-channing.webp "I Nirvana del 1989 con Chad Channing (a destra)")
-![I Nirvana nel 1990 con Dave Grohl](/images/articoli/nirvana-nevermind/Nirvana-nel-1990.webp "I Nirvana nel 1990 con Dave Grohl")
-![I Nirvana](/images/articoli/nirvana-nevermind/nirvana-belli.jpg "I Nirvana")
-![L'iconica copertina di Nevermind](/images/articoli/nirvana-nevermind/Copertina-Nevermind.jpg "L’iconica copertina di Nevermind")
-![](/images/articoli/nirvana-nevermind/Kurt-Cobain.webp)
+![Il monumento a Kurt Cobain in un parco alberato](/images/articoli/nirvana-nevermind/kurt-cobain-memorial-park-aberdeen.jpg "Il Kurt Cobain Memorial Park ad Aberdeen, la città natale di Kurt. Foto di BernerAchim via Wikimedia Commons (CC BY-SA 4.0)")
+![Un vecchio ponte di legno sul fiume Wishkah](/images/articoli/nirvana-nevermind/young-street-bridge-aberdeen.jpg "Il Young Street Bridge di Aberdeen, il ponte di 'Something in the Way'. Foto di popturf.com via Wikimedia Commons (CC BY 2.0)")
+![Insegna a forma di chitarra di un locale di Seattle](/images/articoli/nirvana-nevermind/insegna-smells-like-teen-spirit-seattle.jpg "L'insegna dell'Hard Rock Cafe di Seattle con 'Smells Like Teen Spirit'. Foto di John Henderson via Wikimedia Commons (CC BY 2.0)")

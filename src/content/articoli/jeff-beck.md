@@ -11,8 +11,9 @@ tags:
 - jimmy-page
 - morte
 - yardbirds
-cover: /images/articoli/jeff-beck/14628561335_83c7452b09_c.jpg
-coverAlt: La leggenda di Jeff Beck
+cover: /images/articoli/jeff-beck/jeff-beck-yokohama-2014.jpg
+coverCredit: 'Jeff Beck in concerto alla National Convention Hall di Yokohama, 14 aprile 2014. Foto di Takahiro Kyono via Wikimedia Commons (CC BY 2.0)'
+coverAlt: 'Jeff Beck suona una Stratocaster bianca sul palco'
 draft: false
 wpId: 3280
 ---
@@ -21,7 +22,7 @@ Il leggendario chitarrista rock Jeff Beck ci ha lasciato lascia all’età di 78
 
 Con lui se ne va un altro pezzo di storia della musica di tutti i tempi e un artista dalle doti fuori dal comune, capace di performance memorabili ma a causa del suo carattere un po ‘ bizzoso anche di prestazioni deludenti.
 
-![](/images/articoli/jeff-beck/Jeff_Beck_1.jpg)
+![Jeff Beck con la chitarra sul palco del Fillmore East nel 1968](/images/articoli/jeff-beck/jeff-beck-fillmore-east-1968.jpg "Jeff Beck con il Jeff Beck Group al Fillmore East di New York, 19 ottobre 1968. Foto di Grant Gouldon via Wikimedia Commons (CC BY-SA 4.0)")
 
 ## Gli inizi con gli Yardbirds
 
@@ -59,7 +60,8 @@ Non per niente, un altro chitarrista che adoro, [David Gilmour](https://it.wikip
 
 E’ questo il destino delle leggende come Jeff Beck, rimanere di ispirazione ed ammirazione per le generazioni future ed è proprio questo che li rende immortali.
 
-![](/images/articoli/jeff-beck/Jeff_Beck_2009_MOJO_Awards.jpg)
-![](/images/articoli/jeff-beck/4783113444_7e666a0a7e_b.jpg)
-![](/images/articoli/jeff-beck/14628561335_83c7452b09_c.jpg)
-![](/images/articoli/jeff-beck/Jeff_Beck_1.jpg)
+![Jeff Beck in bianco e nero con la chitarra, Amsterdam 1979](/images/articoli/jeff-beck/jeff-beck-amsterdam-1979.jpg "Jeff Beck alla Jaap Eden Hal di Amsterdam, 5 luglio 1979. Foto di Chris Hakkens via Wikimedia Commons (CC BY-SA 2.0)")
+
+![Eric Clapton e Jeff Beck suonano insieme sul palco](/images/articoli/jeff-beck/jeff-beck-eric-clapton-2009.jpg "Jeff Beck ed Eric Clapton, i due ex Yardbirds, insieme sul palco nel 2009. Foto di Alex G from Puteaux, France via Wikimedia Commons (CC BY 2.0)")
+
+![Jeff Beck al microfono ai MOJO Awards 2009](/images/articoli/jeff-beck/Jeff_Beck_2009_MOJO_Awards.jpg "Jeff Beck ai MOJO Awards 2009. Foto di Simon Fernandez via Wikimedia Commons (CC BY 2.0)")

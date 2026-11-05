@@ -20,9 +20,9 @@ tags:
 - storm-thogerson
 - teacher
 - the-wall
-cover: /images/articoli/pink-floyd-the-wall/The-Wall-dei-Pink-Floyd-1024x576-1-e1618600562990.jpg
-coverAlt: The-Wall-dei-Pink-Floyd
-coverCredit: The-Wall-dei-Pink-Floyd
+cover: /images/articoli/pink-floyd-the-wall/the-wall-rock-hall-of-fame.jpg
+coverAlt: 'Il muro bianco di The Wall con il pupazzo dell''insegnante e altri personaggi esposti in un atrio vetrato'
+coverCredit: 'Il muro di The Wall con i pupazzi di Gerald Scarfe esposti alla Rock and Roll Hall of Fame di Cleveland. Foto di Sam Howzit via Wikimedia Commons (CC BY 2.0)'
 draft: false
 wpId: 1027
 ---
@@ -31,7 +31,7 @@ Se siete alla ricerca della definizione di “concept album” e “opera rock�
 
 In realtà, come scopriremo più avanti, l’album è frutto quasi esclusivamente del lavoro di Roger Waters, lasciando ai restanti Floyd il ruolo di attori non protagonisti della creazione.
 
-![](/images/articoli/pink-floyd-the-wall/coro-another-brick.jpg "Il coro della Islington Green School di “Another Brick In the Wall – part 2”")
+![Muro con graffiti e la scritta We don't need no thought control](/images/articoli/pink-floyd-the-wall/graffito-we-dont-need-no-thought-control.jpg "“We don’t need no thought control”: un graffito dedicato ai Pink Floyd in un parcheggio vicino a Brick Lane, Londra (2014). Foto di MsSaraKelly via Wikimedia Commons (CC BY 2.0)")
 
 ## **La genesi**
 
@@ -115,10 +115,9 @@ Il messaggio di Pink è sempre molto attuale; ognuno di noi ha le sue paure, i s
 
 Questo messaggio in questo periodo di “isolamento forzato” a causa dell’epidemia mondiale del virus Covid-19 che stiamo affrontando, assume un significato particolarmente importante; esso ci dice che, seppur dovendo per questione di contagio erigere un “muro” a nostra difesa, questo non deve isolarci dagli altri, dobbiamo fare in modo che non sia la soluzione definitiva e non cambi la nostra volontà di relazionarci con gli altri.
 
-![Il dettaglio della copertina di "Wish You Were Here"](/images/articoli/pink-floyd-the-wall/Dettaglio-Copertina-Wish-You-Were-Here.jpg "Il dettaglio della copertina di “Wish You Were Here”")
-![La sequenza degli scatti della copertina di "Wish You Were Here"](/images/articoli/pink-floyd-the-wall/La-sequenza-della-copertina-di-Wish-You-Were-Here.jpg "La sequenza degli scatti della copertina di “Wish You Were Here”")
-![La copertina fasciata di nero del vinile](/images/articoli/pink-floyd-the-wall/Copertina-Wish-due-mani-meccaniche-avvolta-nero-1.jpg "La copertina fasciata di nero del vinile")
-![Syd Barrett durante i primi anni nel gruppo e nella sua ultima apparizione nel 1975](/images/articoli/pink-floyd-the-wall/h0mjoxtyk9o81.jpg "Syd Barrett durante i primi anni nel gruppo e nella sua ultima apparizione nel 1975")
-![I Pink Floyd durante la registrazione agli "Abbey Studios" nel 1975](/images/articoli/pink-floyd-the-wall/Pink-Floyd-durante-la-registrazione.jpg "I Pink Floyd durante la registrazione agli “Abbey Studios” nel 1975")
-![La cartolina interna al vinile di "Wish You Were Here"](/images/articoli/pink-floyd-the-wall/tumblr_m8ajnuU05L1rckc5ao1_1280.jpg "La cartolina interna al vinile di “Wish You Were Here”")
-![La copertina che fascia di nero il vinile di "Wish You Were Here"](/images/articoli/pink-floyd-the-wall/Copertina-Wish-due-mani-meccaniche-avvolta-nero.jpg "La copertina che fascia di nero il vinile di “Wish You Were Here”")
+![Ritratto a inchiostro di Gerald Scarfe](/images/articoli/pink-floyd-the-wall/gerald-scarfe-2009.jpg "Gerald Scarfe, l’illustratore di The Wall, in un ritratto a inchiostro (2009). Foto di Rama via Wikimedia Commons (CC BY-SA 2.0 FR)")
+![Manichino con il cappotto nero e la fascia rossa di The Wall](/images/articoli/pink-floyd-the-wall/costume-roger-waters-the-wall.jpg "Uno dei costumi di scena di Roger Waters dai concerti originali di The Wall, alla mostra “Their Mortal Remains” (Londra, 2017). Foto di Andy Mabbett via Wikimedia Commons (CC BY-SA 4.0)")
+![Sintetizzatore Prophet 5 con un foglio di appunti scritti a mano sopra la tastiera](/images/articoli/pink-floyd-the-wall/prophet-5-richard-wright.jpg "Il sintetizzatore Prophet-5 usato da Richard Wright nel tour di The Wall del 1980, con i suoi appunti scritti a mano. Foto di Michele Brina via Wikimedia Commons (CC BY-SA 4.0)")
+![Installazione di The Wall con i pupazzi giganti vista dal basso](/images/articoli/pink-floyd-the-wall/the-wall-mostra-cleveland.jpg "Il muro e i pupazzi di The Wall alla Rock and Roll Hall of Fame di Cleveland, 2014. Foto di Adam Jones via Wikimedia Commons (CC BY-SA 2.0)")
+![Il muro proiettato e illuminato sul palco del concerto The Wall Live](/images/articoli/pink-floyd-the-wall/the-wall-live-kansas-city-2010.jpg "Roger Waters riporta The Wall sul palco: The Wall Live a Kansas City, 30 ottobre 2010. Foto di GabeMc via Wikimedia Commons (CC BY-SA 3.0)")
+![Il basso Ovation Magnum di Roger Waters in una teca](/images/articoli/pink-floyd-the-wall/basso-ovation-roger-waters.jpg "Il basso Ovation Magnum 1 suonato da Roger Waters in The Wall, alla mostra “Their Mortal Remains” (Londra, 2017). Foto di Andy Mabbett via Wikimedia Commons (CC BY-SA 4.0)")

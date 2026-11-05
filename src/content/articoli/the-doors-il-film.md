@@ -26,9 +26,9 @@ tags:
 - the-doors
 - tom-dicillo
 - val-kilmer
-cover: /images/articoli/the-doors-il-film/Foto-di-gruppo-del-cast-di-The-Doors-1200x675-1.jpg
-coverAlt: Foto di gruppo del cast di "The Doors"
-coverCredit: Foto di gruppo del cast di “The Doors”
+cover: /images/articoli/the-doors-il-film/the-doors-1966.jpg
+coverAlt: 'I Doors in una foto promozionale del 1966'
+coverCredit: 'I Doors in una foto promozionale del novembre 1966 a New York,. Foto di Joel Brodsky via Wikimedia Commons (pubblico dominio)'
 draft: false
 wpId: 2363
 ---
@@ -37,7 +37,7 @@ A distanza di 20 anni dalla scomparsa del loro leader, [Jim Morrison](https://it
 
 L’idea
 
-![The Doors nel deserto - Primo piano](/images/articoli/the-doors-il-film/The-Doors-nel-deserto-1.jpg "The Doors nel deserto – Primo piano")
+![La Death Valley vista da Zabriskie Point](/images/articoli/the-doors-il-film/death-valley-zabriskie-point.jpg "La Death Valley vista da Zabriskie Point: è nel deserto californiano che Stone ambienta il viaggio “lisergico“ della band. Foto di Vulturesong via Wikimedia Commons (CC0)")
 
 L’idea iniziale di realizzare un film biografico sui Doors cominciò a circolare all’inizio degli anni’80 e registi del calibro di [Brian De Palma](https://en.wikipedia.org/wiki/Brian_De_Palma) , [Martin Scorsese](https://en.wikipedia.org/wiki/Martin_Scorsese) e [William Friedkin](https://en.wikipedia.org/wiki/William_Friedkin) cominciarono ad accarezzare tale idea, se non che la [Columbia Pictures](https://it.wikipedia.org/wiki/Columbia_Pictures) nel 1985 acquistò i diritti dei Doors per poi rivenderli nel 1989 alla  [Carolco Pictures](https://en.wikipedia.org/wiki/Carolco_Pictures) di [Mario Kassar](https://en.wikipedia.org/wiki/Mario_Kassar) e [Andrew Vajna](https://en.wikipedia.org/wiki/Andrew_Vajna) , i quali per la realizzazione della pellicola vollero subito [Oliver Stone](https://it.wikipedia.org/wiki/Oliver_Stone) che, reduce da una serie di successi come [*Platoon*](https://it.wikipedia.org/wiki/Platoon), [*Nato il Quattro Luglio*](https://it.wikipedia.org/wiki/Nato_il_quattro_luglio_(film)) e [*Wall Street*](https://it.wikipedia.org/wiki/Wall_Street), aveva bisogno di una storia interessante con cui uscire dagli schemi convenzionali.
 [Oliver Stone](https://it.wikipedia.org/wiki/Oliver_Stone), nato nel 1946, era un grande fan di [Jim Morrison](/il-re-lucertola-e-le-porte-della-percezione/) ed ebbe il primo assaggio dei Doors quando aveva 21 anni, durante la sua esperienza nella [guerra del Vietnam](https://it.wikipedia.org/wiki/Guerra_del_Vietnam) dove, nei momenti di recupero dagli scontri, sperimentavano l’uso dell’[LSD](https://it.wikipedia.org/wiki/LSD) come un potente rilassante, e durante quel periodo era molto in voga la musica psichedelica, come quella dei Doors appunto, ma anche i [Jefferson Airplane](https://it.wikipedia.org/wiki/Jefferson_Airplane), i [Grateful Dead](https://it.wikipedia.org/wiki/Grateful_Dead) o i [Velvet Underground](https://it.wikipedia.org/wiki/The_Velvet_Underground).
@@ -247,10 +247,10 @@ Inoltre potete trovare gli album dei Doors ai seguenti indirizzi:
 - [The Very Best of The Doors;](https://amzn.to/2OASHBS)
 - [An American Prayer;](https://amzn.to/3l1m9gp)
 
-![The Doors nel deserto - panoramica](/images/articoli/the-doors-il-film/The-Doors-nel-deserto-2.jpg "The Doors nel deserto")
-![Val Kilmer e Oliver Stone sul set](/images/articoli/the-doors-il-film/Oliver-Stone-e-Val-Kilmer.jpg "Val Kilmer e Oliver Stone sul set")
-![La somiglianza tra Jim Morrison e Val Kilmer](/images/articoli/the-doors-il-film/Confronto-Jim-Morrison-Val-Kilmer.jpg "La somiglianza tra Jim Morrison e Val Kilmer")
-![Kathleen Quinlan nel ruolo di Patricia Kennealy](/images/articoli/the-doors-il-film/KathleenQuinlanSS05c.jpg "Kathleen Quinlan nel ruolo di Patricia Kennealy")
-![La locandina del film "The Doors"](/images/articoli/the-doors-il-film/Doorsposter1991.jpg "La locandina del film “The Doors”")
-![](/images/articoli/the-doors-il-film/Val-Kilmer-e-Meg-Ryan.jpg "Val Kilmer e Meg Ryan sul set")
-![La formazione originale dei Doors](/images/articoli/the-doors-il-film/The-Doors-originali.jpg "La formazione originale dei Doors")
+![La tomba di Jim Morrison al Père-Lachaise](/images/articoli/the-doors-il-film/tomba-jim-morrison-pere-lachaise.jpg "La tomba di Jim Morrison al cimitero di Père-Lachaise a Parigi, dove si chiude il film. Foto di Jean-François Gornet via Wikimedia Commons (CC BY-SA 2.0)")
+
+![La stella dei Doors sulla Hollywood Walk of Fame](/images/articoli/the-doors-il-film/stella-the-doors-hollywood.jpg "La stella dei Doors sulla Hollywood Walk of Fame. Foto di Dietmar Rabich via Wikimedia Commons (CC BY-SA 4.0)")
+
+![Jim Morrison nel servizio Young Lion del 1967](/images/articoli/the-doors-il-film/jim-morrison-young-lion-1967.jpg "Jim Morrison nel celebre servizio “Young Lion“ di Joel Brodsky, 1967. Foto di Joel Brodsky via Wikimedia Commons (pubblico dominio)")
+![Val Kilmer al Mardi Gras di New Orleans nel 2009](/images/articoli/the-doors-il-film/val-kilmer-2009.jpg "Val Kilmer re del Bacchus Parade al Mardi Gras di New Orleans, 2009. Foto di nola.agent via Wikimedia Commons (CC BY 2.0)")
+![Meg Ryan al Tribeca Film Festival 2009](/images/articoli/the-doors-il-film/meg-ryan-2009.jpg "Meg Ryan al Tribeca Film Festival del 2009. Foto di David Shankbone via Wikimedia Commons (CC BY 3.0)")

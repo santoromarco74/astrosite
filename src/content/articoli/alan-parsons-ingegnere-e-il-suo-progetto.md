@@ -22,9 +22,9 @@ tags:
 - sirius
 - stereotomy
 - tales-allan-poe
-cover: /images/articoli/alan-parsons-ingegnere-e-il-suo-progetto/Alan-Parsons-oggi-scaled-e1642153389249.jpg
-coverAlt: Alan Parsons in concerto ai giorni nostri
-coverCredit: Alan Parsons in concerto ai giorni nostri
+cover: /images/articoli/alan-parsons-ingegnere-e-il-suo-progetto/alan-parsons-live-2017.jpg
+coverAlt: 'Alan Parsons suona la chitarra sul palco tra fasci di luce'
+coverCredit: 'Alan Parsons sul palco con l’Alan Parsons Live Project, Heilbronn, 19 maggio 2017. Foto di Andemaya via Wikimedia Commons (CC BY-SA 4.0)'
 draft: false
 wpId: 2936
 ---
@@ -33,7 +33,7 @@ Nella storia della musica è spesso accaduto che chi si avvicina a questo mondo 
 
 E’ successo a [Ricky Edwards](/quella-volta-che-richey-scomparve-per-sempre/) dei [Manic Street Preachers](/tag/manic-street-preachers/) o a [Pete Sinfield](/king-crimson-in-the-court-of-crimson-king/) dei [King Crimson](/king-crimson-in-the-court-of-crimson-king/), entrati come supporter del gruppo, promossi parolieri per poi diventarne membri in pianta stabile.
 
-![Alan all'epoca di Abbey Road Studio](/images/articoli/alan-parsons-ingegnere-e-il-suo-progetto/Alan-Parsons-ai-tempi-dei-Pink-Floyd.jpg "Alan Parsons all’epoca di Abbey Road Studio")
+![Banco di missaggio EMI TG12345 con microfoni d'epoca agli Abbey Road Studios](/images/articoli/alan-parsons-ingegnere-e-il-suo-progetto/banco-mixer-emi-tg12345-abbey-road.jpg "Un banco di missaggio EMI TG12345 Mk II degli anni Settanta, come quelli usati ad Abbey Road ai tempi di Parsons. Foto di Josephenus P. Riley via Wikimedia Commons (CC BY 2.0)")
 
 Quello che è successo ad Alan Parsons è stato per certi versi simile; nato come ingegnere del suono della [EMI](https://it.wikipedia.org/wiki/EMI) di Abbey Road a Londra, ha lavorato con gruppi come The Beatles e i Pink Floyd, decidendo ad un certo punto di mettersi in proprio, e di formare un gruppo tutto suo, [The Alan Parsons Project](https://it.wikipedia.org/wiki/The_Alan_Parsons_Project).
 
@@ -168,10 +168,6 @@ Se volete approfondire la conoscenza, potete consultare i seguenti contenuti:
 - la ristampa ufficiale “*[Ammonia Avenue](https://amzn.to/3nyFg45)“*, completamente rimasterizzata e arricchita di numerosi contenuti;
 - il sito di Alan Parsons di formazione alla registrazione musicale, [Art & Science Sound Recording](https://www.artandscienceofsound.com/).
 
-![Il dettaglio della copertina di "Wish You Were Here"](/images/articoli/alan-parsons-ingegnere-e-il-suo-progetto/Dettaglio-Copertina-Wish-You-Were-Here.jpg "Il dettaglio della copertina di “Wish You Were Here”")
-![La sequenza degli scatti della copertina di "Wish You Were Here"](/images/articoli/alan-parsons-ingegnere-e-il-suo-progetto/La-sequenza-della-copertina-di-Wish-You-Were-Here.jpg "La sequenza degli scatti della copertina di “Wish You Were Here”")
-![La copertina fasciata di nero del vinile](/images/articoli/alan-parsons-ingegnere-e-il-suo-progetto/Copertina-Wish-due-mani-meccaniche-avvolta-nero-1.jpg "La copertina fasciata di nero del vinile")
-![Syd Barrett durante i primi anni nel gruppo e nella sua ultima apparizione nel 1975](/images/articoli/alan-parsons-ingegnere-e-il-suo-progetto/h0mjoxtyk9o81.jpg "Syd Barrett durante i primi anni nel gruppo e nella sua ultima apparizione nel 1975")
-![I Pink Floyd durante la registrazione agli "Abbey Studios" nel 1975](/images/articoli/alan-parsons-ingegnere-e-il-suo-progetto/Pink-Floyd-durante-la-registrazione.jpg "I Pink Floyd durante la registrazione agli “Abbey Studios” nel 1975")
-![La cartolina interna al vinile di "Wish You Were Here"](/images/articoli/alan-parsons-ingegnere-e-il-suo-progetto/tumblr_m8ajnuU05L1rckc5ao1_1280.jpg "La cartolina interna al vinile di “Wish You Were Here”")
-![La copertina che fascia di nero il vinile di "Wish You Were Here"](/images/articoli/alan-parsons-ingegnere-e-il-suo-progetto/Copertina-Wish-due-mani-meccaniche-avvolta-nero.jpg "La copertina che fascia di nero il vinile di “Wish You Were Here”")
+![L'ingresso degli Abbey Road Studios di notte con l'insegna illuminata](/images/articoli/alan-parsons-ingegnere-e-il-suo-progetto/abbey-road-studios-esterno.jpg "L’ingresso degli Abbey Road Studios a Londra, dove Parsons iniziò come tecnico del suono. Foto di Tyler Merbler via Wikimedia Commons (CC BY 2.0)")
+![L'Alan Parsons Live Project al completo sul palco tra luci colorate](/images/articoli/alan-parsons-ingegnere-e-il-suo-progetto/alan-parsons-live-project-2017-band.jpg "Alan Parsons con la sua band a Heilbronn, 19 maggio 2017. Foto di Andemaya via Wikimedia Commons (CC BY-SA 4.0)")
+![Registratore a nastro a quattro piste Studer J37 agli Abbey Road Studios](/images/articoli/alan-parsons-ingegnere-e-il-suo-progetto/studer-j37-abbey-road.jpg "Un registratore a 4 piste Studer J37, in uso ad Abbey Road dal 1964 al 1972. Foto di Josephenus P. Riley via Wikimedia Commons (CC BY 2.0)")

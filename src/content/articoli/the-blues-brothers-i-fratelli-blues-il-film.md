@@ -6,9 +6,9 @@ updated: '2022-04-24'
 categories:
 - film
 tags: []
-cover: /images/articoli/the-blues-brothers-i-fratelli-blues-il-film/Locandina-BB.jpg
-coverAlt: La locandina del film The Blues Brothers
-coverCredit: La locandina del film The Blues Brothers
+cover: /images/articoli/the-blues-brothers-i-fratelli-blues-il-film/bluesmobile-universal-studios.jpg
+coverAlt: 'La Bluesmobile agli Universal Studios di Hollywood'
+coverCredit: 'La Bluesmobile, la Dodge Monaco del 1974 del film, agli Universal Studios di Hollywood. Foto di Antoine Taveneaux via Wikimedia Commons (CC BY-SA 3.0)'
 draft: false
 wpId: 3010
 ---
@@ -16,8 +16,6 @@ wpId: 3010
 Occhiali da sole scuri, completo nero e borsalino su camicia bianca, e tanto blues; niente di più iconico al mondo che loro, ladies and gentleman, [The Blues Brothers](https://it.wikipedia.org/wiki/The_Blues_Brothers_-_I_fratelli_Blues).
 
 Nel momento di massima espressione della loro carriera, ecco che arriva la consacrazione cinematografica Blues Brothers, in quello che forse è una commedia o forse un musical, ma di sicuro una pietra miliare nella storia del cinema e della musica.
-
-![Jake e Elwood alla tavola calda](/images/articoli/the-blues-brothers-i-fratelli-blues-il-film/Jake-e-Elwood-alla-tavola-calda.jpg "Jake e Elwood alla tavola calda")
 
 ## **I fratelli Blues**
 
@@ -266,11 +264,10 @@ Come tutti sono rimasto affascinato dalla carismatica figura di John Belushi, di
 
 La coppia Belushi Aykroyd fu inoltre capace di creare un marchio di fabbrica, resistente al mito dei tempi; ancora oggi, il [Ray Ban Wayfarer](https://www.ray-ban.com/italy/occhiali-da-sole/wayfarer) è diventato l’occhiale dei Blues Brothers come lo è la loro tenuta in completo nero e borsalino e non si può non vederli in un negozio senza non pensare a loro.
 
-![John, Dan e Carrie Fisher sul set](/images/articoli/the-blues-brothers-i-fratelli-blues-il-film/John-Dan-e-Carrie-Fisher.jpg)
-![Jake e Elwood alla tavola calda](/images/articoli/the-blues-brothers-i-fratelli-blues-il-film/Jake-e-Elwood-alla-tavola-calda.jpg)
-![Jake e Eldwood](/images/articoli/the-blues-brothers-i-fratelli-blues-il-film/BB.jpg)
-![John e Dan con Jonnhy Lee Hooker](/images/articoli/the-blues-brothers-i-fratelli-blues-il-film/Jake-e-Elwood-con-Jonnhy-Lee-Hooker.jpg)
-![La Bluesmobile durante la promozione dello spettacolo](/images/articoli/the-blues-brothers-i-fratelli-blues-il-film/La-Bluesmobile.jpg)
-![La copertina della colonna sonora del film](/images/articoli/the-blues-brothers-i-fratelli-blues-il-film/Copertina-colonna-sonora-BB.jpg)
-![La locandina del film The Blues Brothers](/images/articoli/the-blues-brothers-i-fratelli-blues-il-film/Locandina-BB.jpg)
-![James Brown](/images/articoli/the-blues-brothers-i-fratelli-blues-il-film/James-Brown.jpg)
+![Aretha Franklin nel 1968](/images/articoli/the-blues-brothers-i-fratelli-blues-il-film/aretha-franklin-1968.jpg "Aretha Franklin in una foto promozionale del 1968. Foto di Atlantic Records via Wikimedia Commons (pubblico dominio)")
+
+![Cab Calloway a New York nel 1947](/images/articoli/the-blues-brothers-i-fratelli-blues-il-film/cab-calloway-1947.jpg "Cab Calloway a New York nel 1947. Foto di William P. Gottlieb via Wikimedia Commons (pubblico dominio)")
+
+![John Lee Hooker al Long Beach Blues Festival 1997](/images/articoli/the-blues-brothers-i-fratelli-blues-il-film/john-lee-hooker-1997.jpg "John Lee Hooker al Long Beach Blues Festival del 1997. Foto di Masahiro Sumori via Wikimedia Commons (CC BY-SA 3.0)")
+![Replica della Bluesmobile a Joliet, Illinois](/images/articoli/the-blues-brothers-i-fratelli-blues-il-film/bluesmobile-joliet-route-66.jpg "Una replica della Bluesmobile a Joliet, Illinois, la città del carcere da cui esce Jake. Foto di Dough4872 via Wikimedia Commons (CC BY-SA 4.0)")
+![James Brown dal vivo ad Amburgo nel 1973](/images/articoli/the-blues-brothers-i-fratelli-blues-il-film/james-brown-amburgo-1973.jpg "James Brown dal vivo alla Musikhalle di Amburgo, febbraio 1973. Foto di Heinrich Klaffs via Wikimedia Commons (CC BY-SA 2.0)")

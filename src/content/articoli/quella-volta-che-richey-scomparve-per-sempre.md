@@ -17,9 +17,9 @@ tags:
 - richey
 - richey-james-edwards
 - severn-bridge
-cover: /images/articoli/quella-volta-che-richey-scomparve-per-sempre/Richey-James-3-e1618600391249.jpeg
-coverAlt: Richey Edwards sul palco
-coverCredit: Richey Edwards sul palco
+cover: /images/articoli/quella-volta-che-richey-scomparve-per-sempre/severn-bridge-passaggio-pedonale.jpg
+coverAlt: 'Il camminamento sul Severn Bridge con i cavi della sospensione'
+coverCredit: 'Il passaggio pedonale del Severn Bridge (2012). Foto di Lewis Clarke via Wikimedia Commons (CC BY-SA 2.0)'
 draft: false
 wpId: 1570
 ---
@@ -27,8 +27,6 @@ wpId: 1570
 Siamo a Londra, [Severn Bridge](https://it.wikipedia.org/wiki/Severn_Bridge), 17 febbraio 1995; la macchina di Richey viene trovata dalla polizia nella relativa area di servizio, parcheggiata e con qualche tagliando del parcheggio nel tergicristalli. Fu quella la prima occasione in cui venne presa in considerazione la scomparsa di Richey. Qualche giorno prima, il 1 febbraio 1991 Richey era stato visto uscire dall’Embassy Hotel di Londra alle 7 del mattino, come se nulla fosse.
 
 Quel Richey era [Richey “James” Edwards](https://it.wikipedia.org/wiki/Richey_Edwards), chitarrista ma soprattutto designer e autore di successo del gruppo di cui faceva parte, i [Manic Street Preachers](https://docs.google.com/document/d/1brdcdfuK7gSJOLF610rkRjMvrGLZBjQEN21yGK7JFyo/edit#heading=h.616aqp8r4ugk).
-
-![Richey James con la sua chitarra](/images/articoli/quella-volta-che-richey-scomparve-per-sempre/Richey-James-guitar.jpeg "Richey James con la sua chitarra")
 
 ## I Manic Street Preachers
 
@@ -117,10 +115,6 @@ Potete infine trovare alcuni album dei Manics su Amazon:
 - [The Holy Bible](https://amzn.to/3cN03ux)
 - [Everything Must Go](https://amzn.to/3lyZPv1)
 
-![Richey Edwards - primo piano](/images/articoli/quella-volta-che-richey-scomparve-per-sempre/Richey-James.jpeg "Richey Edwards – primo piano")
-![Richey Edwards in studio](/images/articoli/quella-volta-che-richey-scomparve-per-sempre/Richey-James-696x463-1.jpeg "Richey Edwards intervistato nel 1992")
-![Richey Edwards esibizione](/images/articoli/quella-volta-che-richey-scomparve-per-sempre/Richey-James-552x368-1.jpeg "Richey Edwards esibizione")
-![Rachel Edwards, sorella di Richey](/images/articoli/quella-volta-che-richey-scomparve-per-sempre/Rachel-James.jpeg "Rachel Edwards, sorella di Richey")
-![Manics nei primi anni '90](/images/articoli/quella-volta-che-richey-scomparve-per-sempre/Manics-anni-90.jpeg "Manics nei primi anni ’90")
-![Altri Manics nei primi anni '90](/images/articoli/quella-volta-che-richey-scomparve-per-sempre/richey-edwards-manic-street-preachers-may-1992-1513872836-view-2.jpg "Sempre Manics ma in altre vesti")
-![Richey Edwards durante un'intervista](/images/articoli/quella-volta-che-richey-scomparve-per-sempre/Richey-James-primo.jpeg "Richey Edwards durante un’intervista alla TV olandese")
+![Richey Edwards con la chitarra sul palco](/images/articoli/quella-volta-che-richey-scomparve-per-sempre/richey-edwards-1991.jpg "Richey Edwards sul palco con i Manic Street Preachers nel 1991. Foto di Masao Nakagami via Wikimedia Commons (CC BY-SA 2.0)")
+![Un chitarrista dei Manic Street Preachers canta sul palco](/images/articoli/quella-volta-che-richey-scomparve-per-sempre/manic-street-preachers-primi-anni-90.jpg "I Manic Street Preachers dal vivo nei primi anni '90. Foto di Masao Nakagami via Wikimedia Commons (CC BY-SA 2.0)")
+![I Manic Street Preachers sul palco a Cardiff](/images/articoli/quella-volta-che-richey-scomparve-per-sempre/manic-street-preachers-cardiff-2010.jpg "I Manic Street Preachers in concerto a Cardiff nel giugno 2010. Foto di Andrew King via Wikimedia Commons (CC BY-SA 2.0)")

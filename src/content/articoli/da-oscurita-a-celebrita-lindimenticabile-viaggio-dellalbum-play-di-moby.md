@@ -13,9 +13,9 @@ tags:
 - moby
 - new-york
 - play
-cover: /images/articoli/da-oscurita-a-celebrita-lindimenticabile-viaggio-dellalbum-play-di-moby/Play-Moby-cover.jpg
-coverAlt: La cover dell'album "Play" di Moby
-coverCredit: La cover dell’album “Play” di Moby
+cover: /images/articoli/da-oscurita-a-celebrita-lindimenticabile-viaggio-dellalbum-play-di-moby/illustrazione-giradischi.jpg
+coverAlt: 'Un giradischi con un vinile sul piatto e l’etichetta «Lato A – 1999»'
+coverCredit: 'Illustrazione di La musica del Santo'
 draft: false
 wpId: 3363
 ---

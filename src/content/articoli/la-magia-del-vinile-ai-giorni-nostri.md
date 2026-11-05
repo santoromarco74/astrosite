@@ -16,9 +16,9 @@ tags:
 - technics
 - vinile
 - vinyl
-cover: /images/articoli/la-magia-del-vinile-ai-giorni-nostri/coffe-music.jpg
-coverAlt: Coffe & music
-coverCredit: Coffe & music
+cover: /images/articoli/la-magia-del-vinile-ai-giorni-nostri/giradischi-technics-sl-1200g.jpg
+coverAlt: 'Dettaglio di un giradischi Technics argentato con braccio e testina'
+coverCredit: 'Un giradischi Technics SL-1200G con testina Audio-Technica. Foto di david falkner from Birmingham, England via Wikimedia Commons (CC BY 2.0)'
 draft: false
 wpId: 653
 ---
@@ -27,7 +27,7 @@ Chiunque abbia almeno una trentina di anni sa di cosa stiamo parlando, la magia 
 
 Ai più potrebbe sembrare “un’ operazione nostalgia”, e forse un po’ lo è, ma il bello è che anche i più giovani stanno scoprendo questo mezzo di ascolto, questo atto di amore verso la musica, non solo legata a sterili smartphone ma anche ad un bel suono caldo che rende particolare qualsiasi atmosfera.
 
-![old vinyl record](/images/articoli/la-magia-del-vinile-ai-giorni-nostri/old-vinyl-record.jpg)
+![Disco in vinile a 45 giri nero su sfondo bianco](/images/articoli/la-magia-del-vinile-ai-giorni-nostri/disco-45-giri.jpg "Un disco a 45 giri con il classico foro centrale largo. Foto di Erik Henning Edvardsen via Wikimedia Commons (CC BY-SA 4.0)")
 
 ## Descrizione
 
@@ -114,15 +114,8 @@ Detto questo dunque consiglio caldamente di acquistare un giradischi e crearsi l
 
 Questo “rito” sicuramente vi ricongiungerà un po’ con la musica, e vi posso assicurare che è una cosa di cui la nostra anima ha sempre bisogno.
 
-Qui sotto potete infine trovare una piccola galleria di album leggendari le cui copertine hanno contribuito a renderli indimenticabili e iconici e lo saranno ancora negli anni a venire.
+Qui sotto, infine, qualche immagine dal mondo del vinile: un giradischi leggendario, dischi d’archivio e i solchi visti da vicinissimo.
 
-![Sgt. Pepper's Lonely Hearts Club Band - The Beatles](/images/articoli/la-magia-del-vinile-ai-giorni-nostri/Sgt.-Peppers-Lonely-Hearts-Club-Band-The-Beatles.jpg "Sgt. Pepper’s Lonely Hearts Club Band – The Beatles")
-![Unknown Pleasure - Joy Division](/images/articoli/la-magia-del-vinile-ai-giorni-nostri/unknown-pleasures-joy-division-copertina-600x600-1.webp "Unknown Pleasure – Joy Division")
-![The Velvet Underground & Nico - Velvet Underground](/images/articoli/la-magia-del-vinile-ai-giorni-nostri/The-Velvet-Underground-Nico-The-Velvet-Underground.jpg "The Velvet Underground & Nico – Velvet Underground")
-![The Dark Side of The Moon - Pink Floyd](/images/articoli/la-magia-del-vinile-ai-giorni-nostri/The-Dark-Side-Of-The-Moon-Pink-Floyd-2.jpg "The Dark Side of The Moon – Pink Floyd")
-![Strange Days-The Doors](/images/articoli/la-magia-del-vinile-ai-giorni-nostri/Strange-Days-The-Doors.jpg "Strange Days-The Doors")
-![In the Court of the Crimson King - King Crimson](/images/articoli/la-magia-del-vinile-ai-giorni-nostri/Copertina-In-the-court-crimson-king.webp "In the Court of the Crimson King – King Crimson")
-![Abbey Road - Beatles](/images/articoli/la-magia-del-vinile-ai-giorni-nostri/abbey_road_beatles-600x600-1.webp "Abbey Road – Beatles")
-![Raccolta delle copertine dei Led Zeppelin](/images/articoli/la-magia-del-vinile-ai-giorni-nostri/Copertine-LP-Led-Zeppelin.jpg "Raccolta delle copertine dei Led Zeppelin")
-![Atom Heart Mother - Pink Floyd](/images/articoli/la-magia-del-vinile-ai-giorni-nostri/atom-heart-mother-copertina-600x600-1.webp "Atom Heart Mother – Pink Floyd")
-![Axis: Bold As Love-The Jimi Hendrix Experience](/images/articoli/la-magia-del-vinile-ai-giorni-nostri/Axis-Bold-As-Love-The-Jimi-Hendrix-Experience.jpg "Axis: Bold As Love-The Jimi Hendrix Experience")
+![Giradischi Technics SL-1200MK2 nero con un disco sul piatto](/images/articoli/la-magia-del-vinile-ai-giorni-nostri/technics-sl-1200mk2.jpg "Il Technics SL-1200MK2, il giradischi più amato dai DJ. Foto di Adrian DuMay from USA via Wikimedia Commons (CC BY 2.0)")
+![Due vecchi dischi neri con etichetta su sfondo bianco](/images/articoli/la-magia-del-vinile-ai-giorni-nostri/dischi-archivio-dr.jpg "Vecchi dischi dall'archivio della radio danese DR. Foto di DRs Kulturarvsprojekt from Copenhagen, Danmark via Wikimedia Commons (CC BY-SA 2.0)")
+![Macro dei solchi di un disco](/images/articoli/la-magia-del-vinile-ai-giorni-nostri/solchi-disco-macro.jpg "I solchi di un disco visti da vicinissimo. Foto di Alejandrodel97 via Wikimedia Commons (CC BY-SA 3.0)")

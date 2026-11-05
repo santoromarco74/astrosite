@@ -21,9 +21,9 @@ tags:
 - roger-waters
 - teacher
 - the-wall
-cover: /images/articoli/pink-floyd-the-wall-il-film/La-locandina-del-film-The-Wall.jpg
-coverAlt: La locandina del film The Wall
-coverCredit: La locandina del film The Wall
+cover: /images/articoli/pink-floyd-the-wall-il-film/roger-waters-the-wall-live-toronto-2012.jpg
+coverAlt: 'Roger Waters in cappotto di pelle con fascia rossa davanti al muro, sul palco di The Wall Live'
+coverCredit: 'Roger Waters in divisa durante la scena del comizio di The Wall Live, Toronto, 2012. Foto di ocad123 via Wikimedia Commons (CC BY-SA 2.0)'
 draft: false
 wpId: 480
 ---
@@ -41,8 +41,6 @@ wpId: 480
 > dal trailer del film “Pink Floyd – the wall”
 
 Nel [post precedente](/pink-floyd-the-wall/) abbiamo parlato della nascita e della creazione dell’opera rock in assoluto dei [Pink Floyd](https://it.wikipedia.org/wiki/Pink_Floyd), l’album *“[The Wall](https://it.wikipedia.org/wiki/The_Wall)“*.
-
-![La copertina DVD The Wall](/images/articoli/pink-floyd-the-wall-il-film/Copertina-DVD-The-Wall-1.jpg "La copertina DVD The Wall")
 
 Adesso andremo a raccontare della nascita del film ad esso ispirato , “[Pink Floyd The Wall – The Movie](https://en.wikipedia.org/wiki/Pink_Floyd_%E2%80%93_The_Wall)” appunto.
 
@@ -148,15 +146,9 @@ Se invece volete conoscere meglio l’album potete seguire i seguenti contenuti:
 - [“Pink Floyd – The Wall” – La musica del Santo;](/pink-floyd-the-wall/)
 - [The Wall Complete: un interessante sito che sviscera ogni aspetto dell’album e del film;](https://thewallcomplete.com/)
 
-![Roger Waters sul set del film "The Wall"](/images/articoli/pink-floyd-the-wall-il-film/Roger-Waters-sul-set-del-film-The-Wall.jpeg "Roger Waters sul set del film “The Wall”")
-![Alan Parker e Bob Geldof sul set](/images/articoli/pink-floyd-the-wall-il-film/Alan-Parker-e-Bob-Geldof-sul-set.jpg "Alan Parker e Bob Geldof sul set")
-![La vignetta dell'insegnante in The Wall](/images/articoli/pink-floyd-the-wall-il-film/La-vignetta-dellinsegnante-in-The-Wall.jpg "La vignetta dell’insegnante in The Wall")
-![Pink giovane e adulto](/images/articoli/pink-floyd-the-wall-il-film/Pink-giovane-e-adulto.jpg "Pink giovane e adulto in “Comfortably Numb”")
-![Alan Parker - regista del film](/images/articoli/pink-floyd-the-wall-il-film/Alan-Parker.jpg "Alan Parker – regista del film")
-![Pink ragazzo e sua madre con Roger Waters sul set](/images/articoli/pink-floyd-the-wall-il-film/Pink-ragazzo-con-sua-madre-e-Roger-Waters.jpg "Christine Hargreaves (madre) e Kevin McKeon (Pink ragazzo) con Roger Waters sul set")
-![I personaggi del film](/images/articoli/pink-floyd-the-wall-il-film/I-vari-personaggi-del-film-The-Wall.jpg "I personaggi del film (da sx il medico, il professore, la moglie, la madre e il padre)")
-![La scolaresca di "Another Brick in the Wall"](/images/articoli/pink-floyd-the-wall-il-film/La-scolaresca-di-Another-Brick-in-the-Wall.jpg "La scolaresca di “Another Brick in the Wall”")
-![Pink che arringa la folla 3](/images/articoli/pink-floyd-the-wall-il-film/Pink-che-arringa-la-folla-3.jpeg "Pink nazista che arringa la folla nei suoi deliri")
-![Scena di The Trial 3](/images/articoli/pink-floyd-the-wall-il-film/Scena-di-The-Trial-3.jpeg "The Trial – L’accusa")
-![Scena di The Trial 1](/images/articoli/pink-floyd-the-wall-il-film/Scena-di-The-Trial-1.jpeg "The Trial – Il giudice")
-![Scena di The Trail 2](/images/articoli/pink-floyd-the-wall-il-film/Scena-di-The-Trial-2.jpeg "The Trial – La madre")
+![Roger Waters canta al microfono con giacca di pelle e occhiali scuri](/images/articoli/pink-floyd-the-wall-il-film/roger-waters-the-wall-live-barcellona-2011.jpg "Roger Waters durante The Wall Live al Palau Sant Jordi di Barcellona, 29 marzo 2011. Foto di Alterna2 via Wikimedia Commons (CC BY 2.0)")
+![Bob Geldof con chitarra acustica al microfono sul palco](/images/articoli/pink-floyd-the-wall-il-film/bob-geldof-rock-am-ring-1987.jpg "Bob Geldof, il Pink del film, sul palco del Rock am Ring nel 1987. Foto di Elmar J. Lordemann (ElLo57) via Wikimedia Commons (CC BY-SA 2.0 DE)")
+![Il pupazzo gigante dell'insegnante di The Wall con occhiali tondi e bocca spalancata](/images/articoli/pink-floyd-the-wall-il-film/pupazzo-insegnante-the-wall.jpg "Il pupazzo gigante dell’insegnante disegnato da Gerald Scarfe, dai tour di The Wall, esposto alla mostra “Their Mortal Remains” (Londra, 2017). Foto di Andy Mabbett via Wikimedia Commons (CC BY-SA 4.0)")
+![Ritratto del regista Alan Parker](/images/articoli/pink-floyd-the-wall-il-film/alan-parker-2008.jpg "Il regista Alan Parker nel suo ufficio di Soho, Londra, 2008. Foto di Lisa Moran Parker via Wikimedia Commons (CC BY-SA 1.0)")
+![La testa del pupazzo della moglie di The Wall illuminata di verde](/images/articoli/pink-floyd-the-wall-il-film/pupazzo-moglie-the-wall.jpg "La testa del pupazzo della moglie usato nei concerti di The Wall del 1980-1981, alla mostra “Their Mortal Remains” (Londra, 2017). Foto di Andy Mabbett via Wikimedia Commons (CC BY-SA 4.0)")
+![Il grande muro scenografico di The Wall illuminato sul palco durante il tour The Wall Live](/images/articoli/pink-floyd-the-wall-il-film/the-wall-live-muro-miami-2012.jpg "Il muro di “The Wall” sul palco del The Wall Live di Roger Waters, Miami, 15 giugno 2012. Foto di Jimmy Baikovicius via Wikimedia Commons (CC BY-SA 2.0)")

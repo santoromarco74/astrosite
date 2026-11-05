@@ -28,15 +28,14 @@ tags:
 - roger-taylor
 - status-quo
 - ultimo-concerto
-cover: /images/articoli/the-queen-live-at-knebworth-9-agosto-1986/Queen-queen-32443848-720-469.jpg
-coverAlt: The Queen – Live at Knebworth 9 agosto 1986
+cover: /images/articoli/the-queen-live-at-knebworth-9-agosto-1986/palco-knebworth-9-agosto-1986.jpg
+coverCredit: 'Il palco del Magic Tour a Knebworth il 9 agosto 1986, durante l''esibizione di apertura di Belouis Some. Foto di Londonmusicinfo via Wikimedia Commons (CC BY-SA 4.0)'
+coverAlt: 'Il palco del Magic Tour dei Queen a Knebworth il 9 agosto 1986'
 draft: false
 wpId: 2555
 ---
 
 Estate 1986, precisamente agosto 1986, al [Knebworth Park](https://it.wikipedia.org/wiki/Knebworth) di [Stevenage](https://it.wikipedia.org/wiki/Stevenage), vicino [Londra](http://londra), si teneva l’ultima tappa del [*“Magic Tour”*](https://it.wikipedia.org/wiki/Magic_Tour), il più maestoso tour di tutti i tempi dei [Queen](https://it.wikipedia.org/wiki/Queen); nessuno sa però (neanche loro) che sarà l’ultima performance live dei Queen al completo, prima della scomparsa di [Freddie Mercury](https://it.wikipedia.org/wiki/Freddie_Mercury) e del ritiro di [John Deacon](https://it.wikipedia.org/wiki/John_Deacon).
-
-![Il mitico elicottero di Knebworth](/images/articoli/the-queen-live-at-knebworth-9-agosto-1986/Il-mitico-elicottero-di-Knebworth.jpg "Il mitico elicottero di Knebworth")
 
 ## **Prelude**
 
@@ -192,15 +191,10 @@ Se avete voglia di approfondire potete trovare i seguenti contenuti:
 - [“The Queen – Rare Live” (Youtube)](https://youtu.be/jsDHqQiyR2k)
 - [“The Queen – The Magic Years – Vol.3 (Youtube)](https://youtu.be/L95GrFkMDkk) – Qui anche [Vol.1](https://youtu.be/ISv4rRuBeas) e [Vol.2](https://youtu.be/EvErwyl4Tp8)
 
-![Brian May e Roger Taylor sul palco](/images/articoli/the-queen-live-at-knebworth-9-agosto-1986/1531293370230.jpg-.jpg "Brian May e Roger Taylor sul palco")
-![Freddie Mercury](/images/articoli/the-queen-live-at-knebworth-9-agosto-1986/86-08-09_Knebworth_15.jpg "Freddie Mercury")
-![Brian May e Freddie Mercury sul palco](/images/articoli/the-queen-live-at-knebworth-9-agosto-1986/Queen-ultimo-show-Freddie-Mercury-770x513-1.jpg "Brian May e Freddie Mercury sul palco")
-![L'annuncio sulla rivista NME](/images/articoli/the-queen-live-at-knebworth-9-agosto-1986/Volantino-concerto-Knewborth.jpg "L’annuncio sulla rivista NME")
-![Il megaschermo sul palco](/images/articoli/the-queen-live-at-knebworth-9-agosto-1986/Mega-Knebworth.jpg "Il megaschermo sul palco")
-![Il mitico elicottero di Knebworth](/images/articoli/the-queen-live-at-knebworth-9-agosto-1986/Il-mitico-elicottero-di-Knebworth.jpg "Il mitico elicottero di Knebworth")
-![Uno dei pupazzi di Knebworth](/images/articoli/the-queen-live-at-knebworth-9-agosto-1986/Uno-dei-pupazzi-di-Knebworth.jpg "Uno dei pupazzi di Knebworth")
-![Freddie a Knebworth 2](/images/articoli/the-queen-live-at-knebworth-9-agosto-1986/Freddie-a-Knebworth-2.jpg "Freddie a Knebworth 2")
-![Il palco di Knebworth di giorno](/images/articoli/the-queen-live-at-knebworth-9-agosto-1986/Knebworth-di-giorno.jpg "Il palco di Knebworth di giorno")
-![Il palco di Knebworth illuminato di notte](/images/articoli/the-queen-live-at-knebworth-9-agosto-1986/Knebworth-di-notte.jpg "Il palco di Knebworth illuminato di notte")
-![Freddie a Knebworth](/images/articoli/the-queen-live-at-knebworth-9-agosto-1986/Freddie-a-Knebworth-scaled.jpg "Freddie a Knebworth")
-![](/images/articoli/the-queen-live-at-knebworth-9-agosto-1986/Queen-queen-32443848-720-469.jpg)
+![Freddie Mercury dal vivo a New Haven nel 1977](/images/articoli/the-queen-live-at-knebworth-9-agosto-1986/freddie-mercury-new-haven-1977.jpg "Freddie Mercury dal vivo a New Haven, Connecticut, nel novembre 1977. Foto di Carl Lender via Wikimedia Commons (CC BY-SA 3.0)")
+
+![Knebworth House nell'Hertfordshire](/images/articoli/the-queen-live-at-knebworth-9-agosto-1986/knebworth-house.jpg "Knebworth House, nell'Hertfordshire: nel suo parco si tengono i grandi concerti dal 1974. Foto di foshie via Wikimedia Commons (CC BY 2.0)")
+
+![I Queen dal vivo a Francoforte nel 1984](/images/articoli/the-queen-live-at-knebworth-9-agosto-1986/queen-live-francoforte-1984.jpg "I Queen dal vivo a Francoforte nel 1984, durante il The Works Tour. Foto di Thomas Steffan via Wikimedia Commons (CC BY-SA 3.0)")
+![Freddie Mercury dal vivo a Francoforte nel 1984](/images/articoli/the-queen-live-at-knebworth-9-agosto-1986/freddie-mercury-francoforte-1984.jpg "Freddie Mercury dal vivo a Francoforte nel 1984. Foto di Thomas Steffan via Wikimedia Commons (CC BY-SA 3.0)")
+![La folla nel parco di Knebworth nel 1976](/images/articoli/the-queen-live-at-knebworth-9-agosto-1986/folla-knebworth-1976.jpg "La folla nel parco di Knebworth House durante il festival del 1976 (Rolling Stones, 10cc, Lynyrd Skynyrd). Foto di Sérgio Valle Duarte via Wikimedia Commons (CC BY 3.0)")
