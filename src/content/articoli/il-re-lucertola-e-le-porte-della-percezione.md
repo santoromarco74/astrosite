@@ -191,20 +191,20 @@ Però era Jim anche questo, e questo ce lo ha portato via per sempre; d’altron
 
 Se volete approfondire la conoscenza potete trovare i loro album:
 
-- [*“The Doors”*](https://amzn.to/3fgZNFb)
-- [*“Strange Days”*](https://amzn.to/3bpKp8p)
-- [*“Waiting For the Sun”*](https://amzn.to/3bnWUBy)
-- [*“The Soft Parade”*](https://amzn.to/3y934z5)
-- [*“Morrison Hotel”*](https://amzn.to/3br7Pdw)
-- [*“Absolutely Live”*](https://amzn.to/3odeltw)
-- [*“L.A. Woman”*](https://amzn.to/33D5KXB)
-- [*“Live at Hollywood Bowl ‘68”*](https://amzn.to/3w8a0e9)
-- *[“An American Prayer”](https://amzn.to/3hpc5OI)*
+- *“The Doors”*
+- *“Strange Days”*
+- *“Waiting For the Sun”*
+- *“The Soft Parade”*
+- *“Morrison Hotel”*
+- *“Absolutely Live”*
+- *“L.A. Woman”*
+- *“Live at Hollywood Bowl ‘68”*
+- *“An American Prayer”*
 
 Oppure altri contributi come: (ne esistono centinaia ma ne ho scelto solo qualcuno)
 
-- *“*[*Feast of Friends*](https://amzn.to/3fj45vI)*”, il documentario girato on the road con Frank Lisciandro (Blu Ray o DVD)*
-- *“*[*When You’re Strange*](https://amzn.to/3oamY8o)*”, il film di Tom DiCillo con il doppiaggio in italiano di Morgan (Blu Ray o DVD)*
+- *“**Feast of Friends**”, il documentario girato on the road con Frank Lisciandro (Blu Ray o DVD)*
+- *“**When You’re Strange**”, il film di Tom DiCillo con il doppiaggio in italiano di Morgan (Blu Ray o DVD)*
 - [*“Thedoors.com”*](https://thedoors.com/)*: sito ufficiale della band.*
 
 ![I Doors in posa, foto promozionale del 1966](/images/articoli/il-re-lucertola-e-le-porte-della-percezione/the-doors-elektra-1966.jpg "The Doors nella foto promozionale Elektra del novembre 1966, ai tempi del primo album. Foto di Joel Brodsky per Elektra Records via Wikimedia Commons (pubblico dominio)")

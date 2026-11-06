@@ -127,7 +127,7 @@ La sensazione che si è avuta negli anni è che lo straordinario lavoro di sotto
 Se volete potete approfondire con i seguenti contenuti:
 
 - [www.rickwright.com](https://rickwright.com/) – Sito ufficiale di Richard Wright, con tanti contenuti interessanti, soprattutto tecnici.
-- [“Nick Mason – Inside Out”](https://amzn.to/3kaqWgV) – Autobiografia di Nick Mason
+- “Nick Mason – Inside Out” – Autobiografia di Nick Mason
 
 ![I Pink Floyd sul palco dell'Earls Court nel 1973](/images/articoli/richard-wright-il-lato-buono-della-luna/pink-floyd-earls-court-1973.jpg "I Pink Floyd suonano The Dark Side of the Moon all'Earls Court di Londra il 18 maggio 1973. Foto di TimDuncan via Wikimedia Commons (CC BY 3.0)")
 

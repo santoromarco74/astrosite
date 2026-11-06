@@ -201,9 +201,9 @@ UPDATE: Il 9 febbraio 2022 ci ha lasciato a causa di una malattia all’età di 
 
 Se volete approfondire potete consultare i seguenti contenuti:
 
-- “*[In the Court of Crimson King” di Alessandro Staiti](https://amzn.to/3vf4YNF)* – (libro – ebook)
-- “[*King Crimson: Gli anni Prog*” *di Andrea C. Soncini*](https://amzn.to/3aBk9qU) – (libro – ebook)
-- [“*In the Court of Crimson King” – King Crimson*](https://amzn.to/3vb20tz) – (CD, vinile)
+- “*In the Court of Crimson King” di Alessandro Staiti* – (libro – ebook)
+- “*King Crimson: Gli anni Prog*” *di Andrea C. Soncini* – (libro – ebook)
+- “*In the Court of Crimson King” – King Crimson* – (CD, vinile)
 - [DGM Live](https://www.dgmlive.com/king-crimson/kc-i-court) – Sito ufficiale di Robert Fripp che raccoglie tutti i contenuti dei King Crimson.
 
 ![La copertina dell’edizione per i 50 anni con le foto della band](/images/articoli/king-crimson-in-the-court-of-crimson-king/copertina-edizione-50-anni.jpg "La copertina dell’edizione per i 50 anni di «In the Court of the Crimson King», con le foto dei membri della band. © dei titolari dei diritti, riprodotta per critica e discussione")

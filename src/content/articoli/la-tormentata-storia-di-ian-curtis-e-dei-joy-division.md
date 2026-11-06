@@ -124,8 +124,8 @@ Le vicende dei Joy Division e del loro leader hanno trovato nuovo lustro negli a
 - [La Rep – Ian Curtis, il solitario, oscuro idolo dei Joy Division che amava ridere](https://www.repubblica.it/spettacoli/musica/2015/05/18/news/l_anniversario_di_ian_curtis-114639629/)
 - [Rock is Dead DOCUMENTARIO PUNTATA 6 – Ian Curtis, il ribelle dai modi gentili](https://www.youtube.com/watch?v=ekTaFFHH-Wo)
 
-Se volete acquistare gli album dei Joy Division nominati nell’articolo potrete trovarli su Amazon ai seguenti indirizzi :
+Gli album dei Joy Division nominati nell’articolo:
 
-- [An Ideal for Living](https://amzn.to/3csjMkD)
-- [Unknown Pleasure](https://amzn.to/3tfyaCy)
-- [Closer](https://amzn.to/3tc753b)
+- An Ideal for Living
+- Unknown Pleasure
+- Closer

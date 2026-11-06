@@ -164,8 +164,8 @@ UPDATE: Il 22 febbraio 2022 è scomparso a 76 anni a causa di un cancro [Gary Br
 Se volete approfondire la conoscenza, potete consultare i seguenti contenuti:
 
 - il sito ufficiale di Alan Parsons, <https://alanparsons.com/>, dove trovare anche le date dei prossimi tour;
-- la ristampa ufficiale [“*Eye In the Sky (35th Anniversary Boxset)”;*](https://amzn.to/3qAOXAU)
-- la ristampa ufficiale “*[Ammonia Avenue](https://amzn.to/3nyFg45)“*, completamente rimasterizzata e arricchita di numerosi contenuti;
+- la ristampa ufficiale “*Eye In the Sky (35th Anniversary Boxset)”;*
+- la ristampa ufficiale “*Ammonia Avenue“*, completamente rimasterizzata e arricchita di numerosi contenuti;
 - il sito di Alan Parsons di formazione alla registrazione musicale, [Art & Science Sound Recording](https://www.artandscienceofsound.com/).
 
 ![L'ingresso degli Abbey Road Studios di notte con l'insegna illuminata](/images/articoli/alan-parsons-ingegnere-e-il-suo-progetto/abbey-road-studios-esterno.jpg "L’ingresso degli Abbey Road Studios a Londra, dove Parsons iniziò come tecnico del suono. Foto di Tyler Merbler via Wikimedia Commons (CC BY 2.0)")

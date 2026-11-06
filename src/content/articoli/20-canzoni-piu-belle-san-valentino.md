@@ -48,15 +48,15 @@ Ecco a voi dunque le mie 20 canzoni d’amore più belle per San Valentino (in o
 19. [Nothing Compares 2 U – Sinhead O’Connor (1990):](https://youtu.be/0-EF60neguk) è un brano musicale venne originariamente composto da [Prince](https://it.wikipedia.org/wiki/Prince) per il suo gruppo musicale [The Family](https://it.wikipedia.org/wiki/The_Family_(gruppo_musicale)). È stata successivamente portata al successo dalla cantante irlandese [Sinéad O’Connor](https://it.wikipedia.org/wiki/Sin%C3%A9ad_O%27Connor), che la rielaborò in seguito alla scomparsa di sua madre.
 20. [I Will Always You – Whitney Houston (1974 – 1992):](https://youtu.be/3JWTaaS7LdU) scritta inizialmente nel 1974 dalla cantante folk [Dolly Parton](https://it.wikipedia.org/wiki/Dolly_Parton), fu portata al successo nel 1992 da [Whitney Houston](https://it.wikipedia.org/wiki/Whitney_Houston) con l’interpretazione come tema portante del film *[Guardia del corpo](https://it.wikipedia.org/wiki/Guardia_del_corpo_(film))* con [Kevin Costner](https://it.wikipedia.org/wiki/Kevin_Costner); pare sia stato proprio Costner a suggerire a Whitney la canzone perché riteneva ne valorizzasse le doti vocali.
 
-Se poi volete approfondire qualcuno dei gruppi nominati, qui sotto trovate alcuni album su Amazon:
+Se poi volete approfondire qualcuno dei gruppi nominati, ecco alcuni album da cui partire:
 
-1. [The Very Best of – Elton John](https://amzn.to/2N1efHt)
-2. [Faith – George Michael](https://amzn.to/376GATy)
-3. [Metallica – Metallica](https://amzn.to/2MYYaSz)
-4. [Wish You Were Here – Pink Floyd](https://amzn.to/2OmYw5I)
-5. [Parachutes – Coldplay](https://amzn.to/376r5Lq)
-6. [Use Your Illusion I – Gun’s N’ Roses](https://amzn.to/3b2nwal)
-7. [A Kind of Magic – Queen](https://amzn.to/3d5xGtp)
-8. [Tracy Chapman – Tracy Chapman](https://amzn.to/3d2RH3G)
-9. [Rattle and Hum – U2](https://amzn.to/2Oy8IIP)
-10. [Vado al Massimo – Vasco Rossi](https://amzn.to/376sHos)
+1. The Very Best of – Elton John
+2. Faith – George Michael
+3. Metallica – Metallica
+4. Wish You Were Here – Pink Floyd
+5. Parachutes – Coldplay
+6. Use Your Illusion I – Gun’s N’ Roses
+7. A Kind of Magic – Queen
+8. Tracy Chapman – Tracy Chapman
+9. Rattle and Hum – U2
+10. Vado al Massimo – Vasco Rossi

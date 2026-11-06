@@ -100,13 +100,13 @@ Per chi volesse approfondire la conoscenza, e ve lo consiglio caldamente, oltre 
 2. [Panorama – Rino Gaetano – Perchè lo cantano ancora tutti.](https://www.panorama.it/rino-gaetano-perche-lo-cantano-ancora-tutti)
 3. [Fiction RAI – Rino Gaetano – Ma il cielo è sempre più blu](https://www.raiplay.it/raiplay/programmi/rinogaetano-mailcieloesemprepiublu/)
 
-Potete infine trovare buona parte degli album di Rino su Amazon, come ad esempio:
+Infine, alcuni album di Rino da cui partire:
 
-- [Ingresso libero](https://amzn.to/3agRy9W)
-- [Mio fratello è figlio unico](https://amzn.to/3alHexm)
-- [Aida](https://amzn.to/3csowXm)
-- [Nuntereggaepiù](https://amzn.to/2YLadVO)
-- [Resta Vile Maschio, Dove Vai?](https://amzn.to/3oQ7LYN)
-- [E Io Ci Sto](https://amzn.to/39NKnqt)
+- Ingresso libero
+- Mio fratello è figlio unico
+- Aida
+- Nuntereggaepiù
+- Resta Vile Maschio, Dove Vai?
+- E Io Ci Sto
 
 ---

@@ -56,7 +56,7 @@ Suo malgrado invece Jim invece di ritrovò rockstar, anzi sex symbol o addirittu
 Il regista raccontò anche di non aver conosciuto personalmente Morrison, ma che, tornato dal Vietnam nel ’70, scrisse una sceneggiatura, “*Break*“, (che poi divenne il film *“[Platoon](https://it.wikipedia.org/wiki/Platoon)“*) che inviò al cantante ma da cui non ebbe risposta; dopo la sua scomparsa, Stone si incontra con [Bill Siddons](https://en.wikipedia.org/wiki/Bill_Siddons), manager dei Doors, che gli restituisce la sceneggiatura, trovata nei suoi effetti personali a Parigi, segno che, se lo aveva portato con sé,  e che lo stesse leggendo nei giorni precedenti la sua morte.
 Da tutta questa passione sconsiderata di Stone per Morrison, nasce appunto [*“The Doors”*](https://it.wikipedia.org/wiki/The_Doors_(film)) che esce nelle sale cinematografiche il 1 marzo del 1991.
 Nella realizzazione del film, Stone ha inizialmente incontrato non poche difficoltà, in quanto sia i membri dei Doors che gli eredi di Morrison erano poco inclini ad un film, perché non ritenevano nessuno all’altezza della situazione.
-In seguito però la produzione riuscì a convincerli e Stone ebbe la possibilità di avvalersi sia del supporto tecnico del batterista [John Densmore](https://it.wikipedia.org/wiki/John_Densmore) e del chitarrista [Robbie Krieger](https://it.wikipedia.org/wiki/Robby_Krieger), oltre agli scritti ottenuti dal biografo [Jerry Hopkins](https://en.wikipedia.org/wiki/Jerry_Hopkins_(author)), autore di *“[Nessuno Uscirà Vivo di Qui](https://amzn.to/34MdB5Z)“* e della biografia del batterista John Densmore, *[“Riders On the Storm”](https://amzn.to/3plzYbP)*. Inoltre un apporto fondamentale lo diede anche il produttore di allora della [Elektra Records](https://it.wikipedia.org/wiki/Elektra_Records), [Paul A. Rothchild](https://it.wikipedia.org/wiki/Paul_A._Rothchild), che segui molto Morrison nella sua vita privata anche dopo i Doors, insieme al tecnico del suono [Bruce Botnick](https://it.wikipedia.org/wiki/Bruce_Botnick) e il produttore [Bill Graham](https://it.wikipedia.org/wiki/Bill_Graham).
+In seguito però la produzione riuscì a convincerli e Stone ebbe la possibilità di avvalersi sia del supporto tecnico del batterista [John Densmore](https://it.wikipedia.org/wiki/John_Densmore) e del chitarrista [Robbie Krieger](https://it.wikipedia.org/wiki/Robby_Krieger), oltre agli scritti ottenuti dal biografo [Jerry Hopkins](https://en.wikipedia.org/wiki/Jerry_Hopkins_(author)), autore di *“Nessuno Uscirà Vivo di Qui“* e della biografia del batterista John Densmore, *“Riders On the Storm”*. Inoltre un apporto fondamentale lo diede anche il produttore di allora della [Elektra Records](https://it.wikipedia.org/wiki/Elektra_Records), [Paul A. Rothchild](https://it.wikipedia.org/wiki/Paul_A._Rothchild), che segui molto Morrison nella sua vita privata anche dopo i Doors, insieme al tecnico del suono [Bruce Botnick](https://it.wikipedia.org/wiki/Bruce_Botnick) e il produttore [Bill Graham](https://it.wikipedia.org/wiki/Bill_Graham).
 
 L’unico con cui Stone non riuscì ad avere dialogo fu il tastierista [Ray Manzarek](https://it.wikipedia.org/wiki/Ray_Manzarek), il quale pretendeva di possedere l’eredità artistica dei Doors e quindi poco incline alla trattativa; nonostante all’inizio Ray avesse trascorso qualche giorno con Stone, una volta letta la sceneggiatura si rifiutò di partecipare perché quella persona non rappresentava la figura di Jim; nel loro ultimo incontro fu lo stesso Manzarek a fornire a Stone una sceneggiatura alternativa che però fu prontamente scartata dal regista in quanto ritenuta troppo legata agli anni ’60 e ad un linguaggio troppo difficile da comprendere.
 
@@ -228,24 +228,24 @@ Un film, come [*“The Doors”*](https://it.wikipedia.org/wiki/The_Doors) può 
 Se volete approfondire la conoscenza dei Doors e di Jim Morrison, potete farlo tramite le seguenti produzioni:
 
 - *[“Il Re Lucertola e le Porte della Percezione”](/il-re-lucertola-e-le-porte-della-percezione/)*: il precedente articolo di questo blog sulla storia di Jim Morrison e i Doors.
-- [*When you’re strange – A film about The Doors*](https://amzn.to/3rxmBWj) : documentario pubblicato nel 2009 e realizzato da Tom DiCillo con filmati di repertorio, e doppiato nella versione italiana da Morgan (Jonnhy Depp in lingua originale); il film da molti, soprattutto dai restanti Doors, considerato l’anti-Stone per eccellenza.
-- [“*The Doors”*](https://amzn.to/2RmRrnE) : film in Blu Ray, nella versione 4K con disco aggiuntivo “Making Of” (intervista al regista e altri artisti)
+- *When you’re strange – A film about The Doors* : documentario pubblicato nel 2009 e realizzato da Tom DiCillo con filmati di repertorio, e doppiato nella versione italiana da Morgan (Jonnhy Depp in lingua originale); il film da molti, soprattutto dai restanti Doors, considerato l’anti-Stone per eccellenza.
+- “*The Doors”* : film in Blu Ray, nella versione 4K con disco aggiuntivo “Making Of” (intervista al regista e altri artisti)
 - Colonna sonora
-- *[“Riders On the Storm – My Life With Jim Morrison and the Doors”](https://amzn.to/3pkQyse):* biografia di John Densmore
-- [*“Nessuno Uscirà Vivo di Qui – La sconvolgente biografia di Jim Morrison”*](https://amzn.to/34MdB5Z): biografia ufficiale di Jerry Hopkins
-- [*“Feast Of Friends & Live At Bowl ‘68”*](https://amzn.to/3imcCRQ): Doppio Blu Ray con il documentario on the road di [Paul Ferrara](https://en.wikipedia.org/wiki/Paul_Ferrara) e uno storico live all’ Hollywood Bowl nel 1968
+- *“Riders On the Storm – My Life With Jim Morrison and the Doors”:* biografia di John Densmore
+- *“Nessuno Uscirà Vivo di Qui – La sconvolgente biografia di Jim Morrison”*: biografia ufficiale di Jerry Hopkins
+- *“Feast Of Friends & Live At Bowl ‘68”*: Doppio Blu Ray con il documentario on the road di [Paul Ferrara](https://en.wikipedia.org/wiki/Paul_Ferrara) e uno storico live all’ Hollywood Bowl nel 1968
 
 Inoltre potete trovare gli album dei Doors ai seguenti indirizzi:
 
-- [The Doors;](https://amzn.to/3qsz2Bv)
-- [Strange Days;](https://amzn.to/3l1zzcf)
-- [The Soft Parade;](https://amzn.to/3qxoQHJ)
-- [Waiting for the Sun;](https://amzn.to/2N0As8q)
-- [L.A. Woman;](https://amzn.to/3bur1aU)
-- [Morrison Hotel;](https://amzn.to/3qywwte)
-- [Absolutely Live;](https://amzn.to/3ejux9U)
-- [The Very Best of The Doors;](https://amzn.to/2OASHBS)
-- [An American Prayer;](https://amzn.to/3l1m9gp)
+- The Doors;
+- Strange Days;
+- The Soft Parade;
+- Waiting for the Sun;
+- L.A. Woman;
+- Morrison Hotel;
+- Absolutely Live;
+- The Very Best of The Doors;
+- An American Prayer;
 
 ![La tomba di Jim Morrison al Père-Lachaise](/images/articoli/the-doors-il-film/tomba-jim-morrison-pere-lachaise.jpg "La tomba di Jim Morrison al cimitero di Père-Lachaise a Parigi, dove si chiude il film. Foto di Jean-François Gornet via Wikimedia Commons (CC BY-SA 2.0)")
 
