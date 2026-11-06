@@ -12,9 +12,9 @@ tags:
 - dreams
 - irlanda
 - noel-hogan
-cover: /images/articoli/dolores-oriordan-anima-fragile-dalla-voce-soave/Dolores-primo-piano.jpg
-coverAlt: Primo piano di Dolores
-coverCredit: Primo piano di Dolores
+cover: /images/articoli/dolores-oriordan-anima-fragile-dalla-voce-soave/dolores-oriordan-bospop-2016.jpg
+coverAlt: 'Dolores O''Riordan sul palco del Bospop'
+coverCredit: 'Dolores O’Riordan con i Cranberries al Bospop di Weert (Paesi Bassi), 9 luglio 2016. Foto di Bart Notermans via Wikimedia Commons (CC BY-SA 2.0)'
 draft: false
 wpId: 3171
 ---
@@ -23,7 +23,7 @@ Il vasto panorama musicale, ma anche della vita di tutti i giorni, è tappezzato
 
 Ognuno ha i propri metodi per farlo, i più disparati, non sempre con risultati piacevoli.
 
-![](/images/articoli/dolores-oriordan-anima-fragile-dalla-voce-soave/Dolores-Riordan-live.jpg "Dolores dal vivo in concerto")
+![I Cranberries sul palco del Forum di Assago](/images/articoli/dolores-oriordan-anima-fragile-dalla-voce-soave/cranberries-assago-2010.jpg "I Cranberries dal vivo al Forum di Assago (Milano), 16 marzo 2010. Foto di Amarvudol via Wikimedia Commons (CC BY-SA 3.0)")
 
 Deve averci provato fortemente anche la protagonista della nostra storia, Dolores, che in qualche modo per un pò ce l’ha fatta fino a che non le hanno presentato il conto finale.
 
@@ -107,10 +107,8 @@ La prematura scomparsa di Dolores O’Riordan per il mondo della musica è stata
 
 Quanto fosse voluto o accidentale il gesto di Dolores in quella camera d’albergo può saperlo solo lei, certo è che sarà impossibile trovare un’altra voce capace di farci emozionare come ha fatto lei in quegli anni.
 
-![Dolores in visita da Papa Wojtyla](/images/articoli/dolores-oriordan-anima-fragile-dalla-voce-soave/Dolores-in-visita-da-Papa-Woytila.webp "Dolores in visita da Papa Wojtyla")
-![](/images/articoli/dolores-oriordan-anima-fragile-dalla-voce-soave/Dolores-Riordan-live.jpg)
-![Dolores in concerto](/images/articoli/dolores-oriordan-anima-fragile-dalla-voce-soave/Dolores-ORiordan-905-675x904-1.jpg "Dolores in concerto")
-![The Cranberries](/images/articoli/dolores-oriordan-anima-fragile-dalla-voce-soave/The-Cranberries.jpg "The Cranberries")
-![The Cranberries in tour](/images/articoli/dolores-oriordan-anima-fragile-dalla-voce-soave/The-Cranberries-2.jpg "The Cranberries in tour")
-![Primo piano di Dolores](/images/articoli/dolores-oriordan-anima-fragile-dalla-voce-soave/Dolores-primo-piano.jpg "Primo piano di Dolores")
-![Dolores dal video di "Just My Imagination"](/images/articoli/dolores-oriordan-anima-fragile-dalla-voce-soave/Dolores-ORiordan-nel-video-di-Just-My-Immagination.webp "Dolores dal video di “Just My Imagination”")
+![Dolores O'Riordan suona la chitarra elettrica sul palco](/images/articoli/dolores-oriordan-anima-fragile-dalla-voce-soave/dolores-oriordan-chitarra-parigi-2010.jpg "Dolores O’Riordan con la chitarra al Zénith di Parigi, 31 maggio 2010. Foto di Poudou99 via Wikimedia Commons (CC BY 3.0)")
+
+![Dolores O'Riordan sul palco del Festivalbar](/images/articoli/dolores-oriordan-anima-fragile-dalla-voce-soave/dolores-oriordan-festivalbar-2004.jpg "Dolores O’Riordan al Festivalbar di Milano, 29 maggio 2004. Foto di Fabio Diena via Wikimedia Commons (CC BY-SA 4.0)")
+
+![Primo piano di Dolores O'Riordan](/images/articoli/dolores-oriordan-anima-fragile-dalla-voce-soave/dolores-oriordan-2001.jpg "Dolores O’Riordan nel 2001. Foto di Roger Woolman via Wikimedia Commons (CC BY 3.0)")

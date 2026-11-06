@@ -19,9 +19,9 @@ tags:
 - the-wall
 - us-and-them
 - westminster
-cover: /images/articoli/richard-wright-il-lato-buono-della-luna/Rick-Wright-oggi.jpg
-coverAlt: Richard Wright negli ultimi tempi
-coverCredit: Richard Wright negli ultimi tempi
+cover: /images/articoli/richard-wright-il-lato-buono-della-luna/pink-floyd-1967-con-syd-barrett.jpg
+coverAlt: 'I Pink Floyd nel 1967 in posa davanti a un muro di mattoni'
+coverCredit: 'I Pink Floyd nel 1967, nella formazione originale con Syd Barrett e Richard Wright. Foto da Hit Parader magazine via Wikimedia Commons (pubblico dominio)'
 draft: false
 wpId: 2510
 ---
@@ -30,7 +30,7 @@ Il giorno 4 agosto del 1962 nacque a Londra [Richard Wright](https://it.wikipedi
 
 Richard Wright non era solo il tastierista del gruppo, è stato anche il compositore di numerosi pezzi storici ma è stato universalmente riconosciuto come la parte più umana del gruppo, soprattutto durante le liti intestine tra Roger Waters e il resto della band, trovandosi spesso ad essere lui a farne la spese.
 
-![](/images/articoli/richard-wright-il-lato-buono-della-luna/Richard-Wright.jpg)
+![Ritratto in bianco e nero di Richard Wright nel 1971](/images/articoli/richard-wright-il-lato-buono-della-luna/richard-wright-1971.jpg "Richard Wright nel 1971, ai tempi di Meddle. Foto da Capitol Records via Wikimedia Commons (pubblico dominio)")
 
 ## **Inizi**
 
@@ -129,11 +129,8 @@ Se volete potete approfondire con i seguenti contenuti:
 - [www.rickwright.com](https://rickwright.com/) – Sito ufficiale di Richard Wright, con tanti contenuti interessanti, soprattutto tecnici.
 - [“Nick Mason – Inside Out”](https://amzn.to/3kaqWgV) – Autobiografia di Nick Mason
 
-![Richard Wright alla tastiera](/images/articoli/richard-wright-il-lato-buono-della-luna/Richard-Wright.jpg "Richard Wright alla tastiera")
-![Richard Wright - primo piano](/images/articoli/richard-wright-il-lato-buono-della-luna/Richard-Wright-color.jpg "Richard Wright – primo piano")
-![Foto dei Pink Floyd con Wright, Waters, Mason, e Barrett](/images/articoli/richard-wright-il-lato-buono-della-luna/Pink-Floyd-Rick-Wright-Roger-Waters-Nick-Mason-y-Syd-Barrett.jpeg "Foto dei Pink Floyd con Wright, Waters, Mason, e Barrett")
-![Wright ai tempi di The Endless River](/images/articoli/richard-wright-il-lato-buono-della-luna/Wright-The-Endless-River.jpg "Wright ai tempi di The Endless River")
-![Richard Wright con David Gilmour durante gli ultimi lavori assieme](/images/articoli/richard-wright-il-lato-buono-della-luna/David-Gilmour-Richard-Wright.jpg "Richard Wright con David Gilmour durante gli ultimi lavori assieme")
-![Richard Wright in studio di registrazione](/images/articoli/richard-wright-il-lato-buono-della-luna/Wright-Tastiera.jpg "Richard Wright in studio di registrazione")
-![Richard Wright sul palco di Pompei nel '71](/images/articoli/richard-wright-il-lato-buono-della-luna/Wright-Live.jpg "Richard Wright sul palco di Pompei nel ’71")
-![Ultima reunion dei Pink Floyd al Live8 - 2005](/images/articoli/richard-wright-il-lato-buono-della-luna/Pink-floyd-Live-8.jpeg "Ultima reunion dei Pink Floyd al Live8 – 2005")
+![I Pink Floyd sul palco dell'Earls Court nel 1973](/images/articoli/richard-wright-il-lato-buono-della-luna/pink-floyd-earls-court-1973.jpg "I Pink Floyd suonano The Dark Side of the Moon all'Earls Court di Londra il 18 maggio 1973. Foto di TimDuncan via Wikimedia Commons (CC BY 3.0)")
+
+![Il sintetizzatore Prophet-5 di Richard Wright con appunti scritti a mano](/images/articoli/richard-wright-il-lato-buono-della-luna/prophet-5-richard-wright-the-wall.jpg "Il sintetizzatore Prophet-5 usato da Richard Wright nel tour di The Wall (1980), con i suoi appunti sul pannello. Foto di Michele Brina via Wikimedia Commons (CC BY-SA 4.0)")
+
+![I Pink Floyd sul palco del Live 8 a Londra nel 2005](/images/articoli/richard-wright-il-lato-buono-della-luna/pink-floyd-live-8-londra-2005.jpg "La reunion dei Pink Floyd al Live 8 di Hyde Park, Londra, 2 luglio 2005. Foto di Dave Bushe via Wikimedia Commons (CC BY 2.0)")

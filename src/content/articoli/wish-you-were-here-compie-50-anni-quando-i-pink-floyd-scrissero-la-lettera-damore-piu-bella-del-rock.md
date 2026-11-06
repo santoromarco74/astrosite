@@ -13,9 +13,9 @@ tags:
 - richard-wright
 - roger-waters
 - the-wall
-cover: /images/articoli/wish-you-were-here-compie-50-anni-quando-i-pink-floyd-scrissero-la-lettera-damore-piu-bella-del-rock/tumblr_m8ajnuU05L1rckc5ao1_1280.jpg
-coverAlt: La cartolina interna al vinile di "Wish You Were Here"
-coverCredit: La cartolina interna al vinile di “Wish You Were Here”
+cover: /images/articoli/wish-you-were-here-compie-50-anni-quando-i-pink-floyd-scrissero-la-lettera-damore-piu-bella-del-rock/copertina-wish-you-were-here.jpg
+coverAlt: 'La copertina di «Wish You Were Here»: due uomini in giacca e cravatta si stringono la mano, uno dei due sta prendendo fuoco'
+coverCredit: 'La copertina di «Wish You Were Here» dei Pink Floyd (1975). © dei titolari dei diritti, riprodotta per critica e discussione'
 draft: false
 wpId: 3712
 ---
@@ -68,10 +68,15 @@ Per chi vuole riascoltare “Wish You Were Here” con occhi nuovi, il consiglio
 
 Su YouTube trovate facilmente il documentario **“Pink Floyd: The Story of Wish You Were Here”**, che racconta nei dettagli quella magica e tragica sessione di registrazione. E se vi capita di rivedere la copertina, ricordatevi che quegli uomini che si stringono la mano stavano davvero bruciando. Proprio come tutti noi, ogni volta che desideriamo che qualcuno fosse ancora qui.
 
-![Il dettaglio della copertina di "Wish You Were Here"](/images/articoli/wish-you-were-here-compie-50-anni-quando-i-pink-floyd-scrissero-la-lettera-damore-piu-bella-del-rock/Dettaglio-Copertina-Wish-You-Were-Here.jpg "Il dettaglio della copertina di “Wish You Were Here”")
-![La sequenza degli scatti della copertina di "Wish You Were Here"](/images/articoli/wish-you-were-here-compie-50-anni-quando-i-pink-floyd-scrissero-la-lettera-damore-piu-bella-del-rock/La-sequenza-della-copertina-di-Wish-You-Were-Here.jpg "La sequenza degli scatti della copertina di “Wish You Were Here”")
-![La copertina fasciata di nero del vinile](/images/articoli/wish-you-were-here-compie-50-anni-quando-i-pink-floyd-scrissero-la-lettera-damore-piu-bella-del-rock/Copertina-Wish-due-mani-meccaniche-avvolta-nero-1.jpg "La copertina fasciata di nero del vinile")
-![Syd Barrett durante i primi anni nel gruppo e nella sua ultima apparizione nel 1975](/images/articoli/wish-you-were-here-compie-50-anni-quando-i-pink-floyd-scrissero-la-lettera-damore-piu-bella-del-rock/h0mjoxtyk9o81.jpg "Syd Barrett durante i primi anni nel gruppo e nella sua ultima apparizione nel 1975")
-![I Pink Floyd durante la registrazione agli "Abbey Studios" nel 1975](/images/articoli/wish-you-were-here-compie-50-anni-quando-i-pink-floyd-scrissero-la-lettera-damore-piu-bella-del-rock/Pink-Floyd-durante-la-registrazione.jpg "I Pink Floyd durante la registrazione agli “Abbey Studios” nel 1975")
-![La cartolina interna al vinile di "Wish You Were Here"](/images/articoli/wish-you-were-here-compie-50-anni-quando-i-pink-floyd-scrissero-la-lettera-damore-piu-bella-del-rock/tumblr_m8ajnuU05L1rckc5ao1_1280.jpg "La cartolina interna al vinile di “Wish You Were Here”")
-![La copertina che fascia di nero il vinile di "Wish You Were Here"](/images/articoli/wish-you-were-here-compie-50-anni-quando-i-pink-floyd-scrissero-la-lettera-damore-piu-bella-del-rock/Copertina-Wish-due-mani-meccaniche-avvolta-nero.jpg "La copertina che fascia di nero il vinile di “Wish You Were Here”")
+![I quattro Pink Floyd in posa nel 1974 in bianco e nero](/images/articoli/wish-you-were-here-compie-50-anni-quando-i-pink-floyd-scrissero-la-lettera-damore-piu-bella-del-rock/pink-floyd-1974.jpg "I Pink Floyd nel 1974, l’anno prima di “Wish You Were Here”: Nick Mason, David Gilmour, Roger Waters e Richard Wright. Foto: autore sconosciuto, via Wikimedia Commons (pubblico dominio)")
+
+![Il dettaglio della copertina di Wish You Were Here](/images/articoli/wish-you-were-here-compie-50-anni-quando-i-pink-floyd-scrissero-la-lettera-damore-piu-bella-del-rock/wywh-copertina-dettaglio.jpg "Il dettaglio della copertina di «Wish You Were Here» dei Pink Floyd (1975), firmata Hipgnosis. © dei titolari dei diritti, riprodotta per critica e discussione")
+![La sequenza degli scatti della copertina di Wish You Were Here](/images/articoli/wish-you-were-here-compie-50-anni-quando-i-pink-floyd-scrissero-la-lettera-damore-piu-bella-del-rock/wywh-sequenza-scatti.jpg "La sequenza degli scatti per la copertina di «Wish You Were Here» (1975). © dei titolari dei diritti, riprodotta per critica e discussione")
+![Il vinile di Wish You Were Here nella confezione nera](/images/articoli/wish-you-were-here-compie-50-anni-quando-i-pink-floyd-scrissero-la-lettera-damore-piu-bella-del-rock/wywh-confezione-nera.jpg "Il vinile di «Wish You Were Here» (1975) nella confezione di plastica nera con l’adesivo delle due mani meccaniche. © dei titolari dei diritti, riprodotta per critica e discussione")
+
+![I Pink Floyd con Syd Barrett nel 1967](/images/articoli/wish-you-were-here-compie-50-anni-quando-i-pink-floyd-scrissero-la-lettera-damore-piu-bella-del-rock/pink-floyd-1967-con-syd-barrett.jpg "I Pink Floyd nel 1967 con Syd Barrett: Nick Mason, Roger Waters, Syd Barrett e Rick Wright. Foto: Hit Parader (autore sconosciuto), via Wikimedia Commons (pubblico dominio)")
+![La targa rossa dello Studio 2 di Abbey Road](/images/articoli/wish-you-were-here-compie-50-anni-quando-i-pink-floyd-scrissero-la-lettera-damore-piu-bella-del-rock/abbey-road-studio-2-targa.jpg "La targa dello Studio 2 di Abbey Road, dove i Pink Floyd registrarono “Wish You Were Here”. Foto di Josephenus P. Riley via Wikimedia Commons (CC BY 2.0)")
+![Targa blu commemorativa di Syd Barrett su un muro di mattoni](/images/articoli/wish-you-were-here-compie-50-anni-quando-i-pink-floyd-scrissero-la-lettera-damore-piu-bella-del-rock/targa-blu-syd-barrett.jpg "La targa blu dedicata a Syd Barrett a Cambridge (2025). Foto di Chris Holifield via Wikimedia Commons (CC BY-SA 2.0)")
+![La grande sfera a specchi dei concerti dei Pink Floyd illuminata di blu](/images/articoli/wish-you-were-here-compie-50-anni-quando-i-pink-floyd-scrissero-la-lettera-damore-piu-bella-del-rock/mirror-ball-pink-floyd-1975.jpg "La sfera a specchi usata nei concerti dei Pink Floyd dal 1975 al 1977, alla mostra “Their Mortal Remains” (Londra, 2017). Foto di Andy Mabbett via Wikimedia Commons (CC BY-SA 4.0)")
+![Ritratto di Richard Wright nel 1974](/images/articoli/wish-you-were-here-compie-50-anni-quando-i-pink-floyd-scrissero-la-lettera-damore-piu-bella-del-rock/richard-wright-1974.jpg "Richard Wright nel 1974. Foto: autore sconosciuto, via Wikimedia Commons (pubblico dominio)")
+![Ritratto di Nick Mason nel 1974](/images/articoli/wish-you-were-here-compie-50-anni-quando-i-pink-floyd-scrissero-la-lettera-damore-piu-bella-del-rock/nick-mason-1974.jpg "Nick Mason nel 1974. Foto: autore sconosciuto, via Wikimedia Commons (pubblico dominio)")

@@ -6,9 +6,9 @@ updated: '2022-07-20'
 categories:
 - storie
 tags: []
-cover: /images/articoli/gli-abba-il-pop-in-salsa-svedese/ABBA-in-concert.webp
-coverAlt: Gli ABBA all'Eurovision del '74
-coverCredit: Gli ABBA all’Eurovision del ’74
+cover: /images/articoli/gli-abba-il-pop-in-salsa-svedese/abba-voyage-arena-2022.jpg
+coverAlt: 'Gli avatar digitali degli ABBA sul palco della ABBA Arena a Londra'
+coverCredit: 'Gli "ABBA-tars" sul palco della ABBA Arena di Londra la sera del debutto di ABBA Voyage, 27 maggio 2022. Foto di Raph_PH via Wikimedia Commons (CC BY 2.0)'
 draft: false
 wpId: 3083
 ---
@@ -179,9 +179,6 @@ Pochi gruppi al mondo hanno saputo essere “trasversali” come gli ABBA, capac
 
 Durante le interviste più recenti Benny si è affrettato a dichiarare che non ci saranno più reunion degli ABBA … sarà da credergli ?? Mah … staremo a vedere!!
 
-![Gli ABBA ai giorni nostri](/images/articoli/gli-abba-il-pop-in-salsa-svedese/ABBA-oggi.jpg "Gli ABBA ai giorni nostri")
-![Gli avatar degli ABBA ai giorni nostri](/images/articoli/gli-abba-il-pop-in-salsa-svedese/tron2-1024x512-1.jpg "Gli avatar degli ABBA ai giorni nostri")
-![Gli ABBA - inizi](/images/articoli/gli-abba-il-pop-in-salsa-svedese/ABBA-primi-piani.jpg "Gli ABBA – inizi")
-![Gli ABBA durante il tour in Giappone](/images/articoli/gli-abba-il-pop-in-salsa-svedese/Gli-ABBA-durante-il-tour-in-Giappone.jpg "Gli ABBA durante il tour in Giappone")
-![Gli ABBA all'Eurovision del '74](/images/articoli/gli-abba-il-pop-in-salsa-svedese/ABBA-in-concert.webp "Gli ABBA all’Eurovision del ’74")
-![ABBA Supereroi](/images/articoli/gli-abba-il-pop-in-salsa-svedese/ABBA-Supereroi.jpg "ABBA Supereroi")
+![Björn Ulvaeus in posa con altri vincitori svedesi dell'Eurovision](/images/articoli/gli-abba-il-pop-in-salsa-svedese/abba-museum-vincitori-eurovision.jpg "Björn Ulvaeus con altri vincitori svedesi dell'Eurovision all'ABBA The Museum, maggio 2016. Foto di Frankie Fouganthin via Wikimedia Commons (CC BY-SA 4.0)")
+![Il foyer della ABBA Arena di Londra affollato di spettatori](/images/articoli/gli-abba-il-pop-in-salsa-svedese/abba-voyage-pubblico-2023.jpg "Il pubblico in attesa dello spettacolo ABBA Voyage nella ABBA Arena di Londra, 2023. Foto di Marmat564 via Wikimedia Commons (CC BY-SA 4.0)")
+![La medaglia dell'Eurovision Song Contest 1974 esposta al museo degli ABBA](/images/articoli/gli-abba-il-pop-in-salsa-svedese/abba-museum-premio-eurovision-1974.jpg "Il premio dell'Eurovision 1974 vinto con “Waterloo“, esposto all'ABBA The Museum di Stoccolma. Foto di Ssu via Wikimedia Commons (CC BY-SA 4.0)")

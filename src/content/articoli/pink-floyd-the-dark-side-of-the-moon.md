@@ -17,9 +17,9 @@ tags:
 - roger-waters
 - syd-barrett
 - the-dark-side
-cover: /images/articoli/pink-floyd-the-dark-side-of-the-moon/Pink-Floyd-Dark-Side-Of-The-Moon-album.jpg
-coverAlt: La celebre copertina dell'album
-coverCredit: La celebre copertina dell’album
+cover: /images/articoli/pink-floyd-the-dark-side-of-the-moon/copertina-dark-side.jpg
+coverAlt: 'La copertina di «The Dark Side of the Moon» dei Pink Floyd'
+coverCredit: 'La copertina di «The Dark Side of the Moon» dei Pink Floyd (1973). © dei titolari dei diritti, riprodotta per critica e discussione'
 draft: false
 wpId: 3308
 ---
@@ -27,8 +27,6 @@ wpId: 3308
 Il grande momento è arrivato, possiamo finalmente festeggiare i primi 50 di uscita dell’album più significativo della storia della musica; il 1 marzo del 1973 usciva in America “[*The Dark Side of the Moon*](https://it.wikipedia.org/wiki/The_Dark_Side_of_the_Moon)*“* dei [Pink Floyd](https://it.wikipedia.org/wiki/Pink_Floyd).
 
 **Introduzione**
-
-![La cover completa di "The Dark Side of the Moon"](/images/articoli/pink-floyd-the-dark-side-of-the-moon/5223925035_bcb7e4c0dc_b.jpg "La cover completa di Storm Thorgerson per “The Dark Side of the Moon”")
 
 I Pink Floyd avevano iniziato a farsi conoscere al pubblico appena 6 anni prima, in quella che era al momento la culla del rock psichedelico, ovvero la Londra di fine anni ’60.
 
@@ -163,9 +161,10 @@ Classifiche a parte, “*The Dark Side of the Moon****”*** rappresenta sicuram
 
 Per me è stato sicuramente l’album più bello dei Pink Floyd, inteso come vero gruppo, perché è veramente un’opera corale dove tutti gli attori chiamati in causa hanno dato il meglio di sé ed il risultato è rimasto scolpito negli anni.
 
-![I Pink Floyd live all' Earls Court nel 1973](/images/articoli/pink-floyd-the-dark-side-of-the-moon/DarkSideOfTheMoon1973.jpg "I Pink Floyd live all’ Earls Court nel 1973")
-![Storm Thorgerson con Roger Waters e David Gilmour](/images/articoli/pink-floyd-the-dark-side-of-the-moon/storm-thorgerson-david-gilmour-roger-waters.webp "Storm Thorgerson con Roger Waters e David Gilmour")
-![Syd Barrett e Roger Waters nel 1967](/images/articoli/pink-floyd-the-dark-side-of-the-moon/Syd-Barrett-e-Roger-Waters-1967.jpg "Syd Barrett e Roger Waters nel 1967")
-![La cover completa di "The Dark Side of the Moon"](/images/articoli/pink-floyd-the-dark-side-of-the-moon/5223925035_bcb7e4c0dc_b.jpg "La cover completa di “The Dark Side of the Moon”")
-![La back cover di "The Dark Side of the Moon"](/images/articoli/pink-floyd-the-dark-side-of-the-moon/the-dark-side-of-the-moon-back-cover.webp "La back cover di “The Dark Side of the Moon”")
-![La celebre copertina dell'album](https://ebdnkspzo5r.exactdn.com/images/articoli/pink-floyd-the-dark-side-of-the-moon/Pink-Floyd-Dark-Side-Of-The-Moon-album.jpg "La celebre copertina dell’album")
+![Ritratto in bianco e nero di Richard Wright](/images/articoli/pink-floyd-the-dark-side-of-the-moon/richard-wright-1974.jpg "Richard Wright nel 1974. Foto di autore sconosciuto via Wikimedia Commons (pubblico dominio)")
+
+![Spettro di luce arcobaleno proiettato su una parete](/images/articoli/pink-floyd-the-dark-side-of-the-moon/prisma-dispersione-luce.jpg "Un fascio di luce bianca scomposto nei colori dello spettro da un prisma. Foto di Aligatorigiganti via Wikimedia Commons (CC0)")
+
+![I quattro Pink Floyd in posa all'aperto](/images/articoli/pink-floyd-the-dark-side-of-the-moon/pink-floyd-1974.jpg "I Pink Floyd in una foto promozionale del 1974 (press kit di Live at Pompeii). Foto di autore sconosciuto via Wikimedia Commons (pubblico dominio)")
+![I Pink Floyd del 1967 davanti a un muro di mattoni](/images/articoli/pink-floyd-the-dark-side-of-the-moon/pink-floyd-1967-syd-barrett.jpg "I Pink Floyd nel 1967, con Syd Barrett (a destra). Foto pubblicata da Hit Parader via Wikimedia Commons (pubblico dominio)")
+![Ritratti affiancati dei quattro Pink Floyd](/images/articoli/pink-floyd-the-dark-side-of-the-moon/pink-floyd-1971.jpg "I Pink Floyd nel 1971, due anni prima di The Dark Side of the Moon. Foto promozionale Capitol Records via Wikimedia Commons (pubblico dominio)")

@@ -6,9 +6,9 @@ updated: '2022-08-12'
 categories:
 - storie
 tags: []
-cover: /images/articoli/chris-e-chester-amici-fino-alla-fine-e-oltre/Chris-Cornell-and-Chester-Bennington.jpg
-coverAlt: Chris Cornell e Chester Bennington sul palco insieme
-coverCredit: Chris Cornell e Chester Bennington sul palco insieme
+cover: /images/articoli/chris-e-chester-amici-fino-alla-fine-e-oltre/illustrazione-microfoni.jpg
+coverAlt: 'Due microfoni d’epoca affiancati, uno in luce calda e uno in luce fredda, con i cavi intrecciati a terra'
+coverCredit: 'Illustrazione di La musica del Santo'
 draft: false
 wpId: 3113
 ---
@@ -111,8 +111,9 @@ Fu così che neanche Chester rimase immune a questa “regola”, e il giorno in
 
 Chester così lascia sgomenti le sue due mogli e sei figli, nonché i suoi amici nei Linkin Park e tutti i suoi fan, ma finalmente può raggiungere il suo adorato amico la cui scomparsa lo aveva profondamente segnato.
 
-![Chris Cornell e Chester Bennington sul palco insieme](/images/articoli/chris-e-chester-amici-fino-alla-fine-e-oltre/Chris-Cornell-and-Chester-Bennington.jpg "Chris Cornell e Chester Bennington sul palco insieme")
-![Chester Bennington in concerto 30 agosto 2014 a Clarkston](/images/articoli/chris-e-chester-amici-fino-alla-fine-e-oltre/Chester-in-concerto-30-agosto-2014-Clarkston.jpg "Chester Bennington in concerto 30 agosto 2014 a Clarkston")
-![Chris e Chester insieme](/images/articoli/chris-e-chester-amici-fino-alla-fine-e-oltre/Chester-Chris.jpg "Chris e Chester insieme")
-![Chester al funerale di Chris Cornell](/images/articoli/chris-e-chester-amici-fino-alla-fine-e-oltre/Chester-al-funerale-di-Chris.jpg "Chester al funerale di Chris Cornell")
-![Chris Cornell](/images/articoli/chris-e-chester-amici-fino-alla-fine-e-oltre/Chris-on-car.jpg "Chris Cornell")
+![Chester Bennington canta sul palco](/images/articoli/chris-e-chester-amici-fino-alla-fine-e-oltre/chester-bennington-sonisphere-2009.jpg "Chester Bennington con i Linkin Park al Sonisphere Festival di Pori (Finlandia), 2009. Foto di Javatyk via Wikimedia Commons (CC BY-SA 3.0)")
+![Chris Cornell canta con la chitarra acustica](/images/articoli/chris-e-chester-amici-fino-alla-fine-e-oltre/chris-cornell-montreux-2005.jpg "Chris Cornell al Montreux Jazz Festival, 2005. Foto di Simon Jacquier via Wikimedia Commons (CC BY-SA 2.0)")
+![Chris Cornell sul palco con i Soundgarden](/images/articoli/chris-e-chester-amici-fino-alla-fine-e-oltre/chris-cornell-soundgarden-ottawa-2011.jpg "Chris Cornell con i Soundgarden all’Ottawa Bluesfest, 5 luglio 2011. Foto di Scott Penner via Wikimedia Commons (CC BY-SA 2.0)")
+![Chester Bennington canta alla Brixton Academy](/images/articoli/chris-e-chester-amici-fino-alla-fine-e-oltre/chester-bennington-brixton-2017.jpg "Chester Bennington alla Brixton Academy di Londra, 4 luglio 2017: uno dei suoi ultimi concerti. Foto di Drew de F Fawkes via Wikimedia Commons (CC BY 2.0)")
+![La lapide di Chris Cornell all'Hollywood Forever Cemetery](/images/articoli/chris-e-chester-amici-fino-alla-fine-e-oltre/tomba-chris-cornell-hollywood-forever.jpg "La tomba di Chris Cornell all’Hollywood Forever Cemetery (2019). Foto di Adam Jones via Wikimedia Commons (CC BY-SA 2.0)")
+![Murale con il volto di Chester Bennington su un muro di Cracovia](/images/articoli/chris-e-chester-amici-fino-alla-fine-e-oltre/murale-chester-bennington-cracovia.jpg "Un murale dedicato a Chester Bennington a Cracovia (2024). Foto di Dwxn via Wikimedia Commons (CC BY-SA 4.0)")

@@ -20,9 +20,9 @@ tags:
 - re-cremisi
 - robert-fripp
 - rock-progressivo
-cover: /images/articoli/king-crimson-in-the-court-of-crimson-king/Cover-King-Crimson-In-the-Court-of-the-Crimson-King-e1642153321660.jpg
-coverAlt: La cover del disco ITCOTCK
-coverCredit: La cover del disco ITCOTCK
+cover: /images/articoli/king-crimson-in-the-court-of-crimson-king/copertina-in-the-court.jpg
+coverAlt: 'La copertina di «In the Court of the Crimson King» dei King Crimson'
+coverCredit: 'La copertina di «In the Court of the Crimson King» dei King Crimson (1969), dipinta da Barry Godber. © dei titolari dei diritti, riprodotta per critica e discussione'
 draft: false
 wpId: 2747
 ---
@@ -206,8 +206,11 @@ Se volete approfondire potete consultare i seguenti contenuti:
 - [“*In the Court of Crimson King” – King Crimson*](https://amzn.to/3vb20tz) – (CD, vinile)
 - [DGM Live](https://www.dgmlive.com/king-crimson/kc-i-court) – Sito ufficiale di Robert Fripp che raccoglie tutti i contenuti dei King Crimson.
 
-![](/images/articoli/king-crimson-in-the-court-of-crimson-king/Cover-edizione-50-anni-album.jpg "La cover del disco celebrativo con le foto dei membri della band")
-![La formazione dei King Crimson al completo](/images/articoli/king-crimson-in-the-court-of-crimson-king/Formazione-King-Crimson.jpg "La formazione dei King Crimson al completo")
-![Barry Godber e la sua copertina](/images/articoli/king-crimson-in-the-court-of-crimson-king/Barry-Godber-e-la-sua-copertina.jpg "Barry Godber e la sua copertina")
-![Il leaflet completo del disco ITCOTCK](/images/articoli/king-crimson-in-the-court-of-crimson-king/ITCOTCK-in-and-out.jpg "Il leaflet completo del disco ITCOTCK")
-![I King Crimson al concerto a Hyde Park](/images/articoli/king-crimson-in-the-court-of-crimson-king/King-Crimson-Hyde-Park-69.jpg "I King Crimson al concerto a Hyde Park")
+![La copertina dell’edizione per i 50 anni con le foto della band](/images/articoli/king-crimson-in-the-court-of-crimson-king/copertina-edizione-50-anni.jpg "La copertina dell’edizione per i 50 anni di «In the Court of the Crimson King», con le foto dei membri della band. © dei titolari dei diritti, riprodotta per critica e discussione")
+
+![I King Crimson in una foto promozionale del 1974](/images/articoli/king-crimson-in-the-court-of-crimson-king/king-crimson-1974.jpg "I King Crimson nel 1974 (John Wetton, David Cross, Robert Fripp e Bill Bruford): l'unico superstite della formazione del 1969 è Fripp. Foto di Atlantic Records via Wikimedia Commons (pubblico dominio)")
+![Un Mellotron M400](/images/articoli/king-crimson-in-the-court-of-crimson-king/mellotron-m400.jpg "Un Mellotron M400: il suono “orchestrale“ di “In the Court of the Crimson King“ nasce da strumenti come questo. Foto di andrew garton via Wikimedia Commons (CC BY-SA 2.0)")
+![Greg Lake in concerto nel 1992](/images/articoli/king-crimson-in-the-court-of-crimson-king/greg-lake-1992.jpg "Greg Lake, voce e basso del primo album, in concerto con Emerson, Lake & Palmer nel 1992. Foto di Gorupdebesanez via Wikimedia Commons (CC BY-SA 3.0)")
+![Ian McDonald con Al Greenwood nel 2009](/images/articoli/king-crimson-in-the-court-of-crimson-king/ian-mcdonald-2009.jpg "Ian McDonald, fiati e tastiere del primo album, con Al Greenwood nel 2009. Foto di Richard Bourgerie via Wikimedia Commons (CC BY 2.0)")
+![I King Crimson in concerto a Madrid nel 2016](/images/articoli/king-crimson-in-the-court-of-crimson-king/king-crimson-madrid-2016.jpg "I King Crimson in concerto a Madrid nel 2016. Foto di Montserrat Boix via Wikimedia Commons (CC BY-SA 4.0)")
+![Robert Fripp e Toyah Willcox all'Isle of Wight Festival 2024](/images/articoli/king-crimson-in-the-court-of-crimson-king/robert-fripp-toyah-2024.jpg "Robert Fripp e Toyah Willcox all'Isle of Wight Festival del 2024. Foto di Raph_PH via Wikimedia Commons (CC BY 2.0)")

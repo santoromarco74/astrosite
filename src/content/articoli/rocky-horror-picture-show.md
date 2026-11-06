@@ -15,9 +15,9 @@ tags:
 - susan-sarandon
 - tim-curry
 - time-warp
-cover: /images/articoli/rocky-horror-picture-show/locandina-rocky-horror-large-e1618600630695.jpg
-coverAlt: Locandina del film The Rocky Horror Picture Show
-coverCredit: Locandina del film The Rocky Horror Picture Show
+cover: /images/articoli/rocky-horror-picture-show/ua-cinema-merced-rocky-horror-1978.jpg
+coverAlt: 'L''insegna luminosa di un cinema americano con la scritta The Rocky Horror Picture Show, 1978'
+coverCredit: 'L''insegna dello UA Cinema di Merced (California) la sera della prima proiezione di mezzanotte del Rocky Horror Picture Show, 19 gennaio 1978. Foto di Robin Adams via Wikimedia Commons (CC BY-SA 3.0)'
 draft: false
 wpId: 396
 ---
@@ -43,8 +43,6 @@ Ad assistere alla visione c’era anche il produttore americano [Lou Adler](http
 Si dice che il leader dei [Rolling Stones](https://it.wikipedia.org/wiki/The_Rolling_Stones), [Mick Jagger](https://it.wikipedia.org/wiki/Mick_Jagger), dopo aver rischiato di impersonare Alex in [Arancia Meccanica](https://it.wikipedia.org/wiki/Arancia_meccanica) di [Stanley Kubrick](https://it.wikipedia.org/wiki/Stanley_Kubrick), si fosse offerto per il ruolo del Dr. Frank-N-Furter, a cui però venne preferito un esordiente [Tim Curry](https://it.wikipedia.org/wiki/Tim_Curry).
 
 ## La trama
-
-![](/images/articoli/rocky-horror-picture-show/RHPS-Cover.jpeg)
 
 La storia inizia con due giovani americani, [Brad Majors](https://it.wikipedia.org/wiki/Brad_Majors) e [Janet Weiss](https://it.wikipedia.org/wiki/Janet_Weiss_(personaggio)), che si trovano al matrimonio dei loro amici. Dopo la cerimonia, siccome Brad chiede a Janet di sposarlo e lei accetta, decidono di recarsi dal [Dr. Scott](https://it.wikipedia.org/wiki/Dr._Everett_Scott), dato che si sono conosciuti mentre frequentavano il suo corso universitario. A causa di un violento temporale però, decidono dunque di tornare indietro, ma sono costretti a cercare aiuto in un castello lungo la strada, causa foratura di una gomma.
 
@@ -145,9 +143,9 @@ Il film nel tempo è riuscito a creare uno stuolo immenso di seguaci che, indoss
 
 Se ne volete approfondire la conoscenza, potete acquistare su Amazon il film [a questo indirizzo](https://amzn.to/3cOm91x) mentre potete trovare [a questo](https://amzn.to/2Mm0xid) la colonna sonora originale.
 
-![Sweet Travenstite - Rocky Horror Picture Show](/images/articoli/rocky-horror-picture-show/rocky-horror-picture-show-sweet-trav-e1612122355634.jpeg "Sweet Travenstite – Rocky Horror Picture Show")
-![La locandina di The Rocky Horror Picture Show](/images/articoli/rocky-horror-picture-show/locandina-rocky-horror-picture-show-e1611871681607.jpeg "La locandina di The Rocky Horror Picture Show")
-![L'Oakley Court Hotel - Londra](/images/articoli/rocky-horror-picture-show/country-hotel-rhps-e1612122648182.jpg "L’Oakley Court Hotel – Londra dove è stato girato il Rocky Horror Picture Show")
-![Reunion cast Rocky Horror 40 anni dopo](/images/articoli/rocky-horror-picture-show/40-anni-rocky-horror-picture-show-reunion-cast-1280x720-1-e1612124681334.jpg "Reunion cast Rocky Horror 40 anni dopo")
-![Riff Raff interpretato da Richard O'Brien](/images/articoli/rocky-horror-picture-show/riff-raff1.jpg "Riff Raff interpretato da Richard O’Brien")
-![Time Warp al Rocky Horror Picture Show](/images/articoli/rocky-horror-picture-show/Rockyhorror-Time-Warp-e1612124541776.jpg "Time Warp al Rocky Horror Picture Show")
+![Facciata illuminata dello UA Cinema con il Rocky Horror in cartellone, 1978](/images/articoli/rocky-horror-picture-show/ua-cinema-merced-1978-b.jpg "Lo UA Cinema di Merced nel dicembre 1978, quando le proiezioni di mezzanotte del film erano già un rito. Foto di Mark James Miller via Wikimedia Commons (CC BY-SA 3.0)")
+
+![Insegna del Princess Theatre di Edmonton con il titolo The Rocky Horror Picture Show](/images/articoli/rocky-horror-picture-show/marquee-princess-theatre-edmonton.jpg "Ancora oggi in cartellone: l'insegna del Princess Theatre di Edmonton (Canada) nel settembre 2026. Foto di Chris Woodrich via Wikimedia Commons (CC BY-SA 4.0)")
+
+![La copertina della colonna sonora del Rocky Horror Picture Show](/images/articoli/rocky-horror-picture-show/copertina-colonna-sonora.jpg "La copertina di «The Rocky Horror Picture Show» (colonna sonora originale) (1975). © dei titolari dei diritti, riprodotta per critica e discussione")
+

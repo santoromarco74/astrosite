@@ -12,9 +12,9 @@ tags:
 - love-songs
 - san-valentino
 - soft-rock
-cover: /images/articoli/20-canzoni-piu-belle-san-valentino/love-quotes-e1618600291768.jpg
-coverAlt: Love quotes
-coverCredit: Love quotes
+cover: /images/articoli/20-canzoni-piu-belle-san-valentino/jukebox-rock-ola.jpg
+coverAlt: 'Un jukebox Rock-Ola degli anni Settanta'
+coverCredit: 'Un jukebox Rock-Ola 446 del 1971 con la sua scaletta di 45 giri. Foto di Kecko via Wikimedia Commons (CC BY 2.0)'
 draft: false
 wpId: 1187
 ---

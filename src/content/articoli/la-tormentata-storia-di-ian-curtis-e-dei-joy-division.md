@@ -16,16 +16,14 @@ tags:
 - joy-division
 - love-will-tear-us-apart
 - peter-hook
-cover: /images/articoli/la-tormentata-storia-di-ian-curtis-e-dei-joy-division/Ian-Curtis-in-concerto-e1612122388173.jpg
-coverAlt: Ian Curtis in concerto
-coverCredit: Ian Curtis in concerto
+cover: /images/articoli/la-tormentata-storia-di-ian-curtis-e-dei-joy-division/lapide-ian-curtis-macclesfield-2008.jpg
+coverAlt: 'La lapide di Ian Curtis con la scritta Love Will Tear Us Apart'
+coverCredit: 'La lapide originale di Ian Curtis al cimitero di Macclesfield, con l''epitaffio "Love Will Tear Us Apart" (foto del 2008, poco prima del furto della pietra). Foto di Bernt Rostad from Oslo, Norway via Wikimedia Commons (CC BY 2.0)'
 draft: false
 wpId: 45
 ---
 
 Qualche tempo fa, durante una soporifera puntata di un noto talent TV, è stato assegnato ad un concorrente un pezzo storico della musica rock, ovvero [Love Will Tear Us Apart](https://www.youtube.com/watch?v=zuuObGsB0No) dei [Joy Division](https://it.wikipedia.org/wiki/Joy_Division), riportando così alla luce la tormentata storia del loro leader, [Ian Curtis,](https://it.wikipedia.org/wiki/Ian_Curtis) scomparso tragicamente 40 anni fa, il 18 maggio 1980.
-
-![](/images/articoli/la-tormentata-storia-di-ian-curtis-e-dei-joy-division/Ian-Curtis-primo-piano.jpg "Ian Curtis – primo piano")
 
 ## La storia
 
@@ -115,13 +113,9 @@ Le vicende dei Joy Division e del loro leader hanno trovato nuovo lustro negli a
 >
 > dalla sezione “About Us” del sito ufficiale dei Joy Division.
 
-![Ian Curtis live](/images/articoli/la-tormentata-storia-di-ian-curtis-e-dei-joy-division/Altro-Ian-Curtis-in-concert.jpg "Ian Curtis in concerto")
-![Image gallery image](/images/articoli/la-tormentata-storia-di-ian-curtis-e-dei-joy-division/Il-murale-di-Akse-a-Manchester.jpg "Murale dell’artista Akse a Manchester")
-![Deborah Woodruffe e Nathalie Curtis](/images/articoli/la-tormentata-storia-di-ian-curtis-e-dei-joy-division/deborahhathalie.jpg "Deborah Woodruffe e Nathalie Curtis")
-![Annik Honerée](/images/articoli/la-tormentata-storia-di-ian-curtis-e-dei-joy-division/annik-honore-478x270-1-e1611138583158.jpg "Annik Honerée")
-![Locandina dei Joy Division in concerto al Fresh Music di Londra il 20 febbraio 1980](/images/articoli/la-tormentata-storia-di-ian-curtis-e-dei-joy-division/manifesto-joy-division-20021980-1.jpg "Locandina dei Joy Division in concerto al Fresh Music di Londra il 20 febbraio 1980")
-![Image gallery image](/images/articoli/la-tormentata-storia-di-ian-curtis-e-dei-joy-division/ian-in-concert.jpeg "Ian Curtis in concerto")
-![I Joy Division ai tempi di Unknown Pleasure](/images/articoli/la-tormentata-storia-di-ian-curtis-e-dei-joy-division/joy_division_unkn.png "I Joy Division ai tempi di Unknown Pleasure")
+![Amplificatore e chitarra di Ian Curtis esposti in una mostra](/images/articoli/la-tormentata-storia-di-ian-curtis-e-dei-joy-division/strumentazione-ian-curtis-mostra-2010.jpg "La strumentazione originale di Ian Curtis, esposta alla mostra sui Joy Division a Manchester nel 2010. Foto di Man Alive! via Wikimedia Commons (CC BY 2.0)")
+![Ingresso degli ex uffici della Factory Records a Manchester](/images/articoli/la-tormentata-storia-di-ian-curtis-e-dei-joy-division/ex-uffici-factory-records-manchester.jpg "L'ingresso degli ex uffici della Factory Records a Manchester, l'etichetta dei Joy Division. Foto di Yvesdebxl via Wikimedia Commons (CC BY-SA 4.0)")
+![La scritta Forever Joy Division proiettata sul palco dei New Order](/images/articoli/la-tormentata-storia-di-ian-curtis-e-dei-joy-division/new-order-berlino-2015.jpg "“Forever Joy Division“: il tributo dei New Order durante il concerto al Tempodrom di Berlino, novembre 2015. Foto di Ardfern via Wikimedia Commons (CC BY-SA 4.0)")
 
 ## Approfondimenti
 

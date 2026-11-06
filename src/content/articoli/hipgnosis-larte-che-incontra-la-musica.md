@@ -24,9 +24,9 @@ tags:
 - the-wall
 - vinile
 - vinyl
-cover: /images/articoli/hipgnosis-larte-che-incontra-la-musica/Storm-e-Aubrey-anni-2000.jpg
-coverAlt: Storrm Thorgerson e Aubrey Powell negli anni 2000
-coverCredit: Storrm Thorgerson e Aubrey Powell negli anni 2000
+cover: /images/articoli/hipgnosis-larte-che-incontra-la-musica/storm-thorgerson-londra-2010.jpg
+coverAlt: 'Storm Thorgerson alla gallery@oxo di Londra nel 2010'
+coverCredit: 'Storm Thorgerson alla gallery@oxo di Londra nel luglio 2010. Foto di Jheald via Wikimedia Commons (CC BY-SA 3.0)'
 draft: false
 wpId: 2848
 ---
@@ -34,8 +34,6 @@ wpId: 2848
 Nell’angolo dei nostri ricordi musicali hanno sempre avuto un’importanza particolare le copertine degli album dei nostri idoli, sia che ci fossero loro in copertina sia che ci fossero immagini di fantasia simboleggianti il significato intrinseco della musica contenuta nell’album stesso; ne abbiamo parlato anche in merito all’album dei [King Crimson “*In the Court of the Crimson King”*](/king-crimson-in-the-court-of-crimson-king/) del ruolo fondamentale avuto dalla copertina dell’album stesso.
 
 Ed è proprio su questo aspetto fondamentale che la [Hipgnosis](https://it.wikipedia.org/wiki/Hipgnosis) di [Aubrey Powell](https://en.wikipedia.org/wiki/Aubrey_Powell_(designer)) e [Storm Thorgerson](https://it.wikipedia.org/wiki/Storm_Thorgerson) ne hanno fatto una vera e propria arte, capace di incuriosire, illustrare e alla fine colpire qualsiasi appassionato di musica con le loro celebri copertine ed annessi [gatefold](https://en.wikipedia.org/wiki/Gatefold) (la parte interna apribile della copertina del vinile)
-
-![Primo piano di Storm Thorgerson](/images/articoli/hipgnosis-larte-che-incontra-la-musica/Storm-Thorgerson-Hipgnosis.jpg "Primo piano di Storm Thorgerson")
 
 In circa 15 anni di attività, la Hipgnosis ha illustrato circa 480 cover di album ([qui la lista completa](https://en.wikipedia.org/wiki/Category:Album_covers_by_Hipgnosis)) dei più importanti artisti di tutti i tempi, affascinando con le loro idee non sempre di facile interpretazione ma sicuramente di forte impatto e capaci di rimanere per sempre nella mente degli ascoltatori.
 
@@ -150,16 +148,17 @@ Se volete approfondire esistono pubblicazioni molto interessanti che raccolgono 
 - “*[Hipgnosis / Portraits](https://amzn.to/3HEahfc)*” di Aubrey Powell
 - *“*[*For the Love of Vinyl: The Album Art of Hipgnosis: Storm Thorgerson & Aubrey Powell*“](https://amzn.to/3nCwLpe)
 
-![Le 8 copertine più belle dei Pink Floyd](/images/articoli/hipgnosis-larte-che-incontra-la-musica/8-cover-pink-floyd.jpg "Le 8 copertine più belle dei Pink Floyd")
-![Il dettaglio della copertina di "Wish You Were Here"](/images/articoli/hipgnosis-larte-che-incontra-la-musica/Dettaglio-Copertina-Wish-You-Were-Here.jpg "Il dettaglio della copertina di “Wish You Were Here”")
-![La sequenza degli scatti della copertina di "Wish You Were Here"](/images/articoli/hipgnosis-larte-che-incontra-la-musica/La-sequenza-della-copertina-di-Wish-You-Were-Here.jpg "La sequenza degli scatti della copertina di “Wish You Were Here”")
-![Il biglietto da visita degli esordi della Hipgnosis](/images/articoli/hipgnosis-larte-che-incontra-la-musica/Hipgnosiscard.jpg "Il biglietto da visita degli esordi della Hipgnosis")
-![Storrm Thorgerson e Aubrey Powell negli anni 2000](/images/articoli/hipgnosis-larte-che-incontra-la-musica/Storm-e-Aubrey-anni-2000.jpg "Storrm Thorgerson e Aubrey Powell negli anni 2000")
-![Le sei variazioni di "In Through the Out Door" dei Led Zeppelin](/images/articoli/hipgnosis-larte-che-incontra-la-musica/In-Through-the-Out-Door-variations.jpg "Le sei variazioni di “In Through the Out Door” dei Led Zeppelin")
-![La prima copertina - "A Saucerful of Secrets" dei Pink-Floyd -1967](/images/articoli/hipgnosis-larte-che-incontra-la-musica/A-Saucerful-of-Secrets-cover.jpg "La prima copertina – “A Saucerful of Secrets” dei Pink-Floyd -1967")
-![La copertina di "A Momentary Lapse of Reason" dei Pink-Floyd -1987](/images/articoli/hipgnosis-larte-che-incontra-la-musica/Pink-Floyd-A-Momentary-Lapse-Of-Reason-1987.jpg "La copertina di “A Momentary Lapse of Reason” dei Pink-Floyd -1987")
-![La copertina dell'album "Peter Gabriel" - 1980](/images/articoli/hipgnosis-larte-che-incontra-la-musica/Peter-Gabriel-Peter-Gabriel-1980.jpg "La copertina dell’album “Peter Gabriel” – 1980")
-![La copertina di "Houses of the Holy" dei Led Zeppelin - 1973](/images/articoli/hipgnosis-larte-che-incontra-la-musica/Led-Zeppelin-Houses-of-the-holy-1973.jpg "La copertina di “Houses of the Holy” dei Led Zeppelin – 1973")
-![Primo piano di Storm Thorgerson](/images/articoli/hipgnosis-larte-che-incontra-la-musica/Storm-Thorgerson-Hipgnosis.jpg "Primo piano di Storm Thorgerson")
-![Storm Thorgerson e David Gilmour](/images/articoli/hipgnosis-larte-che-incontra-la-musica/Thorgerson-e-Gilmour.jpg "Storm Thorgerson e David Gilmour")
-![Storm Thorgerson e Aubrey Powell anni '60](/images/articoli/hipgnosis-larte-che-incontra-la-musica/storm-powell-giovani.jpg "Storm Thorgerson e Aubrey Powell anni ’60")
+![Raggio di luce che attraversa un prisma](/images/articoli/hipgnosis-larte-che-incontra-la-musica/prisma-rifrazione-luce.jpg "Un raggio di luce attraverso un prisma: l'idea alla base di “The Dark Side of the Moon“. Foto di dgdean via Wikimedia Commons (CC BY-SA 3.0)")
+
+![La tomba di Storm Thorgerson a Highgate](/images/articoli/hipgnosis-larte-che-incontra-la-musica/tomba-storm-thorgerson-highgate.jpg "La tomba di Storm Thorgerson (1944-2013) nel cimitero di Highgate a Londra. Foto di Simon Edwards Esq via Wikimedia Commons (CC BY-SA 4.0)")
+
+![La copertina di A Saucerful of Secrets](/images/articoli/hipgnosis-larte-che-incontra-la-musica/copertina-a-saucerful-of-secrets.jpg "La prima copertina di Hipgnosis: «A Saucerful of Secrets» dei Pink Floyd (1968). © dei titolari dei diritti, riprodotta per critica e discussione")
+![La copertina di Houses of the Holy](/images/articoli/hipgnosis-larte-che-incontra-la-musica/copertina-houses-of-the-holy.jpg "La copertina di «Houses of the Holy» dei Led Zeppelin (1973). © dei titolari dei diritti, riprodotta per critica e discussione")
+![Il dettaglio della copertina di Wish You Were Here](/images/articoli/hipgnosis-larte-che-incontra-la-musica/copertina-wish-you-were-here-dettaglio.jpg "Il dettaglio della copertina di «Wish You Were Here» dei Pink Floyd (1975). © dei titolari dei diritti, riprodotta per critica e discussione")
+![La copertina del terzo album di Peter Gabriel](/images/articoli/hipgnosis-larte-che-incontra-la-musica/copertina-peter-gabriel-1980.jpg "La copertina di «Peter Gabriel» di Peter Gabriel (1980). © dei titolari dei diritti, riprodotta per critica e discussione")
+![La copertina di A Momentary Lapse of Reason](/images/articoli/hipgnosis-larte-che-incontra-la-musica/copertina-a-momentary-lapse-of-reason.jpg "La copertina di «A Momentary Lapse of Reason» dei Pink Floyd (1987). © dei titolari dei diritti, riprodotta per critica e discussione")
+![Otto copertine dei Pink Floyd affiancate](/images/articoli/hipgnosis-larte-che-incontra-la-musica/copertine-pink-floyd.jpg "Otto copertine dei Pink Floyd firmate da Hipgnosis e Storm Thorgerson. © dei titolari dei diritti, riprodotta per critica e discussione")
+
+![La spiaggia di Saunton Sands nel Devon](/images/articoli/hipgnosis-larte-che-incontra-la-musica/saunton-sands-devon.jpg "La spiaggia di Saunton Sands, nel Devon, dove Thorgerson allestì i 700 letti per la copertina di “A Momentary Lapse of Reason“ (1987). Foto di Simon Burchell via Wikimedia Commons (CC BY-SA 4.0)")
+![Denmark Street a Londra](/images/articoli/hipgnosis-larte-che-incontra-la-musica/denmark-street-londra.jpg "Denmark Street a Londra, la via degli strumenti musicali dove Hipgnosis aprì il suo primo studio. Foto di morebyless via Wikimedia Commons (CC BY 2.0)")
+![Maiale gonfiabile sopra la Battersea Power Station](/images/articoli/hipgnosis-larte-che-incontra-la-musica/maiale-battersea-power-station-2011.jpg "Il maiale gonfiabile di “Animals“ torna a volare sulla Battersea Power Station nel 2011. Foto di Bex Walton via Wikimedia Commons (CC BY 2.0)")

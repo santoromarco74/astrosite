@@ -22,9 +22,9 @@ tags:
 - oasis
 - rockfield
 - wonderwall
-cover: /images/articoli/whats-the-story-morning-glory-oasis/Cover-Whats-e1618063173392.jpg
-coverAlt: La cover dell' album (What's the Story) Morning Glory
-coverCredit: La cover dell’ album (What’s the Story) Morning Glory
+cover: /images/articoli/whats-the-story-morning-glory-oasis/copertina-morning-glory-grande.jpg
+coverAlt: 'La copertina di «(What’s the Story) Morning Glory?»: due uomini si incrociano su Berwick Street, a Londra'
+coverCredit: 'La copertina di «(What’s the Story) Morning Glory?» degli Oasis (1995). © dei titolari dei diritti, riprodotta per critica e discussione'
 draft: false
 wpId: 1286
 ---
@@ -174,12 +174,11 @@ L’album *[(What’s the Story) Morning Glory](https://it.wikipedia.org/wiki/(W
 
 Potete trovare l’album , oltre che sul [sito ufficiale](https://shop.oasisinet.com/product/68112), soprattutto nella versione picture disc che raccomando fortemente, anche sul sito [Amazon](https://amzn.to/3dWdlaa) nei vari formati disponibili (MP3, LP, cassetta, CD audio).
 
-![La visuale esterna dei Rockfield Studios nel Galles](/images/articoli/whats-the-story-morning-glory-oasis/rockfield-studios-esterni.jpg "La visuale esterna dei Rockfield Studios nel Galles")
-![Gli interni dei Rockfield Studios nel Galles](/images/articoli/whats-the-story-morning-glory-oasis/Rockfield-Studios-interni.jpg "Gli interni dei Rockfield Studios nel Galles")
-![Liam Gallagher e Damon Albarn - Oasis contro Blur anche sul campo da calcio](/images/articoli/whats-the-story-morning-glory-oasis/oasis-blur.jpg "Liam Gallagher e Damon Albarn – Oasis contro Blur anche sul campo da calcio")
-![La formazione degli Oasis al completo](/images/articoli/whats-the-story-morning-glory-oasis/Oasis-al-completo.jpg "La formazione degli Oasis al completo")
-![Gli Oasis sul palco di Knebworth](/images/articoli/whats-the-story-morning-glory-oasis/Oasis-live-at-Knebworth.webp "Gli Oasis sul palco di Knebworth")
-![Oasis in versione ultrà del Manchester City](/images/articoli/whats-the-story-morning-glory-oasis/Oasis-in-versione-ultra.jpg "Oasis in versione ultrà del Manchester City")
+![Il muro dei Rockfield Studios legato a Wonderwall](/images/articoli/whats-the-story-morning-glory-oasis/muro-wonderwall-rockfield.jpg "Il muro dei Rockfield Studios su cui Liam Gallagher registrò la voce di "Wonderwall" (1995). Foto di Steve Knight via Wikimedia Commons (CC BY 2.0)")
+
+![Le scuderie dei Rockfield Studios nel Galles](/images/articoli/whats-the-story-morning-glory-oasis/rockfield-studios-scuderie.jpg "Le vecchie scuderie dei Rockfield Studios, vicino a Monmouth nel Galles, dove fu registrato l'album. Foto di Steve Knight via Wikimedia Commons (CC BY 2.0)")
+![Berwick Street nel quartiere di Soho a Londra](/images/articoli/whats-the-story-morning-glory-oasis/berwick-street-soho.jpg "Berwick Street, nel quartiere di Soho a Londra: è la strada fotografata sulla copertina di “(What's the Story) Morning Glory?“. Foto di Philafrenzy via Wikimedia Commons (CC BY-SA 4.0)")
+![Liam Gallagher in concerto nel 2005](/images/articoli/whats-the-story-morning-glory-oasis/liam-gallagher-2005.jpg "Liam Gallagher in concerto a San Diego nel 2005. Foto di Will Fresch via Wikimedia Commons (CC BY-SA 2.0)")
 
 https://www.youtube.com/watch?v=IqbPBWQNkzM
 

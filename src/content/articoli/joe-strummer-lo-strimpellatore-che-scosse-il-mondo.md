@@ -22,9 +22,9 @@ tags:
 - tymon-dogg
 - woody
 - woody-mellor
-cover: /images/articoli/joe-strummer-lo-strimpellatore-che-scosse-il-mondo/Joe-Strummer-1.jpg
-coverAlt: Joe Strummer a New York
-coverCredit: Joe Strummer a New York
+cover: /images/articoli/joe-strummer-lo-strimpellatore-che-scosse-il-mondo/joe-strummer-1980.jpg
+coverAlt: 'Joe Strummer al microfono in bianco e nero'
+coverCredit: 'Joe Strummer canta con i Clash il 6 marzo 1980. Foto di John Coffey via Wikimedia Commons (CC BY 2.0)'
 draft: false
 wpId: 2614
 ---
@@ -215,11 +215,9 @@ oppure gli album fondamentali con i Clash:
 - [*“Combat Rock” – The Clash (MP3, CD, Vinile)*](https://amzn.to/3msN6fN)
 - [*“Sandinista!” – The Clash (MP3, CD, Vinile)*](https://amzn.to/3B3Eal7)
 
-![La Fender Telecaster di Joe Strummer](/images/articoli/joe-strummer-lo-strimpellatore-che-scosse-il-mondo/La-Fender-Telecaster-di-Joe-Strummer-scaled.jpg "La Fender Telecaster di Joe Strummer")
-![The Clash al completo](/images/articoli/joe-strummer-lo-strimpellatore-che-scosse-il-mondo/The-Clash-al-completo.jpg "The Clash al completo")
-![The Clash al concerto di Leicester del 1977](/images/articoli/joe-strummer-lo-strimpellatore-che-scosse-il-mondo/The-Clash-live-leicester-1977.jpg "The Clash al concerto di Leicester del 1977")
-![Il murale dedicato a Joe Strummer a New York](/images/articoli/joe-strummer-lo-strimpellatore-che-scosse-il-mondo/Joe-murales-niagara-NY.jpg "Il murale dedicato a Joe Strummer a New York")
-![Joe Strummer al tempo dei Mescaleros](/images/articoli/joe-strummer-lo-strimpellatore-che-scosse-il-mondo/Joe-con-i-Mescaleros.jpg "Joe Strummer al tempo dei Mescaleros")
-!["Woody" Mellor ai tempi dei 101'ers](/images/articoli/joe-strummer-lo-strimpellatore-che-scosse-il-mondo/Woody-Mellor-e-i-101-ers.png "“Woody” Mellor ai tempi dei 101’ers")
-![Joe Strummer a New York](/images/articoli/joe-strummer-lo-strimpellatore-che-scosse-il-mondo/Joe-Strummer-1.jpg "Joe Strummer a New York")
-![Joe Strummer](/images/articoli/joe-strummer-lo-strimpellatore-che-scosse-il-mondo/Joe-Strummer-taxi.jpg "Joe Strummer")
+![La Telecaster di Joe Strummer piena di adesivi](/images/articoli/joe-strummer-lo-strimpellatore-che-scosse-il-mondo/fender-telecaster-joe-strummer.jpg "La Fender Telecaster (1966) di Joe Strummer esposta al Metropolitan Museum di New York nel 2019. Foto di Eden, Janine and Jim from New York City via Wikimedia Commons (CC BY 2.0)")
+![I quattro Clash in posa nel backstage](/images/articoli/joe-strummer-lo-strimpellatore-che-scosse-il-mondo/the-clash-san-diego-1982.jpg "The Clash nel backstage a San Diego nel 1982. Foto di UCLA Library Special Collections via Wikimedia Commons (CC BY 2.0)")
+![I Clash suonano sul palco](/images/articoli/joe-strummer-lo-strimpellatore-che-scosse-il-mondo/the-clash-live-1980.jpg "The Clash dal vivo il 21 maggio 1980. Foto di Helge Øverås via Wikimedia Commons (CC BY-SA 4.0)")
+![Cartello stradale 'Joe Strummer Subway'](/images/articoli/joe-strummer-lo-strimpellatore-che-scosse-il-mondo/joe-strummer-subway-londra.jpg "Il sottopassaggio dedicato a Joe Strummer a Londra, vicino a Edgware Road. Foto di Diagram Lajard via Wikimedia Commons (CC0)")
+![Joe Strummer canta e suona la chitarra sul palco](/images/articoli/joe-strummer-lo-strimpellatore-che-scosse-il-mondo/joe-strummer-live-2001.jpg "Joe Strummer dal vivo nel 2001, gli anni dei Mescaleros. Foto di JOE KERRIGAN via Wikimedia Commons (CC BY 2.0)")
+![Joe Strummer con chitarra in spalla, foto su pellicola](/images/articoli/joe-strummer-lo-strimpellatore-che-scosse-il-mondo/joe-strummer-1983.jpg "Joe Strummer nel 1983. Foto di UCLA Library Special Collections via Wikimedia Commons (CC BY 2.0)")

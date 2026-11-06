@@ -11,9 +11,9 @@ tags:
 - art-garfunkel
 - graceland
 - the-sound-of-silence
-cover: /images/articoli/paul-simon-85-anni/paul-simon-ritratto.jpg
-coverAlt: 'Paul Simon abbracciato alla sua chitarra acustica, in un ritratto in bianco e nero'
-coverCredit: 'Paul Simon in un ritratto in bianco e nero'
+cover: /images/articoli/paul-simon-85-anni/paul-simon-santa-monica-1975.jpg
+coverAlt: 'Paul Simon suona la chitarra acustica sul palco'
+coverCredit: 'Paul Simon in concerto al Santa Monica Civic Auditorium, 22 novembre 1975. Foto di Harry Chase, Los Angeles Times via Wikimedia Commons (CC BY 4.0)'
 draft: false
 ---
 

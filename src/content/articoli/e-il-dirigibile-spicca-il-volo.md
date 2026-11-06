@@ -13,9 +13,9 @@ tags:
 - new-yardbirds
 - robert-plant
 - yardbirds
-cover: /images/articoli/e-il-dirigibile-spicca-il-volo/Led-Zeppelin-primi-tempi.jpg
-coverAlt: La formazione originale dei The New Yardbirds (Led Zeppelin)
-coverCredit: La formazione originale dei The New Yardbirds (Led Zeppelin)
+cover: /images/articoli/e-il-dirigibile-spicca-il-volo/led-zeppelin-amburgo-1973.jpg
+coverAlt: 'Robert Plant e Jimmy Page seduti sul palco durante un set acustico'
+coverCredit: 'Robert Plant e Jimmy Page dei Led Zeppelin in concerto ad Amburgo, 21 marzo 1973. Foto di Heinrich Klaffs via Wikimedia Commons (CC BY-SA 2.0)'
 draft: false
 wpId: 3139
 ---
@@ -24,7 +24,7 @@ Nella storia della musica spesso abbiamo assistito alla nascita di band in modo 
 
 La storia che andiamo a raccontare oggi le contiene tutte, ma tutto comincia con un ragazzo molto bravo con la chitarra, un certo Jimmy Page.
 
-![The New Yardbirds il 9 settembre '68 a Copenaghen](/images/articoli/e-il-dirigibile-spicca-il-volo/led-zeppelin-la-nascita-della-band-durante-il-tour-scandinavo-wide-site-h1ksy.jpg "The New Yardbirds il 9 settembre ’68 a Copenaghen")
+![I quattro Led Zeppelin in posa in una foto promozionale](/images/articoli/e-il-dirigibile-spicca-il-volo/led-zeppelin-1971.jpg "I Led Zeppelin in una foto promozionale del 1971: John Paul Jones, Jimmy Page, John Bonham e Robert Plant. Foto: Atlantic Records, via Wikimedia Commons (pubblico dominio)")
 
 ## **Jimmy Page**
 
@@ -88,11 +88,10 @@ La leggenda narra che il nome fu suggerito da una dichiarazione di Keith Moon, p
 
 Con il senno di poi, si può sicuramente dire che il nome ha portato fortuna al nascente gruppo Led Zeppelin, dando loro un successo planetario senza precedenti e iscrivendolo nell’album delle leggende rock di tutti i tempi, ma questa sicuramente è un’altra storia …
 
-![The Yardbirds nella formazione originale con Eric Clapton](/images/articoli/e-il-dirigibile-spicca-il-volo/Yardbirds-originale.webp "The Yardbirds nella formazione originale con Eric Clapton")
-![The Yardbirds nella formazione con Jeff Beck e Jimmy Page](/images/articoli/e-il-dirigibile-spicca-il-volo/Yardbirds-con-Jeff-Beck-e-Jimmy-Page.jpg "The Yardbirds nella formazione con Jeff Beck e Jimmy Page")
-![Jimmy Page sul palco](/images/articoli/e-il-dirigibile-spicca-il-volo/Jimmy-Page.jpg "Jimmy Page sul palco")
-![Locandina concerto New Yardbirds del '68](/images/articoli/e-il-dirigibile-spicca-il-volo/Locandina-NYard-68.jpg "Locandina concerto New Yardbirds del ’68")
-![The Yardbirds con Jimmy Page](/images/articoli/e-il-dirigibile-spicca-il-volo/Yardbirds-resize-1.jpg "The Yardbirds con Jimmy Page")
-![Intervista a Jimmy Page poco prima di formare The New Yardbirds](/images/articoli/e-il-dirigibile-spicca-il-volo/tumblr_32ea91200968516148defe8b64342a52_d257cbdb_500.jpg "Intervista a Jimmy Page poco prima di formare The New Yardbirds")
-![The New Yardbirds il 9 settembre '68 a Copenaghen](/images/articoli/e-il-dirigibile-spicca-il-volo/led-zeppelin-la-nascita-della-band-durante-il-tour-scandinavo-wide-site-h1ksy.jpg "The New Yardbirds il 9 settembre ’68 a Copenaghen")
-![La formazione originale dei The New Yardbirds (Led Zeppelin)](/images/articoli/e-il-dirigibile-spicca-il-volo/Led-Zeppelin-primi-tempi.jpg "La formazione originale dei The New Yardbirds (Led Zeppelin)")
+![L'ingresso posteriore dell'ex Crawdaddy Club a Richmond](/images/articoli/e-il-dirigibile-spicca-il-volo/crawdaddy-club-richmond.jpg "L’ex Station Hotel di Richmond, sede del Crawdaddy Club dove suonarono i primi Yardbirds (foto 2014). Foto di Le Deluge via Wikimedia Commons (CC BY-SA 3.0)")
+
+![Robert Plant e Jimmy Page sul palco a Chicago](/images/articoli/e-il-dirigibile-spicca-il-volo/robert-plant-jimmy-page-chicago-1977.jpg "Robert Plant e Jimmy Page in concerto a Chicago nel 1977. Foto di Jim Summaria via Wikimedia Commons (CC BY-SA 3.0)")
+
+![Gli Yardbirds in posa nel 1965](/images/articoli/e-il-dirigibile-spicca-il-volo/yardbirds-1965.jpg "Gli Yardbirds nel 1965: Jeff Beck, Paul Samwell-Smith, Keith Relf, Chris Dreja e Jim McCarty. Foto: KRLA Beat, via Wikimedia Commons (pubblico dominio)")
+![Gli Yardbirds con Jeff Beck e Jimmy Page nel 1966](/images/articoli/e-il-dirigibile-spicca-il-volo/yardbirds-1966-beck-page.jpg "Gli Yardbirds nel 1966, con Jeff Beck e Jimmy Page. Foto: autore sconosciuto, via Wikimedia Commons (pubblico dominio)")
+![Jimmy Page suona la chitarra sul palco](/images/articoli/e-il-dirigibile-spicca-il-volo/jimmy-page-1977.jpg "Jimmy Page dal vivo con i Led Zeppelin nel 1977. Foto: Agency for the Performing Arts, via Wikimedia Commons (pubblico dominio)")
