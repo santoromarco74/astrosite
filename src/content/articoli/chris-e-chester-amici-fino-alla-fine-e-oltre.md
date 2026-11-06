@@ -6,9 +6,9 @@ updated: '2022-08-12'
 categories:
 - storie
 tags: []
-cover: /images/articoli/chris-e-chester-amici-fino-alla-fine-e-oltre/illustrazione-microfoni.jpg
-coverAlt: 'Due microfoni d’epoca affiancati, uno in luce calda e uno in luce fredda, con i cavi intrecciati a terra'
-coverCredit: 'Illustrazione di La musica del Santo'
+cover: /images/articoli/chris-e-chester-amici-fino-alla-fine-e-oltre/chester-bennington-chris-cornell-abbraccio.jpg
+coverAlt: 'Chester Bennington e Chris Cornell abbracciati sul palco, sorridenti, in una foto in bianco e nero'
+coverCredit: 'Chester Bennington e Chris Cornell sul palco. Foto tratta da linkinpark.it, © dei titolari dei diritti'
 draft: false
 wpId: 3113
 ---
