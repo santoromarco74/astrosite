@@ -6,9 +6,9 @@ updated: '2022-08-12'
 categories:
 - storie
 tags: []
-cover: /images/articoli/chris-e-chester-amici-fino-alla-fine-e-oltre/chris-cornell-chester-bennington-2011.jpg
-coverAlt: 'Due foto in bianco e nero affiancate: a sinistra il volto sorridente di Chris Cornell, a destra Chester Bennington che canta sul palco con gli occhiali scuri'
-coverCredit: 'Chris Cornell al Toronto International Film Festival 2011 (foto di Gordon Correll via Flickr, CC BY-SA 2.0) e Chester Bennington con i Linkin Park al Madison Square Garden nel febbraio 2011 (foto di Schen Photography via Flickr, CC BY 2.0). Montaggio in bianco e nero di La musica del Santo (CC BY-SA 2.0)'
+cover: /images/articoli/chris-e-chester-amici-fino-alla-fine-e-oltre/chester-bennington-chris-cornell-abbraccio.jpg
+coverAlt: 'Chester Bennington e Chris Cornell abbracciati sul palco, sorridenti, in una foto in bianco e nero'
+coverCredit: 'Chester Bennington e Chris Cornell sul palco. Foto tratta da linkinpark.it, © dei titolari dei diritti'
 draft: false
 wpId: 3113
 ---
