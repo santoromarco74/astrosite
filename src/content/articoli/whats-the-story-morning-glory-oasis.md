@@ -172,7 +172,7 @@ Ancora oggi, a 25 anni di distanza, l’album risulta, secondo la classifica Off
 
 L’album *[(What’s the Story) Morning Glory](https://it.wikipedia.org/wiki/(What%27s_the_Story)_Morning_Glory%3F)* rappresenta al tempo stesso la consacrazione ed il punto più alto della storia degli Oasis, per via dei suoi modi semplici e della sua leggerezza, data dai testi e musica di Noel e dalla voce di Liam, un connubio difficile da conciliare per via dei loro caratteri un pelino egocentrici, ma nati per stare assieme; non a caso ancora ora, dopo 12 anni dal loro scioglimento ufficiale del 2009, si rincorrono continuamente voci di reunion del gruppo, con grande beneplacito dei fan desiderosi di vederli di nuovo esibirsi assieme.
 
-Potete trovare l’album , oltre che sul [sito ufficiale](https://shop.oasisinet.com/product/68112), soprattutto nella versione picture disc che raccomando fortemente, anche sul sito [Amazon](https://amzn.to/3dWdlaa) nei vari formati disponibili (MP3, LP, cassetta, CD audio).
+Potete trovare l’album sul [sito ufficiale](https://shop.oasisinet.com/product/68112), soprattutto nella versione picture disc che raccomando fortemente.
 
 ![Il muro dei Rockfield Studios legato a Wonderwall](/images/articoli/whats-the-story-morning-glory-oasis/muro-wonderwall-rockfield.jpg "Il muro dei Rockfield Studios su cui Liam Gallagher registrò la voce di "Wonderwall" (1995). Foto di Steve Knight via Wikimedia Commons (CC BY 2.0)")
 

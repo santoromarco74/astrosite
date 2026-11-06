@@ -109,7 +109,7 @@ E a quanto pare ancora una volta fu proprio Waters ad aver ragione in quanto la 
 
 ## **Il concerto**
 
-Per l’evento furono venduti più di 250.000 biglietti ma in piazza ne arrivarono almeno centomila in più, tanto da dover aprire tutto per evitare incidenti; il concerto fu trasmesso in mondovisione in oltre 50 paese per un totale stimato di più di 2 milioni di spettatori  (per l’Italia su Canale 5 con un’ora di differita condotta da [Red Ronnie](https://it.wikipedia.org/wiki/Red_Ronnie), qui [il promo TV](https://youtu.be/CeJ_00KuCjE)) e la registrazione venne pubblicata in un [dvd celebrativo](https://amzn.to/3tzdnKg) ed in un [doppio LP](https://amzn.to/3gp1fHS).
+Per l’evento furono venduti più di 250.000 biglietti ma in piazza ne arrivarono almeno centomila in più, tanto da dover aprire tutto per evitare incidenti; il concerto fu trasmesso in mondovisione in oltre 50 paese per un totale stimato di più di 2 milioni di spettatori  (per l’Italia su Canale 5 con un’ora di differita condotta da [Red Ronnie](https://it.wikipedia.org/wiki/Red_Ronnie), qui [il promo TV](https://youtu.be/CeJ_00KuCjE)) e la registrazione venne pubblicata in un dvd celebrativo ed in un doppio LP.
 
 Dalle prime Waters voleva coinvolgere artisti del calibro di [Eric Clapton](https://it.wikipedia.org/wiki/Eric_Clapton), [Bruce Springsteen](https://it.wikipedia.org/wiki/Bruce_Springsteen), [Joe Cocker](https://it.wikipedia.org/wiki/Joe_Cocker), [Rod Stewart](https://it.wikipedia.org/wiki/Rod_Stewart) e [Peter Gabriel](https://it.wikipedia.org/wiki/Peter_Gabriel) ma chi per un motivo chi per l’altro, rifiutarono ed allora Waters lasciò il casting completamente in mano a Tony Hollingsworth, non senza qualche difficoltà, dovuta principalmente dal carattere quantomeno “spigoloso” dello stesso Waters.
 
@@ -200,12 +200,12 @@ Se voletete potete approfondire tramite i seguenti contenuti:
 - [Behind The Wall: documentario sulla preparazione al concerto](https://youtu.be/Kb6I90hMvQ4)
 - [Lo special di Gigi Moncalvo per Canale 5: Aspettando il muro](https://youtu.be/BWOkXw53JLo)
 
-Invece per acquistare le opere menzionate, le trovate su Amazon ai seguenti link:
+Ecco invece le opere menzionate:
 
-- [“The Wall – Live in Berlin 1990” (MP3, CD, Vinile e musicassetta)](https://amzn.to/3ndJ60Z)
-- [“The Wall – Live in Berlin 1990” DVD Limited Edition](https://amzn.to/3gyNx5w)
-- [“Pink Floyd – The Wall” – Il film diretto da Alan Parker](https://amzn.to/3eiI9Ao)
-- [Ed infine l’album da cui tutto nacque: “Pink Floyd – The Wall”](https://amzn.to/3eo5nVT)
+- “The Wall – Live in Berlin 1990” (MP3, CD, Vinile e musicassetta)
+- “The Wall – Live in Berlin 1990” DVD Limited Edition
+- “Pink Floyd – The Wall” – Il film diretto da Alan Parker
+- Ed infine l’album da cui tutto nacque: “Pink Floyd – The Wall”
 
 ![La spianata di Potsdamer Platz coperta di rifiuti dopo il concerto, luglio 1990](/images/articoli/the-wall-live-in-berlin-1990/potsdamer-platz-dopo-concerto-1990.jpg "Potsdamer Platz pochi giorni dopo il concerto, ancora coperta dai resti della serata (luglio 1990). Foto di Robert Hösle via Wikimedia Commons (CC BY-SA 4.0)")
 

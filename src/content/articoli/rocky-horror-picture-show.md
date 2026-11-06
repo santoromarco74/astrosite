@@ -141,7 +141,7 @@ La genialità di O’Brien prima e Shaman dopo sta nel prendere tutti questi ing
 
 Il film nel tempo è riuscito a creare uno stuolo immenso di seguaci che, indossando i costumi dei vari personaggi, a mo’ di [cosplayer](https://it.wikipedia.org/wiki/Cosplay) giapponesi, ancora oggi riempiono le sale di tutto il mondo, partecipando interattivamente alle proiezioni al ritmo del “Time Warp”, facendolo diventare il *cult movie* di tutti i tempi.
 
-Se ne volete approfondire la conoscenza, potete acquistare su Amazon il film [a questo indirizzo](https://amzn.to/3cOm91x) mentre potete trovare [a questo](https://amzn.to/2Mm0xid) la colonna sonora originale.
+Se ne volete approfondire la conoscenza, recuperate il film e la sua colonna sonora originale.
 
 ![Facciata illuminata dello UA Cinema con il Rocky Horror in cartellone, 1978](/images/articoli/rocky-horror-picture-show/ua-cinema-merced-1978-b.jpg "Lo UA Cinema di Merced nel dicembre 1978, quando le proiezioni di mezzanotte del film erano già un rito. Foto di Mark James Miller via Wikimedia Commons (CC BY-SA 3.0)")
 

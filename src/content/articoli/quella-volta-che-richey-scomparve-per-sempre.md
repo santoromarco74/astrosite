@@ -84,7 +84,7 @@ Il 14 febbraio, la [Vauxhall Cavalier](https://it.wikipedia.org/wiki/Vauxhall_Ca
 
 A causa della vicinanza della stazione di servizio al [Severn Bridge](https://it.wikipedia.org/wiki/Severn_Bridge) , un noto sito di suicidi, era opinione diffusa che Edwards fosse saltato dal ponte. Molte persone che conoscevano Edwards, tuttavia, hanno detto che non era mai stato il tipo da contemplare il suicidio e lui stesso è intervenuto sull’argomento nel 1994 dicendo: “*In termini della parola ‘S’, questo non mi viene in mente. E non lo è mai stato. fatto, in termini di tentativo. Perché sono più forte di così. Potrei essere una persona debole, ma posso sopportare il dolore* “
 
-Scartata, non del tutto, l’ipotesi del suicidio, sulla sparizione di Richey si sono fatte mille congetture; quella che si fa più strada è quella della sparizione volontaria. Come abbiamo detto Edwards, da poco uscito dalla [Priory](https://www.priorygroup.com/locations/priory-hospital-roehampton-london), stava rimettendo i pezzi della sua vita e mal tollerava quel lungo e stancante tour che lo aspettava negli Stati Uniti. Nel libro “[Withdrawn Traces](https://www.amazon.it/Withdrawn-Traces-Searching-Foreword-Edwards/dp/0753545349)” sembra prevalere quest’ultima ipotesi, supportata soprattutto dal materiale fornito dalla sorella [Rachel Edwards](https://www.racheledwards.com/); inoltre Richey nei 14 giorni precedenti aveva prelevato 200 sterline al giorno, per un totale di 2.800 sterline, somma necessaria per un viaggio negli Stati Uniti.
+Scartata, non del tutto, l’ipotesi del suicidio, sulla sparizione di Richey si sono fatte mille congetture; quella che si fa più strada è quella della sparizione volontaria. Come abbiamo detto Edwards, da poco uscito dalla [Priory](https://www.priorygroup.com/locations/priory-hospital-roehampton-london), stava rimettendo i pezzi della sua vita e mal tollerava quel lungo e stancante tour che lo aspettava negli Stati Uniti. Nel libro “Withdrawn Traces” sembra prevalere quest’ultima ipotesi, supportata soprattutto dal materiale fornito dalla sorella [Rachel Edwards](https://www.racheledwards.com/); inoltre Richey nei 14 giorni precedenti aveva prelevato 200 sterline al giorno, per un totale di 2.800 sterline, somma necessaria per un viaggio negli Stati Uniti.
 
 Da allora Edwards è stato avvistato in un mercato a [Goa](https://it.wikipedia.org/wiki/Goa) , in [India](https://it.wikipedia.org/wiki/India) , e nelle isole di Fuerteventura e [Lanzarote](https://it.wikipedia.org/wiki/Lanzarote), soprattutto negli anni immediatamente successivi alla sua scomparsa. Tuttavia, nessuno di questi si è rivelato conclusivo e per questo i suoi familiari attesero fino al 23 novembre 2008, quando è stato dichiarato ufficialmente “presunto morto”.
 
@@ -106,14 +106,14 @@ Se volete potete approfondire la conoscenza con i seguenti contributi:
 
 - [Sito ufficiale Manic Street Preachers](https://www.manicstreetpreachers.com/)
 - [Manic Street Preachers – From There To Here (BBC2 Close-Up 1998)](https://youtu.be/EqjH2u0j914)
-- [Withdrawn Traces: Searching for the Truth about Richey Manic, Foreword by Rachel Edwards](https://amzn.to/3vLmqsM)
+- Withdrawn Traces: Searching for the Truth about Richey Manic, Foreword by Rachel Edwards
 
-Potete infine trovare alcuni album dei Manics su Amazon:
+Infine, alcuni album dei Manics da cui partire:
 
-- [Generation Terrorist](https://amzn.to/3lyZPv1)
-- [Gold Against the Soul](https://amzn.to/3lyZPv1)
-- [The Holy Bible](https://amzn.to/3cN03ux)
-- [Everything Must Go](https://amzn.to/3lyZPv1)
+- Generation Terrorist
+- Gold Against the Soul
+- The Holy Bible
+- Everything Must Go
 
 ![Richey Edwards con la chitarra sul palco](/images/articoli/quella-volta-che-richey-scomparve-per-sempre/richey-edwards-1991.jpg "Richey Edwards sul palco con i Manic Street Preachers nel 1991. Foto di Masao Nakagami via Wikimedia Commons (CC BY-SA 2.0)")
 ![Un chitarrista dei Manic Street Preachers canta sul palco](/images/articoli/quella-volta-che-richey-scomparve-per-sempre/manic-street-preachers-primi-anni-90.jpg "I Manic Street Preachers dal vivo nei primi anni '90. Foto di Masao Nakagami via Wikimedia Commons (CC BY-SA 2.0)")

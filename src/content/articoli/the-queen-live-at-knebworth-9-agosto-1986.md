@@ -186,8 +186,8 @@ Per quanto ci si sforzi però di “adattarsi” ai tempi, il mito dei Queen è 
 
 Se avete voglia di approfondire potete trovare i seguenti contenuti:
 
-- “[The Queen- La biografia ufficiale” (libro, Ebook)](https://www.amazon.it/Queen-biografia-ufficiale-Jacky-Gunn/dp/8862317719/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
-- [“The Queen – Live Magic” (CD)](https://www.amazon.it/Live-Magic-Queen/dp/B000007356/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1B6IMB3KMI67&dchild=1&keywords=live+magic&qid=1628449552&sprefix=live+magic%2Caps%2C310&sr=8-1)
+- “The Queen- La biografia ufficiale” (libro, Ebook)
+- “The Queen – Live Magic” (CD)
 - [“The Queen – Rare Live” (Youtube)](https://youtu.be/jsDHqQiyR2k)
 - [“The Queen – The Magic Years – Vol.3 (Youtube)](https://youtu.be/L95GrFkMDkk) – Qui anche [Vol.1](https://youtu.be/ISv4rRuBeas) e [Vol.2](https://youtu.be/EvErwyl4Tp8)
 

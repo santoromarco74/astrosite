@@ -136,10 +136,10 @@ Ma con il senno di poi non si va nessuna parte, quello che è certo è che il fi
 
 Se volete potete approfondire la conoscenza acquistando il dvd del film con tanti interessanti contenuti o ascoltando l’album:
 
-- [“Pink Floyd – The Wall” – Il film” (DVD, Blu ray e anche VHS)](https://amzn.to/3s1Pb1l)
-- [“Pink Floyd – The Wall” – L’album (CD, MP3 e Vinile)](https://amzn.to/3dJXvh7)
-- [“Is There Anybody Out There ? The Wall Live 1980-1981” (CD e musicassetta)](https://amzn.to/3a0SUWN)
-- [“Pink Floyd – The Wall” – Immersion CD Edition](https://amzn.to/2PJpZQo)
+- “Pink Floyd – The Wall” – Il film” (DVD, Blu ray e anche VHS)
+- “Pink Floyd – The Wall” – L’album (CD, MP3 e Vinile)
+- “Is There Anybody Out There ? The Wall Live 1980-1981” (CD e musicassetta)
+- “Pink Floyd – The Wall” – Immersion CD Edition
 
 Se invece volete conoscere meglio l’album potete seguire i seguenti contenuti:
 

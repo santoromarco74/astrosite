@@ -67,7 +67,7 @@ Intanto gli anni passano e un altro evento sconvolge la sua vita; siamo al ’68
 
 > *“Il mondo stava esplodendo!” “Parigi, il Vietnam, Grosvenor Square, ci sembrava tutto normale perché non avevamo altri termini di paragone.”*
 
-La sua voglia di lanciarsi in strada per manifestare contro il potere diventava sempre più forte; l’ultimo anno di college si fece crescere i capelli, per quanto concesso, diventando un “[hippie](https://it.wikipedia.org/wiki/Hippy)” e cercando qualsiasi modo per sballarsi; una volta, letto da un’esperienza di [John Lennon](https://it.wikipedia.org/wiki/John_Lennon), ingerì un inalatore di [Benzidrex](https://www.amazon.com/Benzedrex-61023-Nasal-Decongestant-Inhaler/dp/B000X76K04) per i suoi effetti narcotici; ne ricavò un urgente ricovero in infermeria ed uno “sballo” di 72 ore; *“Non so come non sono morto”* disse vent’anni dopo.
+La sua voglia di lanciarsi in strada per manifestare contro il potere diventava sempre più forte; l’ultimo anno di college si fece crescere i capelli, per quanto concesso, diventando un “[hippie](https://it.wikipedia.org/wiki/Hippy)” e cercando qualsiasi modo per sballarsi; una volta, letto da un’esperienza di [John Lennon](https://it.wikipedia.org/wiki/John_Lennon), ingerì un inalatore di Benzidrex per i suoi effetti narcotici; ne ricavò un urgente ricovero in infermeria ed uno “sballo” di 72 ore; *“Non so come non sono morto”* disse vent’anni dopo.
 
 La trasformazione di John stava cominciando a prendere forma; all’esame del diploma tutti lo ricordano con i suoi capelli lunghi, il suo sguardo corrucciato; in pratica un ribelle vestito da damerino.
 
@@ -187,7 +187,7 @@ La mattina del 22 dicembre del 2002 Joe muore a causa di un infarto, dovuto a un
 
 Dopo la sua scomparsa, i suoi amici e parenti fondarono la “*[The Joe Strummer Foundation](https://joestrummerfoundation.org/)*“, per promuovere la nuova musica e mantenere intatta la memoria ed il pensiero di Strummer.
 
-Nel 2007 esce il film documentario [*“Joe Strummer: The Future Is Unwritten”*](https://amzn.to/3zeBPTW)*;* dove, oltre a ripercorrere le tappe dello straordinario successo di Strummer e dei Clash, il regista [Julien Temple](https://en.wikipedia.org/wiki/Julien_Temple) riunisce davanti a un falò, come era solito fare lo stesso cantante, vari personaggi di successo del mondo della musica o del cinema (come [Bono](https://it.wikipedia.org/wiki/Bono_(cantante)), [John Cusack](https://it.wikipedia.org/wiki/John_Cusack), [Johnny Depp](https://it.wikipedia.org/wiki/Johnny_Depp), [Matt Dillon](https://it.wikipedia.org/wiki/Matt_Dillon), [Steve Buscemi](https://it.wikipedia.org/wiki/Steve_Buscemi), [Flea](https://it.wikipedia.org/wiki/Michael_Balzary)), fans del gruppo o che si sono a esso ispirati.
+Nel 2007 esce il film documentario *“Joe Strummer: The Future Is Unwritten”**;* dove, oltre a ripercorrere le tappe dello straordinario successo di Strummer e dei Clash, il regista [Julien Temple](https://en.wikipedia.org/wiki/Julien_Temple) riunisce davanti a un falò, come era solito fare lo stesso cantante, vari personaggi di successo del mondo della musica o del cinema (come [Bono](https://it.wikipedia.org/wiki/Bono_(cantante)), [John Cusack](https://it.wikipedia.org/wiki/John_Cusack), [Johnny Depp](https://it.wikipedia.org/wiki/Johnny_Depp), [Matt Dillon](https://it.wikipedia.org/wiki/Matt_Dillon), [Steve Buscemi](https://it.wikipedia.org/wiki/Steve_Buscemi), [Flea](https://it.wikipedia.org/wiki/Michael_Balzary)), fans del gruppo o che si sono a esso ispirati.
 
 ## Conclusioni
 
@@ -205,15 +205,15 @@ Il suo connubio con Mick Jones fece sì che i Clash, seppur per breve periodo, d
 
 Se volete approfondire la conoscenza potete consultare i seguenti contenuti:
 
-- [*“Clash. Death or Glory”*](https://amzn.to/3j7H7uG) – Biografia di Pat Gilbert;
-- [*“Joe Strummer: The Future Is Unwritten”*](https://amzn.to/3zeBPTW): docu-film del 2007 (DVD)
-- [*“Joe Strummer 001”*](https://amzn.to/3mFkjoy) *–* Raccolta con inediti e rarità varie (MP3, CD)
+- *“Clash. Death or Glory”* – Biografia di Pat Gilbert;
+- *“Joe Strummer: The Future Is Unwritten”*: docu-film del 2007 (DVD)
+- *“Joe Strummer 001”* *–* Raccolta con inediti e rarità varie (MP3, CD)
 
 oppure gli album fondamentali con i Clash:
 
-- [*“London Calling” – The Clash (MP3, CD, Vinile)*](https://amzn.to/3gr0QDZ)
-- [*“Combat Rock” – The Clash (MP3, CD, Vinile)*](https://amzn.to/3msN6fN)
-- [*“Sandinista!” – The Clash (MP3, CD, Vinile)*](https://amzn.to/3B3Eal7)
+- *“London Calling” – The Clash (MP3, CD, Vinile)*
+- *“Combat Rock” – The Clash (MP3, CD, Vinile)*
+- *“Sandinista!” – The Clash (MP3, CD, Vinile)*
 
 ![La Telecaster di Joe Strummer piena di adesivi](/images/articoli/joe-strummer-lo-strimpellatore-che-scosse-il-mondo/fender-telecaster-joe-strummer.jpg "La Fender Telecaster (1966) di Joe Strummer esposta al Metropolitan Museum di New York nel 2019. Foto di Eden, Janine and Jim from New York City via Wikimedia Commons (CC BY 2.0)")
 ![I quattro Clash in posa nel backstage](/images/articoli/joe-strummer-lo-strimpellatore-che-scosse-il-mondo/the-clash-san-diego-1982.jpg "The Clash nel backstage a San Diego nel 1982. Foto di UCLA Library Special Collections via Wikimedia Commons (CC BY 2.0)")

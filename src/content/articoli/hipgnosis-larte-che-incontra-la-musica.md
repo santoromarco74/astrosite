@@ -143,10 +143,10 @@ E’ universalmente riconosciuta l’importanza della copertina per la giusta ri
 
 Se volete approfondire esistono pubblicazioni molto interessanti che raccolgono queste opere:
 
-- “[*Vinyl, Album, Cover, Art: The Complete Hipgnosis Catalogue*](https://amzn.to/3ct2UJo)” di Aubrey Powell con contributo di Peter Gabriel
-- “*[Taken by Storm: The Album Art of Storm Thorgerson](https://amzn.to/3cCVvqJ)“* di Storm Thorgerson e Peter Curzon
-- “*[Hipgnosis / Portraits](https://amzn.to/3HEahfc)*” di Aubrey Powell
-- *“*[*For the Love of Vinyl: The Album Art of Hipgnosis: Storm Thorgerson & Aubrey Powell*“](https://amzn.to/3nCwLpe)
+- “*Vinyl, Album, Cover, Art: The Complete Hipgnosis Catalogue*” di Aubrey Powell con contributo di Peter Gabriel
+- “*Taken by Storm: The Album Art of Storm Thorgerson“* di Storm Thorgerson e Peter Curzon
+- “*Hipgnosis / Portraits*” di Aubrey Powell
+- *“**For the Love of Vinyl: The Album Art of Hipgnosis: Storm Thorgerson & Aubrey Powell*“
 
 ![Raggio di luce che attraversa un prisma](/images/articoli/hipgnosis-larte-che-incontra-la-musica/prisma-rifrazione-luce.jpg "Un raggio di luce attraverso un prisma: l'idea alla base di “The Dark Side of the Moon“. Foto di dgdean via Wikimedia Commons (CC BY-SA 3.0)")
 
