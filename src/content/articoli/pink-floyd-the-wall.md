@@ -20,9 +20,9 @@ tags:
 - storm-thogerson
 - teacher
 - the-wall
-cover: /images/articoli/pink-floyd-the-wall/the-wall-rock-hall-of-fame.jpg
-coverAlt: 'Il muro bianco di The Wall con il pupazzo dell''insegnante e altri personaggi esposti in un atrio vetrato'
-coverCredit: 'Il muro di The Wall con i pupazzi di Gerald Scarfe esposti alla Rock and Roll Hall of Fame di Cleveland. Foto di Sam Howzit via Wikimedia Commons (CC BY 2.0)'
+cover: /images/articoli/pink-floyd-the-wall/copertina-the-wall.jpg
+coverAlt: 'La copertina di «The Wall»: un muro di mattoni bianchi con la scritta Pink Floyd The Wall in rosso'
+coverCredit: 'La copertina di «The Wall» dei Pink Floyd (1979). © dei titolari dei diritti, riprodotta per critica e discussione'
 draft: false
 wpId: 1027
 ---

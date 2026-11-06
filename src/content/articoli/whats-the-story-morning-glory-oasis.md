@@ -22,9 +22,9 @@ tags:
 - oasis
 - rockfield
 - wonderwall
-cover: /images/articoli/whats-the-story-morning-glory-oasis/muro-wonderwall-rockfield.jpg
-coverAlt: 'Il muro dei Rockfield Studios legato a Wonderwall'
-coverCredit: 'Il muro dei Rockfield Studios su cui Liam Gallagher registrò la voce di "Wonderwall" (1995). Foto di Steve Knight via Wikimedia Commons (CC BY 2.0)'
+cover: /images/articoli/whats-the-story-morning-glory-oasis/copertina-morning-glory-grande.jpg
+coverAlt: 'La copertina di «(What’s the Story) Morning Glory?»: due uomini si incrociano su Berwick Street, a Londra'
+coverCredit: 'La copertina di «(What’s the Story) Morning Glory?» degli Oasis (1995). © dei titolari dei diritti, riprodotta per critica e discussione'
 draft: false
 wpId: 1286
 ---
@@ -174,7 +174,7 @@ L’album *[(What’s the Story) Morning Glory](https://it.wikipedia.org/wiki/(W
 
 Potete trovare l’album , oltre che sul [sito ufficiale](https://shop.oasisinet.com/product/68112), soprattutto nella versione picture disc che raccomando fortemente, anche sul sito [Amazon](https://amzn.to/3dWdlaa) nei vari formati disponibili (MP3, LP, cassetta, CD audio).
 
-![La copertina di «(What’s the Story) Morning Glory?» degli Oasis](/images/articoli/whats-the-story-morning-glory-oasis/copertina-morning-glory.jpg "La copertina di «(What’s the Story) Morning Glory?» degli Oasis (1995). © dei titolari dei diritti, riprodotta per critica e discussione")
+![Il muro dei Rockfield Studios legato a Wonderwall](/images/articoli/whats-the-story-morning-glory-oasis/muro-wonderwall-rockfield.jpg "Il muro dei Rockfield Studios su cui Liam Gallagher registrò la voce di "Wonderwall" (1995). Foto di Steve Knight via Wikimedia Commons (CC BY 2.0)")
 
 ![Le scuderie dei Rockfield Studios nel Galles](/images/articoli/whats-the-story-morning-glory-oasis/rockfield-studios-scuderie.jpg "Le vecchie scuderie dei Rockfield Studios, vicino a Monmouth nel Galles, dove fu registrato l'album. Foto di Steve Knight via Wikimedia Commons (CC BY 2.0)")
 ![Berwick Street nel quartiere di Soho a Londra](/images/articoli/whats-the-story-morning-glory-oasis/berwick-street-soho.jpg "Berwick Street, nel quartiere di Soho a Londra: è la strada fotografata sulla copertina di “(What's the Story) Morning Glory?“. Foto di Philafrenzy via Wikimedia Commons (CC BY-SA 4.0)")

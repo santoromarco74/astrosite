@@ -13,9 +13,9 @@ tags:
 - richard-wright
 - roger-waters
 - the-wall
-cover: /images/articoli/wish-you-were-here-compie-50-anni-quando-i-pink-floyd-scrissero-la-lettera-damore-piu-bella-del-rock/pink-floyd-1974.jpg
-coverAlt: 'I quattro Pink Floyd in posa nel 1974 in bianco e nero'
-coverCredit: 'I Pink Floyd nel 1974, l’anno prima di “Wish You Were Here”: Nick Mason, David Gilmour, Roger Waters e Richard Wright. Foto: autore sconosciuto, via Wikimedia Commons (pubblico dominio)'
+cover: /images/articoli/wish-you-were-here-compie-50-anni-quando-i-pink-floyd-scrissero-la-lettera-damore-piu-bella-del-rock/copertina-wish-you-were-here.jpg
+coverAlt: 'La copertina di «Wish You Were Here»: due uomini in giacca e cravatta si stringono la mano, uno dei due sta prendendo fuoco'
+coverCredit: 'La copertina di «Wish You Were Here» dei Pink Floyd (1975). © dei titolari dei diritti, riprodotta per critica e discussione'
 draft: false
 wpId: 3712
 ---
@@ -67,6 +67,8 @@ A 50 anni di distanza, “permeato di poetica nostalgia, continua ad affascinare
 Per chi vuole riascoltare “Wish You Were Here” con occhi nuovi, il consiglio è di concentrarsi sui dettagli: l’intro di “Shine On You Crazy Diamond” con quel sintetizzatore che sembra venire dallo spazio, il contrasto tra la semplicità della title track e la complessità della suite, i testi di Waters che parlano di industria musicale ma pensano a Syd.
 
 Su YouTube trovate facilmente il documentario **“Pink Floyd: The Story of Wish You Were Here”**, che racconta nei dettagli quella magica e tragica sessione di registrazione. E se vi capita di rivedere la copertina, ricordatevi che quegli uomini che si stringono la mano stavano davvero bruciando. Proprio come tutti noi, ogni volta che desideriamo che qualcuno fosse ancora qui.
+
+![I quattro Pink Floyd in posa nel 1974 in bianco e nero](/images/articoli/wish-you-were-here-compie-50-anni-quando-i-pink-floyd-scrissero-la-lettera-damore-piu-bella-del-rock/pink-floyd-1974.jpg "I Pink Floyd nel 1974, l’anno prima di “Wish You Were Here”: Nick Mason, David Gilmour, Roger Waters e Richard Wright. Foto: autore sconosciuto, via Wikimedia Commons (pubblico dominio)")
 
 ![Il dettaglio della copertina di Wish You Were Here](/images/articoli/wish-you-were-here-compie-50-anni-quando-i-pink-floyd-scrissero-la-lettera-damore-piu-bella-del-rock/wywh-copertina-dettaglio.jpg "Il dettaglio della copertina di «Wish You Were Here» dei Pink Floyd (1975), firmata Hipgnosis. © dei titolari dei diritti, riprodotta per critica e discussione")
 ![La sequenza degli scatti della copertina di Wish You Were Here](/images/articoli/wish-you-were-here-compie-50-anni-quando-i-pink-floyd-scrissero-la-lettera-damore-piu-bella-del-rock/wywh-sequenza-scatti.jpg "La sequenza degli scatti per la copertina di «Wish You Were Here» (1975). © dei titolari dei diritti, riprodotta per critica e discussione")
