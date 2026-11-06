@@ -6,9 +6,9 @@ updated: '2022-08-12'
 categories:
 - storie
 tags: []
-cover: /images/articoli/chris-e-chester-amici-fino-alla-fine-e-oltre/illustrazione-microfoni.jpg
-coverAlt: 'Due microfoni d’epoca affiancati, uno in luce calda e uno in luce fredda, con i cavi intrecciati a terra'
-coverCredit: 'Illustrazione di La musica del Santo'
+cover: /images/articoli/chris-e-chester-amici-fino-alla-fine-e-oltre/chris-cornell-chester-bennington-2011.jpg
+coverAlt: 'Due foto in bianco e nero affiancate: a sinistra il volto sorridente di Chris Cornell, a destra Chester Bennington che canta sul palco con gli occhiali scuri'
+coverCredit: 'Chris Cornell al Toronto International Film Festival 2011 (foto di Gordon Correll via Flickr, CC BY-SA 2.0) e Chester Bennington con i Linkin Park al Madison Square Garden nel febbraio 2011 (foto di Schen Photography via Flickr, CC BY 2.0). Montaggio in bianco e nero di La musica del Santo (CC BY-SA 2.0)'
 draft: false
 wpId: 3113
 ---
