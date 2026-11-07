@@ -19,7 +19,7 @@ ascolto:
   titolo: 'You Want It Darker (2016)'
   nota: 'L’ultimo disco uscito in vita, registrato nel salotto di casa: una voce quasi sussurrata che si congeda con eleganza.'
   link: 'https://open.spotify.com/album/3jeTB3j3QmUs8SPIVleHtU'
-draft: true
+draft: false
 ---
 
 La notte del **7 novembre 2016**, a Los Angeles, se ne andava [**Leonard Cohen**](https://en.wikipedia.org/wiki/Leonard_Cohen). Aveva **82 anni**. Il **7 novembre 2026** sono esattamente **10 anni** dalla sua morte, e la cosa più pazzesca è che la sua uscita di scena è stata più coerente di qualunque sceneggiatura: pubblicò un disco, lo presentò con un’ultima intervista e poi chiuse la porta con calma. Per carità, senza chiasso. Il chiasso non era roba sua.
