@@ -2,6 +2,7 @@
 import { getCollection, render } from 'astro:content';
 import Base from '../layouts/Base.astro';
 import Foto from '../components/Foto.astro';
+import { cdn } from '../lib/img.mjs';
 import Pezzo from '../components/Pezzo.astro';
 import Lightbox from '../components/Lightbox.astro';
 import categorie from '../data/categorie.json';
@@ -78,7 +79,7 @@ const catDesc = kind === 'categoria' ? (categorie as any)[props.cat]?.descriptio
           <span class="buco giu" aria-hidden="true"></span>
         </div>
       </header>
-      {d.cover && <div class="articolo-copertina"><Foto src={d.cover} alt={d.coverAlt ?? ''} credit={d.coverCredit} eager zoom max={1800} sizes="(max-width: 1200px) 100vw, 1100px" /></div>}
+      {d.cover && <div class="articolo-copertina" style={`--sfondo: url("${cdn(d.cover, 400)}")`}><Foto src={d.cover} alt={d.coverAlt ?? ''} credit={d.coverCredit} eager zoom max={1800} sizes="(max-width: 1200px) 100vw, 1100px" /></div>}
       <div class="articolo-griglia">
         <div class="corpo" data-pagefind-body>
           {d.description && <p>{d.description}</p>}

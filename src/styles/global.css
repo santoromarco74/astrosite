@@ -174,7 +174,12 @@ a:hover .retino img { transform: scale(1.03); }
 .articolo-testa .buco.su { right: 212px; top: -18px; }
 .articolo-testa .buco.giu { right: 212px; bottom: -18px; }
 .articolo-copertina { margin-top: 36px; }
-.articolo-copertina .retino { border-radius: 10px; max-height: 600px; }
+.articolo-copertina .retino { border-radius: 10px; height: min(600px, 75vh); display: flex; justify-content: center; align-items: center; background: var(--nero); isolation: isolate; }
+/* foto intera, senza tagli: i lati vuoti sono riempiti dalla stessa foto sfocata */
+.articolo-copertina .retino::before { content: ""; position: absolute; inset: -30px; background: var(--sfondo) center / cover no-repeat; filter: blur(28px) brightness(.55); z-index: -1; }
+.articolo-copertina .retino img { width: auto; height: auto; max-width: 100%; max-height: 100%; object-fit: contain; }
+.articolo-copertina a:hover .retino img, .articolo-copertina .zoom:hover img { transform: none; }
+@media (max-width: 760px) { .articolo-copertina .retino { height: auto; max-height: 75vh; } .articolo-copertina .retino img { max-height: 75vh; } }
 .articolo-griglia { display: grid; grid-template-columns: minmax(0, var(--testo)) 320px; justify-content: space-between; gap: 72px; margin-top: 44px; }
 .laterale { align-self: start; position: sticky; top: 24px; display: flex; flex-direction: column; gap: 24px; }
 .programma { background: var(--bianco); border: 2px solid var(--nero); border-radius: 8px; }
