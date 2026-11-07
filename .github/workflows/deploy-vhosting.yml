@@ -11,7 +11,7 @@
 #   FTP_DIR       cartella del sito vista da quell'utente (es. /  oppure /lamusicadelsanto.it)
 #
 # ATTENZIONE: il caricamento è a specchio. Tutto ciò che sta nella cartella del sito
-# e non fa parte del sito Astro viene CANCELLATO (tranne .well-known e cgi-bin).
+# e non fa parte del sito Astro viene CANCELLATO (tranne .well-known, cgi-bin, clone e live).
 
 name: Pubblica su VHosting
 
@@ -74,5 +74,7 @@ jobs:
             mirror --reverse --delete --verbose --parallel=4 \
               --exclude-glob .well-known/ \
               --exclude-glob cgi-bin/ \
+              --exclude-glob clone/ \
+              --exclude-glob live/ \
               dist/ $FTP_DIR;
             bye"
