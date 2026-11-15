@@ -64,25 +64,17 @@ Sempre secondo gli studi della RIAA, il supporto fisico (LP+CD) registrano un 7%
 
 Come tutte le cose il vinile rispetto agli altri supporti come CD, [MP3](https://it.wikipedia.org/wiki/MP3) e streaming ha dei pro e contro; vediamoli insieme:
 
-    • **Pro:**
+- **Pro:**
+  - Qualità del suono: la qualità del suono del vinile non è assolutamente paragonabile a nessun altro supporto, e questo è dato dalla realizzazione del supporto stesso; inoltre l’MP3 per poter essere digitalizzato necessita di un taglio alle frequenze basse, appiattendo il suono.
+  - Qualità del supporto: il vinile viene venduto in una confezione di cartone ed a sua volta il supporto è contenuto dentro una busta (sleever) di carta, mettendo a disposizione del realizzatore più facciate da riempire con testi e artwork di ogni tipo. Inoltre il disco stesso può essere colorato o dipinto con grafiche varie, tale da renderlo pezzo da collezione (vedi galleria sotto).
+  - Supporto fisico: la possibilità di avere un supporto fisico, visibile, rende più personale l’esperienza musicale, rendendola tangibile e visiva al tempo. E poi è innegabile il piacere di avere uno scaffale pieno di vinili belli anche da guardare, e non dispersi all’interno di uno smartphone o di un PC.
+  - Mercato usato: il vinile ha sempre una discreta richiesta di mercato, soprattutto se usato; grazie alla sua rinascita sono nati numerosi associazioni culturali che organizzano mercati in tutta Italia, facendo la gioia di collezionisti e appassionati di musica. Una grossa mano la dà anche l’online, attraverso Discogs e Amazon.
 
-        ○ Qualità del suono: la qualità del suono del vinile non è assolutamente paragonabile a nessun altro supporto, e questo è dato dalla realizzazione del supporto stesso; inoltre l’MP3 per poter essere digitalizzato necessita di un taglio alle frequenze basse, appiattendo il suono.
-
-        ○ Qualità del supporto: il vinile viene venduto in una confezione di cartone ed a sua volta il supporto è contenuto dentro una busta (sleever) di carta, mettendo a disposizione del realizzatore più facciate da riempire con testi e artwork di ogni tipo. Inoltre il disco stesso può essere colorato o dipinto con grafiche varie, tale da renderlo pezzo da collezione (vedi galleria sotto).
-
-        ○ Supporto fisico: la possibilità di avere un supporto fisico, visibile, rende più personale l’esperienza musicale, rendendola tangibile e visiva al tempo. E poi è innegabile il piacere di avere uno scaffale pieno di vinili belli anche da guardare, e non dispersi all’interno di uno smartphone o di un PC.
-
-        ○ Mercato usato: il vinile ha sempre una discreta richiesta di mercato, soprattutto se usato; grazie alla sua rinascita sono nati numerosi associazioni culturali che organizzano mercati in tutta Italia, facendo la gioia di collezionisti e appassionati di musica. Una grossa mano la dà anche l’online, attraverso Discogs e Amazon.
-
-    • **Contro**:
-
-        ○ Delicatezza supporto: data la natura del vinile, ovvero un solco inciso su un disco di PVC, questo estremamente delicato e soggetto a danni, come polvere e graffi. Inoltre, come gli altri supporti, teme il calore e l’umidità in generale.
-
-        ○ Comodità: l’ascolto del vinile non è il massimo della comodità; è prettamente sequenziale, non è possibile “skippare” da una canzone all’altra se non agendo manualmente sulla puntina.
-
-        ○ Portabilità: il vinile è un po’ scomodo da portare dietro; è vero che una volta ci portavamo dietro i dischi da ascoltare ad una festa o a casa di amici, ma adesso abbiamo la possibilità di portarci dietro migliaia di canzoni solo con il nostro smartphone o con una chiavetta USB.
-
-        ○ Costo: un vinile di nuova produzione costa 20-25 euro sul mercato, molto più di una sottoscrizione mensile di un servizio di streaming come [Spotify](https://www.spotify.com/it/) o [Amazon Music](https://music.amazon.it/) che mettono a disposizione un panorama pressoché infinito di brani da ascoltare.
+- **Contro:**
+  - Delicatezza supporto: data la natura del vinile, ovvero un solco inciso su un disco di PVC, questo estremamente delicato e soggetto a danni, come polvere e graffi. Inoltre, come gli altri supporti, teme il calore e l’umidità in generale.
+  - Comodità: l’ascolto del vinile non è il massimo della comodità; è prettamente sequenziale, non è possibile “skippare” da una canzone all’altra se non agendo manualmente sulla puntina.
+  - Portabilità: il vinile è un po’ scomodo da portare dietro; è vero che una volta ci portavamo dietro i dischi da ascoltare ad una festa o a casa di amici, ma adesso abbiamo la possibilità di portarci dietro migliaia di canzoni solo con il nostro smartphone o con una chiavetta USB.
+  - Costo: un vinile di nuova produzione costa 20-25 euro sul mercato, molto più di una sottoscrizione mensile di un servizio di streaming come [Spotify](https://www.spotify.com/it/) o [Amazon Music](https://music.amazon.it/) che mettono a disposizione un panorama pressoché infinito di brani da ascoltare.
 
 ## Cosa ascoltare
 
