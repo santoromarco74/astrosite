@@ -99,7 +99,9 @@ siti ufficiali). Apri le pagine con WebFetch: gli snippet di ricerca non bastano
 2. Il salvataggio su git: crea il branch `articolo/<slug>` (se non esiste), fai commit della
    sola scheda e push del branch. Se hai gli strumenti per farlo, apri una **pull request in
    bozza** verso `main` intitolata «Articolo: <tema>», con il riepilogo della scheda nella
-   descrizione. Su quel branch arriverà poi l'articolo.
+   descrizione. Su quel branch arriverà poi l'articolo. Se il connettore GitHub o `gh pr create`
+   non funzionano, usa l'API REST:
+   `gh api repos/santoromarco74/astrosite/pulls -f base=main -f head=articolo/<slug> -f title="Articolo: <tema>" -F draft=true -f body="…"`.
 
 3. Un messaggio finale breve a Marco: i 3 fatti o aneddoti più forti, l'angolo che consigli,
    cosa non sei riuscito a verificare, e il link alla PR (o il percorso della scheda).
