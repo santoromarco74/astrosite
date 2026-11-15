@@ -17,6 +17,10 @@ tags:
 cover: /images/articoli/licensed-to-ill-beastie-boys-40-anni/copertina-licensed-to-ill.jpg
 coverAlt: 'La copertina di «Licensed to Ill»: la coda di un Boeing 727 con il logo dei Beastie Boys e la sigla 3MTA3 su un cielo color crema'
 coverCredit: 'La copertina di «Licensed to Ill» dei Beastie Boys (1986). © dei titolari dei diritti, riprodotta per critica e discussione'
+ascolto:
+  titolo: 'Licensed to Ill (1986)'
+  nota: 'Il disco del 15 novembre 1986 dall’inizio alla fine: tre ragazzi di New York, Rick Rubin in regia e le chitarre rock dentro il rap.'
+  link: 'https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb'
 draft: false
 ---
 
