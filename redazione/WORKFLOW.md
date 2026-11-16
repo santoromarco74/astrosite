@@ -88,14 +88,17 @@ Agente: **Calendario** (`.claude/agents/calendario.md`).
 1. Elenca cosa è già uscito (`src/content/articoli/`) per non riproporlo.
 2. Cerca candidati per la **settimana in corso** (da lunedì a domenica): anniversari tondi e
    attualità (uscite degli ultimi 7-10 giorni o della settimana, ristampe, tour in Italia,
-   film e documentari musicali, premi, morti recenti).
+   film e documentari musicali, premi, morti recenti). La ricerca è **giorno per giorno**: per
+   ognuno dei sette giorni si leggono nati, morti ed eventi (non solo gli anni tondi attesi).
+   I grandi classici con anniversario non tondo si segnalano comunque a parte.
 3. Sceglie le **tre proposte migliori** (almeno una di attualità, se valida), una **riserva
    Imperdibili** e una sezione **«In arrivo»** con 2-4 date forti delle tre settimane
    successive, così Marco può prenotarle in anticipo.
 4. Il caporedattore manda a Marco un messaggio breve, leggibile dal telefono:
    «Proposte per la settimana dal <lunedì> al <domenica>». Per ogni proposta: tipo, data esatta
    con giorno della settimana, di cosa si tratta, 2-3 curiosità verificate, titolo provvisorio,
-   sezione, giorno di uscita consigliato, fonte. Poi riserva e «In arrivo». Chiusura:
+   sezione, giorno di uscita consigliato, fonte. Poi riserva, «In arrivo» e «Anche questa
+   settimana» (classici non tondi o scartati, una riga l'uno). Chiusura:
    «Dimmi quale pubblicare e quando (e se vuoi scriverlo tu). Se non rispondi entro mercoledì
    alle 9, preparo io la proposta migliore.»
 5. Subito dopo programma **nella stessa sessione** (`send_later`) un promemoria per mercoledì
@@ -343,4 +346,5 @@ Testo di riferimento: se si cambia un'attività su claude.ai, si aggiorna anche 
 | 01/11/2026 | Il merge della pull request vale come ok per i post Facebook e Instagram |
 | 05/11/2026 | Copertine dei dischi solo dove il disco è il tema, da Spotify a 640 px |
 | 06/11/2026 | Ordine delle fonti foto: Commons → Openverse/Flickr → foto stampa → Depositphotos → illustrazione |
+| 16/11/2026 | Calendario: ricerca obbligatoria giorno per giorno (nati, morti, eventi) e segnalazione dei classici non tondi, dopo che erano sfuggiti i 60 anni di Jeff Buckley (17/11) e il «White Album» (22/11) |
 | 16/11/2026 | Workflow in un unico punto (questo file). Una sola attività del lunedì (proposte della settimana + riserva + «in arrivo»). Dopo la scelta: scheda di ricerca e poi pacchetto completo, salvo «scrivo io». Un solo tipo di ramo: `claude/<slug>`. Testi social in `testi-social/` |

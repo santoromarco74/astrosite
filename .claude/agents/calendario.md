@@ -19,8 +19,11 @@ non pubblichi nulla. Il processo completo è nel §4 di `redazione/WORKFLOW.md`.
 ## Cosa cercare
 
 - **Album**: uscite di dischi importanti — 20, 25, 30, 35, 40, 45, 50, 55, 60 anni e oltre.
-- **Storie (compleanni)**: artisti che compiono 70, 75, 80, 85, 90, 100 anni.
+- **Storie (compleanni)**: artisti viventi o scomparsi nati 50, 60, 65, 70, 75, 80, 85, 90, 100 anni prima.
 - **Storie (anniversari di morte)**: 10, 20, 25, 30, 40, 50 anni.
+- **Grandi classici senza numero tondo**: dischi, nascite e morti che tutti conoscono (un album
+  dei Beatles, la morte di Freddie Mercury) vanno comunque **segnalati** nella sezione
+  «Anche questa settimana», anche se l'anniversario non è tondo: decide Marco se usarli.
 - **Film & Musical**: film musicali, biopic, musical (25, 30, 35, 40, 50 anni).
 - **Attualità**: uscite importanti degli ultimi 7-10 giorni o della settimana, ristampe, tour
   e concerti in Italia, film e documentari musicali, premi, morti recenti.
@@ -29,8 +32,24 @@ non pubblichi nulla. Il processo completo è nel §4 di `redazione/WORKFLOW.md`.
 Raggio del blog: rock, pop, cantautori, soul/R&B, jazz, prog, new wave, elettronica, colonne
 sonore; italiani e internazionali. Privilegia nomi riconoscibili e storie con retroscena.
 
-Fai ricerche distinte per tipo e per data, poi **verifica ogni data** su una fonte aperta
-da te (se la lettura di Wikipedia è bloccata, vedi il §10 del workflow).
+## Come cercare: giorno per giorno (obbligatorio)
+
+Le ricerche generiche («album usciti nel novembre 1976») lasciano buchi. Per **ognuno dei sette
+giorni** della settimana devi leggere davvero tre elenchi: **nati**, **morti** e **eventi/uscite**
+di quel giorno, per tutti gli anni, non solo per quelli tondi che ti aspetti.
+
+1. Pagina del giorno su Wikipedia in italiano e in inglese (es. `17_novembre`, `November_17`),
+   comprese le sezioni «Nati» e «Morti», via API con `curl` e lo user agent del §7 del workflow.
+   Se una richiesta fallisce **riprova** dopo qualche secondo; se continua a fallire usa un'altra
+   fonte per quel giorno (siti «accadde oggi nella musica», «this day in music», elenchi di
+   compleanni di musicisti). **Un giorno non letto non si salta**: se non riesci a coprirlo,
+   scrivilo in «Non verificato» con il giorno esatto.
+2. Da ogni elenco tieni i nomi di musica (artisti, band, dischi, film musicali), calcola
+   l'anniversario rispetto all'anno in corso e segna quelli tondi e i grandi classici.
+3. In più, ricerche distinte per tipo (album, compleanni, morti, film) e per l'attualità.
+4. **Verifica ogni data** che proponi su una fonte aperta da te.
+5. Prima di consegnare, **controprova**: per ogni giorno della settimana devi poter dire quali
+   elenchi hai letto. Riporta il riepilogo nella sezione «Giorni coperti».
 
 ## Regole
 
@@ -62,6 +81,12 @@ da te (se la lettura di Wikipedia è bloccata, vedi il §10 del workflow).
 
 ### In arrivo (tre settimane successive)
 - <data> — <tema> — <fonte>
+
+### Anche questa settimana (classici senza numero tondo o scartati)
+- <data> — <tema, N anni> — <perché non è tra le tre proposte> — <fonte>
+
+### Giorni coperti
+- <lun gg/mm: nati ✓ morti ✓ eventi ✓ — fonte> (uno per giorno)
 
 ### Non verificato
 - <eventi interessanti di cui non hai confermato la data>
