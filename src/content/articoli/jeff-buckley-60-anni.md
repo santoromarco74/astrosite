@@ -11,9 +11,9 @@ tags:
 - grace
 - hallelujah
 - cantautori
-cover: /images/articoli/jeff-buckley-60-anni/jeff-buckley-60-anni-copertina.jpg
-coverAlt: 'Illustrazione con un disco in vinile giallo e nero con l’etichetta terracotta, il numero 60 in grande e onde blu, verdi e nere in basso.'
-coverCredit: 'Illustrazione di La musica del Santo'
+cover: /images/articoli/jeff-buckley-60-anni/jeff-buckley-ritratto.jpg
+coverAlt: 'Jeff Buckley in bianco e nero, seduto davanti a un muro chiaro, giacca scura e maglietta bianca, con un cappello nero appoggiato accanto.'
+coverCredit: 'Jeff Buckley. Foto via Wikimedia Commons (CC0)'
 ascolto:
   titolo: 'Grace (1994)'
   nota: 'L’unico album finito in vita: dieci canzoni tra rock, soul e una «Hallelujah» diventata la più famosa di tutte.'
@@ -40,6 +40,8 @@ In quella serata conosce anche il chitarrista **Gary Lucas** (ex Magic Band di C
 Dal **1992** Jeff suona da solo, voce e chitarra elettrica, al **Sin-é**, un caffè irlandese di St. Mark’s Place, nell’East Village, di proprietà del dublinese **Shane Doyle**. Il suo manager di allora, Dave Lory, lo ricorda come un posto da una quarantina di persone. Eppure lì dentro succede qualcosa di incredibile: **Paul Rappaport** della Sony si convince in cinque minuti sentendolo cantare Van Morrison, e nell’**ottobre 1992** Jeff firma con la **Columbia** per tre album. Anche la Columbia, a quanto raccontano le fonti, non sapeva ancora se sapesse scrivere canzoni.
 
 *Grace* viene registrato dall’autunno del **1993** ai Bearsville Studios di Woodstock, con **Andy Wallace** alla produzione, **Mick Grondahl** al basso e **Matt Johnson** alla batteria. Un dettaglio che amiamo: Grondahl l’aveva visto suonare da solo in una cripta della Columbia University e mesi dopo lo aveva fermato per strada. La band suonava insieme da **quattro settimane** quando partì per Woodstock: «siamo diventati una band facendo il disco».
+
+![La copertina di Grace: Jeff Buckley a capo chino con un microfono d’epoca in mano, su uno sfondo blu scuro](/images/articoli/jeff-buckley-60-anni/grace-copertina-album.jpg "La copertina di «Grace» di Jeff Buckley (1994). © dei titolari dei diritti, riprodotta per critica e discussione")
 
 Esce il **23 agosto 1994**: dieci brani, **sette originali e tre cover** («Lilac Wine», «Corpus Christi Carol» di Britten e una certa «Hallelujah»; nell’edizione in streaming c’è anche «Forget Her»). Vende poco: il picco, negli Stati Uniti, è il **n. 149** della Billboard 200. Eppure i colleghi capiscono subito: tra i fan dichiarati ci sono Jimmy Page, Robert Plant, Paul McCartney, Bob Dylan, David Bowie e Chris Cornell. Il **13 aprile 1995** la Francia gli assegna il Grand Prix International du Disque dell’Académie Charles Cros.
 
