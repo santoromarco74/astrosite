@@ -6,22 +6,21 @@ autore Marco Santoro. Dettagli tecnici nel `README.md`.
 ## Regola d'oro
 
 **Un push su `main` pubblica il sito** (workflow `.github/workflows/deploy-vhosting.yml`,
-caricamento FTP a specchio). Non fare mai commit o push diretti su `main`: lavora su un branch
-e apri una pull request. Il merge lo fa Marco.
+caricamento FTP a specchio). Non fare mai commit o push diretti su `main`: lavora su un ramo
+`claude/<slug>` e apri una pull request. Il merge lo fa Marco.
+
+## Prima di qualsiasi lavoro di redazione
+
+Leggi **`redazione/WORKFLOW.md`**: è l'unico punto in cui è descritto come si lavora (fasi,
+agenti, attività programmate, foto, social, newsletter, manutenzione). Per la scrittura vale
+**`redazione/guida-stile.md`**. Non duplicare quelle regole altrove: se cambiano, si cambiano lì.
 
 ## Dove stanno le cose
 
 - Articoli: `src/content/articoli/<slug>.md` (schema in `src/content.config.ts`)
 - Immagini articoli: `public/images/articoli/<slug>/`
-- Testi social: `testi-social/social-<tema>.md`; grafiche: `scripts/social/` (vedi LEGGIMI)
-- Redazione: `redazione/` — guida di stile, schede di ricerca, proposte del calendario
+- Schede di ricerca: `redazione/schede/<slug>.md`
+- Testi social: `testi-social/social-<slug>.md`; grafiche: `scripts/social/` (vedi LEGGIMI)
+- Agenti: `.claude/agents/` — calendario, ricercatore, fotografo, redattore, grafico, revisore
 
-## Redazione (agenti)
-
-| Agente | File | Cosa fa |
-|---|---|---|
-| Calendario | `.claude/agents/calendario.md` | Propone 4-5 temi da anniversari verificati |
-| Ricercatore | `.claude/agents/ricercatore.md` | Scheda di ricerca con fonti e foto per il tema scelto |
-
-Tutti seguono `redazione/guida-stile.md`. Marco sceglie i temi, scrive o approva i testi e pubblica.
 Nessun agente inventa fatti: ciò che non è verificato va dichiarato come tale.
