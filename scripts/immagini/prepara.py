@@ -22,7 +22,7 @@ from PIL import Image
 UA = "LaMusicaDelSantoBot/1.0 (https://lamusicadelsanto.it)"
 # Solo fonti ammesse dal workflow (§7): Commons, Flickr, copertine Spotify.
 HOST_AMMESSI = {
-    "upload.wikimedia.org", "commons.wikimedia.org",
+    "upload.wikimedia.org", "commons.wikimedia.org", "thumb.wikimedia.org",
     "live.staticflickr.com", "farm1.staticflickr.com", "farm2.staticflickr.com",
     "farm3.staticflickr.com", "farm4.staticflickr.com", "farm5.staticflickr.com",
     "farm6.staticflickr.com", "farm7.staticflickr.com", "farm8.staticflickr.com",
