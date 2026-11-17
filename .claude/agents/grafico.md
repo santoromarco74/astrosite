@@ -18,3 +18,7 @@ già scritto.
    non va, accorcia i testi e rigenera.
 
 Consegni i nomi dei tre file. Non fai commit né push.
+
+Se la sessione non può caricare file binari su GitHub (sessioni di Cowork), il JSON delle grafiche
+basta: sul ramo le tre grafiche le rigenera l'azione «Immagini e grafiche» (indica il JSON nel
+campo `grafiche` del manifest). Genera comunque le grafiche in locale per guardarle e controllarle.
