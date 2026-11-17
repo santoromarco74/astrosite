@@ -57,7 +57,7 @@ e segui quel ruolo», aggiungendo tema, slug, ramo e data.
 
 | Attività | Quando | Cosa fa |
 |---|---|---|
-| **Musica del Santo - redazione del lunedì** | lunedì 8:59 | Fase 1, poi nella stessa sessione Fase 2 e Fase 3 (con promemoria) |
+| **Musica del Santo - redazione del lunedì** | lunedì 6:30 | Fase 1, poi nella stessa sessione Fase 2 e Fase 3 (con promemoria) |
 | **Musica del Santo - newsletter del sabato** | sabato 8:47 | Bozza della lettera Substack (§8) |
 | **Musica del Santo - manutenzione mensile** | giorno 1, 8:52 | Link rotti e controlli di sicurezza, solo rapporto (§9) |
 
@@ -70,9 +70,11 @@ lunedì 7:33 è stata assorbita dalla redazione del lunedì (16/11/2026).
 ## 3. La settimana tipo
 
 ```
-LUN 8:59   Fase 1: proposte ───► Marco sceglie (tema, giorno, «scrivo io» sì/no)
+LUN 6:30   Fase 1: proposte ───► Marco sceglie (tema, giorno, «scrivo io» sì/no)
                                    │ se non risponde entro MER 9:00: sceglie il caporedattore
-           Fase 2: scheda + foto ─► articolo ─► grafiche ─► revisore ─► build ─► pull request
+           tre domande a Marco ─► Marco risponde con le sue considerazioni
+           Fase 2: scheda + foto (anche prima delle risposte) ─► articolo (solo dopo le risposte)
+                   ─► grafiche ─► revisore ─► build ─► pull request
                                    │
            Marco fa il merge ──────► sito online in pochi minuti
 GIORNO DI USCITA 18:52  Fase 3: controlli ─► post Facebook + Instagram ─► link della storia a Marco
@@ -100,10 +102,11 @@ Agente: **Calendario** (`.claude/agents/calendario.md`).
    sezione, giorno di uscita consigliato, fonte. Poi riserva, «In arrivo» e «Anche questa
    settimana» (classici non tondi o scartati, una riga l'uno). Chiusura:
    «Dimmi quale pubblicare e quando (e se vuoi scriverlo tu). Se non rispondi entro mercoledì
-   alle 9, preparo io la proposta migliore.»
+   alle 9, scelgo io la proposta migliore e ti mando le domande.»
 5. Subito dopo programma **nella stessa sessione** (`send_later`) un promemoria per mercoledì
-   alle 9:00 (Europe/Rome): «Controllo di mercoledì: se Marco non ha scelto, prepara il
-   pacchetto della proposta migliore seguendo la Fase 2 di redazione/WORKFLOW.md». Se Marco
+   alle 9:00 (Europe/Rome): «Controllo di mercoledì: se Marco non ha scelto, scegli la proposta
+   migliore, mandagli le tre domande e prepara scheda e foto seguendo la Fase 2 di
+   redazione/WORKFLOW.md; l'articolo si scrive solo dopo le sue risposte». Se Marco
    risponde prima, il promemoria si cancella (`delete_trigger`). **Un solo promemoria**: prima
    di crearlo si controlla con `list_triggers` che non ce ne sia già uno uguale.
 
@@ -133,10 +136,12 @@ non Wikipedia, di cui una primaria e una italiana; l'elenco di dove cercare è i
 `.claude/agents/ricercatore.md` («Dove cercare»).
 
 **Le tre domande a Marco** (guida di stile, «Voce unica»): partono subito dopo la scelta, in un
-messaggio solo, insieme alla tesi proposta. Ricerca e foto non le aspettano. Il Redattore le
-aspetta fino al giorno prima dell'uscita alle 12 (o fino al via del pacchetto di mercoledì): se
-non arrivano, scrive senza prima persona biografica e lo dice nella pull request, così Marco può
-aggiungere le sue righe prima del merge. Nelle risposte di Marco non si aggiunge nulla di
+messaggio solo, insieme alla tesi proposta. Ricerca e foto possono partire subito, ma
+**l'articolo si scrive solo dopo le risposte di Marco** (decisione di Marco, 17/11/2026): le sue
+considerazioni sono il punto di partenza del pezzo, non un'aggiunta. Se le risposte non arrivano,
+il caporedattore manda **un solo promemoria** (`send_later`, il giorno dopo alle 9) e, se il giorno
+di uscita è troppo vicino per scrivere, propone a Marco una nuova data o la riserva Imperdibili.
+Mai scrivere l'articolo senza le risposte. Nelle risposte di Marco non si aggiunge nulla di
 inventato.
 
 **Se Marco ha detto «scrivo io»**: ci si ferma dopo il passo 1 (scheda + foto), si apre la pull
@@ -225,10 +230,12 @@ sulla pagina del file, non si deduce.
 3. **Foto stampa ufficiali**: solo dalla sezione stampa del sito ufficiale di artista, etichetta
    o ufficio stampa, e solo se la pagina autorizza esplicitamente l'uso editoriale. Credito come
    indicato lì + «foto stampa ufficiale»; link della pagina nella pull request.
-4. **Depositphotos** (abbonamento di Marco, non raggiungibile dagli agenti): se copertina o
-   galleria restano deboli si prepara un elenco (soggetto, periodo, 2-3 parole chiave in
-   inglese, dove va, quale foto sostituirebbe) nella pull request e nel messaggio. Didascalia
-   «Foto Depositphotos». La pull request non aspetta queste foto.
+4. **Foto di Marco** (Depositphotos con il suo abbonamento, o foto che manda lui): **solo se
+   le fonti 1-3 non bastano**. Le cercano sempre prima gli agenti; a Marco si chiede solo ciò che
+   manca, con un elenco preciso (soggetto, periodo, 2-3 parole chiave in inglese, dove va, quale
+   foto sostituirebbe) nella pull request e nel messaggio. Marco le carica sul ramo dal browser
+   o le manda in chat. Didascalia «Foto Depositphotos» o il credito che indica lui. La pull
+   request non aspetta queste foto.
 5. **Illustrazione originale**, solo per la copertina e solo se non c'è altro (o il tema è un
    luogo o un'idea): disegnata in codice con colori e caratteri del sito. Oggetti e simboli;
    **mai** persone reali, copertine, loghi, marchi o personaggi protetti. Credito
@@ -372,6 +379,7 @@ Testo di riferimento: se si cambia un'attività su claude.ai, si aggiorna anche 
 | 01/11/2026 | Il merge della pull request vale come ok per i post Facebook e Instagram |
 | 05/11/2026 | Copertine dei dischi solo dove il disco è il tema, da Spotify a 640 px |
 | 06/11/2026 | Ordine delle fonti foto: Commons → Openverse/Flickr → foto stampa → Depositphotos → illustrazione |
+| 17/11/2026 | L'articolo si scrive solo dopo le risposte di Marco alle tre domande; le foto le propone Marco solo se gli agenti non ne trovano di disponibili |
 | 17/11/2026 | Scrittura sui rami con il connettore GitHub (testo) e immagini/grafiche preparate dall'azione «Immagini e grafiche (rami claude)» a partire dal manifest `scripts/immagini/<slug>.json` |
 | 17/11/2026 | Fonti: Wikipedia solo per orientarsi; per ogni scheda almeno tre fonti non Wikipedia, di cui una primaria e una italiana (elenco nel file del Ricercatore) |
 | 17/11/2026 | Voce unica: una tesi per pezzo, mai l'ordine delle fonti, tre domande a Marco prima di scrivere, al massimo una formula fissa, controllo anti-copia con `redazione/strumenti/anticopia.py`. Dopo aver trovato un sito con un pezzo sui Beastie Boys quasi uguale al nostro. Solo per i nuovi articoli |

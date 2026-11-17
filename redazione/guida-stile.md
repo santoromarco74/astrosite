@@ -48,9 +48,8 @@ Lo scheletro resta, ma **non è un modulo da riempire**: l'ordine interno lo dec
    che c'è nella scheda: si sceglie.
 3. **L'approfondimento**: il cuore, cioè il perché la tesi è vera (la svolta, il retroscena, il disco).
 4. Facoltativo: l'eredità o le ombre.
-5. **Il giudizio**: la parte in prima persona singolare. Se Marco ha risposto alle domande
-   (vedi «Voce unica»), è costruita sulle sue parole; altrimenti resta un giudizio del blog, senza
-   ricordi o esperienze attribuiti a Marco.
+5. **Il giudizio**: la parte in prima persona singolare, costruita sulle risposte di Marco alle
+   tre domande (vedi «Voce unica»).
 6. Galleria: **3 oppure 6** immagini, una per riga su righe consecutive, con didascalia e credito.
 7. **Cosa ascoltare o guardare**, in che ordine, con i link ai pezzi interni.
 8. **Chiusa**: una domanda ai lettori legata alla tesi, non generica.
@@ -112,8 +111,9 @@ sceglie, da dove si parte, che cosa se ne pensa.
    brevi**: un ricordo (quando e come ha incontrato quell'artista o quel disco), un'opinione
    (cosa ne pensa davvero, anche controcorrente), un collegamento (un altro disco, un concerto,
    un momento a cui lo lega). Le risposte sono il materiale della parte in prima persona: si usano
-   fedelmente, sistemando solo la forma. **Mai inventare ricordi, gusti o esperienze di Marco**:
-   se non risponde, il giudizio resta del blog («secondo noi»), senza prima persona biografica.
+   fedelmente, sistemando solo la forma, e sono il punto di partenza del pezzo.
+   **L'articolo si scrive solo dopo le sue risposte**, e mai si inventano ricordi, gusti o
+   esperienze di Marco.
 4. **Parole nostre, sempre.** Si scrive con la scheda chiusa sul tavolo, non con la fonte aperta
    accanto. Nessuna sequenza di **6 o più parole consecutive** uguale a una fonte, e niente frasi
    tradotte alla lettera da fonti in inglese (contano come copia). Fanno eccezione nomi, titoli
@@ -192,7 +192,7 @@ La pubblicazione è descritta nel §6 del workflow; la storia Instagram la caric
 
 - [ ] C'è una tesi in una frase, e ogni sezione la serve?
 - [ ] L'ordine del pezzo è diverso da quello della voce Wikipedia e delle fonti principali?
-- [ ] Le parti in prima persona vengono dalle risposte di Marco (o non parlano di lui)?
+- [ ] Le parti in prima persona vengono dalle risposte di Marco, senza nulla di inventato?
 - [ ] `anticopia.py` non trova sequenze di 6 parole uguali alle fonti (salvo nomi e citazioni)?
 - [ ] Al massimo una formula ricorrente, nessuna etichetta fissa nei titoli delle sezioni?
 - [ ] La data e il numero sono nell'attacco, in grassetto?
