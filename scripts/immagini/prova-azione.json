@@ -9,6 +9,10 @@
     {
       "file": "public/images/articoli/prova-azione/tim-buckley.jpg",
       "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tim-Buckley.jpg?width=1600"
+    },
+    {
+      "file": "public/images/articoli/prova-azione/wolf-river.jpg",
+      "url": "https://live.staticflickr.com/191/454797575_c8f75f0fda_b.jpg"
     }
   ],
   "grafiche": "scripts/social/dati/prova-azione.json"
