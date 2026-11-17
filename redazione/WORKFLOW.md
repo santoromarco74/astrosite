@@ -143,6 +143,18 @@ inventato.
 request **in bozza** e gli si mandano i 3 fatti più forti e l'angolo consigliato. Quando Marco
 ha scritto, a richiesta si riparte dal passo 3.
 
+**Come si scrive sul ramo** (dal 17/11/2026): le sessioni automatiche di Cowork non possono
+fare `git push`, ma il **connettore GitHub** può creare il ramo, scrivere file di **testo** e aprire
+la pull request (`create_branch`, `push_files` / `create_or_update_file`, `create_pull_request`).
+Le **immagini** non passano dal connettore: il Fotografo scrive il manifest
+`scripts/immagini/<slug>.json` con gli indirizzi delle foto e l'azione GitHub «Immagini e grafiche
+(rami claude)» le scarica, le prepara, genera le tre grafiche social e fa il commit sullo stesso
+ramo. Dopo qualche minuto si legge l'esito in `scripts/immagini/<slug>.esito.md` (istruzioni in
+`scripts/immagini/LEGGIMI.md`). Ordine: ramo → articolo, scheda, testi social, JSON delle
+grafiche e manifest → attesa dell'esito → revisore → pull request. Se anche il connettore non
+funziona, si torna alla patch da mandare a Marco. La build di prova (`npm run build`) si fa nel
+clone locale della sessione prima di scrivere sul ramo.
+
 **Cosa entra nel ramo**: articolo, immagini, scheda, testi social, dati e file delle grafiche.
 Niente patch, zip o cartelle di lavoro. `redazione/` e `testi-social/` non finiscono sul sito
 (Astro pubblica solo `src/` e `public/`).
@@ -312,7 +324,9 @@ Solo **controllare e riferire**: nessuna modifica, niente repository, niente Mak
 - **Player**: un link YouTube o Spotify da solo su una riga.
 - **Grafiche**: `NODE_PATH=$(npm root -g) node scripts/social/genera.cjs scripts/social/dati/<slug>.json`
   → `public/social/<nome>-ig.jpg`, `-fb.png`, `-storia.jpg`. Fascia sempre con data assoluta.
-- **GitHub**: push dei rami e pull request con `gh api` (REST). Niente `gh pr create`, niente
+- **GitHub**: nelle sessioni di Cowork si scrive con il connettore GitHub (solo testo) e le
+  immagini passano dal manifest e dall'azione «Immagini e grafiche» (§5). Dove `git push`
+  funziona, push dei rami e pull request con `gh api` (REST). Niente `gh pr create`, niente
   cancellazione di rami remoti, niente push su `main`.
 - **Wikipedia**: dalle sessioni cloud lo strumento di lettura delle pagine può essere bloccato.
   In quel caso si usano le API con `curl` e lo user agent del §7, oppure altre fonti aperte.
@@ -358,6 +372,7 @@ Testo di riferimento: se si cambia un'attività su claude.ai, si aggiorna anche 
 | 01/11/2026 | Il merge della pull request vale come ok per i post Facebook e Instagram |
 | 05/11/2026 | Copertine dei dischi solo dove il disco è il tema, da Spotify a 640 px |
 | 06/11/2026 | Ordine delle fonti foto: Commons → Openverse/Flickr → foto stampa → Depositphotos → illustrazione |
+| 17/11/2026 | Scrittura sui rami con il connettore GitHub (testo) e immagini/grafiche preparate dall'azione «Immagini e grafiche (rami claude)» a partire dal manifest `scripts/immagini/<slug>.json` |
 | 17/11/2026 | Fonti: Wikipedia solo per orientarsi; per ogni scheda almeno tre fonti non Wikipedia, di cui una primaria e una italiana (elenco nel file del Ricercatore) |
 | 17/11/2026 | Voce unica: una tesi per pezzo, mai l'ordine delle fonti, tre domande a Marco prima di scrivere, al massimo una formula fissa, controllo anti-copia con `redazione/strumenti/anticopia.py`. Dopo aver trovato un sito con un pezzo sui Beastie Boys quasi uguale al nostro. Solo per i nuovi articoli |
 | 16/11/2026 | Calendario: ricerca obbligatoria giorno per giorno (nati, morti, eventi) e segnalazione dei classici non tondi, dopo che erano sfuggiti i 60 anni di Jeff Buckley (17/11) e il «White Album» (22/11) |

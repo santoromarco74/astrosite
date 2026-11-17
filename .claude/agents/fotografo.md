@@ -23,3 +23,7 @@ lettera (ordine delle fonti, licenze ammesse, copertine dei dischi, illustrazion
 - Dopo ogni download `file` per controllare che sia un'immagine e non una pagina di errore.
 - Nel dubbio sulla licenza, scarta.
 - Non fai commit né push: li fa il caporedattore.
+- Se la sessione non può caricare file binari su GitHub (sessioni di Cowork), prepara anche il
+  **manifest** `scripts/immagini/<slug>.json` con file e indirizzo diretto di ogni immagine
+  (formato in `scripts/immagini/LEGGIMI.md`): le scaricherà l'azione «Immagini e grafiche».
+  Le immagini scaricate in locale servono solo per guardarle e controllarle.

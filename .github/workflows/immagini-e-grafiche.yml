@@ -1,0 +1,79 @@
+# Immagini e grafiche social per i rami degli agenti (claude/**).
+#
+# Il connettore GitHub usato dagli agenti scrive solo file di testo. Per le immagini l'agente
+# scrive un «manifest» in scripts/immagini/<slug>.json con gli indirizzi delle foto (vedi
+# scripts/immagini/LEGGIMI.md). Questa azione:
+#   1. scarica le foto (solo da Wikimedia Commons, Flickr e copertine Spotify), le controlla,
+#      le ridimensiona a 1600 px e sotto i 500 KB;
+#   2. rigenera le tre grafiche social se è cambiato il manifest o scripts/social/dati/<slug>.json;
+#   3. fa il commit sullo stesso ramo, con un resoconto in scripts/immagini/<slug>.esito.md.
+# Non tocca main e non pubblica nulla: la pubblicazione resta il merge di Marco.
+
+name: Immagini e grafiche (rami claude)
+
+on:
+  push:
+    branches: ['claude/**']
+    paths:
+      - 'scripts/immagini/*.json'
+      - 'scripts/social/dati/*.json'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: immagini-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  prepara:
+    if: startsWith(github.ref, 'refs/heads/claude/')
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Installa Pillow
+        run: pip install pillow
+
+      - name: Trova cosa è cambiato
+        run: |
+          BEFORE="${{ github.event.before }}"
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [ -z "$BEFORE" ] || [ "$BEFORE" = "0000000000000000000000000000000000000000" ]; then
+            git fetch -q origin main
+            BEFORE=$(git merge-base origin/main HEAD)
+          fi
+          git diff --name-only "$BEFORE" HEAD -- scripts/immagini/ scripts/social/dati/ > /tmp/cambiati.txt
+          cat /tmp/cambiati.txt
+
+      - name: Scarica e prepara le immagini
+        run: python3 scripts/immagini/prepara.py /tmp/cambiati.txt
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Genera le grafiche social
+        run: |
+          if [ ! -s /tmp/grafiche.txt ]; then echo "Nessuna grafica da generare"; exit 0; fi
+          npm i -g playwright@1.49.1
+          node "$(npm root -g)/playwright/cli.js" install --with-deps chromium
+          while read -r g; do
+            NODE_PATH=$(npm root -g) node scripts/social/genera.cjs "$g"
+          done < /tmp/grafiche.txt
+
+      - name: Commit sul ramo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898+github-actions[bot]@users.noreply.github.com"
+          git add public/images/articoli public/social scripts/immagini/*.esito.md 2>/dev/null || true
+          if git diff --cached --quiet; then echo "Niente da salvare"; exit 0; fi
+          git commit -m "Immagini e grafiche preparate dall'azione automatica"
+          git push origin "HEAD:${GITHUB_REF#refs/heads/}"
