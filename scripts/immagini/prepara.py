@@ -20,6 +20,8 @@ import urllib.request
 from PIL import Image
 
 UA = "LaMusicaDelSantoBot/1.0 (https://lamusicadelsanto.it)"
+# Flickr ha risposto 403 allo user agent del bot (prova del 17/11/2026): per i suoi server se ne usa uno da browser.
+UA_FLICKR = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
 # Solo fonti ammesse dal workflow (§7): Commons, Flickr, copertine Spotify.
 HOST_AMMESSI = {
     "upload.wikimedia.org", "commons.wikimedia.org", "thumb.wikimedia.org",
@@ -39,7 +41,8 @@ def scarica(url):
     ultimo = None
     for tentativo in range(4):
         try:
-            req = urllib.request.Request(url, headers={"User-Agent": UA})
+            ua = UA_FLICKR if host.endswith("staticflickr.com") else UA
+            req = urllib.request.Request(url, headers={"User-Agent": ua})
             with urllib.request.urlopen(req, timeout=60) as r:
                 finale = urllib.parse.urlparse(r.geturl()).hostname or ""
                 if finale not in HOST_AMMESSI:
