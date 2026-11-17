@@ -1,0 +1,15 @@
+{
+  "slug": "prova-azione",
+  "immagini": [
+    {
+      "file": "public/images/articoli/prova-azione/grace.jpg",
+      "url": "https://i.scdn.co/image/ab67616d0000b273afc2d1d2c8703a10aeded0af",
+      "lato_max": 640
+    },
+    {
+      "file": "public/images/articoli/prova-azione/tim-buckley.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tim-Buckley.jpg?width=1600"
+    }
+  ],
+  "grafiche": "scripts/social/dati/prova-azione.json"
+}
