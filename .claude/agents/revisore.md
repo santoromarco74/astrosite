@@ -23,6 +23,18 @@ Leggi prima `redazione/guida-stile.md` e i §7 e §10 di `redazione/WORKFLOW.md`
 6. **«Da ascoltare»**: il link porta all'album giusto su Spotify (controlla con l'oembed).
 7. **Testi social e grafiche**: stesse regole di date; link e slug corretti; grafiche leggibili.
 8. **Voce**: l'articolo «suona» come il blog? (confrontalo con due articoli recenti).
+9. **Voce unica e anti-copia** (guida, «Voce unica»):
+   - c'è una tesi riconoscibile e l'ordine del pezzo **non** ricalca quello della voce Wikipedia
+     o della fonte principale? Se è un elenco di fatti nello stesso ordine, è un problema bloccante;
+   - le parti in prima persona attribuite a Marco vengono dalle sue risposte (le trovi nella
+     pull request o nel messaggio del caporedattore)? Ricordi inventati sono bloccanti;
+   - scarica in una cartella temporanea **fuori dal repository** le 3-5 fonti principali della
+     scheda (`curl -sL -A "Mozilla/5.0" -o /tmp/fonti/<n>.html <url>`) e lancia
+     `python3 redazione/strumenti/anticopia.py src/content/articoli/<slug>.md /tmp/fonti/*`:
+     ogni sequenza segnalata che non sia un nome, un titolo o una citazione attribuita è da
+     riscrivere. Per le fonti in inglese confronta a occhio 3-4 passaggi chiave: una traduzione
+     letterale vale come copia;
+   - al massimo una formula ricorrente; nessuna etichetta fissa nei titoli delle sezioni.
 
 ## Cosa consegni
 

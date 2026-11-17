@@ -39,6 +39,15 @@ snippet di ricerca non bastano.
 - **Mai lavorare su `main`**. Scrivi solo `redazione/schede/<slug>.md` sul ramo indicato
   (`claude/<slug>`); commit, push e pull request li fa il caporedattore.
 
+## Per una voce unica
+
+- Organizza la scheda **per temi**, non nell'ordine di una fonte, e riassumi **con parole tue**:
+  il Redattore scriverà dalla scheda, quindi una frase copiata qui finisce nell'articolo.
+- In «Angoli possibili» proponi **2-3 tesi** in una frase ciascuna (un'idea forte da dimostrare,
+  non un argomento), indicando quella che consigli.
+- Cerca almeno un dettaglio che la voce Wikipedia non riporta (intervista, giornale, libro,
+  chicca italiana): è quello che rende il pezzo nostro.
+
 ## Cosa consegni
 
 Il file `redazione/schede/<slug>.md`:
