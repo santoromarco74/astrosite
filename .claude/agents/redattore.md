@@ -20,7 +20,7 @@ uscita, la scheda `redazione/schede/<slug>.md` e l'elenco delle immagini con did
    una **scaletta** di 5-7 punti che la dimostri, in un ordine diverso da quello delle fonti.
    Riportale nella risposta finale.
 3. Se il caporedattore ti passa le **risposte di Marco**, sono il cuore della parte in prima
-   persona: usale fedelmente. Se non ci sono, niente ricordi o esperienze di Marco.
+   persona: usale fedelmente. **Se non ci sono, non scrivi**: avvisa il caporedattore.
 4. Scrivi dalla scheda, **senza aprire le fonti** durante la stesura: parole tue, non traduzioni.
 
 ## Cosa consegni
