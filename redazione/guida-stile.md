@@ -38,19 +38,27 @@ nuovo di Marco si discosta da qui, ha ragione l'articolo: aggiornate la guida.
 
 ## Struttura tipica
 
-1. **Attacco**: la data e il numero in grassetto nella prima o seconda frase
-   («Il **24 ottobre 2026** **Bill Wyman** compie **90 anni**»). Spesso un aggancio al pezzo
-   precedente («Dopo i cento anni di Chuck Berry…»).
-2. `## Il racconto di …` — le origini, con 1-3 `###` di episodi.
-3. `## L'approfondimento: …` — il cuore: come è nato il disco, la svolta, i retroscena.
-4. Facoltativo: `## L'eredità …` / una sezione sulle ombre.
-5. `## Se dovessi dire cosa rappresenta…` — la sola parte in prima persona singolare, il giudizio.
-6. Galleria: **3 oppure 6** immagini, una per riga su righe consecutive, con didascalia e credito.
-7. `## Se volete approfondire` — cosa ascoltare/guardare, in che ordine, link a pezzi interni.
-8. **Chiusa**: una domanda ai lettori («E voi, qual è la vostra canzone di…?»).
+Lo scheletro resta, ma **non è un modulo da riempire**: l'ordine interno lo decide la tesi
+(vedi «Voce unica»), non la cronologia né l'ordine delle fonti.
 
-I titoli dei paragrafi sono frasi con un'immagine concreta, non etichette
+1. **Attacco**: una scena, un dettaglio o una domanda che porta dritti alla tesi, con la data e
+   il numero in grassetto entro le prime righe («Il **24 ottobre 2026** **Bill Wyman** compie
+   **90 anni**»). Mai cominciare dalla nascita o dalla registrazione.
+2. **Il racconto**: le vicende che servono alla tesi, con 1-3 `###` di episodi. Non tutto quello
+   che c'è nella scheda: si sceglie.
+3. **L'approfondimento**: il cuore, cioè il perché la tesi è vera (la svolta, il retroscena, il disco).
+4. Facoltativo: l'eredità o le ombre.
+5. **Il giudizio**: la parte in prima persona singolare. Se Marco ha risposto alle domande
+   (vedi «Voce unica»), è costruita sulle sue parole; altrimenti resta un giudizio del blog, senza
+   ricordi o esperienze attribuiti a Marco.
+6. Galleria: **3 oppure 6** immagini, una per riga su righe consecutive, con didascalia e credito.
+7. **Cosa ascoltare o guardare**, in che ordine, con i link ai pezzi interni.
+8. **Chiusa**: una domanda ai lettori legata alla tesi, non generica.
+
+I titoli delle sezioni sono frasi con un'immagine concreta, scritte per **quel** pezzo
 («Il concerto in pigiama», «Una casa fredda, un camion e mille sterline a settimana»).
+Le vecchie etichette fisse («Il racconto di…», «L'approfondimento: …», «Se dovessi dire cosa
+rappresenta…», «Se volete approfondire») non si usano più come titoli: al massimo una per pezzo.
 
 ## Titoli
 
@@ -77,14 +85,43 @@ grafiche e newsletter.
 ## Voce
 
 - Ci si rivolge ai lettori con il **voi**; il blog parla con il **noi** («il nostro pezzo su…»).
-- Formule ricorrenti, da usare con misura (una o due per pezzo, non tutte):
-  «La cosa più pazzesca è che…», «Per carità, …», «Diciamo che…», «Quello che in pochi sanno è che…»,
-  «Se ve lo state chiedendo: sì, …», «E sapete cosa…?», «se ve lo raccontassero al bar, non ci credereste».
+- Formule ricorrenti: **facoltative e al massimo una per pezzo**, e mai la stessa in due
+  articoli consecutivi: «La cosa più pazzesca è che…», «Per carità, …», «Diciamo che…»,
+  «Quello che in pochi sanno è che…», «Se ve lo state chiedendo: sì, …», «E sapete cosa…?»,
+  «se ve lo raccontassero al bar, non ci credereste». Meglio una frase nuova che una formula.
 - Le **chicche per il pubblico italiano** sono un marchio di fabbrica (De André e «Suzanne»,
   Wyman e Dario Argento): cercatele sempre.
 - Dubbi dichiarati onestamente: «Dettaglio da prendere con le molle, perché lo racconta soprattutto
   una sola fonte», «la cifra varia a seconda delle fonti», «è la sua versione dei fatti».
 - Citazioni brevi tra «caporali», corsivo per i titoli di libri, film e programmi.
+
+## Voce unica (regola di Marco, 17/11/2026)
+
+Due siti che partono dalle stesse fonti non devono scrivere lo stesso articolo. Quello che rende
+riconoscibile La musica del Santo non sono i fatti (li trovano tutti) ma **lo sguardo**: cosa si
+sceglie, da dove si parte, che cosa se ne pensa.
+
+1. **Una tesi per pezzo.** Prima di scrivere si fissa un'idea forte in una frase
+   («Buckley è l'uomo che si è scelto l'eredità», «Licensed to Ill è uno scherzo preso sul serio
+   da tutti tranne che dai suoi autori»). Ogni sezione serve a dimostrarla; i fatti che non la
+   servono restano nella scheda. La tesi va scritta in testa alla scheda e nella pull request.
+2. **Mai l'ordine delle fonti.** Vietato ricalcare la struttura di Wikipedia o di un singolo
+   articolo (origini → registrazione → copertina → classifiche → eredità). Si parte da una scena,
+   un dettaglio o una domanda, e si torna indietro solo se serve.
+3. **La voce di Marco.** Dopo la scelta del tema il caporedattore manda a Marco **tre domande
+   brevi**: un ricordo (quando e come ha incontrato quell'artista o quel disco), un'opinione
+   (cosa ne pensa davvero, anche controcorrente), un collegamento (un altro disco, un concerto,
+   un momento a cui lo lega). Le risposte sono il materiale della parte in prima persona: si usano
+   fedelmente, sistemando solo la forma. **Mai inventare ricordi, gusti o esperienze di Marco**:
+   se non risponde, il giudizio resta del blog («secondo noi»), senza prima persona biografica.
+4. **Parole nostre, sempre.** Si scrive con la scheda chiusa sul tavolo, non con la fonte aperta
+   accanto. Nessuna sequenza di **6 o più parole consecutive** uguale a una fonte, e niente frasi
+   tradotte alla lettera da fonti in inglese (contano come copia). Fanno eccezione nomi, titoli
+   e citazioni brevi tra «caporali» attribuite a chi le ha dette. Il revisore lo controlla con
+   `redazione/strumenti/anticopia.py` (vedi §5 del workflow).
+5. **Un dettaglio che altrove non c'è.** Ogni pezzo deve avere almeno un elemento che un altro
+   sito difficilmente avrebbe: la chicca italiana, il collegamento con altri pezzi del blog, il
+   confronto con un altro artista, la voce di Marco.
 
 ## Formattazione
 
@@ -153,6 +190,11 @@ La pubblicazione è descritta nel §6 del workflow; la storia Instagram la caric
 
 ## Controllo finale
 
+- [ ] C'è una tesi in una frase, e ogni sezione la serve?
+- [ ] L'ordine del pezzo è diverso da quello della voce Wikipedia e delle fonti principali?
+- [ ] Le parti in prima persona vengono dalle risposte di Marco (o non parlano di lui)?
+- [ ] `anticopia.py` non trova sequenze di 6 parole uguali alle fonti (salvo nomi e citazioni)?
+- [ ] Al massimo una formula ricorrente, nessuna etichetta fissa nei titoli delle sezioni?
 - [ ] La data e il numero sono nell'attacco, in grassetto?
 - [ ] Almeno 3 aneddoti o curiosità, ognuno con la sua fonte nella scheda?
 - [ ] Cercata la chicca italiana?

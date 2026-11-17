@@ -39,6 +39,39 @@ snippet di ricerca non bastano.
 - **Mai lavorare su `main`**. Scrivi solo `redazione/schede/<slug>.md` sul ramo indicato
   (`claude/<slug>`); commit, push e pull request li fa il caporedattore.
 
+## Dove cercare (oltre Wikipedia)
+
+Wikipedia serve **solo per orientarsi** e per i link ai lettori: non è mai l'unica fonte di un
+fatto e non dà la struttura del pezzo. Ogni scheda ha almeno **tre fonti indipendenti che non
+sono Wikipedia**, tra cui almeno **una primaria** (intervista, sito o etichetta ufficiale,
+documento d'epoca) e almeno **una italiana**. Per gli aneddoti valgono le due fonti indipendenti
+(✅); se ce n'è una sola si dichiara (☑️).
+
+| Tipo | Dove (esempi) | Per cosa |
+|---|---|---|
+| Fonti primarie | sito ufficiale dell'artista, etichetta e comunicati stampa, note di copertina, interviste video sui canali ufficiali, documentari, autobiografie | Date, versioni dei fatti in prima persona, citazioni |
+| Stampa musicale italiana | Rolling Stone Italia, Rockol, OndaRock, Il Fatto Quotidiano, Internazionale, il manifesto, quotidiani locali (Carlino, Telereggio…), Rai Teche | Chicche italiane, concerti in Italia, ricezione da noi |
+| Stampa musicale internazionale | Mojo, Uncut, Louder (Classic Rock, Metal Hammer), The Guardian, NPR Music, Pitchfork, MusicRadar, Far Out, American Songwriter, Albumism, Ultimate Classic Rock, Songfacts | Retroscena, interviste, anniversari |
+| Dati e classifiche | Billboard, Official Charts (UK), Hit Parade Italia, RIAA, MusicBrainz, Discogs, setlist.fm | Date di uscita, posizioni, certificazioni, crediti, scalette e date dei concerti |
+| Archivi d'epoca | Internet Archive (libri e riviste), World Radio History (annate di Billboard, Cash Box, Record World), archivi dei quotidiani | Recensioni e notizie dell'epoca, per capire come fu accolto un disco |
+| Enciclopedie | Britannica, New World Encyclopedia, Treccani | Inquadramento, controllo incrociato |
+
+Come aprirle: prima **WebFetch**; se una pagina non si apre, `curl -sL -A "Mozilla/5.0"`. Diversi
+siti (Rockol, Discogs, AllMusic, Uncut, Far Out, Britannica, RIAA) rispondono 403 a `curl` ma
+spesso si aprono con WebFetch. Se un sito resta bloccato non si cercano copie o archivi per
+aggirarlo: si usa un'altra fonte. Internet Archive si usa per il materiale d'epoca (libri,
+riviste), non per leggere siti bloccati. Mai usare come fonte forum, blog anonimi, social non
+ufficiali o siti di soli testi.
+
+## Per una voce unica
+
+- Organizza la scheda **per temi**, non nell'ordine di una fonte, e riassumi **con parole tue**:
+  il Redattore scriverà dalla scheda, quindi una frase copiata qui finisce nell'articolo.
+- In «Angoli possibili» proponi **2-3 tesi** in una frase ciascuna (un'idea forte da dimostrare,
+  non un argomento), indicando quella che consigli.
+- Cerca almeno un dettaglio che la voce Wikipedia non riporta (intervista, giornale, libro,
+  chicca italiana): è quello che rende il pezzo nostro.
+
 ## Cosa consegni
 
 Il file `redazione/schede/<slug>.md`:

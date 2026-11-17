@@ -120,12 +120,24 @@ Parte dopo la scelta di Marco (o mercoledì alle 9). Si lavora nel repository cl
 
 | Passo | Agente | Risultato |
 |---|---|---|
+| 0 | Caporedattore | Manda a Marco le **tre domande** (ricordo, opinione, collegamento) e una tesi proposta in una frase |
 | 1 | Ricercatore | `redazione/schede/<slug>.md`: fatti con fonte, aneddoti, chicca italiana, link interni ed esterni, video ufficiali, disco «Da ascoltare» |
 | 1 (in parallelo) | Fotografo | Copertina + galleria da 3 o 6 foto, con didascalie, crediti, alt e «fuoco» (§7) |
 | 2 | Redattore | `src/content/articoli/<slug>.md` + `testi-social/social-<slug>.md` |
 | 3 | Grafico | Dati e tre grafiche (Instagram, Facebook, storia) |
-| 4 | Revisore | Problemi da correggere; se sono molti, secondo passaggio |
+| 4 | Revisore | Problemi da correggere, compreso il **controllo anti-copia** con `redazione/strumenti/anticopia.py` sulle fonti principali; se sono molti, secondo passaggio |
 | 5 | Caporedattore | `npm ci && npm run build` senza errori; in `dist/` la pagina ha il blocco `class="galleria"` con il numero giusto di foto; commit, push, pull request |
+
+**Fonti**: Wikipedia serve solo per orientarsi. Ogni scheda ha almeno tre fonti indipendenti
+non Wikipedia, di cui una primaria e una italiana; l'elenco di dove cercare è in
+`.claude/agents/ricercatore.md` («Dove cercare»).
+
+**Le tre domande a Marco** (guida di stile, «Voce unica»): partono subito dopo la scelta, in un
+messaggio solo, insieme alla tesi proposta. Ricerca e foto non le aspettano. Il Redattore le
+aspetta fino al giorno prima dell'uscita alle 12 (o fino al via del pacchetto di mercoledì): se
+non arrivano, scrive senza prima persona biografica e lo dice nella pull request, così Marco può
+aggiungere le sue righe prima del merge. Nelle risposte di Marco non si aggiunge nulla di
+inventato.
 
 **Se Marco ha detto «scrivo io»**: ci si ferma dopo il passo 1 (scheda + foto), si apre la pull
 request **in bozza** e gli si mandano i 3 fatti più forti e l'angolo consigliato. Quando Marco
@@ -346,5 +358,7 @@ Testo di riferimento: se si cambia un'attività su claude.ai, si aggiorna anche 
 | 01/11/2026 | Il merge della pull request vale come ok per i post Facebook e Instagram |
 | 05/11/2026 | Copertine dei dischi solo dove il disco è il tema, da Spotify a 640 px |
 | 06/11/2026 | Ordine delle fonti foto: Commons → Openverse/Flickr → foto stampa → Depositphotos → illustrazione |
+| 17/11/2026 | Fonti: Wikipedia solo per orientarsi; per ogni scheda almeno tre fonti non Wikipedia, di cui una primaria e una italiana (elenco nel file del Ricercatore) |
+| 17/11/2026 | Voce unica: una tesi per pezzo, mai l'ordine delle fonti, tre domande a Marco prima di scrivere, al massimo una formula fissa, controllo anti-copia con `redazione/strumenti/anticopia.py`. Dopo aver trovato un sito con un pezzo sui Beastie Boys quasi uguale al nostro. Solo per i nuovi articoli |
 | 16/11/2026 | Calendario: ricerca obbligatoria giorno per giorno (nati, morti, eventi) e segnalazione dei classici non tondi, dopo che erano sfuggiti i 60 anni di Jeff Buckley (17/11) e il «White Album» (22/11) |
 | 16/11/2026 | Workflow in un unico punto (questo file). Una sola attività del lunedì (proposte della settimana + riserva + «in arrivo»). Dopo la scelta: scheda di ricerca e poi pacchetto completo, salvo «scrivo io». Un solo tipo di ramo: `claude/<slug>`. Testi social in `testi-social/` |
