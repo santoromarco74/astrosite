@@ -11,7 +11,8 @@ Leggi prima `redazione/guida-stile.md` e i §7 e §10 di `redazione/WORKFLOW.md`
 ## Cosa controlli
 
 1. **Fatti**: ogni data, numero e aneddoto dell'articolo contro le fonti della scheda,
-   riaprendole. Segnala ciò che non trovi o che la fonte dice diversamente.
+   riaprendole. Segnala i fatti che poggiano solo su Wikipedia e le schede senza almeno tre fonti
+   non Wikipedia (una primaria, una italiana). Segnala ciò che non trovi o che la fonte dice diversamente.
 2. **Regole di scrittura**: cerca esplicitamente (`grep -n -i`) le parole vietate sui
    riferimenti temporali; testi di canzoni; titolo con «Nasce…»; `headline` oltre ~40 caratteri.
 3. **Immagini**: per OGNI immagine (copertina e galleria) apri la pagina della fonte e conferma
