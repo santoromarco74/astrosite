@@ -31,6 +31,17 @@ il Fotografo). Processo: §5 di `redazione/WORKFLOW.md`.
 Verifica i fatti importanti e tutti gli aneddoti su fonti indipendenti aperte davvero: gli
 snippet di ricerca non bastano.
 
+## Misura e budget
+
+La scheda serve a scrivere **un** articolo da 950-1.600 parole, non a esaurire l'argomento.
+
+- **Al massimo ~10 KB**: 10-12 fatti verificati, 4-5 aneddoti, la chicca italiana, 3-5 link
+  interni, 3-8 link esterni, 1-2 video, il disco. Niente sezioni di contorno (ricezione d'epoca,
+  attualità minore, curiosità di riserva) se non servono a una delle tesi proposte.
+- Scegli prima gli angoli (2-3 tesi), poi verifica a fondo solo i fatti che servono a quelle tesi.
+- **Al massimo 50 chiamate** di strumenti. Se le finisci, consegna e dichiara cosa manca.
+- Le fonti principali (4-5) elencale in fondo con l'URL: il Revisore le userà per l'anti-copia.
+
 ## Regole
 
 - **Non inventare niente.** Ogni fatto ha accanto la sua fonte; senza conferma va in «Non verificato».
