@@ -1,0 +1,35 @@
+{
+  "slug": "achtung-baby-u2-35-anni",
+  "immagini": [
+    {
+      "file": "public/images/articoli/achtung-baby-u2-35-anni/achtung-baby-copertina-album.jpg",
+      "url": "https://i.scdn.co/image/ab67616d0000b273831c51426c89ade9bf275a77",
+      "lato_max": 640
+    },
+    {
+      "file": "public/images/articoli/achtung-baby-u2-35-anni/u2-zoo-tv-tour-foxborough-1992-palco.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/U2_performing_in_Foxborough_on_Zoo_TV_Tour_8-20-1992_(8).jpg?width=1600"
+    },
+    {
+      "file": "public/images/articoli/achtung-baby-u2-35-anni/bono-the-fly-telecamera-zoo-tv-1992.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/U2_performing_in_Foxborough_on_Zoo_TV_Tour_8-20-1992_(18).jpg?width=1600"
+    },
+    {
+      "file": "public/images/articoli/achtung-baby-u2-35-anni/the-edge-bono-zoo-tv-foxborough-1992.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/U2_performing_in_Foxborough_on_Zoo_TV_Tour_8-20-1992_(6).jpg?width=1600"
+    },
+    {
+      "file": "public/images/articoli/achtung-baby-u2-35-anni/trabant-zoo-tv-hard-rock-cafe-dublino.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/U2_Zoo_TV_Tour_Trabant_in_Hard_Rock_Cafe_in_Dublin_(5466177224).jpg?width=1600"
+    },
+    {
+      "file": "public/images/articoli/achtung-baby-u2-35-anni/trabant-zoo-tv-rock-and-roll-hall-of-fame.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Trabant_from_U2's_Zoo_TV_Tour_(4105059524).jpg?width=1600"
+    },
+    {
+      "file": "public/images/articoli/achtung-baby-u2-35-anni/meistersaal-hansa-studios-berlino.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Meistersaal_leer.jpg?width=1600"
+    }
+  ],
+  "grafiche": "scripts/social/dati/achtung-baby-u2-35-anni.json"
+}
