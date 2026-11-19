@@ -5,7 +5,7 @@
 
 declare(strict_types=1);
 define('LMS_COMMENTI', true);
-require __DIR__ . '/lib.php';
+require_once __DIR__ . '/lib.php';
 
 header('X-Robots-Tag: noindex');
 

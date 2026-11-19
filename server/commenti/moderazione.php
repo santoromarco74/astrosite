@@ -4,14 +4,15 @@
 
 declare(strict_types=1);
 define('LMS_COMMENTI', true);
-require __DIR__ . '/lib.php';
+require_once __DIR__ . '/lib.php';
 
 header('X-Robots-Tag: noindex, nofollow');
 header('Cache-Control: no-store');
 header("Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; form-action 'self'; frame-ancestors 'none'");
 
 session_name('lms_moderazione');
-session_set_cookie_params(['lifetime' => 0, 'path' => '/commenti/', 'secure' => true, 'httponly' => true, 'samesite' => 'Strict']);
+ini_set('session.cookie_samesite', 'Strict');
+session_set_cookie_params(0, '/commenti/', '', true, true); // durata, percorso, dominio, secure, httponly
 session_start();
 
 function h(string $s): string { return htmlspecialchars($s, ENT_QUOTES | ENT_SUBSTITUTE, 'UTF-8'); }

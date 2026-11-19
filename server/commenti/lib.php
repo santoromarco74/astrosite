@@ -6,7 +6,7 @@ declare(strict_types=1);
 
 if (!defined('LMS_COMMENTI')) { http_response_code(403); exit; }
 
-const TABELLA = 'lms_commenti';
+const TABELLA = 'lms_commenti';   // se cambia, va cambiato anche nel CREATE TABLE di db()
 const MAX_NOME = 60;
 const MAX_EMAIL = 190;
 const MAX_TESTO = 3000;
@@ -34,7 +34,7 @@ function config(): array {
     if (!is_file($file)) {
         rispondi(['errore' => 'Commenti non ancora configurati.'], 503);
     }
-    $c = require $file;
+    $c = require_once $file;
     foreach (CHIAVI_CONFIG as $k) {
         if (!isset($c[$k]) || $c[$k] === '') rispondi(['errore' => "Configurazione incompleta: manca $k."], 503);
     }
@@ -52,12 +52,12 @@ function db(): PDO {
         [PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION, PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC, PDO::ATTR_EMULATE_PREPARES => false]
     );
     // la tabella si crea da sola al primo utilizzo
-    $pdo->exec('CREATE TABLE IF NOT EXISTS ' . TABELLA . " (
+    $pdo->exec("CREATE TABLE IF NOT EXISTS lms_commenti (
         id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
         articolo VARCHAR(200) NOT NULL,
         parent_id INT UNSIGNED NULL,
-        nome VARCHAR(" . MAX_NOME . ") NOT NULL,
-        email VARCHAR(" . MAX_EMAIL . ") NOT NULL,
+        nome VARCHAR(60) NOT NULL,
+        email VARCHAR(190) NOT NULL,
         testo TEXT NOT NULL,
         stato VARCHAR(12) NOT NULL DEFAULT 'attesa',
         ip_hash CHAR(64) NOT NULL DEFAULT '',
