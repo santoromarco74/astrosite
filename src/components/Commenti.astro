@@ -1,0 +1,154 @@
+---
+// Commenti in fondo agli articoli. I dati stanno sul server (cartella /commenti/, PHP + MySQL):
+// qui c'è solo l'interfaccia. Ogni commento resta in attesa finché Marco non lo approva.
+interface Props { slug: string; }
+const { slug } = Astro.props;
+---
+<section class="commenti" id="commenti" data-articolo={slug} aria-labelledby="commenti-titolo">
+  <h2 class="sezione-titolo" id="commenti-titolo">Voci dalla platea <span class="commenti-conta" aria-live="polite"></span></h2>
+  <div class="commenti-lista" aria-live="polite"><p class="commenti-stato">Carico i commenti…</p></div>
+
+  <form class="commenti-modulo" novalidate hidden>
+    <p class="commenti-risposta" hidden>
+      Rispondi a <strong></strong> <button type="button" class="commenti-annulla">annulla</button>
+    </p>
+    <div class="commenti-campi">
+      <label>Nome <input name="nome" maxlength="60" autocomplete="name" required /></label>
+      <label><span>Email <small>(non sarà pubblicata)</small></span><input name="email" type="email" maxlength="190" autocomplete="email" required /></label>
+    </div>
+    <label>Commento <textarea name="testo" rows="5" maxlength="3000" required></textarea></label>
+    <label class="commenti-trappola" aria-hidden="true">Sito <input name="sito" tabindex="-1" autocomplete="off" /></label>
+    <label class="commenti-privacy"><input type="checkbox" name="privacy" required />
+      <span>Ho letto la <a href="/privacy-policy/">privacy policy</a> e acconsento al trattamento di nome ed email per gestire il commento.</span></label>
+    <p class="commenti-nota">I commenti vengono letti e approvati prima di comparire.</p>
+    <button type="submit">Invia il commento</button>
+    <p class="commenti-esito" role="status"></p>
+  </form>
+</section>
+
+<script>
+  type Commento = { id: number; risposta_a: number | null; nome: string; testo: string; data: string };
+  const API = '/commenti/api.php';
+  const MAX_LIVELLO = 3;
+
+  const box = document.querySelector<HTMLElement>('.commenti');
+  if (box) avvia(box);
+
+  async function avvia(box: HTMLElement) {
+    const slug = box.dataset.articolo!;
+    const lista = box.querySelector<HTMLElement>('.commenti-lista')!;
+    const conta = box.querySelector<HTMLElement>('.commenti-conta')!;
+    const modulo = box.querySelector<HTMLFormElement>('.commenti-modulo')!;
+    const esito = modulo.querySelector<HTMLElement>('.commenti-esito')!;
+    const rispBox = modulo.querySelector<HTMLElement>('.commenti-risposta')!;
+    let gettone = '';
+    let rispostaA: number | null = null;
+
+    let dati: { commenti: Commento[]; gettone: string };
+    try {
+      const r = await fetch(`${API}?articolo=${encodeURIComponent(slug)}`, { headers: { Accept: 'application/json' } });
+      if (!r.ok) throw new Error(String(r.status));
+      dati = await r.json();
+    } catch {
+      lista.innerHTML = '';
+      lista.append(para('I commenti non sono disponibili in questo momento.', 'commenti-stato'));
+      return;
+    }
+    gettone = dati.gettone;
+    disegna(dati.commenti);
+    modulo.hidden = false;
+
+    function para(t: string, cls: string) { const p = document.createElement('p'); p.className = cls; p.textContent = t; return p; }
+
+    function disegna(commenti: Commento[]) {
+      lista.innerHTML = '';
+      conta.textContent = commenti.length ? `(${commenti.length})` : '';
+      if (!commenti.length) { lista.append(para('Ancora nessun commento: rompete il ghiaccio.', 'commenti-stato')); return; }
+      const figli = new Map<number | null, Commento[]>();
+      const ids = new Set(commenti.map((c) => c.id));
+      for (const c of commenti) {
+        const k = c.risposta_a !== null && ids.has(c.risposta_a) ? c.risposta_a : null;
+        if (!figli.has(k)) figli.set(k, []);
+        figli.get(k)!.push(c);
+      }
+      const ramo = (padre: number | null, livello: number): HTMLOListElement | null => {
+        const voci = figli.get(padre);
+        if (!voci) return null;
+        const ol = document.createElement('ol');
+        ol.className = livello === 1 ? 'commenti-albero' : 'commenti-risposte';
+        for (const c of voci) {
+          const li = document.createElement('li');
+          li.id = `commento-${c.id}`;
+          const art = document.createElement('article');
+          art.className = 'commento';
+          const testa = document.createElement('p');
+          testa.className = 'commento-testa';
+          const chi = document.createElement('strong'); chi.textContent = c.nome;
+          const quando = document.createElement('time'); quando.dateTime = c.data;
+          quando.textContent = new Date(c.data).toLocaleDateString('it-IT', { day: 'numeric', month: 'long', year: 'numeric' });
+          testa.append(chi, ' · ', quando);
+          const corpo = document.createElement('div'); corpo.className = 'commento-testo';
+          for (const blocco of c.testo.split(/\n{2,}/)) {
+            const p = document.createElement('p');
+            blocco.split('\n').forEach((riga, i) => { if (i) p.append(document.createElement('br')); p.append(riga); });
+            corpo.append(p);
+          }
+          art.append(testa, corpo);
+          if (livello < MAX_LIVELLO) {
+            const b = document.createElement('button');
+            b.type = 'button'; b.className = 'commento-rispondi'; b.textContent = 'Rispondi';
+            b.addEventListener('click', () => rispondi(c));
+            art.append(b);
+          }
+          li.append(art);
+          const sotto = ramo(c.id, livello + 1);
+          if (sotto) li.append(sotto);
+          ol.append(li);
+        }
+        return ol;
+      };
+      const albero = ramo(null, 1);
+      if (albero) lista.append(albero);
+    }
+
+    function rispondi(c: Commento | null) {
+      rispostaA = c ? c.id : null;
+      rispBox.hidden = !c;
+      if (c) {
+        rispBox.querySelector('strong')!.textContent = c.nome;
+        modulo.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        modulo.querySelector<HTMLTextAreaElement>('textarea')!.focus({ preventScroll: true });
+      }
+    }
+    rispBox.querySelector('button')!.addEventListener('click', () => rispondi(null));
+
+    modulo.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      esito.textContent = ''; esito.className = 'commenti-esito';
+      if (!modulo.checkValidity()) { esito.textContent = 'Compila nome, email, commento e spunta il consenso.'; esito.classList.add('errore'); return; }
+      const f = new FormData(modulo);
+      const invio = modulo.querySelector<HTMLButtonElement>('button[type=submit]')!;
+      invio.disabled = true;
+      try {
+        const r = await fetch(API, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
+          body: JSON.stringify({
+            articolo: slug, gettone, risposta_a: rispostaA,
+            nome: f.get('nome'), email: f.get('email'), testo: f.get('testo'),
+            sito: f.get('sito'), privacy: f.get('privacy') === 'on',
+          }),
+        });
+        const j = await r.json().catch(() => ({}));
+        if (!r.ok || !j.ok) throw new Error(j.errore || 'Invio non riuscito, riprova più tardi.');
+        modulo.reset(); rispondi(null);
+        esito.textContent = j.messaggio || 'Grazie! Il commento comparirà dopo l’approvazione.';
+        esito.classList.add('ok');
+      } catch (err) {
+        esito.textContent = (err as Error).message; esito.classList.add('errore');
+      } finally {
+        invio.disabled = false;
+      }
+    });
+  }
+</script>

@@ -9,6 +9,7 @@ Sito statico di lamusicadelsanto.it, migrato da WordPress (32 articoli, 2 pagine
 - `src/styles/global.css` — tema "Biglietti" chiaro: ogni articolo è un biglietto (titoli Big Shoulders Display, testo Literata, titoletti Archivo, dettagli Courier Prime, colori da carta stampata d’epoca: terracotta, salvia, carta da zucchero, senape)
 - `keystatic.config.ts` — editor visuale
 - `_wp/migrate.py` — script di migrazione (riutilizzabile)
+- `server/commenti/` — commenti in PHP + MySQL sul server (unico PHP del sito): vedi `server/commenti/LEGGIMI.md`
 
 ## Comandi
 ```

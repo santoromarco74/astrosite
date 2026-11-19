@@ -298,3 +298,40 @@ a.zoom { display: block; cursor: zoom-in; }
   .visore figure { padding: 60px 8px 16px; }
   .visore-prec, .visore-succ { top: auto; bottom: 10px; transform: none; }
 }
+
+/* Commenti in fondo agli articoli (componente Commenti.astro) */
+.commenti { max-width: var(--testo); margin-top: 20px; }
+.commenti .sezione-titolo { justify-content: flex-start; gap: 10px; }
+.commenti-conta { font-family: var(--f-testo); font-size: 18px; font-weight: 400; }
+.commenti-stato { font-family: var(--f-lettura); color: var(--grigio-testo); }
+.commenti-albero, .commenti-risposte { list-style: none; margin: 0; padding: 0; }
+.commenti-risposte { margin: 12px 0 0 clamp(14px, 4vw, 34px); padding-left: clamp(10px, 2vw, 18px); border-left: 2px dashed var(--tratteggio); }
+.commenti-albero > li + li { margin-top: 18px; }
+.commenti-risposte > li + li { margin-top: 12px; }
+.commento { background: var(--bianco); border: 1.5px dashed var(--nero); border-radius: 8px; padding: 14px 18px; }
+.commento-testa { margin: 0 0 6px; font-size: 15px; color: var(--grigio-testo); }
+.commento-testa strong { color: var(--nero); }
+.commento-testo { font-family: var(--f-lettura); font-size: 17px; line-height: 1.55; overflow-wrap: anywhere; }
+.commento-testo p { margin: 0 0 8px; }
+.commento-testo p:last-child { margin-bottom: 0; }
+.commento-rispondi, .commenti-annulla { font: 700 14px var(--f-testo); background: none; border: 0; padding: 6px 0 0; color: var(--mattone); cursor: pointer; text-decoration: underline; }
+.commenti-modulo { margin-top: 30px; padding-top: 22px; border-top: 3px dashed var(--nero); display: grid; gap: 14px; }
+.commenti-modulo label { display: grid; gap: 4px; font-size: 15px; font-weight: 700; }
+.commenti-modulo label small { font-size: 14px; font-weight: 400; color: var(--grigio-testo); }
+.commenti-campi { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+.commenti-modulo input:not([type=checkbox]), .commenti-modulo textarea { font: 17px/1.4 var(--f-lettura); color: var(--nero); background: var(--bianco); border: 2px solid var(--nero); border-radius: 4px; padding: 10px 12px; width: 100%; box-sizing: border-box; }
+.commenti-modulo textarea { resize: vertical; min-height: 120px; }
+.commenti-modulo input:focus-visible, .commenti-modulo textarea:focus-visible { outline: 3px solid var(--senape); outline-offset: 1px; }
+.commenti-modulo .commenti-privacy { display: flex; align-items: flex-start; gap: 10px; font-weight: 400; }
+.commenti-privacy input { width: 20px; height: 20px; margin: 2px 0 0; flex: 0 0 auto; accent-color: var(--nero); }
+.commenti-privacy a { color: var(--mattone); }
+.commenti-trappola { position: absolute !important; left: -9999px; width: 1px; height: 1px; overflow: hidden; }
+.commenti-nota, .commenti-risposta { margin: 0; font-size: 14px; color: var(--grigio-testo); }
+.commenti-modulo button[type=submit] { justify-self: start; font: 700 16px var(--f-testo); text-transform: uppercase; background: var(--nero); color: var(--carta); border: 2px solid var(--nero); border-radius: 4px; padding: 12px 20px; cursor: pointer; min-height: 44px; }
+.commenti-modulo button[type=submit]:hover { background: var(--mattone); border-color: var(--mattone); }
+.commenti-modulo button[disabled] { opacity: .6; cursor: wait; }
+.commenti-esito { margin: 0; font-size: 15px; }
+.commenti-esito.ok { background: var(--salvia); padding: 10px 14px; border-radius: 6px; }
+.commenti-esito.errore { color: var(--mattone); font-weight: 700; }
+@media (max-width: 560px) { .commenti-campi { grid-template-columns: 1fr; } }
+.commenti [hidden] { display: none !important; }

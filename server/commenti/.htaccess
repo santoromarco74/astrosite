@@ -1,0 +1,11 @@
+# Cartella dei commenti: l'unico posto del sito dove gira PHP.
+# Il .htaccess principale blocca tutto il PHP; qui si riaprono SOLO i due file pubblici.
+Options -Indexes
+DirectoryIndex disabled
+
+<FilesMatch ".*">
+    Require all denied
+</FilesMatch>
+<FilesMatch "^(api|moderazione)\.php$">
+    Require all granted
+</FilesMatch>

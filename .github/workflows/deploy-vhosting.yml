@@ -11,7 +11,11 @@
 #   FTP_DIR       cartella del sito vista da quell'utente (es. /  oppure /lamusicadelsanto.it)
 #
 # ATTENZIONE: il caricamento è a specchio. Tutto ciò che sta nella cartella del sito
-# e non fa parte del sito Astro viene CANCELLATO (tranne .well-known, cgi-bin, clone e live).
+# e non fa parte del sito Astro viene CANCELLATO (tranne .well-known, cgi-bin, clone, live e commenti).
+#
+# Commenti: la cartella server/commenti/ (PHP) va in /commenti/ sul server con un caricamento
+# a parte, SENZA cancellazioni, così il config.php caricato a mano resta dov'è.
+# È l'unico PHP del sito: il controllo qui sotto continua a bloccare qualsiasi PHP dentro dist.
 
 name: Pubblica su VHosting
 
@@ -52,6 +56,11 @@ jobs:
             echo "Trovato un file PHP in dist: pubblicazione bloccata"; find dist -iname '*.php*'; exit 1
           fi
 
+      - name: Controlla il PHP dei commenti
+        run: |
+          for f in server/commenti/*.php; do php -l "$f"; done
+          if [ -e server/commenti/config.php ]; then echo "config.php non deve stare nel repository"; exit 1; fi
+
       - name: Installa lftp
         run: sudo apt-get update -qq && sudo apt-get install -y -qq lftp
 
@@ -76,5 +85,11 @@ jobs:
               --exclude-glob cgi-bin/ \
               --exclude-glob clone/ \
               --exclude-glob live/ \
+              --exclude-glob commenti/ \
               dist/ $FTP_DIR;
+            mirror --reverse --verbose \
+              --exclude-glob config.php \
+              --exclude-glob config.example.php \
+              --exclude-glob LEGGIMI.md \
+              server/commenti/ $FTP_DIR/commenti;
             bye"

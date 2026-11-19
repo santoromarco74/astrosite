@@ -1,0 +1,145 @@
+<?php
+// Funzioni comuni del sistema di commenti. Non si apre dal browser (bloccato da .htaccess).
+// Compatibile con PHP 7.4 e successivi.
+
+declare(strict_types=1);
+
+if (!defined('LMS_COMMENTI')) { http_response_code(403); exit; }
+
+const TABELLA = 'lms_commenti';   // se cambia, va cambiato anche nel CREATE TABLE di db()
+const MAX_NOME = 60;
+const MAX_EMAIL = 190;
+const MAX_TESTO = 3000;
+const MAX_PROFONDITA = 3;         // commento -> risposta -> risposta alla risposta
+const TEMPO_MINIMO = 4;           // secondi: un umano non compila il modulo più in fretta
+const TEMPO_MASSIMO = 6 * 3600;   // il modulo scade dopo 6 ore
+const LIMITE_INVII = 3;           // al massimo 3 commenti...
+const FINESTRA_INVII = 600;       // ...ogni 10 minuti dallo stesso indirizzo
+
+// Nomi delle voci obbligatorie di config.php (solo i nomi: i valori stanno sul server)
+const CHIAVI_CONFIG = [
+    'db_host',
+    'db_nome',
+    'db_utente',
+    'db_password',
+    'segreto',
+    'password_moderazione',
+    'email_avvisi',
+];
+
+function config(): array {
+    static $c = null;
+    if ($c !== null) return $c;
+    $file = __DIR__ . '/config.php';
+    if (!is_file($file)) {
+        rispondi(['errore' => 'Commenti non ancora configurati.'], 503);
+    }
+    $c = require_once $file;
+    foreach (CHIAVI_CONFIG as $k) {
+        if (!isset($c[$k]) || $c[$k] === '') rispondi(['errore' => "Configurazione incompleta: manca $k."], 503);
+    }
+    if (strlen($c['segreto']) < 32) rispondi(['errore' => 'Configurazione: il segreto deve avere almeno 32 caratteri.'], 503);
+    return $c;
+}
+
+function db(): PDO {
+    static $pdo = null;
+    if ($pdo !== null) return $pdo;
+    $c = config();
+    $pdo = new PDO(
+        'mysql:host=' . $c['db_host'] . ';dbname=' . $c['db_nome'] . ';charset=utf8mb4',
+        $c['db_utente'], $c['db_password'],
+        [PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION, PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC, PDO::ATTR_EMULATE_PREPARES => false]
+    );
+    // la tabella si crea da sola al primo utilizzo
+    $pdo->exec("CREATE TABLE IF NOT EXISTS lms_commenti (
+        id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+        articolo VARCHAR(200) NOT NULL,
+        parent_id INT UNSIGNED NULL,
+        nome VARCHAR(60) NOT NULL,
+        email VARCHAR(190) NOT NULL,
+        testo TEXT NOT NULL,
+        stato VARCHAR(12) NOT NULL DEFAULT 'attesa',
+        ip_hash CHAR(64) NOT NULL DEFAULT '',
+        creato DATETIME NOT NULL,
+        approvato DATETIME NULL,
+        KEY idx_articolo (articolo, stato),
+        KEY idx_ip (ip_hash, creato)
+    ) DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci");
+    return $pdo;
+}
+
+function rispondi(array $dati, int $codice = 200): void {
+    http_response_code($codice);
+    header('Content-Type: application/json; charset=utf-8');
+    header('Cache-Control: no-store');
+    echo json_encode($dati, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES);
+    exit;
+}
+
+function firma(string $dato): string {
+    return hash_hmac('sha256', $dato, config()['segreto']);
+}
+
+// L'indirizzo IP non viene salvato: solo un'impronta, usata per il limite di invii
+// e cancellata quando il commento viene approvato.
+function impronta_ip(): string {
+    return firma('ip|' . ($_SERVER['REMOTE_ADDR'] ?? ''));
+}
+
+function slug_valido(string $s): bool {
+    return (bool) preg_match('/^[a-z0-9]+(?:-[a-z0-9]+)*$/', $s) && strlen($s) <= 200;
+}
+
+// Esiste davvero l'articolo? Il sito statico sta nella cartella sopra a questa.
+function articolo_esiste(string $slug): bool {
+    return slug_valido($slug) && is_file(dirname(__DIR__) . '/' . $slug . '/index.html');
+}
+
+function lunghezza(string $s): int {
+    return function_exists('mb_strlen') ? mb_strlen($s, 'UTF-8') : strlen($s);
+}
+
+// Toglie caratteri di controllo (tranne a capo) e spazi in eccesso.
+function pulisci(string $s, bool $multiriga = false): string {
+    $s = str_replace(["\r\n", "\r"], "\n", $s);
+    $s = preg_replace($multiriga ? '/[^\P{C}\n]/u' : '/\p{C}/u', '', $s) ?? '';
+    if ($multiriga) $s = preg_replace("/\n{3,}/", "\n\n", $s) ?? '';
+    else $s = preg_replace('/\s+/u', ' ', $s) ?? '';
+    return trim($s);
+}
+
+function profondita(int $id): int {
+    $p = 0;
+    $st = db()->prepare('SELECT parent_id FROM ' . TABELLA . ' WHERE id = ?');
+    while ($id && $p <= MAX_PROFONDITA + 1) {
+        $st->execute([$id]);
+        $r = $st->fetch();
+        if (!$r) break;
+        $p++;
+        $id = (int) ($r['parent_id'] ?? 0);
+    }
+    return $p;
+}
+
+// Cancella un commento e tutte le risposte che dipendono da lui.
+function elimina_con_risposte(int $id): int {
+    $da_fare = [$id];
+    $tutti = [];
+    $st = db()->prepare('SELECT id FROM ' . TABELLA . ' WHERE parent_id = ?');
+    while ($da_fare) {
+        $x = array_pop($da_fare);
+        $tutti[] = $x;
+        $st->execute([$x]);
+        foreach ($st->fetchAll() as $r) $da_fare[] = (int) $r['id'];
+    }
+    $segnaposto = implode(',', array_fill(0, count($tutti), '?'));
+    $del = db()->prepare('DELETE FROM ' . TABELLA . " WHERE id IN ($segnaposto)");
+    $del->execute($tutti);
+    return $del->rowCount();
+}
+
+function url_sito(): string {
+    $c = config();
+    return rtrim($c['url_sito'] ?? 'https://lamusicadelsanto.it', '/');
+}
