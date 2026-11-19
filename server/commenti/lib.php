@@ -223,7 +223,9 @@ function smtp_invia(array $c, string $da, string $a, string $messaggio): void {
         $scrivi('EHLO ' . $nome, 250);
         if ($sicurezza === 'tls') {
             $scrivi('STARTTLS', 220);
-            if (!stream_socket_enable_crypto($s, true, STREAM_CRYPTO_METHOD_TLS_CLIENT)) {
+            // solo TLS 1.2 o 1.3: le versioni più vecchie non sono più sicure
+            $metodo = STREAM_CRYPTO_METHOD_TLSv1_2_CLIENT | (defined('STREAM_CRYPTO_METHOD_TLSv1_3_CLIENT') ? STREAM_CRYPTO_METHOD_TLSv1_3_CLIENT : 0);
+            if (!stream_socket_enable_crypto($s, true, $metodo)) {
                 throw new RuntimeException('STARTTLS non riuscito');
             }
             $scrivi('EHLO ' . $nome, 250);
