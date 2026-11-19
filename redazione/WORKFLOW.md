@@ -51,7 +51,15 @@ Se due documenti si contraddicono, vale questo file; poi si corregge l'altro.
 Il caporedattore avvia ogni agente con lo strumento Agent. Se il tipo di agente con quel nome
 non è disponibile nella sessione, avvia un agente generico con l'istruzione: «Leggi
 `.claude/agents/<nome>.md`, `redazione/WORKFLOW.md` e `redazione/guida-stile.md` nel repository
-e segui quel ruolo», aggiungendo tema, slug, ramo e data.
+e segui quel ruolo», aggiungendo tema, slug, ramo e data. In quel caso il modello indicato nel
+campo `model` del file dell'agente (oggi `sonnet` per Calendario, Fotografo e Grafico) va passato
+a mano con il parametro `model` dello strumento Agent.
+
+**Budget** (decisione di Marco, 18/11/2026): ogni agente ha un tetto di chiamate scritto nel suo
+file (Calendario 40, Ricercatore 50, Fotografo 30, Revisore 35). Il caporedattore lo ricorda
+nell'istruzione di avvio e non rilancia un agente per rifare un lavoro già fatto: se manca qualcosa,
+chiede solo quello. La prima consegna del 18/11/2026 (*Achtung Baby*) era costata circa 870.000
+token di soli agenti e quasi un'ora: l'obiettivo è stare sotto la metà.
 
 ### Attività programmate (su claude.ai)
 
@@ -91,7 +99,9 @@ Agente: **Calendario** (`.claude/agents/calendario.md`).
 2. Cerca candidati per la **settimana in corso** (da lunedì a domenica): anniversari tondi e
    attualità (uscite degli ultimi 7-10 giorni o della settimana, ristampe, tour in Italia,
    film e documentari musicali, premi, morti recenti). La ricerca è **giorno per giorno**: per
-   ognuno dei sette giorni si leggono nati, morti ed eventi (non solo gli anni tondi attesi).
+   ognuno dei sette giorni si leggono nati, morti ed eventi (non solo gli anni tondi attesi),
+   con lo script `redazione/strumenti/giorni.py`, che scarica e filtra le pagine di Wikipedia in
+   un solo file.
    I grandi classici con anniversario non tondo si segnalano comunque a parte.
 3. Sceglie le **tre proposte migliori** (almeno una di attualità, se valida), una **riserva
    Imperdibili** e una sezione **«In arrivo»** con 2-4 date forti delle tre settimane
@@ -155,10 +165,18 @@ Le **immagini** non passano dal connettore: il Fotografo scrive il manifest
 `scripts/immagini/<slug>.json` con gli indirizzi delle foto e l'azione GitHub «Immagini e grafiche
 (rami claude)» le scarica, le prepara, genera le tre grafiche social e fa il commit sullo stesso
 ramo. Dopo qualche minuto si legge l'esito in `scripts/immagini/<slug>.esito.md` (istruzioni in
-`scripts/immagini/LEGGIMI.md`). Ordine: ramo → articolo, scheda, testi social, JSON delle
-grafiche e manifest → attesa dell'esito → revisore → pull request. Se anche il connettore non
+`scripts/immagini/LEGGIMI.md`). Ordine: revisore sul clone locale → correzioni → ramo →
+articolo, scheda, testi social, JSON delle grafiche e manifest in un'unica scrittura → attesa
+dell'esito → pull request. Se anche il connettore non
 funziona, si torna alla patch da mandare a Marco. La build di prova (`npm run build`) si fa nel
 clone locale della sessione prima di scrivere sul ramo.
+
+Il connettore vuole **il file intero** a ogni scrittura: riscrivere una scheda lunga o l'articolo
+più volte costa molti token. Per questo la scheda resta corta (~10 KB, vedi il Ricercatore), si
+scrive sul ramo **una volta sola**, a lavoro finito e dopo il revisore, e le correzioni chieste
+da Marco si raccolgono in un'unica scrittura. Se l'attività programmata ha santoromarco74/astrosite tra i
+repository autorizzati, `git push` funziona e il connettore serve solo di riserva: è la strada da
+preferire.
 
 **Cosa entra nel ramo**: articolo, immagini, scheda, testi social, dati e file delle grafiche.
 Niente patch, zip o cartelle di lavoro. `redazione/` e `testi-social/` non finiscono sul sito
@@ -383,5 +401,6 @@ Testo di riferimento: se si cambia un'attività su claude.ai, si aggiorna anche 
 | 17/11/2026 | Scrittura sui rami con il connettore GitHub (testo) e immagini/grafiche preparate dall'azione «Immagini e grafiche (rami claude)» a partire dal manifest `scripts/immagini/<slug>.json` |
 | 17/11/2026 | Fonti: Wikipedia solo per orientarsi; per ogni scheda almeno tre fonti non Wikipedia, di cui una primaria e una italiana (elenco nel file del Ricercatore) |
 | 17/11/2026 | Voce unica: una tesi per pezzo, mai l'ordine delle fonti, tre domande a Marco prima di scrivere, al massimo una formula fissa, controllo anti-copia con `redazione/strumenti/anticopia.py`. Dopo aver trovato un sito con un pezzo sui Beastie Boys quasi uguale al nostro. Solo per i nuovi articoli |
+| 18/11/2026 | Redazione più snella: tetto di chiamate per agente, scheda al massimo ~10 KB, revisore che riapre le fonti solo per i 6 fatti chiave, modello `sonnet` per Calendario, Fotografo e Grafico, script `giorni.py` per gli elenchi del Calendario, una sola scrittura sul ramo a lavoro finito |
 | 16/11/2026 | Calendario: ricerca obbligatoria giorno per giorno (nati, morti, eventi) e segnalazione dei classici non tondi, dopo che erano sfuggiti i 60 anni di Jeff Buckley (17/11) e il «White Album» (22/11) |
 | 16/11/2026 | Workflow in un unico punto (questo file). Una sola attività del lunedì (proposte della settimana + riserva + «in arrivo»). Dopo la scelta: scheda di ricerca e poi pacchetto completo, salvo «scrivo io». Un solo tipo di ramo: `claude/<slug>`. Testi social in `testi-social/` |

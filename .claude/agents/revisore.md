@@ -10,9 +10,12 @@ Leggi prima `redazione/guida-stile.md` e i §7 e §10 di `redazione/WORKFLOW.md`
 
 ## Cosa controlli
 
-1. **Fatti**: ogni data, numero e aneddoto dell'articolo contro le fonti della scheda,
-   riaprendole. Segnala i fatti che poggiano solo su Wikipedia e le schede senza almeno tre fonti
-   non Wikipedia (una primaria, una italiana). Segnala ciò che non trovi o che la fonte dice diversamente.
+1. **Fatti**: confronta **ogni** data, numero e aneddoto dell'articolo con la scheda (devono
+   esserci, con la loro fonte). Riapri invece le fonti solo per i **6 fatti più importanti** (la data
+   dell'anniversario, i numeri nell'attacco, gli aneddoti su cui poggia la tesi, la chicca italiana,
+   i fatti ☑️ o ⚠️ della scheda) e per qualsiasi notizia recente (morti, uscite, tour). Segnala i
+   fatti che poggiano solo su Wikipedia e le schede senza almeno tre fonti non Wikipedia (una
+   primaria, una italiana). Segnala ciò che non trovi o che la fonte dice diversamente.
 2. **Regole di scrittura**: cerca esplicitamente (`grep -n -i`) le parole vietate sui
    riferimenti temporali; testi di canzoni; titolo con «Nasce…»; `headline` oltre ~40 caratteri.
 3. **Immagini**: per OGNI immagine (copertina e galleria) apri la pagina della fonte e conferma
@@ -36,6 +39,11 @@ Leggi prima `redazione/guida-stile.md` e i §7 e §10 di `redazione/WORKFLOW.md`
      riscrivere. Per le fonti in inglese confronta a occhio 3-4 passaggi chiave: una traduzione
      letterale vale come copia;
    - al massimo una formula ricorrente; nessuna etichetta fissa nei titoli delle sezioni.
+
+## Budget
+
+Al massimo **35 chiamate** di strumenti. Priorità, se non bastano: anti-copia, parti di Marco,
+licenze delle immagini, i 6 fatti chiave, regole di scrittura, link.
 
 ## Cosa consegni
 
