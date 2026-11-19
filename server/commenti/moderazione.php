@@ -54,6 +54,12 @@ if ($dentro && $post) {
         header('Location: moderazione.php', true, 303);
         exit;
     }
+    if ($azione === 'prova_email') {
+        $errore = invia_email(config()['email_avvisi'], 'Prova email dai commenti', "Se leggi questa email, gli avvisi dei commenti funzionano.\n");
+        $messaggio = $errore === ''
+            ? 'Email di prova inviata a ' . config()['email_avvisi'] . ': controlla la casella (e lo spam).'
+            : 'Email di prova NON inviata: ' . $errore;
+    }
     if ($azione === 'approva' && $id) {
         $st = db()->prepare('UPDATE ' . TABELLA . " SET stato = 'approvato', approvato = ?, ip_hash = '' WHERE id = ? AND stato = 'attesa'");
         $st->execute([date('Y-m-d H:i:s'), $id]);
@@ -137,6 +143,10 @@ if ($dentro && $post) {
       </form>
     </div>
   <?php endforeach; ?>
+
+  <h2>Avvisi via email</h2>
+  <p>Gli avvisi vanno a <strong><?= h(config()['email_avvisi']) ?></strong><?= empty(config()['smtp_host']) ? ' con la funzione mail() del server.' : ' via SMTP (' . h(config()['smtp_host']) . ').' ?></p>
+  <form method="post"><input type="hidden" name="csrf" value="<?= h(csrf()) ?>"><button name="azione" value="prova_email">Invia un'email di prova</button></form>
 <?php endif; ?>
 </main></body>
 </html>

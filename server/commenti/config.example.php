@@ -19,8 +19,18 @@ return [
 
     // Dove arriva l'avviso di ogni nuovo commento da approvare
     'email_avvisi'   => 'tuo@indirizzo.it',
-    // Mittente degli avvisi: meglio un indirizzo del dominio, così non finiscono in spam
+    // Mittente degli avvisi: deve essere una casella che ESISTE sul dominio
+    // (con SMTP, la stessa casella di smtp_utente)
     'email_mittente' => 'noreply@lamusicadelsanto.it',
 
     'url_sito' => 'https://lamusicadelsanto.it',
+
+    // FACOLTATIVO ma consigliato: invio degli avvisi via SMTP con una casella vera del dominio.
+    // Senza queste righe si usa mail() del server, che su molti hosting non consegna nulla.
+    // I dati sono quelli che metteresti in un programma di posta (pannello VHosting > Email).
+    // 'smtp_host'      => 'mail.lamusicadelsanto.it',
+    // 'smtp_porta'     => 465,
+    // 'smtp_sicurezza' => 'ssl',            // ssl (porta 465) oppure tls (porta 587)
+    // 'smtp_utente'    => 'noreply@lamusicadelsanto.it',
+    // 'smtp_password'  => 'PASSWORD_DELLA_CASELLA',
 ];
