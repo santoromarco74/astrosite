@@ -2,3 +2,6 @@ node_modules/
 dist/
 .astro/
 .DS_Store
+
+# Credenziali dei commenti: si caricano a mano sul server, mai nel repository
+server/commenti/config.php

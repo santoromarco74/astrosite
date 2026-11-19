@@ -5,6 +5,7 @@ import Foto from '../components/Foto.astro';
 import { cdn } from '../lib/img.mjs';
 import Pezzo from '../components/Pezzo.astro';
 import Lightbox from '../components/Lightbox.astro';
+import Commenti from '../components/Commenti.astro';
 import categorie from '../data/categorie.json';
 import { getArticoli, SITE, dataPunti, nomeCategoria, nomeTag, minutiLettura, titoloBreve, type Articolo } from '../lib/site';
 
@@ -107,6 +108,7 @@ const catDesc = kind === 'categoria' ? (categorie as any)[props.cat]?.descriptio
         )}
       </div>
     </article>
+    <Commenti slug={a.id} />
     <Lightbox />
     {correlati.length > 0 && <>
       <h2 class="sezione-titolo">Anche in cartellone</h2>
