@@ -143,3 +143,105 @@ function url_sito(): string {
     $c = config();
     return rtrim($c['url_sito'] ?? 'https://lamusicadelsanto.it', '/');
 }
+
+// ---------------------------------------------------------------------------
+// Email. Se in config.php c'è smtp_host, l'avviso parte via SMTP autenticato con una casella
+// vera del dominio (il metodo più affidabile). Altrimenti usa mail() del PHP.
+// Ritorna '' se l'invio è andato, altrimenti il motivo dell'errore (che finisce anche nel log PHP).
+
+function invia_email(string $a, string $oggetto, string $testo): string {
+    $c = config();
+    $mittente = $c['email_mittente'] ?? 'noreply@lamusicadelsanto.it';
+    $dominio = substr((string) strrchr($mittente, '@'), 1) ?: 'lamusicadelsanto.it';
+    $intestazioni = [
+        'Date: ' . date('r'),
+        'From: La musica del Santo <' . $mittente . '>',
+        'Message-ID: <' . bin2hex(random_bytes(12)) . '@' . $dominio . '>',
+        'MIME-Version: 1.0',
+        'Content-Type: text/plain; charset=UTF-8',
+        'Content-Transfer-Encoding: base64',
+    ];
+    $oggetto = '=?UTF-8?B?' . base64_encode($oggetto) . '?=';
+    $corpo = rtrim(chunk_split(base64_encode($testo), 76, "\r\n"));
+
+    if (!empty($c['smtp_host'])) {
+        try {
+            smtp_invia($c, $mittente, $a, implode("\r\n", array_merge($intestazioni, ['To: <' . $a . '>', 'Subject: ' . $oggetto])) . "\r\n\r\n" . $corpo);
+            return '';
+        } catch (Throwable $e) {
+            $errore = 'SMTP: ' . $e->getMessage();
+            error_log('commenti: ' . $errore);
+            return $errore;
+        }
+    }
+
+    if (!function_exists('mail')) {
+        error_log('commenti: la funzione mail() è disattivata su questo hosting');
+        return 'la funzione mail() è disattivata su questo hosting: configura smtp_host';
+    }
+    // -f imposta il mittente "di busta": molti hosting condivisi scartano le email senza
+    $ok = mail($a, $oggetto, $corpo, implode("\r\n", $intestazioni), '-f' . $mittente);
+    if (!$ok) {
+        error_log('commenti: mail() ha rifiutato l\'invio a ' . $a);
+        return 'il server ha rifiutato l\'invio con mail(): configura smtp_host';
+    }
+    return '';
+}
+
+function smtp_invia(array $c, string $da, string $a, string $messaggio): void {
+    $sicurezza = strtolower((string) ($c['smtp_sicurezza'] ?? 'ssl'));   // ssl (porta 465) | tls (587) | nessuna
+    $porta = (int) ($c['smtp_porta'] ?? ($sicurezza === 'ssl' ? 465 : 587));
+    $host = ($sicurezza === 'ssl' ? 'ssl://' : 'tcp://') . $c['smtp_host'] . ':' . $porta;
+    $s = @stream_socket_client($host, $errno, $errstr, 15);
+    if (!$s) {
+        throw new RuntimeException("connessione a {$c['smtp_host']}:$porta non riuscita ($errstr)");
+    }
+    stream_set_timeout($s, 15);
+    $leggi = function (int $atteso) use ($s): string {
+        $risposta = '';
+        while (($riga = fgets($s, 1024)) !== false) {
+            $risposta .= $riga;
+            if (strlen($riga) < 4 || $riga[3] !== '-') {
+                break;
+            }
+        }
+        if ($risposta === '') {
+            throw new RuntimeException('nessuna risposta dal server di posta (tempo scaduto)');
+        }
+        if ((int) substr($risposta, 0, 3) !== $atteso) {
+            throw new RuntimeException('risposta inattesa del server: ' . trim($risposta));
+        }
+        return $risposta;
+    };
+    $scrivi = function (string $comando, int $atteso) use ($s, $leggi): string {
+        fwrite($s, $comando . "\r\n");
+        return $leggi($atteso);
+    };
+    try {
+        $leggi(220);
+        $nome = gethostname() ?: 'lamusicadelsanto.it';
+        $scrivi('EHLO ' . $nome, 250);
+        if ($sicurezza === 'tls') {
+            $scrivi('STARTTLS', 220);
+            // solo TLS 1.2 o 1.3: le versioni più vecchie non sono più sicure
+            $metodo = STREAM_CRYPTO_METHOD_TLSv1_2_CLIENT | (defined('STREAM_CRYPTO_METHOD_TLSv1_3_CLIENT') ? STREAM_CRYPTO_METHOD_TLSv1_3_CLIENT : 0);
+            if (!stream_socket_enable_crypto($s, true, $metodo)) {
+                throw new RuntimeException('STARTTLS non riuscito');
+            }
+            $scrivi('EHLO ' . $nome, 250);
+        }
+        if (!empty($c['smtp_utente'])) {
+            $scrivi('AUTH LOGIN', 334);
+            $scrivi(base64_encode((string) $c['smtp_utente']), 334);
+            $scrivi(base64_encode((string) ($c['smtp_password'] ?? '')), 235);
+        }
+        $scrivi('MAIL FROM:<' . $da . '>', 250);
+        $scrivi('RCPT TO:<' . $a . '>', 250);
+        $scrivi('DATA', 354);
+        // le righe che iniziano con un punto vanno raddoppiate (regola del protocollo SMTP)
+        $scrivi(preg_replace('/^\./m', '..', $messaggio) . "\r\n.", 250);
+        $scrivi('QUIT', 221);
+    } finally {
+        fclose($s);
+    }
+}

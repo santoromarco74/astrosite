@@ -93,13 +93,9 @@ function nuovo(): void {
 }
 
 function avvisa_marco(string $slug, string $nome, string $email, string $testo): void {
-    $c = config();
-    if (!function_exists('mail')) return;
-    $oggetto = '=?UTF-8?B?' . base64_encode('Nuovo commento da approvare: ' . $slug) . '?=';
     $corpo = "Nuovo commento in attesa su " . url_sito() . "/$slug/\n\n"
         . "Nome: $nome\nEmail: $email\n\n$testo\n\n"
         . "Approva o elimina: " . url_sito() . "/commenti/moderazione.php\n";
-    $mittente = $c['email_mittente'] ?? 'noreply@lamusicadelsanto.it';
-    $intestazioni = "From: La musica del Santo <$mittente>\r\nContent-Type: text/plain; charset=UTF-8\r\nContent-Transfer-Encoding: 8bit";
-    @mail($c['email_avvisi'], $oggetto, $corpo, $intestazioni);
+    // se l'email non parte il commento resta comunque salvato: l'errore va solo nel log
+    invia_email(config()['email_avvisi'], 'Nuovo commento da approvare: ' . $slug, $corpo);
 }

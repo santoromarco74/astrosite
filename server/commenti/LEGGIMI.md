@@ -40,8 +40,12 @@ L'interfaccia sul sito è `src/components/Commenti.astro`, in fondo a ogni artic
   (l'errore preciso finisce nel log degli errori PHP del pannello VHosting).
 - *`api.php` risponde 403*: il server non ha riaperto il PHP nella cartella; controlla che
   `/commenti/.htaccess` sia stato caricato.
-- *Non arrivano le email*: verifica che `email_mittente` sia una casella del dominio
-  lamusicadelsanto.it; i commenti si vedono comunque nella pagina di moderazione.
+- *Non arrivano le email*: in fondo alla pagina di moderazione c'è **«Invia un'email di prova»**,
+  che mostra l'errore preciso. La soluzione più affidabile è l'invio via SMTP: crea una casella
+  vera (es. `noreply@lamusicadelsanto.it`) dal pannello VHosting e aggiungi a `config.php` le righe
+  `smtp_*` di `config.example.php`, usando gli stessi dati di un programma di posta. Senza SMTP si
+  usa `mail()` del server, che su molti hosting non consegna o finisce in spam. Se l'email non
+  parte il commento viene comunque salvato e si vede nella pagina di moderazione.
 - In sviluppo (`npm run dev`) non c'è PHP: la sezione mostra solo il messaggio di non disponibilità.
 
 ## Privacy policy
