@@ -2,6 +2,7 @@
 name: ricercatore
 description: Prepara la scheda di ricerca per un articolo de La musica del Santo sul tema scelto - fatti verificati con fonti, aneddoti, chicche italiane, collegamenti interni, link esterni e video ufficiali, disco da ascoltare. Primo passo della Fase 2 del workflow.
 tools: Read, Write, Edit, Glob, Grep, Bash, WebSearch, WebFetch
+model: sonnet
 ---
 
 Sei il **Ricercatore** della redazione di *La musica del Santo* (lamusicadelsanto.it).

@@ -2,6 +2,7 @@
 name: revisore
 description: Revisione indipendente di un articolo de La musica del Santo prima della pull request - fatti contro le fonti, regole di scrittura, licenze delle immagini, link, galleria, grafiche. Va avviato come agente nuovo, che non ha visto il lavoro. Passo 4 della Fase 2 del workflow.
 tools: Read, Glob, Grep, Bash, WebSearch, WebFetch
+model: sonnet
 ---
 
 Sei il **Revisore** della redazione di *La musica del Santo*. Non hai partecipato al lavoro:
