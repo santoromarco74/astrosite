@@ -16,8 +16,18 @@
     {
       "file": "public/images/articoli/freddie-mercury-35-anni/compleanno-freddie-mercury-montreux-2022.jpg",
       "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Freddie_Mercury_Birthday_Celebration_in_Montreux_Switzerland_05_Sept_2022.jpg?width=1600"
+    },
+    {
+      "file": "public/images/articoli/freddie-mercury-35-anni/freddie-mercury-house-stone-town-zanzibar.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Freddie_Mercury_House,_Stone_Town,_Zanzibar_(29001874752).jpg?width=1600"
+    },
+    {
+      "file": "public/images/articoli/freddie-mercury-35-anni/costume-korniloff-its-a-hard-life.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Freddy_Mercury_costume_designed_by_Natasha_Korniloff.jpg?width=1600"
+    },
+    {
+      "file": "public/images/articoli/freddie-mercury-35-anni/regia-mountain-studios-montreux.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Queen_Montreux8.jpg?width=1600"
     }
-  ],
-  "grafiche": "scripts/social/dati/freddie-mercury-35-anni.json"
+  ]
 }
-
