@@ -76,4 +76,14 @@ jobs:
           git add public/images/articoli public/social scripts/immagini/*.esito.md 2>/dev/null || true
           if git diff --cached --quiet; then echo "Niente da salvare"; exit 0; fi
           git commit -m "Immagini e grafiche preparate dall'azione automatica"
-          git push origin "HEAD:${GITHUB_REF#refs/heads/}"
+                    # Se nel frattempo qualcuno ha scritto sul ramo, il push viene rifiutato:
+          # si riallinea il ramo e si riprova.
+          RAMO="${GITHUB_REF#refs/heads/}"
+          for tentativo in 1 2 3; do
+            if git push origin "HEAD:$RAMO"; then exit 0; fi
+            echo "Push rifiutato (tentativo $tentativo): riallineo il ramo e riprovo"
+            sleep 5
+            git pull --rebase origin "$RAMO"
+          done
+          echo "::error::Push non riuscito dopo 3 tentativi"
+          exit 1
