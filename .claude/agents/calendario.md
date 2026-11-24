@@ -43,6 +43,8 @@ di quel giorno, per tutti gli anni, non solo per quelli tondi che ti aspetti.
    eventi, «Nati il…», «Morti il…»; inglese: la pagina del giorno), tiene solo le righe di musica e
    calcola gli anni (★ = anniversario tondo):
    `python3 redazione/strumenti/giorni.py <lunedì AAAA-MM-GG> <domenica AAAA-MM-GG> > /tmp/giorni.md`
+   Lo script scarica in parallelo e si ferma da solo entro 100 secondi: **non rilanciarlo**, anche se
+   qualche pagina resta non letta.
    Poi leggi `/tmp/giorni.md`: **non** riaprire a mano le pagine di Wikipedia già lette dallo script.
    Per le pagine in fondo al file sotto «NON LETTE» usa un'altra fonte per quel giorno (siti
    «accadde oggi nella musica», «this day in music», elenchi di compleanni di musicisti).
