@@ -1,0 +1,22 @@
+{
+  "slug": "freddie-mercury-35-anni",
+  "immagini": [
+    {
+      "file": "public/images/articoli/freddie-mercury-35-anni/freddie-mercury-new-haven-1977.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Freddie_Mercury_performing_in_New_Haven,_CT,_November_1977.jpg?width=1600"
+    },
+    {
+      "file": "public/images/articoli/freddie-mercury-35-anni/statua-freddie-mercury-montreux.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Freddie_Mercury_statue_in_Montreux.JPG?width=1600"
+    },
+    {
+      "file": "public/images/articoli/freddie-mercury-35-anni/garden-lodge-casa-freddie-mercury-londra.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Garden_Lodge-Mercurys_house.jpg?width=1600"
+    },
+    {
+      "file": "public/images/articoli/freddie-mercury-35-anni/compleanno-freddie-mercury-montreux-2022.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Freddie_Mercury_Birthday_Celebration_in_Montreux_Switzerland_05_Sept_2022.jpg?width=1600"
+    }
+  ],
+  "grafiche": "scripts/social/dati/freddie-mercury-35-anni.json"
+}
