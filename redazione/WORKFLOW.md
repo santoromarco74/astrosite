@@ -52,7 +52,7 @@ Il caporedattore avvia ogni agente con lo strumento Agent. Se il tipo di agente 
 non è disponibile nella sessione, avvia un agente generico con l'istruzione: «Leggi
 `.claude/agents/<nome>.md`, `redazione/WORKFLOW.md` e `redazione/guida-stile.md` nel repository
 e segui quel ruolo», aggiungendo tema, slug, ramo e data. In quel caso il modello indicato nel
-campo `model` del file dell'agente (oggi `sonnet` per Calendario, Fotografo e Grafico) va passato
+campo `model` del file dell'agente (oggi `sonnet` per Calendario, Ricercatore, Fotografo, Grafico e Revisore; il Redattore usa il modello predefinito) va passato
 a mano con il parametro `model` dello strumento Agent.
 
 **Budget** (decisione di Marco, 18/11/2026): ogni agente ha un tetto di chiamate scritto nel suo
@@ -401,6 +401,7 @@ Testo di riferimento: se si cambia un'attività su claude.ai, si aggiorna anche 
 | 17/11/2026 | Scrittura sui rami con il connettore GitHub (testo) e immagini/grafiche preparate dall'azione «Immagini e grafiche (rami claude)» a partire dal manifest `scripts/immagini/<slug>.json` |
 | 17/11/2026 | Fonti: Wikipedia solo per orientarsi; per ogni scheda almeno tre fonti non Wikipedia, di cui una primaria e una italiana (elenco nel file del Ricercatore) |
 | 17/11/2026 | Voce unica: una tesi per pezzo, mai l'ordine delle fonti, tre domande a Marco prima di scrivere, al massimo una formula fissa, controllo anti-copia con `redazione/strumenti/anticopia.py`. Dopo aver trovato un sito con un pezzo sui Beastie Boys quasi uguale al nostro. Solo per i nuovi articoli |
+| 24/11/2026 | Per abbassare i costi (la consegna di *Freddie Mercury* è costata circa 785.000 token di agenti): modello `sonnet` anche per Ricercatore e Revisore; `giorni.py` scarica in parallelo e si ferma entro 100 secondi, così il Calendario lo lancia una volta sola |
 | 18/11/2026 | Redazione più snella: tetto di chiamate per agente, scheda al massimo ~10 KB, revisore che riapre le fonti solo per i 6 fatti chiave, modello `sonnet` per Calendario, Fotografo e Grafico, script `giorni.py` per gli elenchi del Calendario, una sola scrittura sul ramo a lavoro finito |
 | 16/11/2026 | Calendario: ricerca obbligatoria giorno per giorno (nati, morti, eventi) e segnalazione dei classici non tondi, dopo che erano sfuggiti i 60 anni di Jeff Buckley (17/11) e il «White Album» (22/11) |
 | 16/11/2026 | Workflow in un unico punto (questo file). Una sola attività del lunedì (proposte della settimana + riserva + «in arrivo»). Dopo la scelta: scheda di ricerca e poi pacchetto completo, salvo «scrivo io». Un solo tipo di ramo: `claude/<slug>`. Testi social in `testi-social/` |
