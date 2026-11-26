@@ -15,9 +15,9 @@ tags:
 - power-station
 - simon-le-bon
 - sanremo
-cover: /images/articoli/michael-giles-andy-taylor/duran-duran-new-york-2005.jpg
-coverAlt: 'I Duran Duran sul palco di New York, sotto le luci di scena.'
-coverCredit: 'I Duran Duran dal vivo a New York il 13 aprile 2005, negli anni della reunion con Andy Taylor. Foto di Tendai via Wikimedia Commons (CC BY-SA 2.0)'
+cover: /images/articoli/michael-giles-andy-taylor/andy-taylor-chitarra.jpg
+coverAlt: 'Andy Taylor sul palco con una chitarra elettrica bianca, giacca scura e occhiali da sole, davanti al microfono.'
+coverCredit: 'Andy Taylor sul palco. Foto di Tracey Taylor (via Variety)'
 ascolto:
 - titolo: 'In the Court of the Crimson King (1969)'
   nota: 'L’unico album dei King Crimson con Michael Giles in pianta stabile: la sua batteria tiene insieme un disco che passa dalla delicatezza alla furia.'
@@ -81,6 +81,10 @@ I King Crimson sono senza dubbio un gruppo fondamentale del prog. I Duran Duran 
 Non c’è niente di più lontano di questi due mondi: quello che li lega, in questo novembre 2026, è la scomparsa di due componenti importanti dei rispettivi gruppi.
 
 È proprio da quella distanza che conviene ripartire. Le ragazzine impazzivano per quei ragazzi patinati, ma sotto la patina c’era una chitarra che graffiava; il prog della corte cremisi chiedeva ascolto attento, e quell’ascolto aveva bisogno di un batterista capace di suonare piano. Giles e Taylor hanno fatto la stessa cosa in due lingue diverse: hanno dato carattere a un suono, e quando sono usciti dalla band quel suono era già inciso nei solchi.
+
+![Michael Giles seduto alla batteria in uno studio di registrazione, tra microfoni e piatti, con una custodia con la scritta KC sullo sfondo; foto in bianco e nero.](/images/articoli/michael-giles-andy-taylor/michael-giles-batteria-king-crimson.jpg "Michael Giles alla batteria in studio, con la custodia dei King Crimson sullo sfondo. Foto d'archivio (via OndaMusicale)")
+![Ritratto in bianco e nero di quattro giovani musicisti degli anni Sessanta in posa su sfondo scuro.](/images/articoli/michael-giles-andy-taylor/king-crimson-origini.jpg "I King Crimson delle origini, con Michael Giles. Foto d'archivio (via Shindig! Magazine)")
+![Quattro uomini in giacca di pelle in posa, foto in bianco e nero.](/images/articoli/michael-giles-andy-taylor/power-station-1985.jpg "The Power Station nel 1985: Robert Palmer, Andy Taylor, John Taylor e Tony Thompson. Foto promozionale Capitol Records via Wikimedia Commons (pubblico dominio)")
 
 ## Dalla corte del Re Cremisi alla Power Station
 
