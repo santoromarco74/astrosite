@@ -19,9 +19,12 @@ cover: /images/articoli/michael-giles-andy-taylor/duran-duran-new-york-2005.jpg
 coverAlt: 'I Duran Duran sul palco di New York, sotto le luci di scena.'
 coverCredit: 'I Duran Duran dal vivo a New York il 13 aprile 2005, negli anni della reunion con Andy Taylor. Foto di Tendai via Wikimedia Commons (CC BY-SA 2.0)'
 ascolto:
-  titolo: 'In the Court of the Crimson King (1969)'
+- titolo: 'In the Court of the Crimson King (1969)'
   nota: 'L’unico album dei King Crimson con Michael Giles in pianta stabile: la sua batteria tiene insieme un disco che passa dalla delicatezza alla furia.'
   link: 'https://open.spotify.com/album/1Lzi2p6CUH156zbJTcOjNX'
+- titolo: 'Rio (1982)'
+  nota: 'Il disco che Andy Taylor avrebbe voluto risuonare dall’inizio alla fine: sotto i sintetizzatori, la sua chitarra tiene il ritmo e graffia.'
+  link: 'https://open.spotify.com/album/0vndiSM8xxlb8CQFOMMO9h'
 draft: false
 ---
 
@@ -31,7 +34,7 @@ Su carta non c’è niente che li tenga insieme. Da una parte la corte del Re Cr
 
 ## Un disco solo, e poi la porta
 
-Prendete Giles. Con i [**King Crimson**](/king-crimson-in-the-court-of-crimson-king/) ha suonato in pianta stabile su un solo album, e quell’album è ancora il loro biglietto da visita: ***In the Court of the Crimson King***, uscito il **10 ottobre 1969**. In «I Talk to the Wind» copriva piatti e tamburo con gli asciugamani (lo raccontavamo già nel nostro pezzo sul disco): basta un dettaglio così per capire quanto dipendessero da lui sia la delicatezza di quel disco sia la sua furia.
+Prendete Giles. Con i [**King Crimson**](/king-crimson-in-the-court-of-crimson-king/) ha suonato in pianta stabile su un solo album, e quell’album è ancora il loro biglietto da visita: ***In the Court of the Crimson King***, uscito il **10 ottobre 1969**. In «I Talk to the Wind» copriva piatti e tamburo con gli asciugamani (lo raccontavamo già nel [nostro pezzo su *In the Court of the Crimson King*](/king-crimson-in-the-court-of-crimson-king/)): basta un dettaglio così per capire quanto dipendessero da lui sia la delicatezza di quel disco sia la sua furia.
 
 C’era da prima ancora del nome. Con il fratello **Peter** e **Robert Fripp** aveva formato i Giles, Giles and Fripp (**1967-68**), il nucleo da cui sono nati i Crimson, di cui è stato uno dei fondatori. Poi, durante il tour americano, a Los Angeles, il **7 dicembre 1969** lui e **Ian McDonald** decidono di andarsene, e a **gennaio 1970** sono fuori. Nel nostro pezzo sul disco il motivo era il suo malessere per la vita in tour; *Consequence* aggiunge il disagio per un successo arrivato troppo in fretta. Prendetela come una ricostruzione, non come una verità scolpita.
 
@@ -71,7 +74,7 @@ Per Giles, invece, l’Italia non ci regala aneddoti, e non ne inventeremo. L’
 
 ## Due mondi agli antipodi
 
-I King Crimson li ho scoperti qualche anno fa, ai tempi del nostro articolo su *In the Court of the Crimson King* (**ottobre 2021**), e mi hanno colpito subito per la loro anima prog. I Duran Duran, invece, sono stati una parte della mia adolescenza, con la loro eterna sfida con gli Spandau Ballet.
+I King Crimson li ho scoperti qualche anno fa, ai tempi del [nostro articolo su *In the Court of the Crimson King*](/king-crimson-in-the-court-of-crimson-king/) (**ottobre 2021**), e mi hanno colpito subito per la loro anima prog. I Duran Duran, invece, sono stati una parte della mia adolescenza, con la loro eterna sfida con gli Spandau Ballet.
 
 I King Crimson sono senza dubbio un gruppo fondamentale del prog. I Duran Duran hanno saputo sfruttare la loro immagine di ragazzi belli e patinati, che all’epoca faceva impazzire le ragazzine.
 
@@ -81,8 +84,8 @@ Non c’è niente di più lontano di questi due mondi: quello che li lega, in qu
 
 ## Dalla corte del Re Cremisi alla Power Station
 
-Si parte, per forza, da *In the Court of the Crimson King* (è nel riquadro «Da ascoltare»), con le cuffie e il volume giusto per sentire quanto lavora la batteria nei momenti più quieti. Subito dopo, *McDonald and Giles* (**1970**), il disco dei due che lasciarono i Crimson. Si parla anche di una raccolta d’archivio di Giles, *Shadows/Solo*, uscita nel **2026**: la cita una sola fonte, quindi è un dettaglio da prendere con le molle.
+Si parte, per forza, da *In the Court of the Crimson King* (è il primo dei riquadri «Da ascoltare»), con le cuffie e il volume giusto per sentire quanto lavora la batteria nei momenti più quieti. Subito dopo, *McDonald and Giles* (**1970**), il disco dei due che lasciarono i Crimson. Si parla anche di una raccolta d’archivio di Giles, *Shadows/Solo*, uscita nel **2026**: la cita una sola fonte, quindi è un dettaglio da prendere con le molle.
 
-Sul versante Duran Duran, tre tappe con la chitarra di Andy in primo piano: *Rio*, il disco che lui stesso avrebbe voluto risuonare per intero; l’album dei Power Station (**1985**), dove il lato rock si prende tutto lo spazio; e *Astronaut* (**2004**), quello del ritorno della formazione originale. E se l’eterna sfida vi incuriosisce, gli Spandau Ballet li trovate nella nostra [playlist di San Valentino](/20-canzoni-piu-belle-san-valentino/).
+Sul versante Duran Duran, tre tappe con la chitarra di Andy in primo piano: *Rio* (**1982**, nel secondo riquadro «Da ascoltare»), il disco che lui stesso avrebbe voluto risuonare per intero; l’album dei Power Station (**1985**), dove il lato rock si prende tutto lo spazio; e *Astronaut* (**2004**), quello del ritorno della formazione originale. E se l’eterna sfida vi incuriosisce, gli Spandau Ballet li trovate nella nostra [playlist di San Valentino](/20-canzoni-piu-belle-san-valentino/).
 
 E voi, quale band avete smesso di riconoscere dopo l’uscita di un solo musicista? Secondo voi il suono di un gruppo lo fa chi resta o chi se ne va? Raccontatecelo nei commenti.

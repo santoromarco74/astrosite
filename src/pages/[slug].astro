@@ -50,8 +50,8 @@ const catDesc = kind === 'categoria' ? (categorie as any)[props.cat]?.descriptio
   // numero del biglietto: posizione dell'articolo in ordine di uscita
   const numero = String(tutti.length - tutti.findIndex((x) => x.id === a.id)).padStart(4, '0');
   const parti = headings.filter((h) => h.depth === 2);
-  // «Da ascoltare» compare solo se c'è almeno il titolo del disco
-  const ascolto = d.ascolto?.titolo?.trim() ? d.ascolto : undefined;
+  // «Da ascoltare»: uno o più dischi; compare solo se c'è almeno il titolo
+  const ascolti = (Array.isArray(d.ascolto) ? d.ascolto : d.ascolto ? [d.ascolto] : []).filter((x) => x?.titolo?.trim());
   return (
   <Base title={d.title} description={d.description} image={d.cover} type="article" sezione={cat}>
     <script slot="head" type="application/ld+json" set:html={JSON.stringify(ld)} />
@@ -88,7 +88,7 @@ const catDesc = kind === 'categoria' ? (categorie as any)[props.cat]?.descriptio
           {d.tags.length > 0 && <ul class="tag-lista" aria-label="Tag">{d.tags.map((t) => <li><a href={`/tag/${t}/`}>{nomeTag(t)}</a></li>)}</ul>}
           <p class="firma">— {SITE.author}</p>
         </div>
-        {(parti.length > 1 || ascolto) && (
+        {(parti.length > 1 || ascolti.length > 0) && (
           <div class="laterale">
             {parti.length > 1 && (
               <details class="programma" open>
@@ -96,14 +96,14 @@ const catDesc = kind === 'categoria' ? (categorie as any)[props.cat]?.descriptio
                 <ol>{parti.map((h) => <li><a href={`#${h.slug}`}>{h.text}</a></li>)}</ol>
               </details>
             )}
-            {ascolto && (
+            {ascolti.map((ascolto) => (
               <aside class="ascolto" aria-label="Da ascoltare">
                 <p class="ascolto-occhiello">Da ascoltare</p>
                 <p class="ascolto-titolo">{ascolto.titolo}</p>
                 {ascolto.nota && <p class="ascolto-nota">{ascolto.nota}</p>}
                 {ascolto.link && <a href={ascolto.link} rel="noopener">Ascolta →</a>}
               </aside>
-            )}
+            ))}
           </div>
         )}
       </div>
