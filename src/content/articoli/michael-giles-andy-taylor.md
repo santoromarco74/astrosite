@@ -15,9 +15,9 @@ tags:
 - power-station
 - simon-le-bon
 - sanremo
-cover: /images/articoli/michael-giles-andy-taylor/andy-taylor-chitarra.jpg
-coverAlt: 'Andy Taylor sul palco con una chitarra elettrica bianca, giacca scura e occhiali da sole, davanti al microfono.'
-coverCredit: 'Andy Taylor sul palco. Foto di Tracey Taylor (via Variety)'
+cover: /images/articoli/michael-giles-andy-taylor/giles-taylor-copertina.jpg
+coverAlt: 'Due ritratti in bianco e nero affiancati: a sinistra Michael Giles giovane, capelli lunghi, baffi e maglione scuro; a destra Andy Taylor giovane, capelli chiari spettinati e giacca, sorridente.'
+coverCredit: 'Michael Giles (a sinistra, foto via DGM) e Andy Taylor (a destra, foto via Rolling Stone Italia)'
 ascolto:
 - titolo: 'In the Court of the Crimson King (1969)'
   nota: 'L’unico album dei King Crimson con Michael Giles in pianta stabile: la sua batteria tiene insieme un disco che passa dalla delicatezza alla furia.'

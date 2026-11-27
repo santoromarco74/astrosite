@@ -7,6 +7,7 @@
 // sezione (facoltativo: la sezione stampata sul biglietto, di default "Storie").
 // Esce: public/social/<slug>-ig.jpg (1080x1350), <slug>-fb.png (1200x630) e <slug>-storia.jpg (1080x1920, storia Instagram).
 // Per la storia serve anche occhiello_storia (una frase breve).
+// Facoltativi: foto_storia e fuoco_storia, se la storia (foto orizzontale) vuole un'immagine diversa da Instagram e Facebook.
 // Playwright: quello del progetto se installato, altrimenti quello globale (NODE_PATH).
 const { chromium } = require('playwright');
 const fs = require('node:fs'); const path = require('node:path'); const { pathToFileURL } = require('node:url');
@@ -18,12 +19,17 @@ if (!dati.fascia) dati.fascia = `Accadde il ${dati.data_evento}`;
 // Sezione stampata sul biglietto (facoltativa, di default «Storie»).
 if (!dati.sezione) dati.sezione = 'Storie';
 const esc = (s) => String(s ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/&lt;br&gt;/g, '<br>');
-const riempi = (html) => html.replace(/\{\{(\w+)\}\}/g, (_, k) => k === 'foto' ? pathToFileURL(path.resolve(radice, dati.foto)).href : esc(dati[k]));
+const riempi = (html, nome) => {
+  const storia = nome === 'storia';
+  const foto = (storia && dati.foto_storia) || dati.foto;
+  const fuoco = (storia && dati.fuoco_storia) || dati.fuoco;
+  return html.replace(/\{\{(\w+)\}\}/g, (_, k) => k === 'foto' ? pathToFileURL(path.resolve(radice, foto)).href : k === 'fuoco' ? esc(fuoco) : esc(dati[k]));
+};
 (async () => {
 const browser = await chromium.launch();
 for (const [nome, w, h, out, tipo] of [['ig', 1080, 1350, `${dati.slug}-ig.jpg`, 'jpeg'], ['fb', 1200, 630, `${dati.slug}-fb.png`, 'png'], ['storia', 1080, 1920, `${dati.slug}-storia.jpg`, 'jpeg']]) {
   const tmp = path.join(qui, `.tmp-${nome}.html`);
-  fs.writeFileSync(tmp, riempi(fs.readFileSync(path.join(qui, `${nome}.html`), 'utf8')).replace('<div class="tela">', `<div class="tela" style="--lancetta:${dati.lancetta || '37%'}">`));
+  fs.writeFileSync(tmp, riempi(fs.readFileSync(path.join(qui, `${nome}.html`), 'utf8'), nome).replace('<div class="tela">', `<div class="tela" style="--lancetta:${dati.lancetta || '37%'}">`));
   const p = await browser.newPage({ viewport: { width: w, height: h } });
   await p.goto(pathToFileURL(tmp).href); await p.waitForLoadState('networkidle'); await p.evaluate(() => document.fonts.ready); await p.waitForTimeout(500);
   const fuori = await p.evaluate(() => { const t = document.querySelector('.tela'); return t.scrollHeight > t.clientHeight + 1; });
