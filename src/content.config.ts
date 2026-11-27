@@ -2,6 +2,8 @@ import { defineCollection } from 'astro:content';
 import { glob } from 'astro/loaders';
 import { z } from 'astro/zod';
 
+const disco = z.object({ titolo: z.string().nullish(), nota: z.string().nullish(), link: z.string().nullish() });
+
 const articoli = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/articoli' }),
   schema: z.object({
@@ -15,8 +17,8 @@ const articoli = defineCollection({
     cover: z.string().optional(),
     coverAlt: z.string().optional(),
     coverCredit: z.string().optional(),
-    // «Da ascoltare»: un disco o un brano consigliato, mostrato accanto all'articolo
-    ascolto: z.object({ titolo: z.string().nullish(), nota: z.string().nullish(), link: z.string().nullish() }).nullish(),
+    // «Da ascoltare»: un disco, oppure un elenco di dischi (un riquadro per ciascuno)
+    ascolto: z.union([disco, z.array(disco)]).nullish(),
     draft: z.boolean().default(false),
     wpId: z.number().optional(),
   }),
